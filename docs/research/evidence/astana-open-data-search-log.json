@@ -1,0 +1,210 @@
+{
+  "requestedResultSlots": 112,
+  "returnedResultEntries": 112,
+  "uniqueSearchUrls": 95,
+  "queries": [
+    {
+      "id": "open_city",
+      "requestedNumResults": 10,
+      "returnedCount": 10,
+      "urls": [
+        "https://tribune.kz/v-kazahstane-sozdali-tsifrovoj-dvojnik-stolitsy-v-3d-formate/",
+        "https://geosat.biz/sozdanie-modelej-gorodov-3d/",
+        "https://investinnur-sultan.kz/en/business-and-live/staying-in-the-city/",
+        "https://www.maptiler.com/on-prem-datasets/dataset/osm/asia/kazakhstan/astana/",
+        "https://3d.bk.tudelft.nl/opendata/opencities/",
+        "https://sketchfab.com/3d-models/astana-c295d77ceda2427f9e64f74e08ff4a86",
+        "https://github.com/cityjson/website/blob/master/datasets/index.md",
+        "https://3d.bk.tudelft.nl/opendata/",
+        "https://www.cgtrader.com/3d-models/exterior/landscape/nur-sultan-kazakhstan-city-landscape-3d-model",
+        "https://gis.esaulet.kz/portal/sharing/rest/portals/self?f=pjson"
+      ]
+    },
+    {
+      "id": "osm_pipeline",
+      "requestedNumResults": 10,
+      "returnedCount": 10,
+      "urls": [
+        "https://osm2world.org/blog/2025/09/05/3dmr/",
+        "https://osm2world.org/docs/javadoc/org/osm2world/core/world/modules/BuildingModule.BuildingPart.html",
+        "https://wiki.openstreetmap.org/wiki/Simple_3D_Buildings/Example_Models",
+        "https://wiki.openstreetmap.org/wiki/3D_Model_Repository",
+        "https://wiki.openstreetmap.org/wiki/OSM2World",
+        "https://osm2world.org/docs/library-jvm/",
+        "https://community.openstreetmap.org/t/requesting-osm2world-support-adding-custom-building-roof-and-texture-images/101113",
+        "https://osm2world.org/docs/library-web/",
+        "https://wiki.openstreetmap.org/wiki/3D_development/Tagging",
+        "https://wiki.openstreetmap.org/wiki/3D_development/Comparison_of_3D_renderers%27_features"
+      ]
+    },
+    {
+      "id": "open_city_datasets",
+      "requestedNumResults": 10,
+      "returnedCount": 10,
+      "urls": [
+        "https://docs.overturemaps.org/attribution/",
+        "https://docs.overturemaps.org/guides/buildings/",
+        "https://docs.overturemaps.org/schema/v1.18.0/reference/buildings/building/",
+        "https://www.openbuildingmap.org/",
+        "https://docs.overturemaps.org/blog/2024-04-16-beta.0/",
+        "https://github.com/OvertureMaps/data",
+        "https://docs.overturemaps.org/schema/reference/buildings/building/",
+        "https://gee-community-catalog.org/projects/overture_buildings/",
+        "https://source.coop/tge-labs/openbuildingmap",
+        "https://overturemaps.org/overture-january-2024-release-notes/"
+      ]
+    },
+    {
+      "id": "landmark_models",
+      "requestedNumResults": 10,
+      "returnedCount": 10,
+      "urls": [
+        "https://3dmr.eu/docs",
+        "https://3dmr.eu/map",
+        "https://wiki.openstreetmap.org/wiki/3D_Model_Repository",
+        "https://community.openstreetmap.org/t/relaunching-the-3d-model-repository/135130",
+        "https://maps.yango.com/discovery/dostoprimechatelnosti-astani-v-3d/",
+        "https://demo.f4map.com/",
+        "https://truevirtualtours.com/tour/astana",
+        "https://www.fosterandpartners.com/projects/khan-shatyr-entertainment-center/",
+        "https://www.f4map.com/",
+        "https://3dwarehouse.sketchup.com/model/8716b3c7922d6003e1bd242a8a569655/The-Palace-Of-Peace-and-Concord-Pyramid-Astana-Kazakhstan"
+      ]
+    },
+    {
+      "id": "osm2world_source",
+      "requestedNumResults": 8,
+      "returnedCount": 8,
+      "urls": [
+        "https://github.com/tordanik/OSM2World/pull/44",
+        "https://osm2world.org/docs/javadoc/org/osm2world/core/world/modules/BuildingModule.BuildingPart.Roof.html",
+        "https://osm2world.org/docs/javadoc/org/osm2world/core/world/modules/BuildingModule.BuildingPart.html",
+        "https://osm2world.org/docs/javadoc/org/osm2world/core/world/modules/BuildingModule.BuildingPart.HeightfieldRoof.html",
+        "https://osm2world.org/docs/library-jvm/",
+        "https://wiki.openstreetmap.org/wiki/3D_development/Comparison_of_3D_renderers%27_features",
+        "https://github.com/tordanik/OSM2World/issues/211",
+        "https://github.com/tordanik/OSM2World/blob/36f3a95a3e709faee9c796d9536615557915f45d/src/org/osm2world/core/ConversionFacade.java"
+      ]
+    },
+    {
+      "id": "osmbuildings_source",
+      "requestedNumResults": 8,
+      "returnedCount": 8,
+      "urls": [
+        "https://github.com/OSMBuildings/OSMBuildings/blob/master/LICENSE.md",
+        "https://github.com/OSMBuildings/OSMBuildings/issues/196",
+        "https://osmbuildings.org/blog/2018-02-28_level_of_detail/",
+        "https://github.com/OSMBuildings/OSMBuildings/issues/205",
+        "https://github.com/OSMBuildings/OSMBuildings/blob/master/docs/server.md",
+        "https://osmbuildings.org/copyright/",
+        "https://github.com/OSMBuildings/OSMBuildings/releases",
+        "https://wiki.openstreetmap.org/wiki/Template:Roof:shape"
+      ]
+    },
+    {
+      "id": "f4map_astana",
+      "requestedNumResults": 8,
+      "returnedCount": 8,
+      "urls": [
+        "https://demo.f4map.com/",
+        "https://wiki.f4map.com/render",
+        "https://www.f4map.com/",
+        "https://maps.yango.com/discovery/dostoprimechatelnosti-astani-v-3d/",
+        "https://core.f4map.com/changelog",
+        "https://bellingcat.gitbook.io/toolkit/more/all-tools/f4map",
+        "https://wiki.openstreetmap.org/wiki/3D_development/Comparison_of_3D_renderers%27_features",
+        "https://www.kazakhstantourism.org/astana-architecture/"
+      ]
+    },
+    {
+      "id": "osm_landmark_tags",
+      "requestedNumResults": 8,
+      "returnedCount": 8,
+      "urls": [
+        "https://www.openstreetmap.org/way/230401645",
+        "https://www.smithgill.com/work/kazakhstan_pavilion_science_museum/",
+        "https://www.expo2017astana.com/en/page_id-40.html",
+        "https://qazexpocongress.kz/en/nur-alem/",
+        "https://skyscraperpage.com/b129262/astana/nur-alem-pavilion",
+        "https://en.wikipedia.org/wiki/Baiterek_(monument)",
+        "https://www.chi-athenaeum.org/the-2019-american-architecture-awards/2019/08/20/kazakhstan-pavilion-nur-alem-astana-kazakhstan-2017/",
+        "https://www.kazakhstantourism.org/astana-architecture/"
+      ]
+    },
+    {
+      "id": "terrain_open",
+      "requestedNumResults": 8,
+      "returnedCount": 8,
+      "urls": [
+        "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/DEM/resources/license/License-COPDEM-30.pdf",
+        "https://makewithmaplibre.com/basemaps/styles/aws-terrarium/",
+        "https://openaerialmap.org/legal/",
+        "https://docs.imagery.hotosm.org/dev/ingest/elevation/",
+        "https://registry.opendata.aws/copernicus-dem/",
+        "https://makewithmaplibre.com/basemaps/",
+        "https://aws.amazon.com/marketplace/pp/prodview-7dy7zaqvc3dxw",
+        "https://github.com/awslabs/open-data-registry/blob/main/datasets/copernicus-dem.yaml"
+      ]
+    },
+    {
+      "id": "osm_tiles",
+      "requestedNumResults": 8,
+      "returnedCount": 8,
+      "urls": [
+        "https://osm2world.org/",
+        "https://tiles.osm2world.org/glb/",
+        "https://cesium.com/platform/cesium-ion/content/cesium-osm-buildings/",
+        "https://osm2world.org/download/",
+        "https://osm2world.org/blog/2025/01/21/release-0.4.0/",
+        "https://osm2world.org/docs/library-web/",
+        "https://osm2world.org/docs/library-jvm/",
+        "https://osm2world.org/blog/2024/12/16/ptf-roadmap-2024/"
+      ]
+    },
+    {
+      "id": "open_mesh_astana",
+      "requestedNumResults": 8,
+      "returnedCount": 8,
+      "urls": [
+        "https://www.maptiler.com/on-prem-datasets/dataset/osm/asia/kazakhstan/astana/",
+        "https://sketchfab.com/3d-models/astana-c295d77ceda2427f9e64f74e08ff4a86",
+        "https://data.nextgis.com/en/region/KZ-71/",
+        "https://data.nextgis.com/en/region/KZ-71/base/",
+        "https://github.com/open-data-kazakhstan/geo-boundaries-kz",
+        "https://3d.bk.tudelft.nl/opendata/opencities/",
+        "https://data.maptiler.com/downloads/tileset/osm/asia/kazakhstan/astana/",
+        "https://fttsus.org/worldmesh/download/aster/?country=KAZ"
+      ]
+    },
+    {
+      "id": "3dmr_license",
+      "requestedNumResults": 8,
+      "returnedCount": 8,
+      "urls": [
+        "https://3dmr.eu/model/2",
+        "https://3dmr.eu/model/10",
+        "https://3dmr.eu/model/12/4",
+        "https://3dmr.eu/model/3",
+        "https://3dmr.eu/model/4",
+        "https://3dmr.eu/docs",
+        "https://3dmr.eu/",
+        "https://3dmr.eu/model/6"
+      ]
+    },
+    {
+      "id": "terrain_imagery_license",
+      "requestedNumResults": 8,
+      "returnedCount": 8,
+      "urls": [
+        "https://registry.opendata.aws/terrain-tiles/",
+        "https://github.com/awslabs/open-data-registry/blob/main/datasets/terrain-tiles.yaml",
+        "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/DEM/resources/license/License-COPDEM-30.pdf",
+        "https://registry.opendata.aws/copernicus-dem/",
+        "https://aws.amazon.com/blogs/publicsector/announcing-terrain-tiles-on-aws-a-qa-with-mapzen/",
+        "https://docs.safe.com/fme/2017.1/html/FME_Desktop_Documentation/FME_ReadersWriters/terraintilesaws/terraintilesaws.htm",
+        "https://research.taylorgeospatial.org/mind/assets/terrain-attribution.txt",
+        "https://docs.nwiro.ai/reference/attribution"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "date": "2026-10-19",
+  "workstream": "engine-integration",
+  "schema_failed_calls": 2,
+  "requested_result_slots": 44,
+  "returned_results": 44,
+  "unique_search_urls": 44,
+  "searches": [
+    {
+      "workstream": "engine-integration",
+      "requested": 8,
+      "returned": 8,
+      "results": [
+        {
+          "title": "Tutorial: Add an integrated mesh | CesiumJS | Esri Developer",
+          "url": "https://developers.arcgis.com/cesiumjs/layers/add-an-integrated-mesh/"
+        },
+        {
+          "title": "I3SDataProvider - Cesium Documentation",
+          "url": "https://cesium.com/learn/cesiumjs/ref-doc/I3SDataProvider.html"
+        },
+        {
+          "title": "Drape and style vector data on terrain and 3D Tiles – Cesium",
+          "url": "https://cesium.com/learn/cesiumjs-learn/drape-and-style-vector-data-on-terrain-and-3d-tile/"
+        },
+        {
+          "title": "OGC Indexed 3D Scene Layers (I3S) Community Standard is now supported in CesiumJS",
+          "url": "https://www.esri.com/arcgis-blog/products/developers/3d-gis/ogc-i3s-cesiumjs"
+        },
+        {
+          "title": "skills/cesiumjs-3d-tiles/SKILL.md",
+          "url": "https://github.com/cesiumgs/cesiumjs-skills/blob/main/skills/cesiumjs-3d-tiles/SKILL.md"
+        },
+        {
+          "title": "Apps/Sandcastle/gallery/I3S%20IntegratedMesh%20Layer.html",
+          "url": "https://github.com/CesiumGS/cesium/blob/0becdbfc/Apps/Sandcastle/gallery/I3S%20IntegratedMesh%20Layer.html"
+        },
+        {
+          "title": "Tutorial: Add 3D objects | CesiumJS - Esri Developer",
+          "url": "https://developers.arcgis.com/cesiumjs/layers/add-3d-objects/"
+        },
+        {
+          "title": "I3SDataProvider - Cesium Documentation",
+          "url": "https://cesium.com/downloads/cesiumjs/releases/1.99/Build/Documentation/I3SDataProvider.html"
+        }
+      ],
+      "query": "CesiumJS I3SDataProvider integrated mesh orthometric geoid terrain route clamping production best practices"
+    },
+    {
+      "workstream": "engine-integration",
+      "requested": 8,
+      "returned": 8,
+      "results": [
+        {
+          "title": "Walk around a map in first person - MapLibre GL JS",
+          "url": "https://maplibre.org/maplibre-gl-js/docs/examples/walk-around-a-map-in-first-person/"
+        },
+        {
+          "title": "3D Terrain - MapLibre GL JS",
+          "url": "https://maplibre.org/maplibre-gl-js/docs/examples/3d-terrain/"
+        },
+        {
+          "title": "3D Tileset `getHeight`, and keeping camera above 3D Tiles",
+          "url": "https://github.com/CesiumGS/cesium/pull/11581"
+        },
+        {
+          "title": "Terrain 3D (#1022) · 5afb592 · prozessor13/maplibre-gl-js",
+          "url": "https://github.com/prozessor13/maplibre-gl-js/commit/5afb59206874205180b4c277c21d930c37b4a21e"
+        },
+        {
+          "title": "pick Functions cause camera problem in requestRenderMode · Issue #8826 · CesiumGS/cesium",
+          "url": "https://github.com/CesiumGS/cesium/issues/8826"
+        },
+        {
+          "title": "Best Practices for Hybrid MapLibre/Cesium Architecture: Handling MVT, Terrain, and Complex Styling in Production",
+          "url": "https://community.cesium.com/t/best-practices-for-hybrid-maplibre-cesium-architecture-handling-mvt-terrain-and-complex-styling-in-production/46031"
+        },
+        {
+          "title": "Scene - Cesium Documentation",
+          "url": "https://cesium.com/learn/cesiumjs/ref-doc/Scene.html"
+        },
+        {
+          "title": "src/render/terrain.ts",
+          "url": "https://github.com/maplibre/maplibre-gl-js/blob/e00439bd/src/render/terrain.ts"
+        }
+      ],
+      "query": "CesiumJS MapLibre walking navigation integrated mesh 3D tiles route ground height camera picking terrain performance requestRenderMode"
+    },
+    {
+      "workstream": "engine-integration",
+      "requested": 8,
+      "returned": 8,
+      "results": [
+        {
+          "title": "Configuring Vite or Webpack for CesiumJS – Cesium",
+          "url": "https://cesium.com/blog/2024/02/13/configuring-vite-or-webpack-for-cesiumjs/"
+        },
+        {
+          "title": "@cesium/engine and @cesium/widgets with vite - CesiumJS - Cesium Community",
+          "url": "https://community.cesium.com/t/cesium-engine-and-cesium-widgets-with-vite/34965"
+        },
+        {
+          "title": "Creating a CesiumJS application using a self hosted basemap | KeiMaps - Keimaps",
+          "url": "https://keimaps.com/articles/self-hosted-basemap-cesium"
+        },
+        {
+          "title": "cesium @ 1.146.0 - Libraries",
+          "url": "https://cdnjs.com/libraries/cesium"
+        },
+        {
+          "title": "README.md",
+          "url": "https://github.com/CesiumGS/cesium-vite-example/blob/main/README.md"
+        },
+        {
+          "title": "Cesium vs @cesium/engine",
+          "url": "https://community.cesium.com/t/cesium-vs-cesium-engine/43051/7"
+        },
+        {
+          "title": "Build Tooling Updates Coming to CesiumJS",
+          "url": "https://cesium.com/blog/2022/07/19/build-tooling-updates-coming-to-cesiumjs/"
+        },
+        {
+          "title": "Inline Static Assets in Builds",
+          "url": "https://github.com/CesiumGS/cesium/issues/10619"
+        }
+      ],
+      "query": "CesiumJS Vite self hosted Workers Assets ThirdParty Widgets official build integration Cesium 1.146"
+    },
+    {
+      "workstream": "engine-integration",
+      "requested": 10,
+      "returned": 10,
+      "results": [
+        {
+          "title": "3D-модель центра Астаны | ГК «Геоскан»",
+          "url": "https://www.geoscan.ru/ru/blog/3d-model-centra-astany-0"
+        },
+        {
+          "title": "3D model of Astana’s administrative part presented at intl workshop",
+          "url": "https://qazinform.com/news/3d-model-of-astana-s-administrative-part-presented-at-intl-workshop_a2971913"
+        },
+        {
+          "title": "Создана 3D-модель центра Астаны (ВИДЕО) » Матрица.kz - Информационно-аналитический портал",
+          "url": "https://matritca.kz/old/news/38948-sozdana-3d-model-centra-astany-video.html"
+        },
+        {
+          "title": "Sputnik Web Tutorial",
+          "url": "https://siteview.3di.ee/resources/documents/SputnikWeb_Manual_(en).pdf"
+        },
+        {
+          "title": "Sputnik GIS | Geoscan",
+          "url": "https://www.geoscan.ru/en/software/sputnik/gis"
+        },
+        {
+          "title": "Create 3D Models from Data Captured by Drones with Sputnik Web – Cesium",
+          "url": "https://cesium.com/blog/2018/01/22/sputnik-web/"
+        },
+        {
+          "title": "Sputnik GIS, * user manual",
+          "url": "https://download.geoscan.ru/sputnik/Sputnik_Manual_1.4_en.pdf"
+        },
+        {
+          "title": "Sputnik Web - 3D landscape hosting - Blogs - diydrones",
+          "url": "https://diydrones.com/profiles/blogs/sputnik-web-3d-landscape-hosting"
+        },
+        {
+          "title": "Tutorial: Drone video to georeferenced 3D model for Sputnik GIS and Sputnik Web",
+          "url": "https://www.agisoft.com/forum/index.php?topic=4967.0"
+        },
+        {
+          "title": "Sputnik GIS 1.3 | Geoscan",
+          "url": "https://www.geoscan.ru/en/blog/sputnik-gis-13"
+        }
+      ],
+      "query": "Astana Geoscan 2016 3D model center viewer Sputnik models.geoscan.aero tiles"
+    },
+    {
+      "workstream": "engine-integration",
+      "requested": 10,
+      "returned": 10,
+      "results": [
+        {
+          "title": "Photogrammetry – Cesium",
+          "url": "https://cesium.com/learn/3d-tiling/ion-tile-photogrammetry/"
+        },
+        {
+          "title": "Sandcastle | CesiumJS",
+          "url": "https://sandcastle.cesium.com/index.html?src=3D+Tiles+Interactivity.html"
+        },
+        {
+          "title": "Re:Earth Buildings — open 3D building tiles for the world",
+          "url": "https://buildings.reearth.land/"
+        },
+        {
+          "title": "3D Tiles Viewer",
+          "url": "https://lcc-3dtiles-viewer.xgrids.cloud/?data=https%3A%2F%2Fd1hl53kddblsn9.cloudfront.net%2Fstatic%2Fsample%2Fcesium%2F3dtiles-guanlan%2Ftileset.json"
+        },
+        {
+          "title": "Adding Datasets – Cesium",
+          "url": "https://cesium.com/learn/o3de/o3de-datasets/"
+        },
+        {
+          "title": "Photorealistic 3D Tiles",
+          "url": "https://3d-tiles.web.app/"
+        },
+        {
+          "title": "Drone 3D Tiles Viewer | Cesium Streaming | TSVIDEV",
+          "url": "https://tsvidev.com/solutions/drone-3d-tiles-viewer"
+        },
+        {
+          "title": "OctopusET/mxmxmx2tiles",
+          "url": "https://github.com/OctopusET/mxmxmx2tiles"
+        },
+        {
+          "title": "3dcitydb/3dcitydb-web-map",
+          "url": "https://github.com/3dcitydb/3dcitydb-web-map/"
+        },
+        {
+          "title": "Work with a 3D Tiles renderer | Google Maps Tile API",
+          "url": "https://developers.google.com/maps/documentation/tile/use-renderer"
+        }
+      ],
+      "query": "Astana Cesium 3D tiles photogrammetry mesh tileset.json open city 3D web viewer"
+    }
+  ],
+  "primary_findings": [
+    {
+      "source": "https://github.com/reearth/reearth-buildings",
+      "finding": "New credential-free global 3D Tiles endpoint exists, but generated footprint extrusions and estimated heights fail landmark-fidelity acceptance."
+    },
+    {
+      "source": "https://cesium.com/learn/cesiumjs/ref-doc/I3SDataProvider.html",
+      "finding": "Native I3S supports geoidTiledTerrainProvider to correctly position gravity-based mesh heights; source EGM96 must not be indiscriminately replaced with EGM2008."
+    },
+    {
+      "source": "https://cesium.com/learn/cesiumjs/ref-doc/GroundPolylineGeometry.html",
+      "finding": "GroundPolylineGeometry ignores input heights; route height policy must be explicitly selected and verified."
+    },
+    {
+      "source": "https://github.com/CesiumGS/cesium-vite-example",
+      "finding": "Production Cesium integration requires self-hosted Workers/Assets/Widgets/ThirdParty with defined CESIUM_BASE_URL; named imports and lazy active renderer avoid unnecessary load."
+    }
+  ],
+  "direct_probes": {
+    "reearth_root": {
+      "http_status": 200,
+      "asset_version": "1.1",
+      "attribution_present": true
+    },
+    "geoscan_page": {
+      "direct_httpx_failed": "Local TLS certificate chain could not be verified; Exa primary page fetch succeeded",
+      "viewer_or_download_verified": false
+    }
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "generated_at": "2026-10-20T18:39:34.046Z",
+  "slides": 12,
+  "language": "ru",
+  "target_pitch_seconds": 360,
+  "pitch_spoken_words": 771,
+  "build_directory": ".presentation-build/ru-1792521564980",
+  "editable_pptx": "artifacts/presentation-ru.pptx",
+  "pdf": "artifacts/presentation-ru.pdf",
+  "screenshot_manifest": "artifacts/presentation-assets/ru-screenshots.json",
+  "screenshot_evidence": {
+    "walk": {
+      "path": "artifacts/screenshots/presentation-ru/plan.png",
+      "sha256": "31377290f8c13869cdb4d266a49c0e876aa33d4b185477dd76dabd30873b1486"
+    },
+    "context": {
+      "path": "artifacts/screenshots/presentation-ru/comparison.png",
+      "sha256": "629bb2aa99218ae0ce5fcf474f5de3643887259f396a59f465b7412565949d6c"
+    },
+    "voice": {
+      "path": "artifacts/screenshots/presentation-ru/voice-conversation.png",
+      "sha256": "19537fbe90dcef17551526060527c5ae02c5a99499c48ae694b42679dee86897"
+    },
+    "memory": {
+      "path": "artifacts/screenshots/presentation-ru/memory.png",
+      "sha256": "c00847da8c3c5c4820834ca4f6afcb4150be757da52971a034333d095304bca1"
+    },
+    "navigation": {
+      "path": "artifacts/screenshots/presentation-ru/navigation.png",
+      "sha256": "41f030f73d0598b6371c15285781d18225b22210e3757104d67ac0fe9bedaafe",
+      "crop": {
+        "left": 0,
+        "top": 0.4,
+        "right": 0,
+        "bottom": 0.15
+      }
+    },
+    "airport": {
+      "path": "artifacts/screenshots/presentation-ru/preflight.png",
+      "sha256": "90e4f4f677e3816acafe02cabc6892e043b8ee596ceae08778d01740f4e2fe48"
+    }
+  },
+  "dataset_pois": 6505,
+  "map_visible_pois": 6504,
+  "dataset_sha256": "60c287bccbb1b80f3bfe7acffc44c2f3e2b8b2e5b1952a8143d84d976fdc5967",
+  "backend_full_suite_reported": 624,
+  "conversation_languages": [
+    "en",
+    "ru",
+    "kk",
+    "de",
+    "fr",
+    "es",
+    "zh",
+    "ar",
+    "tr",
+    "hi",
+    "ja",
+    "ko",
+    "uk",
+    "it",
+    "ky",
+    "az"
+  ],
+  "voice_claim_scope": "Sixteen configured provider language presets, read back with a signed session. Not sixteen live conversations or native-speaker pronunciation tests. Planner EN/RU/KK. Kazakh shell localization is partial and some controls fall back to English.",
+  "source_sha256": {
+    "artifacts/presentation-assets/ru-screenshots.json": "4da0807d382547a8654a4120973e625ffb79df34e2108ed17146bc79df81ce4f",
+    "docs/pitch-script-ru.md": "5af6d98662b2ec8de12c2f1c23cbe4ab4ae589738cb6926a329ba4197afd970d",
+    "data/dataset-manifest.json": "a8b94716c6d1a9c27933ac3b2d12cc68668903c2bf67eca7f471af5476e60922",
+    "data/pois.json": "60c287bccbb1b80f3bfe7acffc44c2f3e2b8b2e5b1952a8143d84d976fdc5967",
+    "artifacts/backend-upgrade-verification.json": "bb069e8ced39644c5571f34fa7855f8a5db8c7a35f8e2f4c4d85a87209aa7258",
+    "artifacts/verification.json": "a931d7142db1d6217ea0196cc4ca96a239bba7d19d6fbd856303ec0cf83dd8fe",
+    "artifacts/conversation-rag-evaluation.json": "20d74f390ee0e540186825e138a072e13545c487df1e8d2ded563d2df05de6f4",
+    "data/voice-languages.json": "ccb0111ff80f4f3e8cad90980c0220b2d03701cbebc897a2850ccc2beb9300b5",
+    "artifacts/voice-language-configuration-verification.json": "1c1cceee42476335b6d740e3776ef0be7ad02f0cd179cb312f00bdd194003408",
+    "artifacts/map-catalog-verification.json": "f194fe01b3ff78b46b9d186c5f346975e53c84239273124c53b898d84eca8518",
+    "scripts/build_presentation_ru.mjs": "1032f43df9742cfa64697efcff572b912d273f9eb6c40577372ff7a7ac300f48",
+    "artifacts/presentation-ru.pptx": "c3b32fb324e34ecb49875c7a0f121ad8eaa6d406f9a9be5a83c98a36093dd0da",
+    "artifacts/presentation-ru.pdf": "37f0833b2413ad509e372f44777d7fc51cd7a94c6e52c2224ed4c17a85a5b81a"
+  },
+  "validation": {
+    "finalPath": "/home/lain/Development/gdg-hack-aitu/.presentation-build/ru-1792521564980/output/presentation-ru.pptx",
+    "receiptPath": "/home/lain/Development/gdg-hack-aitu/.presentation-build/ru-1792521564980/validation.json",
+    "schemaVersion": "presentation-finalization.v1",
+    "finalSha256": "c3b32fb324e34ecb49875c7a0f121ad8eaa6d406f9a9be5a83c98a36093dd0da",
+    "byteCount": 7067774,
+    "packageIntegrity": {
+      "chart_count": 0,
+      "claim_boundary": "Structural package checks only; no slide text, notes, formulas, chart values, or native PowerPoint execution were inspected.",
+      "finding_count": 0,
+      "findings": [],
+      "notes_parts_skipped": 12,
+      "relationship_part_count": 34,
+      "slide_count": 12,
+      "status": "pass",
+      "exitCode": 0,
+      "findingCount": 0,
+      "warnings": []
+    },
+    "presentationLayout": {
+      "finding_count": 0,
+      "findings": [],
+      "font_policy": {
+        "checked_text_script_count": 94,
+        "native_font_rendering_verified": false,
+        "observed_font_families": [
+          "Inter"
+        ],
+        "observed_font_use_counts": {
+          "Inter": 94
+        },
+        "passed": true,
+        "performed": true
+      },
+      "slide_count": 12,
+      "slide_size_in": [
+        13.3333,
+        7.5
+      ],
+      "warning_count": 0,
+      "warnings": [],
+      "exitCode": 0,
+      "findingCount": 0,
+      "fontPolicy": {
+        "checked_text_script_count": 94,
+        "native_font_rendering_verified": false,
+        "observed_font_families": [
+          "Inter"
+        ],
+        "observed_font_use_counts": {
+          "Inter": 94
+        },
+        "passed": true,
+        "performed": true
+      }
+    },
+    "fontSelection": {
+      "basis": "design",
+      "approvedFamilies": [
+        "Inter"
+      ],
+      "scriptFonts": {},
+      "referenceSha256": null,
+      "referenceFontsVerifiedInEncodedText": false,
+      "checked_text_script_count": 94,
+      "native_font_rendering_verified": false,
+      "observed_font_families": [
+        "Inter"
+      ],
+      "observed_font_use_counts": {
+        "Inter": 94
+      },
+      "passed": true,
+      "performed": true
+    },
+    "firstPartyImport": {
+      "performed": true,
+      "passed": true,
+      "slideCount": 12,
+      "sha256": "c3b32fb324e34ecb49875c7a0f121ad8eaa6d406f9a9be5a83c98a36093dd0da",
+      "runtimeNodeModules": "/home/lain/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules",
+      "nodeExecutable": "/opt/codex-desktop/resources/node-runtime/bin/node"
+    },
+    "nativeTableArithmetic": {
+      "performed": true,
+      "checked_column_count": 0,
+      "checks": [],
+      "claim_boundary": "Displayed-value arithmetic with rounding tolerance; not source-data verification.",
+      "eligible_table_count": 0,
+      "finding_count": 0,
+      "findings": [],
+      "native_table_count": 0,
+      "passed": true,
+      "schema_version": "presentation-native-table-arithmetic.v1",
+      "skipped_tables": [],
+      "slide_count": 12,
+      "warning_count": 0,
+      "warnings": []
+    },
+    "nativeChartTitles": {
+      "performed": true,
+      "checks": [],
+      "finding_count": 0,
+      "findings": [],
+      "native_chart_count": 0,
+      "native_powerpoint_verified": false,
+      "passed": true,
+      "presentation_sha256": "c3b32fb324e34ecb49875c7a0f121ad8eaa6d406f9a9be5a83c98a36093dd0da",
+      "schema_version": "presentation-native-chart-titles.v1",
+      "slide_count": 12,
+      "source_text_emitted": false,
+      "unresolved_linked_title_count": 0
+    },
+    "sourceDerivedPolicyFlags": [
+      "--expected-slide-size-emu",
+      "12192000,6858000",
+      "--validate-bullet-geometry",
+      "--validate-heading-fit",
+      "--cover-role",
+      "none",
+      "--expected-slide-count",
+      "12",
+      "--approved-font-family",
+      "Inter"
+    ],
+    "nativeChartValidation": {
+      "detectedOwnerSlides": [],
+      "detectedChartCount": 0,
+      "targetApplication": "portable",
+      "sourceChartOwnersExplicitlyDeclared": true,
+      "validatorRan": false,
+      "passed": true
+    }
+  },
+  "requires_visual_review": false,
+  "screenshot_capture_scope": {
+    "walk": {
+      "bundle": "index-CS4gcpEH.js",
+      "captured_date": "2026-10-20"
+    },
+    "context": {
+      "bundle": "index-ByLF8hAF.js",
+      "captured_date": "2026-10-20"
+    },
+    "voice": {
+      "bundle": "index-ByLF8hAF.js",
+      "captured_date": "2026-10-20",
+      "scope": "Current independent language controls only. No new conversation or synthesis."
+    },
+    "memory": {
+      "bundle": "index-ByLF8hAF.js",
+      "captured_date": "2026-10-20"
+    },
+    "navigation": {
+      "bundle": "index-ByLF8hAF.js",
+      "captured_date": "2026-10-20",
+      "scope": "Source screenshot fragment preserving GPX and full first-step controls."
+    },
+    "airport": {
+      "bundle": "index-ByLF8hAF.js",
+      "captured_date": "2026-10-20",
+      "scope": "Actual initial clarification requesting airport transfer minutes with minimum 90-minute reserve."
+    },
+    "unchanged_regions": "The final CS4gcpEH photo-framing change does not affect the five earlier captured regions."
+  },
+  "screenshot_capture_verification": {
+    "path": "artifacts/presentation-assets/ru-capture-verification.json",
+    "sha256": "104e44a548a9ad97ac7ec500bd8f85e236706e33e490e7071f752d99d7a1e200",
+    "all6_match_presentation_inputs": true
+  },
+  "current_account_confirmation": {
+    "path": "artifacts/voice-new-account-verification.json",
+    "sha256": "69a980ca4785621bb8e9b518919deb2c586d77e3630386b568c59d06f2f8b9cc",
+    "sixteen_languages_match_original_claim": true,
+    "signed_private_ru_fr_sessions_and_authenticated_gateway_verified": true,
+    "new_live_conversation_claim": false,
+    "scope": "Additional configuration receipt after user changed credentials. Original authoring input hashes and presentation binaries remain unchanged. Browser conversation, narration and final video have independent reports."
+  },
+  "slide_png_directory": "artifacts/presentation-ru-slides",
+  "slide_png_sha256": {
+    "artifacts/presentation-ru-slides/slide-01.png": "706869c83218b5c8d0cb2eea2add16b49b273b8f470be9a3e3f08189c87893d1",
+    "artifacts/presentation-ru-slides/slide-02.png": "3403ffc52fad4d3461fbd75ea070ddbf12abab4fb8f963ae8bcadfea634a64e6",
+    "artifacts/presentation-ru-slides/slide-03.png": "06f6c5b2af38c74629fdd36609b7bc1c0002e46afc65441f3c27e4e8279b21f9",
+    "artifacts/presentation-ru-slides/slide-04.png": "dbe378982e23a968bb0b2fc2f71cd7e14d21ec5757529a23ac2c68f6cbb2580b",
+    "artifacts/presentation-ru-slides/slide-05.png": "edd9556864f72e6d6bed220e2c3813743c46e2e88f3ee6714c877c62bd45d356",
+    "artifacts/presentation-ru-slides/slide-06.png": "add6468042eb87f44279182ce6acafa85544e3ffd8813d203a90eeb74c92179f",
+    "artifacts/presentation-ru-slides/slide-07.png": "077bb41dd4631996a8cb0664e208d5da1078eea02326c0e19524d8cf2b38a63f",
+    "artifacts/presentation-ru-slides/slide-08.png": "35c187e2add54a47a25eba134551081327d97d8cd31c535fe28ad41de0842b59",
+    "artifacts/presentation-ru-slides/slide-09.png": "2aae1e1c7ea362f7e00fee1918036968422f45d35bd5e0b0ae75ada95282e5fc",
+    "artifacts/presentation-ru-slides/slide-10.png": "ae99d0ec633a697574996b1b42fc9c6803a5eb1711e93d20dd1def77f9fc075d",
+    "artifacts/presentation-ru-slides/slide-11.png": "4782817069982a0b3fbd5a6938346874228c83a77039aeb81bfda5e3863d44ea",
+    "artifacts/presentation-ru-slides/slide-12.png": "bf6b4066aedc890e429ebfb6ecd2b7ab8a94662c5450c258f1a2938f008684f1"
+  },
+  "pdf_page_png_sha256": {
+    "1": "46ba1c8cac6540bae4cb2536349966b164ce6ef65e0efccd4375a0ff9e3ccaa8",
+    "2": "232933cd4987876d2f19371184b4c65a403d5b3a934fc713ecc4bf46371401c8",
+    "3": "a8eabdcf96ab78032da0a020fcea1283ff7fe5d31645f8e9ad424a4ba111835b",
+    "4": "f4c353a483d3852f4b6a4668c6e50b6e5bb2ff5d30fb0308f75460377fe46992",
+    "5": "f3abbc284a77d9ffefd7cd1aea404270a946855e0335eba42bddc9c7ccf0c80d",
+    "6": "8a9dd01c855698fbd60fba8150f66d5f46fc5d2d1f66a696aad312140d8f2358",
+    "7": "2a0a6baf6ec6353cd4cc8da6385327243c2eb179437249fc39e315dffe32b8e9",
+    "8": "87b4d30e7db2e1d4203a425174ff119df26470126cd824d37500f3cedd5276a8",
+    "9": "103b323acaa840bc573a25b2e5dc6147f2e49c695a00f1349acf8ff8a9e4c42f",
+    "10": "facd2f1a6936658339747c96767a8dbef12e38fbd04dba4105567170bd9a36cf",
+    "11": "56654aa3d5a2d8eaaaf7d99e091cd1e7a5a772ad5e47304abb49c4d810e599f3",
+    "12": "0149099f85b6e265291a12333e79748967b9ab65f0db0c69af78b291e71b4323"
+  },
+  "font_families": [
+    "Inter"
+  ],
+  "authoring_exit_code": 0,
+  "visual_review": {
+    "all12_slide_exports_rendered": true,
+    "all12_pdf_pages_rendered": true,
+    "all24_rendered_images_byte_identical_to_individually_reviewed_previous_exports": true,
+    "previous_all12_native_and_all12_pdf_individual_review": "artifacts/history/presentation-before-publication-docs-cleanup.json",
+    "previous_review_report_sha256": "229e0792f2dbd126db9aa699ca9a74234ace695f7ac572f0b0dc3603d78f9948",
+    "review_method": "Every new native PNG and independently rendered Poppler PDF-page PNG was compared by exact SHA-256 with the corresponding individually inspected image from the preceding approved export. All 24 matched. Refreshed note/source references and output identities were checked separately.",
+    "pdf_has12_pages": true,
+    "pdf_embeds_inter_fonts": true,
+    "no_unintended_overlap_clipping_or_placeholders": true,
+    "screenshots_preserve_source_content_and_aspect_ratio": true,
+    "slide6_has_no_photo_rating_count_or_limit_caption": true,
+    "slide8_language_count_matches_provider_readback": true,
+    "slide10_memory_edit_save_delete_controls_complete": true,
+    "slide11_counts_match_current_frozen_reports": true,
+    "native_powerpoint_opened": false
+  },
+  "independent_package_readback": {
+    "pptx_zip_crc_passed": true,
+    "slides": 12,
+    "notes": 12,
+    "source_notes_match_current_media_inventory": true,
+    "slide6_xml_text": [
+      "Собранные данные Астаны",
+      "6 505",
+      "точек интереса",
+      "Автоматический сбор",
+      "JSON · CSV · GeoJSON",
+      "Национальный музей",
+      "Davide Mauro · CC BY-SA 4.0"
+    ],
+    "slide8_xml_text": [
+      "Голос на 16 языках",
+      "ElevenLabs",
+      "Выбор языка разговора",
+      "Тот же планировщик",
+      "AlemPlus",
+      "Диктовка EN / RU",
+      "Отдельная модель KK"
+    ],
+    "slide11_xml_text": [
+      "Проверки и ограничения",
+      "624",
+      "автотеста сервера",
+      "156 / 156",
+      "сценарных проверок",
+      "36 / 36",
+      "проверок диалога",
+      "Часы не гарантируют вход",
+      "Доступность улиц не проверена",
+      "Календарь одного оператора",
+      "Телефонный звонок не проверен"
+    ]
+  },
+  "previous_export_history": {
+    "path": "artifacts/history/presentation-before-publication-docs-cleanup.json",
+    "sha256": "229e0792f2dbd126db9aa699ca9a74234ace695f7ac572f0b0dc3603d78f9948",
+    "scope": "Pre-publication-cleanup source evidence and its recorded post-finalization native cleanup139. This final authoring process returned0."
+  }
+}

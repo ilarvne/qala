@@ -1,0 +1,602 @@
+{
+  "checkedAt": "2026-10-19",
+  "scope": "Acquisition routes and stock availability for photorealistic/architecturally accurate Astana city geometry. Read-only research; no purchases or messages.",
+  "counts": {
+    "successfulSearchCalls": 10,
+    "requestedResultSlots": 88,
+    "returnedResultEntries": 88,
+    "deduplicatedURLs": 77,
+    "initialSchemaRejectedCalls": 6,
+    "initialSchemaRejectedResultSlots": 60,
+    "note": "The six initial calls were rejected before search for missing objective. They returned no search entries and are excluded from requestedResultSlots above. Unique URL count is across successful Exa search results in this workstream; not a validation count. Four Sketchfab API searches are separate direct API discovery and not included."
+  },
+  "queries": [
+    {
+      "angle": "international",
+      "query": "Official vendor catalogue coverage for Astana Nur-Sultan Kazakhstan textured 3D city model Vricon Maxar Airbus WorldDEM Precision3D Hexagon",
+      "requested": 10,
+      "returned": 10,
+      "entries": [
+        {
+          "title": "Airbus 3D World Portfolio - highly precise 3D information on a Global Scale | Airbus Space Solutions",
+          "url": "https://space-solutions.airbus.com/imagery/airbus-3d-world-portfolio/"
+        },
+        {
+          "title": "3D Models | Hexagon",
+          "url": "https://hexagon.com/products/3d-models"
+        },
+        {
+          "title": "Available Vivid Terrain, WorldView 3D, and Raptor Products",
+          "url": "https://resellers-docs.maxar.com/en-us/VividTerrain/VividTerrain_available.htm"
+        },
+        {
+          "title": "Geospatial content | Hexagon",
+          "url": "https://hexagon.com/solutions/geospatial-content"
+        },
+        {
+          "title": "Precision3D by Maxar | Esri Partner Solution",
+          "url": "https://www.esri.com/partners/maxar-a2T70000000TNOvEAO/precision3d-a2d5x000005kI0FAAU"
+        },
+        {
+          "title": "GLOBAL GEODATA",
+          "url": "https://landinfo.com/wp-content/uploads/2018/04/landinfo.com-GeoData-Catalog_BM.pdf"
+        },
+        {
+          "title": "Transnavicom",
+          "url": "https://www.transnavi.com/maps-export/list/Kazakhstan/details.html"
+        },
+        {
+          "title": "PRECISION3D",
+          "url": "https://cdn.mediavalet.com/usva/maxar/alk3fQeU-kKiY5ya3IFf7Q/E0I1ooDcKUy_2PPgjYUd1A/Original/10092-ds-telco.pdf"
+        },
+        {
+          "title": "3D City Models using Aerial, Satellite Imagery and LiDAR",
+          "url": "https://www.l3harris.com/all-capabilities/3d-models-3d-city-models"
+        },
+        {
+          "title": "Готовые к использованию цифровые модели рельефа",
+          "url": "https://eospatial.kz/prostranstvennye-dannye/cifrovye-modeli-vysot/gotovye-k-ispolzovaniyu-cifrovye-modeli-relefa"
+        }
+      ]
+    },
+    {
+      "angle": "municipal-procurement",
+      "query": "Астана трехмерная модель города аэрофотосъемка цифровой двойник КазАэроСпейс заказчик 3D 2024 2025 2026",
+      "requested": 10,
+      "returned": 10,
+      "entries": [
+        {
+          "title": "Интервью с ведущим инженером ГИС о цифровых двойниках | Internews Kazakhstan",
+          "url": "https://intranews.kz/old/intervyu-s-vedushchim-inzhenerom-gis-o-cifrovyh-dvoynikah"
+        },
+        {
+          "title": "KASMapping",
+          "url": "https://www.kasmapping.kz/"
+        },
+        {
+          "title": "KazAeroSpace — резидент Технопарка Инновационного Кластера Nazarbayev University и СЭЗ «Астана-Технополис»",
+          "url": "https://investastana.kz/astana-invest/press-center/news/kazaerospace_rezident_tekhnoparka_innovatsionnogo_klastera_nazarbayev_university_i_sez_astana_tekhno/"
+        },
+        {
+          "title": "KAZAEROSPACE",
+          "url": "https://kazaerospace.kz/projects"
+        },
+        {
+          "title": "В правительстве обсуждены вопросы применения трехмерной геоинформационной системы | Kazakhstan Today",
+          "url": "https://www.kt.kz/rus/state/v_praviteljstve_obsuzhdeni_voprosi_primenenija_trehmernoj_geoinformacionnoj_sistemi_1153397548.html"
+        },
+        {
+          "title": "Создание 3D-моделей городов и промышленных объектов Казахстана: от визуализации к инженерному анализу (вторая часть) - Geosat",
+          "url": "https://geosat.biz/sozdanie-modelej-gorodov-3d/"
+        },
+        {
+          "title": "Компьютерное зрение (CV) в сочетании с искусственным интеллектом (ИИ) в трёхмерном картографировании",
+          "url": "https://astanahub.com/ru/tech_task/kompiuternoe-zrenie-cv-v-sochetanii-s-iskusstvennym-intellektom-ii-v-triokhmernom-kartografirovanii"
+        },
+        {
+          "title": "Approval of Comprehensive Development Plan of Astana Agglomeration for 2024-2028 by Government | Kazakhstan Today",
+          "url": "https://www.kt.kz/eng/government/approval_of_comprehensive_development_plan_of_astana_1377961640.html"
+        },
+        {
+          "title": "Нур-Султан в \"цифре\" и 3D - Mobilaser",
+          "url": "https://mobilaser.kz/nur-sultan-v-cifre-i-3d/technologies/"
+        },
+        {
+          "title": "В Казахстане создали цифровой двойник столицы в 3D ...",
+          "url": "https://tribune.kz/v-kazahstane-sozdali-tsifrovoj-dvojnik-stolitsy-v-3d-formate/"
+        }
+      ]
+    },
+    {
+      "angle": "survey-operators",
+      "query": "Казахстан Астана фотограмметрия 3D модель города лазерное сканирование аэрофотосъемка выполненный проект",
+      "requested": 10,
+      "returned": 10,
+      "entries": [
+        {
+          "title": "Интервью с ведущим инженером ГИС о цифровых двойниках | Internews Kazakhstan",
+          "url": "https://intranews.kz/old/intervyu-s-vedushchim-inzhenerom-gis-o-cifrovyh-dvoynikah"
+        },
+        {
+          "title": "3D-модель центра Астаны | ГК «Геоскан»",
+          "url": "https://www.geoscan.ru/ru/blog/3d-model-centra-astany-0"
+        },
+        {
+          "title": "3D-модели территорий - GEOSCAN Kazakhstan",
+          "url": "https://www.geoscankz.aero/services/3d-modeli-territorij"
+        },
+        {
+          "title": "Обеспечение пространственными данными Астанагорархитектура - Совзонд",
+          "url": "https://sovzond.ru/projects/2435/"
+        },
+        {
+          "title": "В правительстве обсуждены вопросы применения трехмерной геоинформационной системы | Kazakhstan Today",
+          "url": "https://www.kt.kz/rus/state/v_praviteljstve_obsuzhdeni_voprosi_primenenija_trehmernoj_geoinformacionnoj_sistemi_1153397548.html"
+        },
+        {
+          "title": "3D MODELING OF SATBAYEV UNIVERSITY BASED ON LASER SCANNING AND UAV DATA",
+          "url": "https://doi.org/10.5194/isprs-archives-xlvi-5-w1-2022-1-2022"
+        },
+        {
+          "title": "Геодезия - Главная Геоскан Казахстан Аэрофотосъемка от лучших специалистов Geoscan Kazakhstan 3Д модель города",
+          "url": "https://geoscankz.kz/2020/03/09/%D0%B3%D0%B5%D0%BE%D0%B4%D0%B5%D0%B7%D0%B8%D1%8F/"
+        },
+        {
+          "title": "Создана 3D-модель центра Астаны (ВИДЕО) » Матрица.kz - Информационно-аналитический портал",
+          "url": "https://matritca.kz/old/news/38948-sozdana-3d-model-centra-astany-video.html"
+        },
+        {
+          "title": "Аэрофотосъемка геодезии местности заказать в Алматы / Aerostream",
+          "url": "https://aerostream.kz/ru/aerial-laser-scan/"
+        },
+        {
+          "title": "Проекты - «KAZGISA» - Геоинформационные технологии и дистанционное зондирование Земли",
+          "url": "https://kazgisa.kz/proekty/"
+        }
+      ]
+    },
+    {
+      "angle": "scholarly",
+      "query": "Astana digital twin photogrammetry integrated mesh urban 3D model data Kazakhstan study",
+      "requested": 10,
+      "returned": 10,
+      "entries": [
+        {
+          "title": "Интервью с ведущим инженером ГИС о цифровых двойниках | Internews Kazakhstan",
+          "url": "https://intranews.kz/old/intervyu-s-vedushchim-inzhenerom-gis-o-cifrovyh-dvoynikah"
+        },
+        {
+          "title": "В Казахстане создали цифровой двойник столицы в 3D формате - TRIBUNE.KZ",
+          "url": "https://tribune.kz/v-kazahstane-sozdali-tsifrovoj-dvojnik-stolitsy-v-3d-formate/"
+        },
+        {
+          "title": "City of Astana partners with Presight for AI-powered smart city project",
+          "url": "https://www.presight.ai/news/city-of-astana-partners-with-presight-for-ai-powered-smart-city-project"
+        },
+        {
+          "title": "Digital Twin - «KAZGISA» - Геоинформационные технологии и дистанционное зондирование Земли",
+          "url": "https://kazgisa.kz/en/digital-twin/"
+        },
+        {
+          "title": "Smart Cities World - Digital twins - City of Astana to deploy $190m AI-powered smart city project",
+          "url": "https://www.smartcitiesworld.net/digital-twins/city-of-astana-to-deploy-190m-ai-powered-smart-city-project"
+        },
+        {
+          "title": "3D model of Astana’s administrative part presented at intl workshop",
+          "url": "https://qazinform.com/news/3d-model-of-astana-s-administrative-part-presented-at-intl-workshop_a2971913"
+        },
+        {
+          "title": "Improving the utilization of close-range photogrammetry and terrestrial laser scanning for photorealistic urban 3D modeling",
+          "url": "https://aaltodoc.aalto.fi/handle/123456789/110787"
+        },
+        {
+          "title": "Создана 3D-модель центра Астаны (ВИДЕО) » Матрица.kz - Информационно-аналитический портал",
+          "url": "https://matritca.kz/old/news/38948-sozdana-3d-model-centra-astany-video.html"
+        },
+        {
+          "title": "POSSIBILITY OF CREATING A DIGITAL ORTHOPHOTO BASED ON AERIAL PHOTOGRAPHY WHILE UPDATING MAPS ON THE TERRITORY OF THE REPUBLIC OF KAZAKHSTAN",
+          "url": "https://doi.org/10.33764/2618-981x-2019-6-2-222-229"
+        },
+        {
+          "title": "Synchronized Multi-Point UAV-Based Traffic Monitoring for Urban Infrastructure Decision Support",
+          "url": "https://doi.org/10.3390/drones9050370"
+        }
+      ]
+    },
+    {
+      "angle": "architect-bim",
+      "query": "Astana Expo Nur Alem Bayterek BIM architectural model download license construction 3D",
+      "requested": 10,
+      "returned": 10,
+      "entries": [
+        {
+          "title": "Expo 2017 Astana Kazakhstan free 3D model | CGTrader",
+          "url": "https://www.cgtrader.com/free-3d-models/various/various-models/expo-2017-astana-kazakhstan"
+        },
+        {
+          "title": "Baitereck Astana - Buy Royalty Free 3D model by Adil77 (@AdilAlmaty) [a2265f1] - Sketchfab Store",
+          "url": "https://sketchfab.com/3d-models/baitereck-astana-a2265f19956f4eac899ce9a5a75fe58b"
+        },
+        {
+          "title": "Baiterek - Байтерек by Vadim Shchelochkov | Download free STL model | Printables.com",
+          "url": "https://www.printables.com/model/1196947-baiterek-baiterek"
+        },
+        {
+          "title": "The Chicago Athenaeum - Kazakhstan Pavilion: Nur Alem | Astana, Kazakhstan | 2017",
+          "url": "https://www.chi-athenaeum.org/the-2019-american-architecture-awards/2019/08/20/kazakhstan-pavilion-nur-alem-astana-kazakhstan-2017/"
+        },
+        {
+          "title": "Bayterek Tower 3D Models for Free Download and Print | Tripo AI",
+          "url": "https://studio.tripo3d.ai/3d-model-gallery/bayterek-tower"
+        },
+        {
+          "title": "\"Байтерек\" 3d модель в AutoCAD - Чертежи, 3D Модели, Проекты, Архитектурные формы",
+          "url": "https://vmasshtabe.ru/stroitelstvo/arhitektura/bayterek-3d-model-v-autocad.html"
+        },
+        {
+          "title": "Baitereck Astana 3D Model",
+          "url": "https://rigmodels.com/model.php?view=Baitereck_Astana-3d-model__a2265f19956f4eac899ce9a5a75fe58b"
+        },
+        {
+          "title": "The Legacy of the Future Energy Museum",
+          "url": "https://qazexpocongress.kz/en/nur-alem/"
+        },
+        {
+          "title": "Nur Alem: The Engineering Behind Astana’s 35,000 m² Glass Sphere - GlassBalkan",
+          "url": "https://glassbalkan.com/news/nur-alem-the-engineering-behind-astanas-35000-m%c2%b2-glass-sphere/"
+        },
+        {
+          "title": "Expo 2017 Legacy: World's Largest Sphere",
+          "url": "https://www.archdaily.com/881152/expo-2017-legacy-worlds-largest-sphere"
+        }
+      ]
+    },
+    {
+      "angle": "marketplace",
+      "query": "Astana photogrammetry realistic 3D model textured city Buy license Bayterek Nur Alem downloadable",
+      "requested": 10,
+      "returned": 10,
+      "entries": [
+        {
+          "title": "Astana Kazakhstan - 3D Model by 3dstudio",
+          "url": "https://www.renderhub.com/3dstudio/astana-kazakhstan"
+        },
+        {
+          "title": "Astana city 3D model",
+          "url": "https://cghub.one/item/astana-city-3d-model"
+        },
+        {
+          "title": "Astana Streets and Buildings 3D model | CGTrader",
+          "url": "https://www.cgtrader.com/3d-models/architectural/architectural-street/astana-streets-and-buildings"
+        },
+        {
+          "title": "Astana  Nur Sultan city ‎Kazakhstan  70km 3D Model",
+          "url": "https://community.highend3d.com/3d-model/astana-nur-sultan-city-kazakhstan-70km-3d-model"
+        },
+        {
+          "title": "Bayterek monument Astana Khazakhstan",
+          "url": "https://www.turbosquid.com/FullPreview/1038002"
+        },
+        {
+          "title": "Nur-Sultan Kazakhstan City Landscape 3D Model 3D model",
+          "url": "https://cghub.one/item/nur-sultan-kazakhstan-city-landscape-3d-model-3d-model-551555"
+        },
+        {
+          "title": "Baitereck Astana - Buy Royalty Free 3D model by Adil77 (@AdilAlmaty) [a2265f1] - Sketchfab Store",
+          "url": "https://sketchfab.com/3d-models/baitereck-astana-a2265f19956f4eac899ce9a5a75fe58b"
+        },
+        {
+          "title": "Astana city - 3D model by karaman.arman",
+          "url": "https://sketchfab.com/3d-models/astana-city-b58d109bb0e84e629530d7c3cf2aaf72"
+        },
+        {
+          "title": "Astana - Bayterek Monument 360 Panorama | 360Cities",
+          "url": "https://www.360cities.net/image/bayterek-monument"
+        },
+        {
+          "title": "Kazakhstan 3D Models – Free & Premium Downloads | CGTrader",
+          "url": "https://www.cgtrader.com/3d-models/kazakhstan"
+        }
+      ]
+    },
+    {
+      "angle": "inventory",
+      "query": "Vantor Vivid Terrain Astana Nur Sultan Precision3D coverage map catalogue 3D mesh availability Kazakhstan Airbus 3D World",
+      "requested": 10,
+      "returned": 10,
+      "entries": [
+        {
+          "title": "Airbus 3D World Portfolio - highly precise 3D information on a Global Scale | Airbus Space Solutions",
+          "url": "https://space-solutions.airbus.com/imagery/airbus-3d-world-portfolio/"
+        },
+        {
+          "title": "Vivid Terrain – Highly Accurate 3D Basemaps & Digital ...",
+          "url": "https://vantor.com/product/vivid/terrain/"
+        },
+        {
+          "title": "The Vantor Hub – Access to the Most Advanced Spatial Intelligence",
+          "url": "https://vantor.com/product/platform/hub/"
+        },
+        {
+          "title": "Available Vivid Terrain and WorldView 3D Products",
+          "url": "https://pro-docs.maxar.com/en-us/VividTerrain/VividTerrain_available.htm"
+        },
+        {
+          "title": "Digital Surface and Terrain Models from Vantor’s Precision3D Product Line Added to Satellite Data Explorer - NASA Science",
+          "url": "https://science.nasa.gov/science-research/earth-science/digital-surface-and-terrain-models-from-vantors-precision3d-product-line-added-to-satellite-data-explorer/"
+        },
+        {
+          "title": "Vivid – Highly Accurate 2D and 3D Global Basemaps | Vantor",
+          "url": "https://vantor.com/product/vivid/"
+        },
+        {
+          "title": "World Elevation Coverage Map - Overview",
+          "url": "https://www.arcgis.com/home/item.html?id=3af669838f594b378f90c10f98e46a7f"
+        },
+        {
+          "title": "Vivid Terrain · docs.sa.up42.com",
+          "url": "https://docs.sa.up42.com/data/vivid-terrain"
+        },
+        {
+          "title": "Placing a WorldView 3D Tasking Request",
+          "url": "https://pro-docs.maxar.com/en-us/Tasking/Tasking_requests_WV3D.htm"
+        },
+        {
+          "title": "Vivid Terrain – Mission-Grade 3D Maps of Earth | Vantor",
+          "url": "https://vantor.com/resources/vivid-terrain-datasheet/"
+        }
+      ]
+    },
+    {
+      "angle": "airbus-stock",
+      "query": "Airbus 3D World Mesh Astana Kazakhstan sample OneAtlas 3D textured model availability formats licence",
+      "requested": 6,
+      "returned": 6,
+      "entries": [
+        {
+          "title": "Airbus 3D Mesh - The next level of 3D visualisation",
+          "url": "https://space-solutions.airbus.com/imagery/airbus-3d-world-portfolio/3d-mesh/"
+        },
+        {
+          "title": "OneAtlas 3D Textured Model",
+          "url": "https://3d.oneatlas.airbus.com/"
+        },
+        {
+          "title": "Airbus 3D & Elevation Models: Highly Precise 2D & 3D Information",
+          "url": "https://www.intelligence-airbusds.com/en/8704-elevation30"
+        },
+        {
+          "title": "Airbus 3D World Portfolio - highly precise 3D information ...",
+          "url": "https://space-solutions.airbus.com/imagery/airbus-3d-world-portfolio/"
+        },
+        {
+          "title": "Licence to use satellite data products",
+          "url": "https://www.intelligence-airbusds.com/files/pmedia/public/r51461_9_standard-licence-livinglibrary-210319.pdf"
+        },
+        {
+          "title": "OneAtlas 3D Textured Model",
+          "url": "https://3dintsight.oneatlas.airbus.com/"
+        }
+      ]
+    },
+    {
+      "angle": "rights",
+      "query": "KazAeroSpace Astana digital twin licence 3D model export SLPK I3S central city request geographic information center contacts",
+      "requested": 6,
+      "returned": 6,
+      "entries": [
+        {
+          "title": "Создание геоинформационных систем",
+          "url": "https://kazaerospace.kz/documents"
+        },
+        {
+          "title": "N/A",
+          "url": "https://kazaerospace.kz/en/projects/card/26"
+        },
+        {
+          "title": "Интервью с ведущим инженером ГИС о цифровых двойниках | Internews Kazakhstan",
+          "url": "https://intranews.kz/old/intervyu-s-vedushchim-inzhenerom-gis-o-cifrovyh-dvoynikah"
+        },
+        {
+          "title": "Создание цифровых карт",
+          "url": "https://kazaerospace.kz/en/company"
+        },
+        {
+          "title": "On October 28, Kazaerospace took part in the main forum on technology, business and creative economy in Kazakhstan",
+          "url": "https://kazaerospace.kz/en/News/card/55"
+        },
+        {
+          "title": "1-2 ноября компания KazAeroSpace приняла участие в международной выставке Expo 2020 в Дубай",
+          "url": "https://kazaerospace.kz/News/card/54"
+        }
+      ]
+    },
+    {
+      "angle": "custodian",
+      "query": "Астана 3D геопортал КазАэроСпейс Управление архитектуры градостроительства лицензия данные фотореалистичная модель официальный сайт gov.kz",
+      "requested": 6,
+      "returned": 6,
+      "entries": [
+        {
+          "title": "Интервью с ведущим инженером ГИС о цифровых двойниках | Internews Kazakhstan",
+          "url": "https://intranews.kz/old/intervyu-s-vedushchim-inzhenerom-gis-o-cifrovyh-dvoynikah"
+        },
+        {
+          "title": "Контакты - Геоинформационный центр города Астана",
+          "url": "https://gis.esaulet.kz/portal/apps/experiencebuilder/experience/?id=b9f6d12fcdc644f6944a96d5c42b915f&page=page_8"
+        },
+        {
+          "title": "KazAeroSpace — резидент Технопарка Инновационного Кластера Nazarbayev University и СЭЗ «Астана-Технополис»",
+          "url": "https://investastana.kz/astana-invest/press-center/news/kazaerospace_rezident_tekhnoparka_innovatsionnogo_klastera_nazarbayev_university_i_sez_astana_tekhno/"
+        },
+        {
+          "title": "N/A",
+          "url": "https://kazaerospace.kz/projects/card/9"
+        },
+        {
+          "title": "Управление архитектуры, градостроительства и ...",
+          "url": "https://www.gov.kz/org/astana-saulet?lang=ru"
+        },
+        {
+          "title": "Проектирование геоинформационных систем",
+          "url": "https://kazaerospace.kz/"
+        }
+      ]
+    }
+  ],
+  "directFetchBatches": [
+    {
+      "urls": [
+        "https://www.geoscan.ru/ru/blog/3d-model-centra-astany-0",
+        "https://www.kasmapping.kz/",
+        "https://investastana.kz/astana-invest/press-center/news/kazaerospace_rezident_tekhnoparka_innovatsionnogo_klastera_nazarbayev_university_i_sez_astana_tekhno/",
+        "https://www.presight.ai/news/city-of-astana-partners-with-presight-for-ai-powered-smart-city-project",
+        "https://www.geoscankz.aero/services/3d-modeli-territorij",
+        "https://kazgisa.kz/en/digital-twin/",
+        "https://sovzond.ru/projects/2435/"
+      ],
+      "result": "Fetched and read; relevant conclusions are paraphrased in companion report."
+    },
+    {
+      "urls": [
+        "https://space-solutions.airbus.com/imagery/airbus-3d-world-portfolio/",
+        "https://space-solutions.airbus.com/imagery/3d-world-mesh/",
+        "https://vantor.com/product/vivid/",
+        "https://resellers-docs.maxar.com/en-us/VividTerrain/VividTerrain_available.htm",
+        "https://hexagon.com/solutions/geospatial-content",
+        "https://www.printables.com/model/1196947-baiterek-baiterek"
+      ],
+      "failures": [
+        {
+          "url": "https://space-solutions.airbus.com/imagery/3d-world-mesh/",
+          "error": "CRAWL_NOT_FOUND"
+        }
+      ]
+    },
+    {
+      "urls": [
+        "https://space-solutions.airbus.com/imagery/airbus-3d-world-portfolio/3d-mesh/",
+        "https://kazaerospace.kz/projects/card/9",
+        "https://kazaerospace.kz/documents",
+        "https://www.cgtrader.com/3d-models/exterior/cityscape/astana-city",
+        "https://www.renderhub.com/3dstudio/astana-kazakhstan",
+        "https://aerostream.kz/ru/aerial-laser-scan/"
+      ],
+      "failures": [
+        {
+          "url": "https://www.cgtrader.com/3d-models/exterior/cityscape/astana-city",
+          "error": "CRAWL_UNKNOWN_ERROR"
+        }
+      ]
+    },
+    {
+      "urls": [
+        "https://www.geoscan.ru/ru/blog/3d-model-centra-astany-0",
+        "https://qazinform.com/news/3d-model-of-astana-s-administrative-part-presented-at-intl-workshop_a2971913",
+        "https://www.l3harris.com/all-capabilities/3d-models-3d-city-models",
+        "https://www.transnavi.com/maps-export/list/Kazakhstan/details.html",
+        "https://www.cgtrader.com/3d-models/exterior/cityscape/astana-city-1d751c9f-5e4d-45b2-a3b7-a31f3834aec8"
+      ],
+      "result": "Fetched; discovery-only pages are not used as proof of Astana textured landmark coverage."
+    }
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.geoscan.ru/ru/blog/3d-model-centra-astany-0",
+      "quality": "Original company describes an actual completed central-Astana UAV photogrammetry demonstration; dated 2016, no asset licence or public mesh download.",
+      "verified": "2016 centre model exists historically; actual format, extent, freshness and reuse availability unresolved."
+    },
+    {
+      "url": "https://kazaerospace.kz/projects/card/9",
+      "quality": "Original developer names a shipped city geoinformation centre and Architecture/Urban Planning Department.",
+      "verified": "Practical municipal contractor acquisition lead; no claim that contractor alone controls every data right."
+    },
+    {
+      "url": "https://kazaerospace.kz/documents",
+      "quality": "Original company publishes copyright title for 3D city GIS software; software copyright differs from mesh ownership.",
+      "verified": "Evidence of a rights claim; not open data licence."
+    },
+    {
+      "url": "https://www.presight.ai/news/city-of-astana-partners-with-presight-for-ai-powered-smart-city-project",
+      "quality": "Signed smart-city project announcement from contracted vendor, 2025; promotional and forward-looking.",
+      "verified": "Digital twin/IoT programme announced; public visual mesh, I3S/3D Tiles endpoints and licences not provided."
+    },
+    {
+      "url": "https://vantor.com/product/vivid/",
+      "quality": "Primary current vendor catalogue, sales claims not independent quality validation.",
+      "verified": "Real textured meshes and Hub streaming/download capability; no Astana-specific inventory proved."
+    },
+    {
+      "url": "https://resellers-docs.maxar.com/en-us/VividTerrain/VividTerrain_available.htm",
+      "quality": "Primary product documentation states technical classes and numeric specifications.",
+      "verified": "0.5 m Vivid Terrain mesh class, 3 m CE90/LE90 specification; not Astana stock proof."
+    },
+    {
+      "url": "https://space-solutions.airbus.com/imagery/airbus-3d-world-portfolio/3d-mesh/",
+      "quality": "Primary product description with explicit tasking and production, sales assertions.",
+      "verified": "Satellite-derived textured mesh capability; no exact Astana collection confirmed."
+    },
+    {
+      "url": "https://hexagon.com/solutions/geospatial-content",
+      "quality": "Primary supplier coverage and service page.",
+      "verified": "Current main library described as North America/Europe; custom capture service possible, Astana not established."
+    },
+    {
+      "url": "https://aerostream.kz/ru/aerial-laser-scan/",
+      "quality": "Kazakhstan service provider explicitly lists deliverable formats and capture workflow; no shown Astana inventory.",
+      "verified": "OBJ, Cesium3DTiles, FBX capability; service procurement lead only."
+    },
+    {
+      "url": "https://www.printables.com/model/1196947-baiterek-baiterek",
+      "quality": "Named author self-identifies original print model; page shows noncommercial Creative Commons terms.",
+      "verified": "CC BY-NC-SA 4.0; not an unrestricted commercial city-map source."
+    },
+    {
+      "url": "https://api.sketchfab.com/v3/models/1437567dff9d4d4dbf01ea78f03e3f00",
+      "quality": "Direct public platform API supplies availability, author attribution, licence and face counts; creator geometry accuracy unverified.",
+      "verified": "4,954 faces; downloadable flag true; CC BY 4.0. Preview visibly schematic, no georeferencing or survey."
+    },
+    {
+      "url": "https://api.sketchfab.com/v3/models/3389dd1283654dd4accceb6d1c948e9f",
+      "quality": "Direct platform API; listing has no descriptive provenance/licence and generic placeholder thumbnail.",
+      "verified": "Nur_Alem_Expo_004, 2,784,380 faces, downloadable false; no reuse licence."
+    },
+    {
+      "url": "https://api.sketchfab.com/v3/models/b58d109bb0e84e629530d7c3cf2aaf72",
+      "quality": "Direct platform API and inspected broad preview; marketing description provides no measured accuracy/CRS.",
+      "verified": "2026 Astana city, 1,246,911 faces, downloadable false, empty licence object. No qualified city mesh established."
+    }
+  ],
+  "directDocumentChecks": [
+    {
+      "checkedAt": "2026-10-19",
+      "sourcePage": "https://kazaerospace.kz/documents",
+      "sourceURL": "https://api.kazaerospace.kz/storage/documents/Свидетельство%20на%203D%20Нур-Султан_020420.pdf",
+      "httpStatus": 200,
+      "contentType": "application/pdf",
+      "bytes": 892513,
+      "sha256": "be11e8e9cdc20b317f7b80206b69b99abbfe9d85694a08e578420b55da8e79fa",
+      "registrationNumber": "9118",
+      "registrationDate": "2020-04-02",
+      "objectType": "computer program",
+      "objectTitle": "3D геоинформационная система города Нур-Султан",
+      "creationDate": "2020-04-01",
+      "interpretationLimit": "Software registration evidence; does not establish title to imagery/mesh or permission for public display, extraction, conversion, caching, self-hosting or redistribution.",
+      "method": "Extracted facts with pdftotext -layout; no certificate fulltext in public artifact.",
+      "failedURL": "https://kazaerospace.kz/storage/documents/Свидетельство%20на%203D%20Нур-Султан_020420.pdf",
+      "failedURLStatus": 404
+    }
+  ],
+  "directContactChecks": [
+    {
+      "checkedAt": "2026-10-19",
+      "url": "https://kazaerospace.kz/contacts",
+      "company": "KazAeroSpace",
+      "phone": "+7 7172 70 64 49",
+      "email": "info@kazaerospace.com",
+      "address": "Астана, ул. Керей, Жанибек хандар 5/1",
+      "quality": "Current dedicated primary contact page; supersedes old project footer address for acquisition routing.",
+      "contacted": false
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "animationCount": 0,
+  "categories": [
+    {
+      "uid": "f825c721edb541dbbc8cd210123616c7",
+      "name": "Architecture",
+      "slug": "architecture",
+      "uri": "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "c51b29706d4e4e93a82e5eea7cbe6f91",
+      "name": "Places & Travel",
+      "slug": "places-travel",
+      "uri": "https://api.sketchfab.com/v3/categories/c51b29706d4e4e93a82e5eea7cbe6f91",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/49547fe422db0fdef3c06c199f367b2a-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/c51b29706d4e4e93a82e5eea7cbe6f91/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/c51b29706d4e4e93a82e5eea7cbe6f91/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 1,
+  "createdAt": "2024-07-01T12:19:12.030180",
+  "embedUrl": "https://sketchfab.com/models/c295d77ceda2427f9e64f74e08ff4a86/embed",
+  "faceCount": 849588,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 10,
+  "name": "Astana (Астана)",
+  "publishedAt": "2024-07-01T12:34:52.444723",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "maps",
+      "slug": "maps",
+      "uri": "https://api.sketchfab.com/v3/tags/maps"
+    },
+    {
+      "name": "country",
+      "slug": "country",
+      "uri": "https://api.sketchfab.com/v3/tags/country"
+    },
+    {
+      "name": "earth",
+      "slug": "earth",
+      "uri": "https://api.sketchfab.com/v3/tags/earth"
+    },
+    {
+      "name": "cityscene",
+      "slug": "cityscene",
+      "uri": "https://api.sketchfab.com/v3/tags/cityscene"
+    },
+    {
+      "name": "town",
+      "slug": "town",
+      "uri": "https://api.sketchfab.com/v3/tags/town"
+    },
+    {
+      "name": "map",
+      "slug": "map",
+      "uri": "https://api.sketchfab.com/v3/tags/map"
+    },
+    {
+      "name": "Kazakhstan",
+      "slug": "kazakhstan",
+      "uri": "https://api.sketchfab.com/v3/tags/kazakhstan"
+    },
+    {
+      "name": "Free3DModel",
+      "slug": "free3dmodel",
+      "uri": "https://api.sketchfab.com/v3/tags/free3dmodel"
+    },
+    {
+      "name": "cityscape",
+      "slug": "cityscape",
+      "uri": "https://api.sketchfab.com/v3/tags/cityscape"
+    },
+    {
+      "name": "freedownload",
+      "slug": "freedownload",
+      "uri": "https://api.sketchfab.com/v3/tags/freedownload"
+    },
+    {
+      "name": "townhouse",
+      "slug": "townhouse",
+      "uri": "https://api.sketchfab.com/v3/tags/townhouse"
+    },
+    {
+      "name": "citymodel",
+      "slug": "citymodel",
+      "uri": "https://api.sketchfab.com/v3/tags/citymodel"
+    },
+    {
+      "name": "citybuilder",
+      "slug": "citybuilder",
+      "uri": "https://api.sketchfab.com/v3/tags/citybuilder"
+    },
+    {
+      "name": "free-download",
+      "slug": "free-download",
+      "uri": "https://api.sketchfab.com/v3/tags/free-download"
+    },
+    {
+      "name": "mapping3d",
+      "slug": "mapping3d",
+      "uri": "https://api.sketchfab.com/v3/tags/mapping3d"
+    },
+    {
+      "name": "astana",
+      "slug": "astana",
+      "uri": "https://api.sketchfab.com/v3/tags/astana"
+    },
+    {
+      "name": "freemodel",
+      "slug": "freemodel",
+      "uri": "https://api.sketchfab.com/v3/tags/freemodel"
+    },
+    {
+      "name": "free-model",
+      "slug": "free-model",
+      "uri": "https://api.sketchfab.com/v3/tags/free-model"
+    },
+    {
+      "name": "city-building",
+      "slug": "city-building",
+      "uri": "https://api.sketchfab.com/v3/tags/city-building"
+    },
+    {
+      "name": "townhouses",
+      "slug": "townhouses",
+      "uri": "https://api.sketchfab.com/v3/tags/townhouses"
+    },
+    {
+      "name": "city",
+      "slug": "city",
+      "uri": "https://api.sketchfab.com/v3/tags/city"
+    },
+    {
+      "name": "free",
+      "slug": "free",
+      "uri": "https://api.sketchfab.com/v3/tags/free"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "e054dd180e174867bff6ea684c174e1c",
+        "width": 1920,
+        "height": 1080,
+        "size": 449456,
+        "url": "https://media.sketchfab.com/models/c295d77ceda2427f9e64f74e08ff4a86/thumbnails/0f6c152fa76f4831bd4e24ee832c341b/69e93a44a9174633b1dfdeb24511b836.jpeg"
+      },
+      {
+        "uid": "d1182b4280dc40a199c92492c2d5594e",
+        "width": 1024,
+        "height": 576,
+        "size": 146312,
+        "url": "https://media.sketchfab.com/models/c295d77ceda2427f9e64f74e08ff4a86/thumbnails/0f6c152fa76f4831bd4e24ee832c341b/e3608f9a35e34b59a040ca27cfeab936.jpeg"
+      },
+      {
+        "uid": "7138fa9466d34e958b6cf58648765df8",
+        "width": 720,
+        "height": 405,
+        "size": 79987,
+        "url": "https://media.sketchfab.com/models/c295d77ceda2427f9e64f74e08ff4a86/thumbnails/0f6c152fa76f4831bd4e24ee832c341b/1b343cb1f3f54154ad8d5cef9e0cc402.jpeg"
+      },
+      {
+        "uid": "fbeec6fd07864ea1a5293352e5ab5c1d",
+        "width": 256,
+        "height": 144,
+        "size": 10708,
+        "url": "https://media.sketchfab.com/models/c295d77ceda2427f9e64f74e08ff4a86/thumbnails/0f6c152fa76f4831bd4e24ee832c341b/123a58e067364bb8a24933613aa20ba7.jpeg"
+      },
+      {
+        "uid": "b399aa065c3d4d10888a7f456ec9443d",
+        "width": 64,
+        "height": 36,
+        "size": 1205,
+        "url": "https://media.sketchfab.com/models/c295d77ceda2427f9e64f74e08ff4a86/thumbnails/0f6c152fa76f4831bd4e24ee832c341b/69452d0a36954a059601e9d4d98993a7.jpeg"
+      }
+    ]
+  },
+  "uid": "c295d77ceda2427f9e64f74e08ff4a86",
+  "uri": "https://api.sketchfab.com/v3/models/c295d77ceda2427f9e64f74e08ff4a86",
+  "user": {
+    "uid": "2cc806e260d5457bb406a775c1514abd",
+    "username": "Digram",
+    "displayName": "Escapepe",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/Digram",
+    "avatar": {
+      "uid": "6460e9ababd240228cb24571e080357e",
+      "uri": "https://api.sketchfab.com/v3/avatars/6460e9ababd240228cb24571e080357e",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1164,
+          "url": "https://media.sketchfab.com/avatars/6460e9ababd240228cb24571e080357e/d3f141e3054745d98504d40ee823607c.jpeg"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 1797,
+          "url": "https://media.sketchfab.com/avatars/6460e9ababd240228cb24571e080357e/0bb3fc52758e490e8c95afbacfe509d3.jpeg"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 4450,
+          "url": "https://media.sketchfab.com/avatars/6460e9ababd240228cb24571e080357e/eb6c85ecb7304a45a06cfdcae5bb0f02.jpeg"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 5338,
+          "url": "https://media.sketchfab.com/avatars/6460e9ababd240228cb24571e080357e/1bd8dba327fb452c92924a66eb4ce639.jpeg"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/2cc806e260d5457bb406a775c1514abd"
+  },
+  "vertexCount": 973900,
+  "viewCount": 2822,
+  "viewerUrl": "https://sketchfab.com/3d-models/astana-c295d77ceda2427f9e64f74e08ff4a86",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "this is the city of Astana. Main Features:\n\n* Population: about 1,200,000 (2023).\n* Geography: Located on the banks of the Ishim River in the northern part of Kazakhstan.\n* Climate: Continental, with cold winters and hot summers.\n* Economy: The center of financial, commercial and trade activities in Kazakhstan. \n* Culture: A mixture of traditions of the Kazakh people and modern architecture.\n* Architecture: Modern skyscrapers, mosques, museums and monuments.\n* Transport: Well-developed public transport infrastructure, including the metro.\n* Attractions: Baiterek, Palace of Peace and Accord, Hazret Sultan Mosque.",
+  "price": null,
+  "downloadCount": 443,
+  "editorUrl": "https://sketchfab.com/models/c295d77ceda2427f9e64f74e08ff4a86/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2024-07-01T12:39:29.611976",
+  "pbrType": null,
+  "textureCount": 0,
+  "materialCount": 40
+}

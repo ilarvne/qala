@@ -1,0 +1,33 @@
+{
+  "pages": 4,
+  "dataset_count": 6505,
+  "dataset_sha256": "60c287bccbb1b80f3bfe7acffc44c2f3e2b8b2e5b1952a8143d84d976fdc5967",
+  "source_checks": 35,
+  "source_total": 35,
+  "exporter": "ReportLab with embedded Noto Sans Cyrillic; pypdf text verification; Poppler visual rendering",
+  "inputs": {
+    "artifacts/brief-scenarios-ru.json": "db0c12dcfc7de19cc7d4d4ae1cf1de0759a3afa85931de23cfeaf5c5a5334478",
+    "docs/test-scenarios-ru.md": "310bf17fea909275af28a204baae591515da716daae7b2d48be83bb0a8f195f2",
+    "scripts/verify_brief_scenarios_ru.py": "084a6a673facdbe6ed7ceaf93cf679bbfed24efe88e35ad568a9b06f14ed8d6f",
+    "scripts/build_scenarios_pdf_ru.py": "9b9efd69d4bdb5c64ccf3c42e18116da87b41f4d9d83142e70403407772372b4"
+  },
+  "separate_evidence": [
+    "artifacts/map-catalog-verification.json",
+    "artifacts/voice-language-configuration-verification.json",
+    "artifacts/api-readiness-2026-10-20.json"
+  ],
+  "scope": "35 fixed-input functional scenario checks; map, current recordings, provider calls and multilingual voice configuration are separate evidence.",
+  "output": "artifacts/scenarios-and-limits-ru.pdf",
+  "sha256": "9ab99e44243c27614891d0a083ea25c5c5c7519bce400d4ed8bceeeb0dbffae5",
+  "visual_review": {
+    "pages_inspected": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "result": "passed: all four actual Poppler pages individually inspected; readable Cyrillic, no clipping/overlap.",
+    "method": "Actual110dpi Poppler renders after regenerating the scenario document for publication.",
+    "checked_at": "2026-10-20T18:39:40.713614+00:00"
+  }
+}

@@ -1,0 +1,558 @@
+{
+  "research_date": "2026-10-19",
+  "scope": "Follow-up native-provider alternatives for accurate Astana 3D in Qala, not full research corpus",
+  "method": {
+    "engine": "Exa",
+    "search_queries": 6,
+    "requested_result_slots": 60,
+    "returned_result_slots": 60,
+    "unique_search_result_urls": 60,
+    "fetched_page_slots": 30,
+    "unique_fetched_urls": 30,
+    "direct_origin_checks": 9,
+    "geometry_observations": "No new landmark renderer screenshot was tested here. Prior project-hosted 2GIS and Yandex SDK landmark tests are carried forward with links.",
+    "limitations": "Not a census of every vendor or proof of global absence. No borrowed keys, account registration, API purchase or data licensing action."
+  },
+  "searches": [
+    {
+      "query": "Official HERE Maps API for JavaScript 3D landmarks coverage Kazakhstan Astana Nur Sultan accurate textured landmark models map data coverage",
+      "requested_results": 10,
+      "returned_results": 10,
+      "results": [
+        {
+          "title": "Map coverage",
+          "url": "https://docs.here.com/map-rendering/docs/coverage-info-map-image-api"
+        },
+        {
+          "title": "HERE Maps API for JavaScript | Build Feature-Rich Web Apps | HERE",
+          "url": "https://www.here.com/developer/javascript-api"
+        },
+        {
+          "title": "N/A",
+          "url": "https://docs.here.com/style-editor/docs/features-and-modes"
+        },
+        {
+          "title": "N/A",
+          "url": "https://docs.here.com/geocoding-and-search/docs/geocode-local-coverage"
+        },
+        {
+          "title": "N/A",
+          "url": "https://docs.here.com/maps-api-for-js/docs/map-types"
+        },
+        {
+          "title": "N/A",
+          "url": "https://docs.here.com/maps-api-for-js/docs/map-region-specifics"
+        },
+        {
+          "title": "N/A",
+          "url": "https://docs.here.com/here-sdk/docs/android-optimization"
+        },
+        {
+          "title": "buildings",
+          "url": "https://docs.here.com/map-rendering/docs/buildings"
+        },
+        {
+          "title": "N/A",
+          "url": "https://docs.here.com/here-sdk/docs/android-introduction-feature-list"
+        },
+        {
+          "title": "HERE Maps for Kazakhstan | Europa Technologies (HERE Partner)",
+          "url": "https://www.europa.uk.com/map-data/here-maps/country/?cc=kz"
+        }
+      ]
+    },
+    {
+      "query": "Official TomTom MapLibre map SDK three dimensional landmarks Kazakhstan Astana 3D buildings coverage",
+      "requested_results": 10,
+      "returned_results": 10,
+      "results": [
+        {
+          "title": "Landmarks3D | TomTom Maps for JavaScript",
+          "url": "https://docs.tomtom.com/maps-sdk-js/api-reference/classes/plugins.Landmarks3D.html"
+        },
+        {
+          "title": "buildLandmarksTileURL | TomTom Maps for JavaScript",
+          "url": "https://docs.tomtom.com/maps-sdk-js/api-reference/variables/plugins.buildLandmarksTileURL.html"
+        },
+        {
+          "title": "Landmarks3DOptions | TomTom Maps for JavaScript",
+          "url": "https://docs.tomtom.com/maps-sdk-js/api-reference/types/plugins.Landmarks3DOptions.html"
+        },
+        {
+          "title": "ModelsLayer | TomTom Maps for JavaScript",
+          "url": "https://docs.tomtom.com/maps-sdk-js/api-reference/classes/plugins.ModelsLayer.html"
+        },
+        {
+          "title": "Landmarks3DDisplayMode | TomTom Maps for JavaScript",
+          "url": "https://docs.tomtom.com/maps-sdk-js/api-reference/types/plugins.Landmarks3DDisplayMode.html"
+        },
+        {
+          "title": "BaseMapModule | TomTom Maps for JavaScript",
+          "url": "https://docs.tomtom.com/maps-sdk-js/api-reference/classes/map.BaseMapModule.html"
+        },
+        {
+          "title": "Map Display API",
+          "url": "https://www.tomtom.com/products/map-display-api/"
+        },
+        {
+          "title": "@tomtom-org/maps-sdk-plugin-landmarks-3d",
+          "url": "https://socket.dev/npm/package/@tomtom-org/maps-sdk-plugin-landmarks-3d"
+        },
+        {
+          "title": "TomTom Engineering Blog - Can we bring millions of 3D buildings in your web browser?",
+          "url": "https://engineering.tomtom.com/bringing-3d-cities-to-the-web/"
+        },
+        {
+          "title": "TomTomMap | TomTom Maps for JavaScript",
+          "url": "https://docs.tomtom.com/maps-sdk-js/api-reference/classes/map.TomTomMap.html"
+        }
+      ]
+    },
+    {
+      "query": "Official Azure Maps Bing Maps 3D cities photogrammetry coverage Kazakhstan Astana Microsoft 3D tiles",
+      "requested_results": 10,
+      "returned_results": 10,
+      "results": [
+        {
+          "title": "N/A",
+          "url": "https://learn.microsoft.com/en-us/bingmaps/coverage/geographic-coverage"
+        },
+        {
+          "title": "N/A",
+          "url": "https://learn.microsoft.com/en-us/azure/azure-maps/render-coverage"
+        },
+        {
+          "title": "3D maps in Azure Maps - Microsoft Q&A",
+          "url": "https://learn.microsoft.com/en-us/answers/questions/951844/3d-maps-in-azure-maps"
+        },
+        {
+          "title": "11 New 3D Cities are now available | Maps Blog",
+          "url": "https://blogs.bing.com/maps/2021/11/11-New-3D-Cities-are-now-available/"
+        },
+        {
+          "title": "Bing Maps Coverage",
+          "url": "https://learn.microsoft.com/en-us/bingmaps/coverage/"
+        },
+        {
+          "title": "Bing Maps Tile System",
+          "url": "https://learn.microsoft.com/en-us/bingmaps/articles/bing-maps-tile-system"
+        },
+        {
+          "title": "Cesium: Fast and Consistent Bing Maps Tile Performance Powers 3D...",
+          "url": "https://blogs.bing.com/maps/2018/6/cesium-fast-and-consistent-bing-maps-tile-performance-powers-3d-map-apps-platform/"
+        },
+        {
+          "title": "Exploring the Whole World in VR with Bing 3D Maps and MRTK",
+          "url": "https://techcommunity.microsoft.com/blog/themixedrealityblog/exploring-the-whole-world-in-vr-with-bing-3d-maps-and-mrtk/2245284"
+        },
+        {
+          "title": "Over 450 Areas of Bird’s Eye Imagery Now Live on Bing Maps | Maps Blog",
+          "url": "https://blogs.bing.com/maps/2017-11/over-450-areas-of-birds-eye-imagery-now-live-on-bing-maps"
+        },
+        {
+          "title": "Azure Maps",
+          "url": "https://azure.microsoft.com/en-us/products/azure-maps"
+        }
+      ]
+    },
+    {
+      "query": "Official MapTiler Cesium ion Google photorealistic 3D tiles Kazakhstan Astana city coverage model",
+      "requested_results": 10,
+      "returned_results": 10,
+      "results": [
+        {
+          "title": "Astana, Kazakhstan",
+          "url": "https://www.maptiler.com/on-prem-datasets/asia/kazakhstan/astana/"
+        },
+        {
+          "title": "Photorealistic 3D Tiles  |  Google Maps Tile API  |  Google for Developers",
+          "url": "https://developers.google.com/maps/documentation/tile/3d-tiles"
+        },
+        {
+          "title": "Global 3D Content – Cesium",
+          "url": "https://cesium.com/platform/cesium-ion/content"
+        },
+        {
+          "title": "Photorealistic 3D Tiles from Google Maps Platform Now Included in Cesium ion – Cesium",
+          "url": "https://cesium.com/blog/2023/10/26/photorealistic-3d-tiles-in-cesium-ion/"
+        },
+        {
+          "title": "Cesium JS with MapTiler maps",
+          "url": "https://docs.maptiler.com/cesium/"
+        },
+        {
+          "title": "Work with a 3D Tiles renderer  |  Google Maps Tile API  |  Google for Developers",
+          "url": "https://developers.google.com/maps/documentation/tile/use-renderer"
+        },
+        {
+          "title": "Google Maps Platform Photorealistic 3D Tiles – Cesium",
+          "url": "https://cesium.com/learn/photorealistic-3d-tiles-learn"
+        },
+        {
+          "title": "CesiumJS: Photorealistic 3D Tiles from Google Maps Platform – Cesium",
+          "url": "https://cesium.com/learn/cesiumjs-learn/cesiumjs-photorealistic-3d-tiles"
+        },
+        {
+          "title": "Create immersive 3D map experiences with Photorealistic 3D Tiles – Google Maps Platform",
+          "url": "https://mapsplatform.google.com/resources/blog/create-immersive-3d-map-experiences-photorealistic-3d-tiles/"
+        },
+        {
+          "title": "Cesium Partners with Google Maps Platform to Render Its New Photorealistic 3D Tiles – Cesium",
+          "url": "https://cesium.com/blog/2023/05/10/cesium-partners-with-google-maps-platform/"
+        }
+      ]
+    },
+    {
+      "query": "Official Yandex Maps JavaScript API v3 free use API key public website map constructor iframe custom routes markers 3D landmarks",
+      "requested_results": 10,
+      "returned_results": 10,
+      "results": [
+        {
+          "title": "JavaScript API — Web Maps — API Yandex Maps",
+          "url": "https://yandex.com/maps-api/products/js-api"
+        },
+        {
+          "title": "Map Constructor",
+          "url": "https://yandex.com/maps-api/docs/constructor/api.html"
+        },
+        {
+          "title": "Connecting the API using JavaScript | JavaScript API",
+          "url": "https://yandex.com/maps-api/docs/js-api/common/connection/javascript.html"
+        },
+        {
+          "title": "Map customization | JavaScript API",
+          "url": "https://yandex.com/maps-api/docs/js-api/examples/cases/customization.html"
+        },
+        {
+          "title": "Create a map | JavaScript API",
+          "url": "https://yandex.com/maps-api/docs/js-api/examples/cases/create-map.html"
+        },
+        {
+          "title": "Yandex Map Constructor",
+          "url": "https://yandex.com/map-constructor/"
+        },
+        {
+          "title": "Code examples | JavaScript API",
+          "url": "https://yandex.com/maps-api/docs/js-api/examples/index.html"
+        },
+        {
+          "title": "Guide for migrating to the JS API v3 | JavaScript API",
+          "url": "https://yandex.com/maps-api/docs/js-api/upgrade/index.html"
+        },
+        {
+          "title": "Guide for migrating to the JS API v3 | JavaScript API",
+          "url": "https://yandex.com/maps-api/docs/js-api/reference-guide/upgrade.html"
+        },
+        {
+          "title": "Build a route between two points | JavaScript API",
+          "url": "https://yandex.com/maps-api/docs/js-api/examples/cases/building-route.html"
+        }
+      ]
+    },
+    {
+      "query": "Official 2GIS map widget API embedding custom route polylines without API key 3D models Astana free map constructor",
+      "requested_results": 10,
+      "returned_results": 10,
+      "results": [
+        {
+          "title": "API of 2GIS maps — Detailed maps for business",
+          "url": "https://dev.2gis.com/api/map"
+        },
+        {
+          "title": "Geometric shapes | 2GIS Documentation",
+          "url": "https://docs.2gis.com/en/mapgl/objects/geometries"
+        },
+        {
+          "title": "API reference | 2GIS Documentation",
+          "url": "https://docs.2gis.com/en/maps/others/static/reference"
+        },
+        {
+          "title": "glTF plugin version 2 | 2GIS Documentation",
+          "url": "https://docs.2gis.com/en/mapgl/objects/gltf2-plugin"
+        },
+        {
+          "title": "Layer types for the MapGL JS API | 2GIS Documentation",
+          "url": "https://docs.2gis.com/en/maps/styles/layers/types/mapgl"
+        },
+        {
+          "title": "Вопросы и ответы",
+          "url": "https://api.2gis.ru/doc/faq/"
+        },
+        {
+          "title": "API 2GIS — 2GIS Helper",
+          "url": "https://help.2gis.com/question/api2gis"
+        },
+        {
+          "title": "2GIS MapGL Examples",
+          "url": "https://2gis.github.io/mapgl-examples/"
+        },
+        {
+          "title": "Vector layers | 2GIS Documentation",
+          "url": "https://docs.2gis.com/en/maps/others/rasterjs/reference/vector-layers"
+        },
+        {
+          "title": "Maps API - 2GIS",
+          "url": "https://docs.2gis.com/en/api-platform"
+        }
+      ]
+    }
+  ],
+  "fetched_urls": [
+    "https://docs.tomtom.com/maps-sdk-js/api-reference/classes/plugins.Landmarks3D.html",
+    "https://docs.tomtom.com/maps-sdk-js/api-reference/types/plugins.Landmarks3DOptions.html",
+    "https://engineering.tomtom.com/bringing-3d-cities-to-the-web/",
+    "https://docs.here.com/maps-api-for-js/docs/map-types",
+    "https://docs.here.com/map-rendering/docs/buildings",
+    "https://docs.here.com/here-sdk/docs/android-introduction-feature-list",
+    "https://learn.microsoft.com/en-us/azure/azure-maps/render-coverage",
+    "https://yandex.com/maps-api/docs/constructor/api.html",
+    "https://yandex.com/maps-api/docs/js-api/common/connection/javascript.html",
+    "https://api.2gis.ru/doc/faq/",
+    "https://docs.2gis.com/en/api-platform",
+    "https://www.maptiler.com/on-prem-datasets/asia/kazakhstan/astana/",
+    "https://docs.here.com/maps-api-for-js/docs/map-region-specifics",
+    "https://docs.here.com/style-editor/docs/features-and-modes",
+    "https://www.here.com/developer/javascript-api",
+    "https://docs.tomtom.com/maps-sdk-js/api-reference/variables/plugins.buildLandmarksTileURL.html",
+    "https://docs.tomtom.com/maps-sdk-js/api-reference/types/plugins.Landmarks3DDisplayMode.html",
+    "https://learn.microsoft.com/en-us/bingmaps/coverage/geographic-coverage",
+    "https://learn.microsoft.com/en-us/answers/questions/951844/3d-maps-in-azure-maps",
+    "https://cesium.com/platform/cesium-ion/content",
+    "https://yandex.com/maps-api/docs/js-api/quickstart.html",
+    "https://yandex.kz/legal/maps_api/ru/",
+    "https://cesium.com/blog/2024/06/25/vexcel-cesium/",
+    "https://developers.google.com/maps/coverage",
+    "https://docs.2gis.com/en/mapgl/overview",
+    "https://docs.2gis.com/en/maps/others/rasterjs/overview",
+    "https://yandex.com/support/maps/en/concept/get-map-reference",
+    "https://yandex.com/dev/maps/mapstools/",
+    "https://docs.tomtom.com/maps-sdk-js/api-reference/types/plugins.Landmarks3DConfig.html",
+    "https://docs.tomtom.com/maps-sdk-js/api-reference/variables/plugins.landmarks3DKnobCatalogue.html"
+  ],
+  "direct_origin_checks": [
+    {
+      "url": "https://docs.tomtom.com/maps-sdk-js/api-reference/classes/plugins.Landmarks3D.html",
+      "status": 200,
+      "bytes": 28658,
+      "sha256": "f528082a27177147055aef1512c39808bc6a1f1255b440a7289b3e069598dd85",
+      "keyword_contexts": [
+        "Landmarks3D | TomTom Maps for JavaScript TomTom Maps for JavaScript Preparing search index... plugins Landmarks3D Class Landmarks3D Renders TomTom Orbis 3D Landmarks (high-detail building meshes) on a TomTomMap. The plugin streams GLB tiles from the Orbis 3D",
+        "ndmarks3D | TomTom Maps for JavaScript TomTom Maps for JavaScript Preparing search index... plugins Landmarks3D Class Landmarks3D Renders TomTom Orbis 3D Landmarks (high-detail building meshes) on a TomTomMap. The plugin streams GLB tiles from the Orbis 3D Landmarks API ( Private Preview ), renders them with Three.js via a MapLibre custom layer, filters ov",
+        " Maps for JavaScript TomTom Maps for JavaScript Preparing search index... plugins Landmarks3D Class Landmarks3D Renders TomTom Orbis 3D Landmarks (high-detail building meshes) on a TomTomMap. The plugin streams GLB tiles from the Orbis 3D Landmarks API ( Private Preview ), renders them with Three.js via a MapLibre custom layer, filters overlapping extruded",
+        " JavaScript Preparing search index... plugins Landmarks3D Class Landmarks3D Renders TomTom Orbis 3D Landmarks (high-detail building meshes) on a TomTomMap. The plugin streams GLB tiles from the Orbis 3D Landmarks API ( Private Preview ), renders them with Three.js via a MapLibre custom layer, filters overlapping extruded basemap buildings out of the style,",
+        "dmarks (high-detail building meshes) on a TomTomMap. The plugin streams GLB tiles from the Orbis 3D Landmarks API ( Private Preview ), renders them with Three.js via a MapLibre custom layer, filters overlapping extruded basemap buildings out of the style, and keeps everything restored across map style changes. Remarks It requires an API key with Orbis 3D L",
+        "ail building meshes) on a TomTomMap. The plugin streams GLB tiles from the Orbis 3D Landmarks API ( Private Preview ), renders them with Three.js via a MapLibre custom layer, filters overlapping extruded basemap buildings out of the style, and keeps everything restored across map style changes. Remarks It requires an API key with Orbis 3D Landmarks entitlements. ",
+        "nd keeps everything restored across map style changes. Remarks It requires an API key with Orbis 3D Landmarks entitlements. Its look is a set of knobs, listed in landmarks3DKnobCatalogue . Each one you leave unset follows the base map's 3D buildings, through style changes and anything that restyles them, falling back to the streetLight style's look. Whethe",
+        " It requires an API key with Orbis 3D Landmarks entitlements. Its look is a set of knobs, listed in landmarks3DKnobCatalogue . Each one you leave unset follows the base map's 3D buildings, through style changes and anything that restyles them, falling back to the streetLight style's look. Whether those buildings show is the buildings3D group of the BaseMap",
+        "the BaseMapModule , hidden in most standard styles; the plugin leaves it as it is. Example import { Landmarks3D } from '@tomtom-org/maps-sdk-plugin-landmarks-3d' ; // assume `map` is your initialized TomTomMap instance const landmarks = new Landmarks3D ( map ); landmarks . updateConfig ({ color: '#c8b28a' }); Copy Index Constructors constructor Accessors l",
+        "es; the plugin leaves it as it is. Example import { Landmarks3D } from '@tomtom-org/maps-sdk-plugin-landmarks-3d' ; // assume `map` is your initialized TomTomMap instance const landmarks = new Landmarks3D ( map ); landmarks . updateConfig ({ color: '#c8b28a' }); Copy Index Constructors constructor Accessors layer Methods apply Config get Config is Visible "
+      ]
+    },
+    {
+      "url": "https://docs.here.com/style-editor/docs/features-and-modes",
+      "status": 200,
+      "bytes": 2242260,
+      "sha256": "12d1e09009406c01a98667a789e5966fd55e3f87e5f2b93f5d6d89400161d61b",
+      "keyword_contexts": [
+        "all – enabled none – disabled HERE SDK (Navigate), HERE SDK (Explore), HERE Maps API for JavaScript building landmarks 3D landmark models grayscale – grayscale textured landmarks textureless – custom colored landmarks without textures textured – color-coded landmark textures none – disabled HERE SDK (Navigate) shadows shadows for all building types all – enabled non",
+        "isabled HERE SDK (Navigate), HERE SDK (Explore), HERE Maps API for JavaScript building landmarks 3D landmark models grayscale – grayscale textured landmarks textureless – custom colored landmarks without textures textured – color-coded landmark textures none – disabled HERE SDK (Navigate) shadows shadows for all building types all – enabled none – disabled",
+        ", HERE Maps API for JavaScript building landmarks 3D landmark models grayscale – grayscale textured landmarks textureless – custom colored landmarks without textures textured – color-coded landmark textures none – disabled HERE SDK (Navigate) shadows shadows for all building types all – enabled none – disabled HERE SDK (Navigate), HERE SDK (Explore) conges",
+        " landmarks 3D landmark models grayscale – grayscale textured landmarks textureless – custom colored landmarks without textures textured – color-coded landmark textures none – disabled HERE SDK (Navigate) shadows shadows for all building types all – enabled none – disabled HERE SDK (Navigate), HERE SDK (Explore) congestion zones congestion zone polygons all",
+        "e textured landmarks textureless – custom colored landmarks without textures textured – color-coded landmark textures none – disabled HERE SDK (Navigate) shadows shadows for all building types all – enabled none – disabled HERE SDK (Navigate), HERE SDK (Explore) congestion zones congestion zone polygons all – enabled none – disabled HERE SDK (Navigate), HE",
+        "none - none — building extruded all - all - all - all — building footprints all - all - all - all — building landmarks grayscale - grayscale - textureless - grayscale — shadows none - none - none - none — congestion zones none none none none none none none — environmental zones none none none none none none none — low speed zones (Japan only) none none none none non"
+      ]
+    },
+    {
+      "url": "https://developers.google.com/maps/coverage",
+      "status": 200,
+      "bytes": 255587,
+      "sha256": "a60ed80e16150d51eec6fd5050bc090b0c85366ef84f23775ee96ad29458ab2f",
+      "keyword_contexts": [
+        " ⬤ — ⬤ — KR South Korea ⬤ — ⬤ — — — — — KW Kuwait ⬤ — ⬤ ⬤ ⬤ — ⬤ — KY Cayman Islands ⬤ — ⬤ ⬤ ⬤ — ⬤ — KZ Kazakhstan ⬤ — ⬤ ⬤ ⬤ — ⬤ — LA Laos ⬤ — ⬤ ⬤ ⬤ — ⬤ — LB Lebanon ⬤ — ⬤ ⬤ ⬤ — ⬤ — LC St. Lucia ⬤ — ⬤ ⬤ ⬤ — ⬤ — LI Liechtenstein ⬤ — ⬤ ⬤ ⬤ ⬤ ⬤ — LK Sri Lanka ⬤ — ⬤ ⬤ ⬤ — ⬤ — LR Liberia ⬤ — ⬤ ⬤ ⬤ — ⬤ — LS Lesotho ⬤ — ⬤ ⬤ ⬤ — ⬤ — LT Lithuania ⬤ / ⬤ ⬤ ⬤ ⬤ ⬤ — ⬤ ⬤ LU L"
+      ]
+    },
+    {
+      "url": "https://yandex.com/maps-api/docs/constructor/api.html",
+      "status": 200,
+      "bytes": 57010,
+      "sha256": "66e4c87887813812772c140afa8b4a9272712496db310c8f5573fdb1111400ea",
+      "keyword_contexts": [
+        "on . scroll — Enable the “zooming the map with the mouse wheel” behavior. Accepts the value \"true\". apikey — Yandex Maps API key. If the API key is not specified, the map will not display the following controls: the search bar, button for the route building, and panoramas. Note The widget can be inserted in either the body element or the head element. If",
+        "%3A053bd947d462cc1a45aeba4070defff75501905071c0eaf68436ac9976ec698c&width=514&height=326&lang=en_US&apikey=<API-key>\" > </ script > </ div > </ body > </ html > Example 2. Embedding an interactive map in a defined container <!DOCTYPE html > < html > < head > < title > Example with an interactive map in a specific container </ title > < script type = \"tex",
+        "47d462cc1a45aeba4070defff75501905071c0eaf68436ac9976ec698c&width=514&height=326&id=mymap&lang=en_US&apikey=<API-key>\" > </ script > </ head > < body > < div id = \"mymap\" > </ div > </ body > </ html > Example 3. Embedding an interactive map in a container with set dimensions <!DOCTYPE html > < html > < head > < title > Example with an interactive map in ",
+        "=constructor%3A053bd947d462cc1a45aeba4070defff75501905071c0eaf68436ac9976ec698c&id=mymap&lang=en_US&apikey=<API-key>\" > </ script > </ head > < body > < div id = \"mymap\" style = \"width: 300px; height: 200px\" > </ div > </ body > </ html > Static map Static map A static map is inserted on a page using the img element. Map parameters that can be set in the",
+        "d: ru_RU (default), ru_UA, uk_UA, en_RU, en_US, tr_TR. For more information, see Map localization . apikey — Yandex Maps API key. Note The code snippet can only be embedded in the body element. The examples below demonstrate placing a static map on a page. Example 1. Embedding a static map without specifying its size <!DOCTYPE html > < html > < head > < "
+      ]
+    },
+    {
+      "url": "https://docs.2gis.com/en/maps/others/rasterjs/overview",
+      "status": 200,
+      "bytes": 25567,
+      "sha256": "b26f8cfc13f05b1e460628bfc791929d546405f7f68883fc8e63446a09bfac2f",
+      "keyword_contexts": []
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/azure/azure-maps/render-coverage",
+      "status": 200,
+      "bytes": 59879,
+      "sha256": "5afb4d270a4ae90d0248ff82bed559290cfc6134588e665eda9db18b5c92ad08",
+      "keyword_contexts": []
+    },
+    {
+      "url": "https://developer.tech.yandex.com/",
+      "status": 200,
+      "final_url": "https://passport.yandex.com/auth?retpath=https%3A%2F%2Fyandex.com%2Fmaps-api%2Fconsole&origin=apikeys",
+      "observation": "Redirects to Yandex ID sign-in, offers Create ID. No anonymous API key issuance observed."
+    },
+    {
+      "url": "https://docs.2gis.com/en/platform-manager/subscription/keys",
+      "status": 200,
+      "observation": "One free demo key only, valid one month. Login to Platform Manager, Dashboard, Create a Demo Key, enter name, Create."
+    },
+    {
+      "url": "https://yandex.kz/legal/maps_api/ru/",
+      "status": 200,
+      "observation": "Full live terms read. Section 4.1.1 publicly accessible free projects; 4.1.3 preserve copyright/logo/terms; 4.5 potential ads; 5.1.3 excludes real-time monitoring of people/vehicles/objects and dispatch from free use; 5.1.4 restricts storage/processing of service data."
+    }
+  ],
+  "findings": [
+    {
+      "provider": "TomTom",
+      "status": "Not presently qualified for Qala",
+      "facts": [
+        "Official Landmarks3D plugin streams high-detail GLB meshes and suppresses overlapping extrusions.",
+        "Orbis 3D Landmarks remains Private Preview and requires a key with that explicit entitlement.",
+        "No Astana-specific landmark coverage was established in the examined official material.",
+        "Direct origin documentation already differs from the Exa snapshot: current methods include updateConfig/applyConfig/getConfig/resetConfig, not setDisplayMode."
+      ],
+      "source_urls": [
+        "https://docs.tomtom.com/maps-sdk-js/api-reference/classes/plugins.Landmarks3D.html",
+        "https://docs.tomtom.com/maps-sdk-js/api-reference/variables/plugins.buildLandmarksTileURL.html"
+      ],
+      "quality": "Current implementation vendor documentation; direct-origin HTTP 200 verified. Capability/access evidence is strong; no independent Astana geometry evidence."
+    },
+    {
+      "provider": "HERE",
+      "status": "Detailed-model feature not available in documented web product",
+      "facts": [
+        "Official Style Editor matrix explicitly assigns building landmarks to HERE SDK Navigate only.",
+        "Building extruded explicitly includes HERE Maps API for JavaScript.",
+        "The vector schema contains has_landmark and has_3d_model flags but does not establish delivery to the browser SDK or Astana model presence."
+      ],
+      "source_urls": [
+        "https://docs.here.com/style-editor/docs/features-and-modes",
+        "https://docs.here.com/map-rendering/docs/buildings",
+        "https://docs.here.com/here-sdk/docs/android-introduction-feature-list"
+      ],
+      "quality": "Primary current feature matrix and data schema, direct-origin matrix verified; do not conflate mobile SDK capabilities or general Kazakhstan coverage with web landmark delivery."
+    },
+    {
+      "provider": "Google/Cesium",
+      "status": "No advertised Kazakhstan photorealistic 3D coverage",
+      "facts": [
+        "Official Google country table lists Kazakhstan with 2D map tiles only and no Maps JavaScript 3D support.",
+        "Cesium ion's global catalog combines distinct datasets: world terrain and OSM buildings do not supply detailed captured Astana architecture.",
+        "Native Cesium integration remains useful with a separately authorized municipal or commercial mesh."
+      ],
+      "source_urls": [
+        "https://developers.google.com/maps/coverage",
+        "https://cesium.com/platform/cesium-ion/content"
+      ],
+      "quality": "Official country table directly checked; explicit country/product distinction is stronger than global marketing counts."
+    },
+    {
+      "provider": "Vexcel/Cesium",
+      "status": "Commercial candidate without verified Astana coverage",
+      "facts": [
+        "Vexcel product is a real 3D Tiles reality mesh, distributed commercially through Cesium ion Self-Hosted.",
+        "The inspected official announcement emphasizes United States, Europe, Australia and Japan; it does not identify Astana.",
+        "An Astana-specific footprint/sample/license quote is still required, so it cannot be selected on global marketing coverage alone."
+      ],
+      "source_urls": [
+        "https://cesium.com/blog/2024/06/25/vexcel-cesium/"
+      ],
+      "quality": "Vendor partnership announcement, dated 2024-06-25; establishes product format but incomplete/current coverage needs provider confirmation."
+    },
+    {
+      "provider": "MapTiler",
+      "status": "Not a new detailed Astana mesh source",
+      "facts": [
+        "The actual Astana data catalog offers OSM vector tiles, raster imagery, hillshading and contour lines.",
+        "No detailed Astana textured mesh or I3S/3D Tiles dataset is advertised on that page.",
+        "A Cesium-compatible imagery basemap is not a 3D city dataset."
+      ],
+      "source_urls": [
+        "https://www.maptiler.com/on-prem-datasets/asia/kazakhstan/astana/",
+        "https://docs.maptiler.com/cesium/"
+      ],
+      "quality": "Primary exact-city product catalog; absence limited to the inspected advertised catalog."
+    },
+    {
+      "provider": "Bing/Azure",
+      "status": "No qualified Astana detailed web renderer found",
+      "facts": [
+        "Bing Maps for Enterprise has retired free Basic accounts; existing enterprise customers can continue through 2028-06-30.",
+        "Current Azure render coverage documents raster/vector road tiles, not a 3D city mesh guarantee, and its published country table does not list Kazakhstan.",
+        "A 2022 Microsoft staff Q&A separates extrusions/custom models from Bing textured cities; it is historical context, not conclusive current feature evidence.",
+        "No official Astana photogrammetry coverage or supported route-capable detailed web integration was found."
+      ],
+      "source_urls": [
+        "https://learn.microsoft.com/en-us/bingmaps/coverage/geographic-coverage",
+        "https://learn.microsoft.com/en-us/azure/azure-maps/render-coverage",
+        "https://learn.microsoft.com/en-us/answers/questions/951844/3d-maps-in-azure-maps"
+      ],
+      "quality": "Current official retirement/coverage docs directly checked; historical Q&A explicitly treated as dated supporting context."
+    },
+    {
+      "provider": "Yandex SDK",
+      "status": "Native free-license candidate, owned key and GPS-use eligibility unresolved",
+      "facts": [
+        "Prior project research directly verified Bayterek and alem.ai geometry on provider-hosted API v3 maps.",
+        "Current v3 quickstart explicitly requires an owned API key with configured HTTP Referer.",
+        "Kazakhstan free-use terms allow eligible publicly available projects and retain restrictions/attribution requirements; account-specific eligibility still applies.",
+        "Native YMapFeature/YMapMarker primitives can preserve Qala's external Valhalla polyline and selected-place interaction.",
+        "Kazakhstan section 5.1.3 excludes real-time monitoring of people, vehicles or other objects and dispatch from free use. Personal navigation may differ from monitoring; obtain provider confirmation or applicable commercial terms before claiming Qala's GPS flow qualifies for free use.",
+        "Quickstart key link points to developer.tech.yandex.com, currently redirecting to Yandex ID authentication for maps-api/console; no anonymous issuance found."
+      ],
+      "source_urls": [
+        "https://yandex.com/maps-api/docs/js-api/quickstart.html",
+        "https://yandex.kz/legal/maps_api/ru/",
+        "https://yandex.com/maps-api/docs/js-api/examples/cases/customization.html"
+      ],
+      "quality": "Primary docs/terms plus earlier direct SDK screenshot evidence in astana-3d-sdk.md; no owned key or fresh runtime success in Qala."
+    },
+    {
+      "provider": "Yandex no-key widgets",
+      "status": "Permitted limited embedding, not native Qala replacement",
+      "facts": [
+        "Map Constructor documents no-key saved interactive maps using script embedding; omitted key removes search, route-building and panorama controls.",
+        "Its documented parameters are saved-map ID, container, dimensions, language and scroll behavior; no public dynamic arbitrary-geometry/selection bridge is documented.",
+        "The ordinary share widget can embed a route, but provider documentation says it redraws the route at viewing time rather than guaranteeing Valhalla geometry.",
+        "Detailed 3D availability/parity of Constructor was not verified; do not assume it inherits consumer 3D."
+      ],
+      "source_urls": [
+        "https://yandex.com/maps-api/docs/constructor/api.html",
+        "https://yandex.com/support/maps/en/concept/get-map-reference",
+        "https://yandex.com/dev/maps/mapstools/"
+      ],
+      "quality": "Official supported interface documentation, directly checked for Constructor; no unsupported interception of generated map internals."
+    },
+    {
+      "provider": "2GIS no-key claims",
+      "status": "Old FAQ does not override current keyed MapGL documentation",
+      "facts": [
+        "Older official FAQ/help pages say maps need no key, but describe older APIs/widgets.",
+        "Current API Platform documentation explicitly requires demo/subscription keys for map APIs; current RasterJS terms likewise charge per raster tile and impose key limits.",
+        "No examined supported credential-free 3D MapGL route/pin integration was found.",
+        "Current owned-account demo issuance path is Platform Manager Dashboard > Create a Demo Key > name > Create; one-time, one month."
+      ],
+      "source_urls": [
+        "https://api.2gis.ru/doc/faq/",
+        "https://help.2gis.com/question/api2gis",
+        "https://docs.2gis.com/en/api-platform",
+        "https://docs.2gis.com/en/maps/others/rasterjs/overview"
+      ],
+      "quality": "Both old and current primary pages are retained to expose the contradiction; current product-specific documentation receives greater weight."
+    }
+  ]
+}

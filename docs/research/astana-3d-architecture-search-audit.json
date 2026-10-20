@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-19",
+  "workstream": "Root: architecture, global coverage, mesh formats, datum and migration",
+  "requested_slots": 57,
+  "returned_entries": 57,
+  "unique_result_urls": 51,
+  "notes": "Search result slots and URLs are discovery accounting, not a count of independently verified sources. Selected primary documentation was fetched; provider preview and municipal API findings have separate evidence files. Obvious malformed XML-injection result URL excluded.",
+  "queries": [
+    {
+      "query_id": "astana_deep_arch1_0",
+      "requested": 5,
+      "returned_entries": 5,
+      "urls": [
+        "https://developers.arcgis.com/cesiumjs/layers/add-an-integrated-mesh/",
+        "https://cesium.com/learn/cesiumjs-learn/drape-and-style-vector-data-on-terrain-and-3d-tile/",
+        "https://cesium.com/learn/cesiumjs/ref-doc/I3SDataProvider.html",
+        "https://www.esri.com/arcgis-blog/products/developers/3d-gis/ogc-i3s-cesiumjs",
+        "https://cesium.com/blog/2023/02/06/cesiumjs-adds-support-for-indexed-3d-scene-layers-i3s/"
+      ]
+    },
+    {
+      "query_id": "astana_deep_arch1_1",
+      "requested": 8,
+      "returned_entries": 8,
+      "urls": [
+        "https://www.skylinesoft.com/photomesh-drone/",
+        "https://astanatimes.com/2025/02/astana-advances-smart-city-initiative-with-ai-powered-surveillance-digital-twin-technology/",
+        "https://astana.kz/en/tours",
+        "https://vexceldata.com/products/3d-cities/",
+        "https://www.skylinesoft.com/KB_Resources/SG%20General/ProductsOverview.pdf",
+        "https://www.skylinesoft.com/inspection/",
+        "https://www.skylinesoft.com/terraexplorer-for-desktop/"
+      ]
+    },
+    {
+      "query_id": "astana_deep_arch1_2",
+      "requested": 5,
+      "returned_entries": 5,
+      "urls": [
+        "https://maplibre.org/maplibre-gl-js/docs/examples/add-3d-tiles-using-threejs/",
+        "https://github.com/opengeos/maplibre-gl-3d-tiles",
+        "https://maplibre.org/maplibre-gl-js/docs/examples/adding-3d-models-using-threejs-on-terrain/",
+        "https://gkjohnson.github.io/tools/docs/3d-tiles-renderer/",
+        "https://www.maplibre.org/maplibre-gl-js/docs/examples/3d-terrain/"
+      ]
+    },
+    {
+      "query_id": "astana_deep_arch2_0",
+      "requested": 6,
+      "returned_entries": 6,
+      "urls": [
+        "https://www.smartcitiesworld.net/digital-twins/city-of-astana-to-deploy-190m-ai-powered-smart-city-project",
+        "https://intranews.kz/old/intervyu-s-vedushchim-inzhenerom-gis-o-cifrovyh-dvoynikah",
+        "https://www.gov.kz/Smart%20Astana",
+        "https://astanatimes.com/2025/02/astana-advances-smart-city-initiative-with-ai-powered-surveillance-digital-twin-technology/",
+        "https://map.gov.kz/",
+        "https://www.inastana.kz/list/485942"
+      ]
+    },
+    {
+      "query_id": "astana_deep_arch2_1",
+      "requested": 5,
+      "returned_entries": 5,
+      "urls": [
+        "https://vexceldata.com/products/3d-cities/",
+        "https://vexceldata.com/vexcel-announces-3d-models-for-metro-areas-around-the-world/",
+        "https://vexceldata.com/stories/vexcel-announces-partnership-with-cesium/",
+        "https://www.prnewswire.com/news-releases/vexcel-announces-3d-models-for-metro-areas-around-the-world-302029077.html",
+        "https://vexceldata.com/countries/"
+      ]
+    },
+    {
+      "query_id": "astana_deep_arch2_2",
+      "requested": 5,
+      "returned_entries": 5,
+      "urls": [
+        "https://cesium.com/platform/cesium-ion/content/cesium-osm-buildings/",
+        "https://cesium.com/platform/cesium-ion/content",
+        "https://cesium.com/blog/2020/06/01/cesium-osm-buildings",
+        "https://cesium.com/platform/cesium-ion/3d-tiling-pipeline/3d-buildings/",
+        "https://cesium.com/platform/cesium-ion/"
+      ]
+    },
+    {
+      "query_id": "astana_deep_arch3_0",
+      "requested": 5,
+      "returned_entries": 5,
+      "urls": [
+        "https://cesium.com/learn/cesiumjs/ref-doc/I3SDataProvider.html",
+        "https://doc.esri.com/en/arcgis-pro/latest/help/data/services/use-web-scene-layers.html",
+        "https://community.cesium.com/t/i3s-works-but-is-slpk-file-supported/23729",
+        "https://docs.ogc.org/cs/17-014r8/17-014r8.html",
+        "https://cesium.com/learn/ion-sdk/ref-doc/I3SDataProvider.html"
+      ]
+    },
+    {
+      "query_id": "astana_deep_arch3_1",
+      "requested": 5,
+      "returned_entries": 5,
+      "urls": [
+        "https://loaders.gl/docs/modules/tile-converter/cli-reference/tile-converter",
+        "https://loaders.gl/docs/whats-new",
+        "https://loaders.gl/docs/modules/tile-converter/cli-reference/supported-features",
+        "https://loaders.gl/docs/modules/tile-converter/cli-reference/i3s-server",
+        "https://github.com/visgl/loaders.gl/issues/1412"
+      ]
+    },
+    {
+      "query_id": "astana_deep_arch4_0",
+      "requested": 5,
+      "returned_entries": 5,
+      "urls": [
+        "https://github.com/Esri/i3s-spec/blob/master/i3s_converter/i3s_converter_ReadMe.md",
+        "https://github.com/Esri/i3s-spec/blob/master/i3s_converter/i3s_converter_examples.md",
+        "https://github.com/Esri/i3s-spec/tree/master/i3s_converter",
+        "https://doc.esri.com/en/arcgis-pro/latest/tool-reference/data-management/upgrade-scene-layer.html",
+        "https://www.esri.com/arcgis-blog/products/arcgis-pro/3d-gis/i3s-specification-1-7-updates"
+      ]
+    },
+    {
+      "query_id": "astana_deep_arch4_1",
+      "requested": 3,
+      "returned_entries": 3,
+      "urls": [
+        "https://epsg.org/crs_5773/EGM96-height.html",
+        "https://epsg.org/crs_5773/index.html",
+        "https://spatialreference.org/ref/epsg/5773/wkt.html"
+      ]
+    },
+    {
+      "query_id": "astana_deep_arch4_2",
+      "requested": 5,
+      "returned_entries": 5,
+      "urls": [
+        "https://www.esri.com/arcgis-blog/products/developers/3d-gis/ogc-i3s-cesiumjs",
+        "https://cesium.com/learn/cesiumjs/ref-doc/I3SDataProvider.html",
+        "https://github.com/CesiumGS/cesium/pull/9634",
+        "https://cesium.com/downloads/cesiumjs/releases/1.99/Build/Documentation/I3SDataProvider.html",
+        "https://github.com/CesiumGS/cesium/blob/0becdbfc/Apps/Sandcastle/gallery/I3S%20IntegratedMesh%20Layer.html"
+      ]
+    }
+  ]
+}

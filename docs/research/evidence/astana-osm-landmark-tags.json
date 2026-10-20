@@ -1,0 +1,1938 @@
+{
+  "accessed_utc": "2026-10-19T11:56:09.204514+00:00",
+  "endpoint": "https://overpass.kumi.systems/api/interpreter",
+  "landmarks": {
+    "bayterek": {
+      "query": "[out:json][timeout:25];nwr(around:160,51.1283,71.43048);out tags center;",
+      "url": "https://overpass.kumi.systems/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Bnwr%28around%3A160%2C51.1283%2C71.43048%29%3Bout+tags+center%3B",
+      "status": 200,
+      "failed_attempts": [
+        {
+          "query": "[out:json][timeout:25];(nwr[\"building\"](around:160,51.1283,71.43048);nwr[\"building:part\"](around:160,51.1283,71.43048););out tags center;",
+          "url": "https://overpass.kumi.systems/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%28nwr%5B%22building%22%5D%28around%3A160%2C51.1283%2C71.43048%29%3Bnwr%5B%22building%3Apart%22%5D%28around%3A160%2C51.1283%2C71.43048%29%3B%29%3Bout+tags+center%3B",
+          "status": 500,
+          "error": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html><head>\n<title>500 Internal Server Error</title>\n</head><body>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error or\nmisconfiguration and was unable to complete\nyour request.</p>\n<p>Please contact the server administrator at \n webmaster@localhost to inform them of the time this error occurred,\n and the actions you performed just before this error.</p>\n<p>More information about this error may be available\nin the server error log.</p>\n<hr>\n<address>Apache/2.4.66 (Debian) Server at overpass Port 80</address>\n</body></html>\n"
+        }
+      ],
+      "all_element_count": 1099,
+      "response": {
+        "version": 0.6,
+        "generator": "Overpass API 0.7.62.11 87bfad18",
+        "osm3s": {
+          "timestamp_osm_base": "2026-07-24T11:04:51Z",
+          "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+        },
+        "elements": [
+          {
+            "type": "way",
+            "id": 230401644,
+            "center": {
+              "lat": 51.1282795,
+              "lon": 71.4305128
+            },
+            "tags": {
+              "building:colour": "#C3B391",
+              "building:levels": "30",
+              "building:min_level": "27",
+              "building:part": "yes",
+              "name": "Байтерек",
+              "name:en": "Baiterek Tower",
+              "name:ja": "バイテレック・タワー",
+              "roof:shape": "orb"
+            }
+          },
+          {
+            "type": "way",
+            "id": 230401645,
+            "center": {
+              "lat": 51.1282835,
+              "lon": 71.430515
+            },
+            "tags": {
+              "access": "yes",
+              "addr:city": "Астана",
+              "addr:country": "KZ",
+              "addr:housenumber": "14",
+              "addr:street": "Нұржол желек жолы",
+              "building": "yes",
+              "building:levels": "27",
+              "historic": "monument",
+              "layer": "1",
+              "name": "Бәйтерек",
+              "name:de": "Bajterek-Turm",
+              "name:en": "Bayterek",
+              "name:ja": "バイテレック・タワー・タワー",
+              "name:kk": "Бәйтерек",
+              "name:ml": "ബൈറ്റെറെക് ടവർ",
+              "name:ru": "Байтерек",
+              "wikidata": "Q804210",
+              "wikipedia": "kk:Бәйтерек (монумент)",
+              "wikipedia:ru": "ru:Байтерек (монумент)"
+            }
+          }
+        ]
+      }
+    },
+    "nur_alem": {
+      "query": "[out:json][timeout:25];(nwr[\"building\"](around:200,51.0894,71.4155);nwr[\"building:part\"](around:200,51.0894,71.4155);nwr[\"roof:shape\"](around:200,51.0894,71.4155);nwr[\"3dmr\"](around:200,51.0894,71.4155););out meta center;",
+      "url": "https://overpass.kumi.systems/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%28nwr%5B%22building%22%5D%28around%3A200%2C51.0894%2C71.4155%29%3Bnwr%5B%22building%3Apart%22%5D%28around%3A200%2C51.0894%2C71.4155%29%3Bnwr%5B%22roof%3Ashape%22%5D%28around%3A200%2C51.0894%2C71.4155%29%3Bnwr%5B%223dmr%22%5D%28around%3A200%2C51.0894%2C71.4155%29%3B%29%3Bout+meta+center%3B",
+      "status": 200,
+      "response": {
+        "version": 0.6,
+        "generator": "Overpass API 0.7.62.11 87bfad18",
+        "osm3s": {
+          "timestamp_osm_base": "2026-07-15T15:22:01Z",
+          "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+        },
+        "elements": [
+          {
+            "type": "way",
+            "id": 454857501,
+            "timestamp": "2026-03-08T06:02:41Z",
+            "version": 15,
+            "changeset": 179519401,
+            "user": "Aianov",
+            "uid": 20180657,
+            "center": {
+              "lat": 51.089252,
+              "lon": 71.4161925
+            },
+            "nodes": [
+              13408473430,
+              13408473431,
+              13408473432,
+              13408473433,
+              13408473461,
+              13408473460,
+              13408473434,
+              13408473435,
+              13408473436,
+              13408473437,
+              13408473459,
+              13408473458,
+              13408473457,
+              13408473438,
+              13408473439,
+              13408473440,
+              13408473441,
+              13408473456,
+              13408473455,
+              13408473454,
+              13408473442,
+              13408473443,
+              13408473417,
+              13408473399,
+              13408473416,
+              13408473400,
+              13408473415,
+              13408473401,
+              13408473414,
+              13408473402,
+              13408473413,
+              13408473403,
+              13408473412,
+              13408473404,
+              13408473411,
+              13408473405,
+              13408473428,
+              13408473406,
+              13408473429,
+              13408473444,
+              13408473445,
+              13408473468,
+              13408473467,
+              13408473466,
+              13408473465,
+              13408473464,
+              13408473446,
+              13408473447,
+              13408473448,
+              13408473449,
+              13408473463,
+              13408473462,
+              13408473450,
+              13408473451,
+              13408473452,
+              13408473453,
+              13408473430
+            ],
+            "tags": {
+              "addr:city": "Астана",
+              "addr:housenumber": "В1",
+              "addr:street": "Мәңгілік Ел даңғылы",
+              "building": "office",
+              "museum": "future",
+              "name": "Alem.ai",
+              "name:kk": "Alem.ai Халықаралық Жасанды Интеллект Орталығы",
+              "name:ru": "Alem.ai Международный центр искусственного интеллекта",
+              "office": "yes",
+              "website": "https://alem.ai/kk/"
+            }
+          },
+          {
+            "type": "way",
+            "id": 607960215,
+            "timestamp": "2025-12-26T12:37:05Z",
+            "version": 5,
+            "changeset": 176436995,
+            "user": "Aianov",
+            "uid": 20180657,
+            "center": {
+              "lat": 51.0886452,
+              "lon": 71.415138
+            },
+            "nodes": [
+              5760645011,
+              13408473388,
+              13408473389,
+              13408473390,
+              13408473391,
+              5760645010,
+              13408473374,
+              13408473375,
+              13408473376,
+              5760645009,
+              5760645008,
+              13408473377,
+              5760645007,
+              5760645006,
+              13408473378,
+              13408473379,
+              5760645005,
+              13408473380,
+              13408473381,
+              5760645004,
+              5760645003,
+              5760645002,
+              5760645001,
+              13408473382,
+              13408473383,
+              13408473384,
+              5760645000,
+              5760644999,
+              5760644998,
+              13408473385,
+              13408473386,
+              5760644997,
+              5760644996,
+              13408473387,
+              5760644995,
+              5760644994,
+              5760645011
+            ],
+            "tags": {
+              "addr:city": "Астана",
+              "addr:housenumber": "В2.4",
+              "addr:street": "Мәңгілік Ел даңғылы",
+              "building": "office",
+              "building:colour": "#506886",
+              "building:levels": "2",
+              "building:material": "glass",
+              "height": "6",
+              "roof:colour": "#8a8a8a",
+              "roof:shape": "flat"
+            }
+          },
+          {
+            "type": "way",
+            "id": 607960216,
+            "timestamp": "2025-12-26T11:12:14Z",
+            "version": 4,
+            "changeset": 176432998,
+            "user": "Aianov",
+            "uid": 20180657,
+            "center": {
+              "lat": 51.088489,
+              "lon": 71.4166197
+            },
+            "nodes": [
+              5760645033,
+              13408473362,
+              5760645032,
+              13408473361,
+              13408473360,
+              13408473359,
+              5760645031,
+              5760645030,
+              13408473358,
+              5760645029,
+              5760645028,
+              5760645027,
+              13408473367,
+              13408473368,
+              13408473369,
+              13408473370,
+              5760645026,
+              5760645025,
+              13408473371,
+              5760645024,
+              5760645023,
+              5760645022,
+              13408473372,
+              5760645021,
+              5760645020,
+              5760645019,
+              5760645018,
+              5760645017,
+              13408473373,
+              5760645016,
+              5760645015,
+              5760645014,
+              5760645013,
+              13408473364,
+              13408473365,
+              13408473366,
+              5760645012,
+              13408473363,
+              5760645033
+            ],
+            "tags": {
+              "addr:city": "Астана",
+              "addr:housenumber": "В2.3",
+              "addr:street": "Мәңгілік Ел даңғылы",
+              "building": "office",
+              "building:colour": "#506886",
+              "building:levels": "2",
+              "building:material": "glass",
+              "height": "6",
+              "roof:colour": "#8a8a8a",
+              "roof:shape": "flat"
+            }
+          },
+          {
+            "type": "way",
+            "id": 607960217,
+            "timestamp": "2026-03-11T06:04:02Z",
+            "version": 5,
+            "changeset": 179674430,
+            "user": "Ruslan Fatih",
+            "uid": 12875574,
+            "center": {
+              "lat": 51.0891618,
+              "lon": 71.4174089
+            },
+            "nodes": [
+              5760645050,
+              13408473331,
+              13408473332,
+              5760645049,
+              13408473333,
+              13408473334,
+              5760645048,
+              5760645047,
+              13408473335,
+              13408473336,
+              13408473337,
+              13408473354,
+              5760645046,
+              5760645045,
+              13408473355,
+              5760645044,
+              5760645043,
+              13408473480,
+              5760645042,
+              13408473353,
+              13408473338,
+              5760645041,
+              13408473352,
+              13408473339,
+              5760645040,
+              5760645039,
+              13408473340,
+              5760645038,
+              13408473341,
+              13408473342,
+              13408473343,
+              5760645037,
+              5760645036,
+              5760645035,
+              13408473344,
+              13408473345,
+              5760645034,
+              13408473346,
+              13408473347,
+              13408473348,
+              13408473349,
+              13408473350,
+              13408473351,
+              13408473330,
+              5760645050
+            ],
+            "tags": {
+              "addr:city": "Астана",
+              "addr:country": "KZ",
+              "addr:housenumber": "В2.2",
+              "addr:street": "Мәңгілік Ел даңғылы",
+              "building": "yes",
+              "building:colour": "#506886",
+              "building:levels": "2",
+              "building:material": "glass",
+              "height": "6",
+              "roof:colour": "#8a8a8a",
+              "roof:shape": "flat"
+            }
+          },
+          {
+            "type": "way",
+            "id": 1421552842,
+            "timestamp": "2026-03-11T06:04:50Z",
+            "version": 2,
+            "changeset": 179674455,
+            "user": "Ruslan Fatih",
+            "uid": 12875574,
+            "center": {
+              "lat": 51.0904823,
+              "lon": 71.4142641
+            },
+            "nodes": [
+              13063619479,
+              13063619486,
+              13063619487,
+              13063619488,
+              13063619489,
+              13063619490,
+              13063619477,
+              13063619478,
+              13063619480,
+              13063619481,
+              13063619482,
+              13063619483,
+              13063619484,
+              13063619485,
+              13063619479
+            ],
+            "tags": {
+              "addr:city": "Астана",
+              "addr:country": "KZ",
+              "building": "yes",
+              "leisure": "bandstand"
+            }
+          },
+          {
+            "type": "way",
+            "id": 1421567638,
+            "timestamp": "2026-03-11T06:04:50Z",
+            "version": 2,
+            "changeset": 179674455,
+            "user": "Ruslan Fatih",
+            "uid": 12875574,
+            "center": {
+              "lat": 51.0907601,
+              "lon": 71.4144031
+            },
+            "nodes": [
+              13063751917,
+              13063751918,
+              13063751919,
+              13063751920,
+              13063751921,
+              13063751922,
+              13063751923,
+              13063751924,
+              13063751925,
+              13063751926,
+              13063751927,
+              13063751928,
+              13063751929,
+              13063751930,
+              13063751917
+            ],
+            "tags": {
+              "addr:city": "Астана",
+              "addr:country": "KZ",
+              "building": "yes",
+              "building:levels": "1",
+              "roof:colour": "#454545"
+            }
+          },
+          {
+            "type": "way",
+            "id": 1421567645,
+            "timestamp": "2026-03-11T06:04:50Z",
+            "version": 2,
+            "changeset": 179674455,
+            "user": "Ruslan Fatih",
+            "uid": 12875574,
+            "center": {
+              "lat": 51.0908283,
+              "lon": 71.4147956
+            },
+            "nodes": [
+              13063757862,
+              13063757863,
+              13063757864,
+              13063757865,
+              13063757862
+            ],
+            "tags": {
+              "addr:city": "Астана",
+              "addr:country": "KZ",
+              "building": "yes",
+              "building:levels": "1",
+              "roof:colour": "#454545"
+            }
+          },
+          {
+            "type": "way",
+            "id": 1421567714,
+            "timestamp": "2026-03-11T06:04:50Z",
+            "version": 2,
+            "changeset": 179674455,
+            "user": "Ruslan Fatih",
+            "uid": 12875574,
+            "center": {
+              "lat": 51.0899105,
+              "lon": 71.4133722
+            },
+            "nodes": [
+              13063758926,
+              13063758927,
+              13063758928,
+              13063758929,
+              13063758930,
+              13063758931,
+              13063758932,
+              13063758933,
+              13063758934,
+              13063758935,
+              13063758936,
+              13063758937,
+              13063758938,
+              13063758939,
+              13063758926
+            ],
+            "tags": {
+              "addr:city": "Астана",
+              "addr:country": "KZ",
+              "building": "yes",
+              "building:levels": "1",
+              "roof:colour": "#454545"
+            }
+          },
+          {
+            "type": "way",
+            "id": 1421567761,
+            "timestamp": "2026-03-11T06:04:50Z",
+            "version": 2,
+            "changeset": 179674455,
+            "user": "Ruslan Fatih",
+            "uid": 12875574,
+            "center": {
+              "lat": 51.0910454,
+              "lon": 71.4153065
+            },
+            "nodes": [
+              13063759381,
+              13063759382,
+              13063759383,
+              13063759384,
+              13063759385,
+              13063759386,
+              13063759387,
+              13063759388,
+              13063759389,
+              13063759390,
+              13063759391,
+              13063759392,
+              13063759393,
+              13063759394,
+              13063759381
+            ],
+            "tags": {
+              "addr:city": "Астана",
+              "addr:country": "KZ",
+              "building": "yes",
+              "building:levels": "1",
+              "roof:colour": "#454545"
+            }
+          },
+          {
+            "type": "way",
+            "id": 1461813334,
+            "timestamp": "2025-12-26T12:14:38Z",
+            "version": 2,
+            "changeset": 176436065,
+            "user": "Aianov",
+            "uid": 20180657,
+            "center": {
+              "lat": 51.0893135,
+              "lon": 71.4161543
+            },
+            "nodes": [
+              13408473401,
+              13408473415,
+              13408473400,
+              13408473416,
+              13408473399,
+              13408473417,
+              13408473443,
+              13408473398,
+              13408473418,
+              13408473397,
+              13408473419,
+              13408473396,
+              13408473420,
+              13408473395,
+              13408473421,
+              13408473394,
+              13408473422,
+              13408473393,
+              13408473423,
+              13408473392,
+              13408473424,
+              13408473410,
+              13408473425,
+              13408473409,
+              13408473426,
+              13408473408,
+              13408473427,
+              13408473407,
+              13408473444,
+              13408473429,
+              13408473406,
+              13408473428,
+              13408473405,
+              13408473411,
+              13408473404,
+              13408473412,
+              13408473403,
+              13408473413,
+              13408473402,
+              13408473414,
+              13408473401
+            ],
+            "tags": {
+              "building:colour": "#506886",
+              "building:levels": "8",
+              "building:material": "glass",
+              "building:part": "yes",
+              "diameter": "100",
+              "height": "100",
+              "roof:colour": "#506886",
+              "roof:height": "50",
+              "roof:material": "glass",
+              "roof:shape": "round"
+            }
+          },
+          {
+            "type": "way",
+            "id": 1461813335,
+            "timestamp": "2025-12-26T11:12:14Z",
+            "version": 1,
+            "changeset": 176432998,
+            "user": "Aianov",
+            "uid": 20180657,
+            "center": {
+              "lat": 51.0891573,
+              "lon": 71.4161925
+            },
+            "nodes": [
+              13408473398,
+              13408473443,
+              13408473442,
+              13408473454,
+              13408473455,
+              13408473456,
+              13408473441,
+              13408473440,
+              13408473439,
+              13408473438,
+              13408473457,
+              13408473458,
+              13408473459,
+              13408473437,
+              13408473436,
+              13408473435,
+              13408473434,
+              13408473460,
+              13408473461,
+              13408473433,
+              13408473432,
+              13408473431,
+              13408473430,
+              13408473453,
+              13408473452,
+              13408473451,
+              13408473450,
+              13408473462,
+              13408473463,
+              13408473449,
+              13408473448,
+              13408473447,
+              13408473446,
+              13408473464,
+              13408473465,
+              13408473466,
+              13408473467,
+              13408473468,
+              13408473445,
+              13408473444,
+              13408473407,
+              13408473427,
+              13408473408,
+              13408473426,
+              13408473409,
+              13408473425,
+              13408473410,
+              13408473424,
+              13408473392,
+              13408473423,
+              13408473393,
+              13408473422,
+              13408473394,
+              13408473421,
+              13408473395,
+              13408473420,
+              13408473396,
+              13408473419,
+              13408473397,
+              13408473418,
+              13408473398
+            ],
+            "tags": {
+              "building:colour": "#506886",
+              "building:levels": "2",
+              "building:material": "glass",
+              "building:part": "yes",
+              "height": "6",
+              "roof:colour": "#506886",
+              "roof:material": "glass",
+              "roof:shape": "flat"
+            }
+          },
+          {
+            "type": "way",
+            "id": 1461813336,
+            "timestamp": "2025-12-26T11:12:14Z",
+            "version": 1,
+            "changeset": 176432998,
+            "user": "Aianov",
+            "uid": 20180657,
+            "center": {
+              "lat": 51.0890186,
+              "lon": 71.4161593
+            },
+            "nodes": [
+              13408473332,
+              13408473469,
+              13408473470,
+              13408473471,
+              13408473472,
+              13408473473,
+              13408473467,
+              13408473466,
+              13408473465,
+              13408473464,
+              13408473446,
+              13408473447,
+              13408473448,
+              13408473449,
+              13408473463,
+              13408473462,
+              13408473450,
+              13408473451,
+              13408473452,
+              13408473453,
+              13408473430,
+              13408473431,
+              13408473432,
+              13408473433,
+              13408473461,
+              13408473460,
+              13408473434,
+              13408473435,
+              13408473436,
+              13408473437,
+              13408473459,
+              13408473458,
+              13408473457,
+              13408473438,
+              13408473439,
+              13408473440,
+              13408473441,
+              13408473456,
+              13408473455,
+              13408473474,
+              13408473475,
+              13408473476,
+              13408473477,
+              13408473478,
+              13408473479,
+              13408473375,
+              13408473376,
+              5760645009,
+              5760645008,
+              13408473377,
+              5760645007,
+              5760645006,
+              13408473378,
+              13408473379,
+              5760645005,
+              13408473486,
+              13408473482,
+              13408473485,
+              13408473481,
+              13408473484,
+              13408473483,
+              13408473487,
+              5760645027,
+              5760645028,
+              5760645029,
+              13408473358,
+              5760645030,
+              5760645031,
+              13408473359,
+              13408473360,
+              13408473361,
+              5760645032,
+              13408473493,
+              13408473489,
+              13408473492,
+              13408473488,
+              13408473491,
+              13408473490,
+              13408473494,
+              13408473480,
+              5760645044,
+              13408473355,
+              5760645045,
+              5760645046,
+              13408473354,
+              13408473337,
+              13408473336,
+              13408473335,
+              5760645047,
+              5760645048,
+              13408473334,
+              13408473333,
+              5760645049,
+              13408473332
+            ],
+            "tags": {
+              "building": "roof",
+              "building:levels": "2",
+              "height": "6",
+              "layer": "1",
+              "min_height": "5.9",
+              "roof:colour": "#acb0b9",
+              "roof:material": "glass",
+              "roof:shape": "flat"
+            }
+          },
+          {
+            "type": "relation",
+            "id": 8448517,
+            "timestamp": "2026-03-11T06:04:54Z",
+            "version": 4,
+            "changeset": 179674468,
+            "user": "Ruslan Fatih",
+            "uid": 12875574,
+            "center": {
+              "lat": 51.0907754,
+              "lon": 71.4183346
+            },
+            "members": [
+              {
+                "type": "way",
+                "ref": 454858073,
+                "role": "outer"
+              },
+              {
+                "type": "way",
+                "ref": 607960212,
+                "role": "inner"
+              }
+            ],
+            "tags": {
+              "addr:city": "Астана",
+              "addr:country": "KZ",
+              "addr:housenumber": "41/1",
+              "addr:street": "Мәңгілік Ел даңғылы",
+              "building": "yes",
+              "building:colour": "#506886",
+              "building:levels": "4",
+              "building:material": "glass",
+              "height": "9",
+              "name": "Павильон С1",
+              "roof:colour": "#8a8a8a",
+              "roof:shape": "flat",
+              "type": "multipolygon"
+            }
+          },
+          {
+            "type": "relation",
+            "id": 8448518,
+            "timestamp": "2026-03-11T06:04:54Z",
+            "version": 5,
+            "changeset": 179674468,
+            "user": "Ruslan Fatih",
+            "uid": 12875574,
+            "center": {
+              "lat": 51.0890091,
+              "lon": 71.419011
+            },
+            "members": [
+              {
+                "type": "way",
+                "ref": 607960213,
+                "role": "inner"
+              },
+              {
+                "type": "way",
+                "ref": 1461813330,
+                "role": "outer"
+              }
+            ],
+            "tags": {
+              "addr:city": "Астана",
+              "addr:country": "KZ",
+              "addr:housenumber": "41/2",
+              "addr:street": "Мәңгілік Ел даңғылы",
+              "building": "yes",
+              "building:colour": "#506886",
+              "building:levels": "4",
+              "building:material": "glass",
+              "height": "9",
+              "layer": "1",
+              "name": "Павильон С2",
+              "roof:colour": "#8a8a8a",
+              "roof:shape": "flat",
+              "type": "multipolygon"
+            }
+          },
+          {
+            "type": "relation",
+            "id": 8448519,
+            "timestamp": "2026-03-11T06:04:54Z",
+            "version": 6,
+            "changeset": 179674468,
+            "user": "Ruslan Fatih",
+            "uid": 12875574,
+            "center": {
+              "lat": 51.0875399,
+              "lon": 71.4172938
+            },
+            "members": [
+              {
+                "type": "way",
+                "ref": 607960214,
+                "role": "inner"
+              },
+              {
+                "type": "way",
+                "ref": 1461813331,
+                "role": "outer"
+              }
+            ],
+            "tags": {
+              "addr:city": "Астана",
+              "addr:country": "KZ",
+              "addr:housenumber": "41/3",
+              "addr:street": "Мәңгілік Ел даңғылы",
+              "building": "yes",
+              "building:colour": "#506886",
+              "building:levels": "4",
+              "building:material": "glass",
+              "height": "9",
+              "name": "Павильон С3",
+              "roof:colour": "#8a8a8a",
+              "roof:shape": "flat",
+              "type": "multipolygon"
+            }
+          },
+          {
+            "type": "relation",
+            "id": 8448520,
+            "timestamp": "2026-03-11T06:04:54Z",
+            "version": 6,
+            "changeset": 179674468,
+            "user": "Ruslan Fatih",
+            "uid": 12875574,
+            "center": {
+              "lat": 51.0878667,
+              "lon": 71.4137376
+            },
+            "members": [
+              {
+                "type": "way",
+                "ref": 1461813332,
+                "role": "inner"
+              },
+              {
+                "type": "way",
+                "ref": 1461813333,
+                "role": "outer"
+              }
+            ],
+            "tags": {
+              "addr:city": "Астана",
+              "addr:country": "KZ",
+              "addr:housenumber": "41/4",
+              "addr:street": "Мәңгілік Ел даңғылы",
+              "building": "yes",
+              "building:colour": "#506886",
+              "building:levels": "4",
+              "building:material": "glass",
+              "height": "9",
+              "name": "Павильон С4",
+              "roof:colour": "#8a8a8a",
+              "roof:shape": "flat",
+              "type": "multipolygon"
+            }
+          }
+        ]
+      }
+    },
+    "khan_shatyr": {
+      "query": "[out:json][timeout:25];nwr(around:220,51.1326,71.4032);out tags center;",
+      "url": "https://overpass.kumi.systems/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Bnwr%28around%3A220%2C51.1326%2C71.4032%29%3Bout+tags+center%3B",
+      "status": 500,
+      "error": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html><head>\n<title>500 Internal Server Error</title>\n</head><body>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error or\nmisconfiguration and was unable to complete\nyour request.</p>\n<p>Please contact the server administrator at \n webmaster@localhost to inform them of the time this error occurred,\n and the actions you performed just before this error.</p>\n<p>More information about this error may be available\nin the server error log.</p>\n<hr>\n<address>Apache/2.4.66 (Debian) Server at overpass Port 80</address>\n</body></html>\n",
+      "failed_attempts": [
+        {
+          "query": "[out:json][timeout:25];(nwr[\"building\"](around:220,51.1326,71.4032);nwr[\"building:part\"](around:220,51.1326,71.4032););out tags center;",
+          "url": "https://overpass.kumi.systems/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%28nwr%5B%22building%22%5D%28around%3A220%2C51.1326%2C71.4032%29%3Bnwr%5B%22building%3Apart%22%5D%28around%3A220%2C51.1326%2C71.4032%29%3B%29%3Bout+tags+center%3B",
+          "status": 500,
+          "error": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html><head>\n<title>500 Internal Server Error</title>\n</head><body>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error or\nmisconfiguration and was unable to complete\nyour request.</p>\n<p>Please contact the server administrator at \n webmaster@localhost to inform them of the time this error occurred,\n and the actions you performed just before this error.</p>\n<p>More information about this error may be available\nin the server error log.</p>\n<hr>\n<address>Apache/2.4.66 (Debian) Server at overpass Port 80</address>\n</body></html>\n"
+        }
+      ],
+      "fallback_url": "https://api.openstreetmap.org/api/0.6/map?bbox=71.399700%2C51.130400%2C71.406700%2C51.134800",
+      "fallback_status": 200,
+      "fallback_all_element_count": 3701,
+      "fallback_elements": [
+        {
+          "type": "way",
+          "id": 108292453,
+          "version": "27",
+          "timestamp": "2025-11-09T11:34:59Z",
+          "tags": {
+            "building:part": "yes"
+          }
+        },
+        {
+          "type": "way",
+          "id": 240909223,
+          "version": "11",
+          "timestamp": "2025-12-19T15:41:57Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:country": "KZ",
+            "addr:housenumber": "37/9",
+            "addr:street": "Тұран даңғылы",
+            "building": "yes",
+            "building:levels": "26"
+          }
+        },
+        {
+          "type": "way",
+          "id": 243067371,
+          "version": "10",
+          "timestamp": "2025-12-19T15:41:57Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:country": "KZ",
+            "addr:housenumber": "37/10",
+            "addr:street": "Тұран даңғылы",
+            "building": "yes",
+            "building:levels": "17"
+          }
+        },
+        {
+          "type": "way",
+          "id": 460703777,
+          "version": "5",
+          "timestamp": "2025-11-09T11:34:59Z",
+          "tags": {
+            "addr:country": "KZ",
+            "building:part": "yes",
+            "height": "130"
+          }
+        },
+        {
+          "type": "way",
+          "id": 460703778,
+          "version": "5",
+          "timestamp": "2025-11-09T11:34:59Z",
+          "tags": {
+            "addr:country": "KZ",
+            "building:part": "yes",
+            "height": "150"
+          }
+        },
+        {
+          "type": "way",
+          "id": 460703779,
+          "version": "16",
+          "timestamp": "2025-12-19T15:41:57Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:country": "KZ",
+            "addr:housenumber": "37",
+            "addr:street": "Тұран даңғылы",
+            "building": "yes",
+            "building:levels": "5",
+            "building:roof:height": "100",
+            "int_name": "Khan Shatyr",
+            "name": "Хан Шатыр",
+            "name:de": "Khan Shatyr",
+            "name:en": "Khan Shatyr",
+            "name:ja": "ハーン・シャティア",
+            "name:ru": "Хан Шатыр",
+            "opening_hours": "Mo-Su,PH 10:00-23:00",
+            "roof:shape": "cone",
+            "shop": "mall",
+            "wheelchair": "yes",
+            "wikidata": "Q671484",
+            "wikimedia_commons": "Category:Khan Shatyry Entertainment Center",
+            "wikipedia": "en:Khan Shatyr Entertainment Center"
+          }
+        },
+        {
+          "type": "way",
+          "id": 460703780,
+          "version": "5",
+          "timestamp": "2017-10-28T05:54:56Z",
+          "tags": {
+            "addr:country": "KZ",
+            "building:levels": "2",
+            "building:part": "yes"
+          }
+        },
+        {
+          "type": "way",
+          "id": 460703781,
+          "version": "3",
+          "timestamp": "2026-03-11T06:03:35Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:country": "KZ",
+            "building": "yes"
+          }
+        },
+        {
+          "type": "way",
+          "id": 460703782,
+          "version": "4",
+          "timestamp": "2026-03-11T06:03:35Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:country": "KZ",
+            "building": "yes"
+          }
+        },
+        {
+          "type": "way",
+          "id": 460703783,
+          "version": "3",
+          "timestamp": "2026-03-11T06:03:35Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:country": "KZ",
+            "building": "yes"
+          }
+        },
+        {
+          "type": "way",
+          "id": 507953465,
+          "version": "5",
+          "timestamp": "2025-12-19T15:41:57Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:housenumber": "37",
+            "addr:street": "Тұран даңғылы",
+            "building:levels": "25",
+            "building:part": "yes"
+          }
+        },
+        {
+          "type": "way",
+          "id": 507953468,
+          "version": "4",
+          "timestamp": "2025-12-19T15:41:57Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:housenumber": "37",
+            "addr:street": "Тұран даңғылы",
+            "building:levels": "20",
+            "building:part": "yes"
+          }
+        },
+        {
+          "type": "way",
+          "id": 507953472,
+          "version": "5",
+          "timestamp": "2025-12-19T15:41:57Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:housenumber": "37",
+            "addr:street": "Тұран даңғылы",
+            "building:levels": "15",
+            "building:part": "yes"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1295423841,
+          "version": "5",
+          "timestamp": "2026-03-11T06:04:50Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:country": "KZ",
+            "addr:housenumber": "52",
+            "addr:street": "Төле Би көшесі",
+            "building": "apartments",
+            "name": "ЖК GreenLine.Headliner Exclusive"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1425748336,
+          "version": "1",
+          "timestamp": "2025-08-29T07:20:59Z",
+          "tags": {
+            "building": "construction"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1425748337,
+          "version": "1",
+          "timestamp": "2025-08-29T07:20:59Z",
+          "tags": {
+            "building": "construction"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1425748338,
+          "version": "1",
+          "timestamp": "2025-08-29T07:20:59Z",
+          "tags": {
+            "building": "construction",
+            "name": "ЖК W Towers"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1425748339,
+          "version": "1",
+          "timestamp": "2025-08-29T07:20:59Z",
+          "tags": {
+            "building": "construction"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1425748340,
+          "version": "1",
+          "timestamp": "2025-08-29T07:20:59Z",
+          "tags": {
+            "building": "construction"
+          }
+        }
+      ]
+    },
+    "palace_peace": {
+      "query": "[out:json][timeout:25];nwr(around:200,51.123,71.4638);out tags center;",
+      "url": "https://overpass.kumi.systems/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Bnwr%28around%3A200%2C51.123%2C71.4638%29%3Bout+tags+center%3B",
+      "status": 500,
+      "error": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html><head>\n<title>500 Internal Server Error</title>\n</head><body>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error or\nmisconfiguration and was unable to complete\nyour request.</p>\n<p>Please contact the server administrator at \n webmaster@localhost to inform them of the time this error occurred,\n and the actions you performed just before this error.</p>\n<p>More information about this error may be available\nin the server error log.</p>\n<hr>\n<address>Apache/2.4.66 (Debian) Server at overpass Port 80</address>\n</body></html>\n",
+      "failed_attempts": [
+        {
+          "query": "[out:json][timeout:25];(nwr[\"building\"](around:200,51.123,71.4638);nwr[\"building:part\"](around:200,51.123,71.4638););out tags center;",
+          "url": "https://overpass.kumi.systems/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%28nwr%5B%22building%22%5D%28around%3A200%2C51.123%2C71.4638%29%3Bnwr%5B%22building%3Apart%22%5D%28around%3A200%2C51.123%2C71.4638%29%3B%29%3Bout+tags+center%3B",
+          "status": 500,
+          "error": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html><head>\n<title>500 Internal Server Error</title>\n</head><body>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error or\nmisconfiguration and was unable to complete\nyour request.</p>\n<p>Please contact the server administrator at \n webmaster@localhost to inform them of the time this error occurred,\n and the actions you performed just before this error.</p>\n<p>More information about this error may be available\nin the server error log.</p>\n<hr>\n<address>Apache/2.4.66 (Debian) Server at overpass Port 80</address>\n</body></html>\n"
+        }
+      ],
+      "fallback_url": "https://api.openstreetmap.org/api/0.6/map?bbox=71.461300%2C51.121500%2C71.466300%2C51.124500",
+      "fallback_status": 200,
+      "fallback_all_element_count": 1468,
+      "fallback_elements": [
+        {
+          "type": "way",
+          "id": 166197368,
+          "version": "15",
+          "timestamp": "2025-12-22T10:51:14Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:country": "KZ",
+            "addr:housenumber": "57",
+            "addr:street": "Тәуелсіздік даңғылы",
+            "amenity": "community_centre",
+            "building": "yes",
+            "building:roof:height": "62",
+            "construction_date": "2004..2006",
+            "description": "62 x 62 m , 77m hight, 15m base underfloor",
+            "height": "77",
+            "name": "Бейбітшілік және келісім сарайы",
+            "name:de": "Pyramide des Friedens und der Eintracht",
+            "name:en": "Palace of Peace and Reconciliation",
+            "name:es": "Palacio de la Paz y la Reconciliación",
+            "name:fr": "Palais de la paix et de la réconciliation",
+            "name:it": "Palazzo della Pace e della Riconciliazione",
+            "name:kk": "Бейбітшілік және келісім сарайы",
+            "roof:shape": "pyramidal",
+            "start_date": "2006-09-01",
+            "website": "https://astana-piramida.kz/",
+            "wikidata": "Q2119741"
+          }
+        }
+      ]
+    },
+    "hazret_sultan": {
+      "query": "[out:json][timeout:25];nwr(around:250,51.1254,71.4723);out tags center;",
+      "url": "https://overpass.kumi.systems/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Bnwr%28around%3A250%2C51.1254%2C71.4723%29%3Bout+tags+center%3B",
+      "status": 500,
+      "error": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html><head>\n<title>500 Internal Server Error</title>\n</head><body>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error or\nmisconfiguration and was unable to complete\nyour request.</p>\n<p>Please contact the server administrator at \n webmaster@localhost to inform them of the time this error occurred,\n and the actions you performed just before this error.</p>\n<p>More information about this error may be available\nin the server error log.</p>\n<hr>\n<address>Apache/2.4.66 (Debian) Server at overpass Port 80</address>\n</body></html>\n",
+      "failed_attempts": [
+        {
+          "query": "[out:json][timeout:25];(nwr[\"building\"](around:250,51.1254,71.4723);nwr[\"building:part\"](around:250,51.1254,71.4723););out tags center;",
+          "url": "https://overpass.kumi.systems/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%28nwr%5B%22building%22%5D%28around%3A250%2C51.1254%2C71.4723%29%3Bnwr%5B%22building%3Apart%22%5D%28around%3A250%2C51.1254%2C71.4723%29%3B%29%3Bout+tags+center%3B",
+          "status": 500,
+          "error": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html><head>\n<title>500 Internal Server Error</title>\n</head><body>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error or\nmisconfiguration and was unable to complete\nyour request.</p>\n<p>Please contact the server administrator at \n webmaster@localhost to inform them of the time this error occurred,\n and the actions you performed just before this error.</p>\n<p>More information about this error may be available\nin the server error log.</p>\n<hr>\n<address>Apache/2.4.66 (Debian) Server at overpass Port 80</address>\n</body></html>\n"
+        }
+      ],
+      "fallback_url": "https://api.openstreetmap.org/api/0.6/map?bbox=71.468800%2C51.123100%2C71.475800%2C51.127700",
+      "fallback_status": 200,
+      "fallback_all_element_count": 3427,
+      "fallback_elements": [
+        {
+          "type": "way",
+          "id": 240860325,
+          "version": "25",
+          "timestamp": "2026-04-25T10:37:11Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:country": "KZ",
+            "addr:housenumber": "48",
+            "addr:street": "Рақымжан Қошқарбаев даңғылы",
+            "amenity": "place_of_worship",
+            "building": "mosque",
+            "building:levels": "7",
+            "construction_date": "2009-06..2012",
+            "ele": "51",
+            "name": "Әзірет Сұлтан мешіті",
+            "name:de": "Hazrat-Sultan-Moschee",
+            "name:en": "Hazrat Sultan Mosque",
+            "name:fr": "Mosquée Khazret Sultan",
+            "name:it": "Moschea Áziret Sultan",
+            "name:kk": "Әзірет Сұлтан мешіті",
+            "name:ru": "мечеть \"Хазрет Султан\"",
+            "religion": "muslim",
+            "start_date": "2012-07-06",
+            "wikidata": "Q4494668",
+            "wikimedia_commons": "Category:Hazrat Sultan Mosque"
+          },
+          "bbox": [
+            71.4712133,
+            51.1248691,
+            71.4731723,
+            51.125982
+          ]
+        },
+        {
+          "type": "way",
+          "id": 241490708,
+          "version": "8",
+          "timestamp": "2026-09-15T13:41:37Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:country": "KZ",
+            "addr:housenumber": "19",
+            "addr:street": "Ахмет Байтұрсынұлы көшесі",
+            "building": "apartments",
+            "building:levels": "10"
+          }
+        },
+        {
+          "type": "way",
+          "id": 424980090,
+          "version": "6",
+          "timestamp": "2026-04-25T10:37:11Z",
+          "tags": {
+            "addr:country": "KZ",
+            "addr:housenumber": "32/1",
+            "addr:street": "Рақымжан Қошқарбаев даңғылы",
+            "building": "construction",
+            "building:levels": "2"
+          }
+        },
+        {
+          "type": "way",
+          "id": 425291399,
+          "version": "8",
+          "timestamp": "2026-04-25T10:37:11Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:country": "KZ",
+            "addr:housenumber": "10",
+            "addr:street": "Рақымжан Қошқарбаев даңғылы",
+            "building": "apartments",
+            "building:levels": "27",
+            "name": "ЖК Хайвил Астана блок E2",
+            "name:en": "Highvill E2 block"
+          }
+        },
+        {
+          "type": "way",
+          "id": 502393085,
+          "version": "3",
+          "timestamp": "2026-03-11T06:03:54Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:country": "KZ",
+            "building": "yes",
+            "building:levels": "16"
+          }
+        },
+        {
+          "type": "way",
+          "id": 502393086,
+          "version": "3",
+          "timestamp": "2026-03-11T06:03:54Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:country": "KZ",
+            "building": "yes",
+            "building:levels": "16"
+          }
+        },
+        {
+          "type": "way",
+          "id": 502393087,
+          "version": "3",
+          "timestamp": "2026-03-11T06:03:54Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:country": "KZ",
+            "building": "yes",
+            "building:levels": "16"
+          }
+        },
+        {
+          "type": "way",
+          "id": 502393088,
+          "version": "3",
+          "timestamp": "2026-03-11T06:03:54Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:country": "KZ",
+            "building": "yes",
+            "building:levels": "16"
+          }
+        },
+        {
+          "type": "way",
+          "id": 502393089,
+          "version": "1",
+          "timestamp": "2017-06-21T12:50:02Z",
+          "tags": {
+            "building:part": "yes",
+            "roof:colour": "white",
+            "roof:shape": "dome"
+          },
+          "bbox": [
+            71.4724857,
+            51.1255839,
+            71.4727351,
+            51.1257404
+          ]
+        },
+        {
+          "type": "way",
+          "id": 502393090,
+          "version": "5",
+          "timestamp": "2018-09-20T14:43:44Z",
+          "tags": {
+            "building:part": "yes",
+            "roof:colour": "white",
+            "roof:shape": "dome"
+          },
+          "bbox": [
+            71.4716609,
+            51.1251791,
+            71.4721061,
+            51.1254585
+          ]
+        },
+        {
+          "type": "way",
+          "id": 508761524,
+          "version": "3",
+          "timestamp": "2026-03-11T06:03:57Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:country": "KZ",
+            "building": "yes",
+            "building:levels": "1"
+          }
+        },
+        {
+          "type": "way",
+          "id": 917348930,
+          "version": "3",
+          "timestamp": "2025-12-22T09:04:45Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:country": "KZ",
+            "addr:housenumber": "28",
+            "addr:street": "улица Касыма Аманжолова",
+            "building": "apartments",
+            "building:levels": "6"
+          }
+        },
+        {
+          "type": "way",
+          "id": 963623283,
+          "version": "4",
+          "timestamp": "2026-04-25T10:37:11Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:country": "KZ",
+            "addr:housenumber": "10/1",
+            "addr:street": "Рақымжан Қошқарбаев даңғылы",
+            "building": "apartments",
+            "building:levels": "32",
+            "name": "ЖК Хайвил Астана блок G"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1373013988,
+          "version": "2",
+          "timestamp": "2026-03-11T06:04:50Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:country": "KZ",
+            "building": "yes",
+            "building:colour": "#e8e8ce",
+            "building:levels": "2",
+            "roof:colour": "#377ae6"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1373013989,
+          "version": "2",
+          "timestamp": "2026-03-11T06:04:50Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:country": "KZ",
+            "building": "yes",
+            "building:colour": "#e8e8ce",
+            "building:levels": "1",
+            "roof:colour": "#377ae6"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1373017401,
+          "version": "2",
+          "timestamp": "2026-03-11T06:04:50Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:country": "KZ",
+            "building": "yes"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1385141127,
+          "version": "3",
+          "timestamp": "2026-04-25T10:37:11Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:street": "Ахмет Байтұрсынұлы көшесі",
+            "building": "residential",
+            "building:levels": "3"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1460477393,
+          "version": "1",
+          "timestamp": "2025-12-22T10:51:14Z",
+          "tags": {
+            "building:colour": "#3f5369",
+            "building:levels": "5",
+            "building:material": "glass",
+            "building:part": "yes",
+            "height": "15",
+            "roof:colour": "#9c9c9c",
+            "roof:shape": "flat"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1460477395,
+          "version": "1",
+          "timestamp": "2025-12-22T10:51:14Z",
+          "tags": {
+            "building:colour": "#3f5369",
+            "building:levels": "4",
+            "building:material": "glass",
+            "building:part": "yes",
+            "height": "12",
+            "roof:colour": "#9c9c9c",
+            "roof:shape": "flat"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1460477396,
+          "version": "1",
+          "timestamp": "2025-12-22T10:51:14Z",
+          "tags": {
+            "building:colour": "#3f5369",
+            "building:levels": "3",
+            "building:material": "glass",
+            "building:part": "yes",
+            "height": "9",
+            "roof:colour": "#9c9c9c",
+            "roof:shape": "flat"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1460477398,
+          "version": "1",
+          "timestamp": "2025-12-22T10:51:14Z",
+          "tags": {
+            "building:levels": "2",
+            "building:part": "yes",
+            "height": "6",
+            "roof:colour": "#9c9c9c"
+          }
+        },
+        {
+          "type": "relation",
+          "id": 6798127,
+          "version": "11",
+          "timestamp": "2025-12-22T10:51:14Z",
+          "tags": {
+            "addr:city": "Астана",
+            "addr:country": "KZ",
+            "addr:housenumber": "50",
+            "addr:street": "Тәуелсіздік даңғылы",
+            "amenity": "university",
+            "building": "university",
+            "education": "university",
+            "name": "Өнер Университеті",
+            "name:de": "Universität der Künste",
+            "name:en": "University of the Arts",
+            "name:es": "Universidad de las Artes",
+            "type": "multipolygon",
+            "website": "http://kaznui.kz"
+          }
+        },
+        {
+          "type": "relation",
+          "id": 19989445,
+          "version": "1",
+          "timestamp": "2025-12-22T10:51:14Z",
+          "tags": {
+            "building:colour": "#3f5369",
+            "building:material": "glass",
+            "building:part": "yes",
+            "height": "21",
+            "roof:colour": "#3f5369",
+            "roof:height": "21",
+            "roof:material": "glass",
+            "roof:shape": "gabled",
+            "type": "multipolygon"
+          }
+        }
+      ]
+    }
+  },
+  "excluded_probe": {
+    "name": "grand_mosque",
+    "reason": "Unverified initial coordinate did not locate the landmark. No inference about mosque coverage made from this sample.",
+    "bbox_url": "https://api.openstreetmap.org/api/0.6/map?bbox=71.413300%2C51.050400%2C71.424900%2C51.057600",
+    "building_count": 516
+  },
+  "central_sample": {
+    "bbox": [
+      71.427,
+      51.126,
+      71.434,
+      51.1305
+    ],
+    "url": "https://api.openstreetmap.org/api/0.6/map?bbox=71.427000%2C51.126000%2C71.434000%2C51.130500",
+    "status": 200,
+    "counts": {
+      "building_and_part_elements": 22,
+      "explicit_height": 2,
+      "levels": 17,
+      "any_height_or_levels": 17,
+      "roof_shape": {
+        "missing": 20,
+        "orb": 1,
+        "round": 1
+      },
+      "3dmr": 0
+    },
+    "elements": [
+      {
+        "type": "way",
+        "id": 230358855,
+        "tags": {
+          "addr:city": "Астана",
+          "addr:country": "KZ",
+          "addr:housenumber": "11",
+          "addr:street": "Достық көшесі",
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "3",
+          "name": "Қазақстан Республикасының Ұлттық академиялық кітапханасы",
+          "name:en": "National Academic Library of Republic of Kazakhstan",
+          "name:ru": "Национальная академическая библиотека Республики Казахстан"
+        }
+      },
+      {
+        "type": "way",
+        "id": 230358856,
+        "tags": {
+          "addr:city": "Астана",
+          "addr:country": "KZ",
+          "addr:housenumber": "12",
+          "addr:street": "Нұржол желек жолы",
+          "building": "government",
+          "building:levels": "8",
+          "height": "24",
+          "name": "Қазақстан Республикасының ұлттық мұрағаты",
+          "name:en": "The National Archive of the Republic of Kazakhstan",
+          "name:ru": "Национальный архив Республики Казахстан",
+          "office": "government",
+          "website": "https://nmrk.kz/",
+          "wikidata": "Q12573359"
+        }
+      },
+      {
+        "type": "way",
+        "id": 230361900,
+        "tags": {
+          "building:levels": "13",
+          "building:part": "yes"
+        }
+      },
+      {
+        "type": "way",
+        "id": 230361902,
+        "tags": {
+          "building:colour": "#7EA1C7",
+          "building:levels": "14",
+          "building:part": "yes",
+          "name": "БЦ \"На Водно-зеленом бульваре\"",
+          "roof:colour": "#8E9492"
+        }
+      },
+      {
+        "type": "way",
+        "id": 230401644,
+        "tags": {
+          "building:colour": "#C3B391",
+          "building:levels": "30",
+          "building:min_level": "27",
+          "building:part": "yes",
+          "name": "Байтерек",
+          "name:en": "Baiterek Tower",
+          "name:ja": "バイテレック・タワー",
+          "roof:shape": "orb"
+        }
+      },
+      {
+        "type": "way",
+        "id": 230401645,
+        "tags": {
+          "access": "yes",
+          "addr:city": "Астана",
+          "addr:country": "KZ",
+          "addr:housenumber": "14",
+          "addr:street": "Нұржол желек жолы",
+          "building": "yes",
+          "building:levels": "27",
+          "historic": "monument",
+          "layer": "1",
+          "name": "Бәйтерек",
+          "name:de": "Bajterek-Turm",
+          "name:en": "Bayterek",
+          "name:ja": "バイテレック・タワー・タワー",
+          "name:kk": "Бәйтерек",
+          "name:ml": "ബൈറ്റെറെക് ടവർ",
+          "name:ru": "Байтерек",
+          "wikidata": "Q804210",
+          "wikipedia": "kk:Бәйтерек (монумент)",
+          "wikipedia:ru": "ru:Байтерек (монумент)"
+        }
+      },
+      {
+        "type": "way",
+        "id": 230403268,
+        "tags": {
+          "building:levels": "12",
+          "building:part": "yes"
+        }
+      },
+      {
+        "type": "way",
+        "id": 230403274,
+        "tags": {
+          "addr:city": "Астана",
+          "addr:country": "KZ",
+          "addr:housenumber": "13/1",
+          "addr:street": "Достық көшесі",
+          "building": "apartments",
+          "building:levels": "13"
+        }
+      },
+      {
+        "type": "way",
+        "id": 230403276,
+        "tags": {
+          "addr:city": "Астана",
+          "addr:country": "KZ",
+          "addr:housenumber": "14/1",
+          "addr:street": "Қонаев көшесі",
+          "building": "apartments",
+          "building:levels": "12"
+        }
+      },
+      {
+        "type": "way",
+        "id": 258269767,
+        "tags": {
+          "addr:city": "Астана",
+          "addr:country": "KZ",
+          "building": "yes",
+          "building:levels": "1"
+        }
+      },
+      {
+        "type": "way",
+        "id": 258306584,
+        "tags": {
+          "building:levels": "2",
+          "building:part": "yes",
+          "roof:colour": "#9DA596"
+        }
+      },
+      {
+        "type": "way",
+        "id": 258306586,
+        "tags": {
+          "addr:city": "Астана",
+          "addr:country": "KZ",
+          "addr:housenumber": "14А",
+          "addr:street": "Қонаев көшесі",
+          "building": "yes",
+          "building:levels": "10"
+        }
+      },
+      {
+        "type": "way",
+        "id": 258306587,
+        "tags": {
+          "addr:city": "Астана",
+          "addr:country": "KZ",
+          "addr:housenumber": "14Б",
+          "addr:street": "Қонаев көшесі",
+          "building": "yes",
+          "building:levels": "10"
+        }
+      },
+      {
+        "type": "way",
+        "id": 258308432,
+        "tags": {
+          "building:levels": "11",
+          "building:part": "yes"
+        }
+      },
+      {
+        "type": "way",
+        "id": 258308434,
+        "tags": {
+          "building:levels": "9",
+          "building:part": "yes"
+        }
+      },
+      {
+        "type": "way",
+        "id": 1136604728,
+        "tags": {
+          "addr:city": "Астана",
+          "addr:country": "KZ",
+          "building": "yes"
+        }
+      },
+      {
+        "type": "way",
+        "id": 1136604730,
+        "tags": {
+          "addr:city": "Астана",
+          "addr:country": "KZ",
+          "building": "yes"
+        }
+      },
+      {
+        "type": "way",
+        "id": 1461832359,
+        "tags": {
+          "building:levels": "8",
+          "building:part": "yes",
+          "height": "39",
+          "roof:colour": "#7e7c67",
+          "roof:height": "15",
+          "roof:shape": "round"
+        }
+      },
+      {
+        "type": "way",
+        "id": 1530378861,
+        "tags": {
+          "building": "yes"
+        }
+      },
+      {
+        "type": "relation",
+        "id": 8464973,
+        "tags": {
+          "addr:city": "Астана",
+          "addr:country": "KZ",
+          "addr:housenumber": "13",
+          "addr:street": "Достық көшесі",
+          "building": "yes",
+          "building:levels": "12",
+          "type": "multipolygon"
+        }
+      },
+      {
+        "type": "relation",
+        "id": 8466825,
+        "tags": {
+          "addr:city": "Астана",
+          "addr:country": "KZ",
+          "addr:housenumber": "14",
+          "addr:street": "Қонаев көшесі",
+          "building": "yes",
+          "type": "multipolygon"
+        }
+      },
+      {
+        "type": "relation",
+        "id": 8466826,
+        "tags": {
+          "addr:city": "Астана",
+          "addr:country": "KZ",
+          "addr:housenumber": "12/1",
+          "addr:street": "Қонаев көшесі",
+          "building": "yes",
+          "type": "multipolygon"
+        }
+      }
+    ],
+    "limitation": "Small convenience sample around Bayterek. Counts are OSM elements, not deduplicated independent buildings, and cannot be extrapolated to the city."
+  }
+}

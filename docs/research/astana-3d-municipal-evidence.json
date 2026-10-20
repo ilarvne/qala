@@ -1,0 +1,3397 @@
+{
+  "checkedUTC": "2026-10-19T12:00:00Z",
+  "finding": "True municipal textured mesh verified, live city mesh streaming unavailable, public sample package downloads available, open reuse rights unestablished.",
+  "portal": {
+    "url": "https://gis.esaulet.kz/portal",
+    "name": "Геоинформационный центр города Астаны",
+    "description": "Разработано ТОО KazAeroSpace, 2021 г.",
+    "publicSceneServices": 407,
+    "mainSceneId": "b535181687714acb87d95950844aed6a",
+    "sceneMetadataURL": "https://gis.esaulet.kz/portal/sharing/rest/content/items/b535181687714acb87d95950844aed6a?f=pjson",
+    "sceneDataURL": "https://gis.esaulet.kz/portal/sharing/rest/content/items/b535181687714acb87d95950844aed6a/data?f=pjson",
+    "mainSceneModifiedUTC": "2024-12-10T06:31:30.826Z",
+    "sceneHorizontalCRS": 3857,
+    "sceneHeightModel": "gravity_related_height",
+    "sceneHeightUnit": "meter",
+    "meshReferences": 374,
+    "yearGroups": [
+      {
+        "title": "2020 г. Фотореалистичная 3D модель",
+        "meshCount": 157,
+        "meshLayers": [
+          {
+            "title": "SectorR13",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL1/SceneServer/layers/0",
+            "itemId": "1a04e8db2bba4e739c1dd3d4661600bf",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "SectorR12_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL66/SceneServer/layers/0",
+            "itemId": "4cd3a43aa5a84c9f8119e29c231dda4c",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "SectorR11",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL2/SceneServer/layers/0",
+            "itemId": "e1c2c2d4f2d2406580e18681c3417d33",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "SectorR10",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL3/SceneServer/layers/0",
+            "itemId": "f1b5e561260544638dcdf200c3097953",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "SectorR9",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL4/SceneServer/layers/0",
+            "itemId": "6c6ce7faa8704b8eb3c1effe22616822",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "SectorR8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/R8_i3s/SceneServer/layers/0",
+            "itemId": "9b5c61a91161488aa2048296cb1a0f18",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "SectorR5",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL5/SceneServer/layers/0",
+            "itemId": "287e4aaa5f564b0fbc2c6296d010c6ca",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "SectorR4_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL6/SceneServer/layers/0",
+            "itemId": "2f1e38c73a094ec4b35fc034643cd39b",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "SectorR4_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL7/SceneServer/layers/0",
+            "itemId": "83da9ef1ab1946408fdae737e5a113d4",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "SectorR2_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL67/SceneServer/layers/0",
+            "itemId": "f598a2fb660c4b5e9d1f2ebf1befd30a",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "SectorR2_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL68/SceneServer/layers/0",
+            "itemId": "256338fc8e7c4bb1888d34d57c46231b",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "SectorR1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL8/SceneServer/layers/0",
+            "itemId": "3f51076f9c3c44649189b1358e50d392",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "MD_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL69/SceneServer/layers/0",
+            "itemId": "e6d502d6c1bc408e9125631ef54b9af5",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector77_FT",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL50/SceneServer/layers/0",
+            "itemId": "ec46e528cfec4228bc00f06b1da4ba2c",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector77",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL12/SceneServer/layers/0",
+            "itemId": "978d7e2848df4cba8809c8d49126b4d2",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector69",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL14/SceneServer/layers/0",
+            "itemId": "2bd360e4d8094a289e04b0b42e687378",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector68_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL15/SceneServer/layers/0",
+            "itemId": "bde562d00a1245b0a693bb94c427b913",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector_68_1_FT",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL17/SceneServer/layers/0",
+            "itemId": "7185c905390848c49c63a23d5a968e9d",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector_68_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL16/SceneServer/layers/0",
+            "itemId": "3c56d450e127499e877f7f6b3ac11995",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector67",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL18/SceneServer/layers/0",
+            "itemId": "9dd3fc2fbcc042b985c3173a8815a297",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector65",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL19/SceneServer/layers/0",
+            "itemId": "6f29a6b91e2a4ed79dc1cd3d0ab302ea",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector64",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL20/SceneServer/layers/0",
+            "itemId": "13ae9037c4e64e858a5bf22e1faf61bf",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector63",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL21/SceneServer/layers/0",
+            "itemId": "4f70cac81a4f420b89da999fa5a4ff84",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector62_3",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL22/SceneServer/layers/0",
+            "itemId": "c22172a28bd14a988d90c06f8732e813",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector62_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL24/SceneServer/layers/0",
+            "itemId": "cb71f69e32794f5681050da4881c95a1",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector62",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL23/SceneServer/layers/0",
+            "itemId": "a0fd049900154f5ebff386a36aa36f9c",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector61_3",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL25/SceneServer/layers/0",
+            "itemId": "b399f7b0c8db45579669fbaa2808df10",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector61_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL26/SceneServer/layers/0",
+            "itemId": "eef1fbaea4dd4015b6f03424719d6c15",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector59_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL27/SceneServer/layers/0",
+            "itemId": "aa445d16518945e18d90ccecd909e922",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector59_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL28/SceneServer/layers/0",
+            "itemId": "838d01895fff499aa8cfffc711be7bd2",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector58",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL29/SceneServer/layers/0",
+            "itemId": "08848ff4565a42b1a2a1adf3a04faec9",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector57",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL30/SceneServer/layers/0",
+            "itemId": "6053be115a8949a19d33d6c028b57cb4",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector55_2_3",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL31/SceneServer/layers/0",
+            "itemId": "d8d46a7ecf654faf973bc4a3fb67768b",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector55_2_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL32/SceneServer/layers/0",
+            "itemId": "e117f2eb1c164cf6987809448d8a7edb",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector55_2_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL33/SceneServer/layers/0",
+            "itemId": "f39e9f8e0bd24edd9dffb524062f295e",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector55_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_1_WSL1/SceneServer/layers/0",
+            "itemId": "fff9a1cb60af4f9986f48c358cb408eb",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector54_FT1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_1_WSL4/SceneServer/layers/0",
+            "itemId": "ec8299de4e7e4d63a08e89b900f57d7a",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector54",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_1_WSL3/SceneServer/layers/0",
+            "itemId": "a9c6a88280e14272bfc0844dd6247f93",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector52",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_1_WSL5/SceneServer/layers/0",
+            "itemId": "b83a4237bff24286bd6c4aa80b560983",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector50",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_1_WSL6/SceneServer/layers/0",
+            "itemId": "67f24346045a43d087a2b8d0409324f0",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector_49",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL9/SceneServer/layers/0",
+            "itemId": "2c0439eef8fa4bf2b3f355fb91dab402",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector48",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_1_WSL7/SceneServer/layers/0",
+            "itemId": "0e12e751f42147e1ab3581782dafd15d",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector47",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_1_WSL8/SceneServer/layers/0",
+            "itemId": "de6c95228bb643f6b1e92699264ac4b5",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector46",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_1_WSL9/SceneServer/layers/0",
+            "itemId": "418ce6cb733d48fb81e6fdc5b30d7e7a",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector45",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_1_WSL10/SceneServer/layers/0",
+            "itemId": "05246b52dce9405d9b9478daa455f657",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector44",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_1_WSL11/SceneServer/layers/0",
+            "itemId": "d03a1ca7f8cb4af9a0e3522f842a19ad",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector43",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_1_WSL12/SceneServer/layers/0",
+            "itemId": "9664c56001a64782a0f92d25e6bf3961",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector42",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_1_WSL13/SceneServer/layers/0",
+            "itemId": "83300b318fd04a86b04a3b664a0598af",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector41",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_1_WSL14/SceneServer/layers/0",
+            "itemId": "91a0a658e1f249488bf886dbae8e60bb",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector40_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_1_WSL15/SceneServer/layers/0",
+            "itemId": "0a22f72c87e24fd99e6da244767af428",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector40_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_1_WSL16/SceneServer/layers/0",
+            "itemId": "210270fbbd9a4be1b5a247232b19720c",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector39",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_1_WSL17/SceneServer/layers/0",
+            "itemId": "532d9f08f46f4e3ba9230a5d11517add",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector38",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_1_WSL18/SceneServer/layers/0",
+            "itemId": "72e4edcb75264738801e45ad85543e82",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector37",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_1_WSL19/SceneServer/layers/0",
+            "itemId": "2ad3cdd4ab9f4d429f3cc1ee2db695ff",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector36_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_2_WSL1/SceneServer/layers/0",
+            "itemId": "ae87b3819c924b68adaf7f8f94403214",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector35",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_2_WSL2/SceneServer/layers/0",
+            "itemId": "620d4eecde9c44b39fb0ac5d74a357c4",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector34_FT2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_2_WSL4/SceneServer/layers/0",
+            "itemId": "89b8ee2615de48a0bb314eb0be1b70a0",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector34_FT1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_2_WSL3/SceneServer/layers/0",
+            "itemId": "533bd7189a5b4798872cae561a4f2d0c",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector34",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_2_WSL5/SceneServer/layers/0",
+            "itemId": "66808f72569b40538417fc4d52c653b6",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector33_FT",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_2_WSL7/SceneServer/layers/0",
+            "itemId": "001b3c8b72494501b1fd45e175fef4aa",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector33",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_2_WSL6/SceneServer/layers/0",
+            "itemId": "b91e604ab52a4d378d1c0af7bdd3a7b5",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector32",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector32_i3s/SceneServer/layers/0",
+            "itemId": "5e76b936047948769c0eb511ca255aeb",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector31_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_3_WSL1/SceneServer/layers/0",
+            "itemId": "5ebe1d9032d1477ab6188f8cde599582",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector30_3",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_3_WSL2/SceneServer/layers/0",
+            "itemId": "ff02d910dd7d4524bdc0f3eb18a0f8e0",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector_30_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_3_WSL3/SceneServer/layers/0",
+            "itemId": "b0f84e77aece4b708c425be7c5e3fe47",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector30_1_FT",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_3_WSL4/SceneServer/layers/0",
+            "itemId": "81ee4b2a0a3c453d9504b3009f12c75e",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector29_1_FT",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_3_WSL7/SceneServer/layers/0",
+            "itemId": "d3610097574643b8ba4d81df6f7d2374",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector29_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_3_WSL6/SceneServer/layers/0",
+            "itemId": "4fd53a1bb4a645e7861ccaaff35286d0",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector28_3",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_3_WSL8/SceneServer/layers/0",
+            "itemId": "4de731c3011a4f7094baccc5907082ab",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector28_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_3_WSL9/SceneServer/layers/0",
+            "itemId": "3f3521cf5ce245919163df9b2be273d4",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector28_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_3_WSL10/SceneServer/layers/0",
+            "itemId": "aef6c23bf472466683fb3aacec04819e",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector26_4_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_3_WSL13/SceneServer/layers/0",
+            "itemId": "432de81553f94ec7985a8f1bb70630a4",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector26_4_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_3_WSL14/SceneServer/layers/0",
+            "itemId": "bc0b178fdbfb4d2b92663073f18905ad",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector26_3",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_3_WSL15/SceneServer/layers/0",
+            "itemId": "63c75f08d126408786ab945f188226a5",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector26_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_3_WSL16/SceneServer/layers/0",
+            "itemId": "85286004029b4ed3a84ff91cb54ce80d",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector25_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_3_WSL17/SceneServer/layers/0",
+            "itemId": "d5fca23d780549b1acc6a178072d5658",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector22",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_3_WSL18/SceneServer/layers/0",
+            "itemId": "d3ef71d0334d4b87bfacdb131b5382a0",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector21",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_4_WSL1/SceneServer/layers/0",
+            "itemId": "3a2b048ac74f4a9b95ca3381f013bb46",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector19",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_4_WSL2/SceneServer/layers/0",
+            "itemId": "512d69f960ca40e7a489f9a324a78393",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector18_4",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_4_WSL3/SceneServer/layers/0",
+            "itemId": "dd5c0f72b9bf4d5b8923f9ce72c28fb5",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector18_3",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_4_WSL4/SceneServer/layers/0",
+            "itemId": "6f12095fb5b54b1ab3e3f2e8346d2077",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector18_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_4_WSL5/SceneServer/layers/0",
+            "itemId": "e2edade28e414159a963921152f6bb74",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector18_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_4_WSL6/SceneServer/layers/0",
+            "itemId": "df760f4676724ea893120678bec3551b",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector17_4",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_4_WSL7/SceneServer/layers/0",
+            "itemId": "5b36748080244ab69e8b4c56fa560bdd",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector17_3",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_4_WSL8/SceneServer/layers/0",
+            "itemId": "a2fa42f5178247bb80d7fb0a0954202c",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector17_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_4_WSL9/SceneServer/layers/0",
+            "itemId": "1fe27ded077e4a8b8edff4d1768d459a",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector17_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_4_WSL10/SceneServer/layers/0",
+            "itemId": "c1c9079fbe5249a8950e74f481800849",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector16_4",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_4_WSL11/SceneServer/layers/0",
+            "itemId": "331a77dc089a49a2a4b9f25f40c9bc97",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector16_3_3",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_4_WSL12/SceneServer/layers/0",
+            "itemId": "e2ba0f991f3144e1bfb40771691666f3",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector16_3_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_4_WSL13/SceneServer/layers/0",
+            "itemId": "f8d0612561ab4d438c38d536e37487ec",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector16_3_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_4_WSL14/SceneServer/layers/0",
+            "itemId": "f06947bff53841be8e4826ce4837070d",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector16_2_3",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL1/SceneServer/layers/0",
+            "itemId": "5e156040b04541c89520e5d2088fb218",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector16_2_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL52/SceneServer/layers/0",
+            "itemId": "10ce23947a924f91b495c83a16dd0049",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector16_2_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL2/SceneServer/layers/0",
+            "itemId": "abd53993e4774d0f9a53860cdf83d3be",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector16_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/S16_1/SceneServer/layers/0",
+            "itemId": "3bfdcafe6a644abfb42a5a13e7f356b1",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector15_1_5",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector15_1_5_slpk/SceneServer/layers/0",
+            "itemId": "d96cdbf1c64d45ada238ac1b94ecf9d6",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector15_1_3",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector15_1_3_slpk/SceneServer/layers/0",
+            "itemId": "65cadb01309d4d9688dbf4b48757652f",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector15_1_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector15_1_2_slpk/SceneServer/layers/0",
+            "itemId": "25fdf78f7842479a9c3a34b3d0a5afdb",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector15_1_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL8/SceneServer/layers/0",
+            "itemId": "2e180513c90d4fc2aab1a1d62fe0becb",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector14_3",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL9/SceneServer/layers/0",
+            "itemId": "9a7f23c23e284ecdb9d4427a254faba6",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector14_3",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_WSL11/SceneServer/layers/0",
+            "itemId": "6e02ec0a56e74c1dbb74702d7355883f",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector14_2_FT",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL11/SceneServer/layers/0",
+            "itemId": "1bb4f815fb484390804e47d5fc7973ba",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector14_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL10/SceneServer/layers/0",
+            "itemId": "1e4575cb20374c54a542f0ef824e6898",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector14_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL12/SceneServer/layers/0",
+            "itemId": "72c3e8efb5ea4eb2bf0ba583cae0af9b",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector13_1_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL53/SceneServer/layers/0",
+            "itemId": "35c205f77c774fedbfb73fb6b7ccab91",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector13_1_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL54/SceneServer/layers/0",
+            "itemId": "2db2e914d53441e9b6fc580cfa835db6",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector12_5_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL3/SceneServer/layers/0",
+            "itemId": "9666d4ff96bb478bacbebeb3f97ba172",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector12_4_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL55/SceneServer/layers/0",
+            "itemId": "ac6dfcb588cf4fcd8a3935722c498304",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector12_3_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL13/SceneServer/layers/0",
+            "itemId": "18204ceb1aed4579946484542ba893d0",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector12_2_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL56/SceneServer/layers/0",
+            "itemId": "a45d35e4b5bc47778c7d59ffa5023ef5",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector12_1_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL57/SceneServer/layers/0",
+            "itemId": "fb32ed30ad514d57baf9eae240d2be63",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector11_1_4",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL14/SceneServer/layers/0",
+            "itemId": "13777f8220644d59bf94b7f24e351f7a",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sectro11_1_3",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL15/SceneServer/layers/0",
+            "itemId": "f290637ee8d946b78fa5f926efa3bff8",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector11_1_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL58/SceneServer/layers/0",
+            "itemId": "aefe98d72e81443fae01b80aa3d77058",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector11_1_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL59/SceneServer/layers/0",
+            "itemId": "78a5e9b199474c01b162d161fc9d918c",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector10_4_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL60/SceneServer/layers/0",
+            "itemId": "5751774fe0e04582869353ea0f525e41",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector10_3_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL61/SceneServer/layers/0",
+            "itemId": "31f14e0f6db94092b2cd26d991791b73",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector10_2_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL62/SceneServer/layers/0",
+            "itemId": "bde42c389cf94d1e871abb370ab819a9",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector10_1_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL63/SceneServer/layers/0",
+            "itemId": "f3b20d2b58be497aa1cfa734152ad21a",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector9",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL64/SceneServer/layers/0",
+            "itemId": "91457c1c283f474894bf3e201987d7bd",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector8_1_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL16/SceneServer/layers/0",
+            "itemId": "5e90272145254485ae641471d221fbf5",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector8_1_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL17/SceneServer/layers/0",
+            "itemId": "4851e2da0bd9490288b9c1d2a7545e93",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector7_1_2_FT",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL19/SceneServer/layers/0",
+            "itemId": "ac153968e95a4e83bbec4ace19eba495",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector7_1_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL18/SceneServer/layers/0",
+            "itemId": "01e0259c644d439bbbf66e06e73dc235",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector7_1_1_FT",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL21/SceneServer/layers/0",
+            "itemId": "13678837897649668beead4019da42ac",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector7_1_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL20/SceneServer/layers/0",
+            "itemId": "1ff0ed0188a04a76a913d139ac955688",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector6_2_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL22/SceneServer/layers/0",
+            "itemId": "77d46a3df0644ad4ad01b4e253f35922",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector6_1_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL23/SceneServer/layers/0",
+            "itemId": "80dce7915226470f8debcce0fbe10cce",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector5_2_4",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL24/SceneServer/layers/0",
+            "itemId": "a1fbcebf05c544a2a0478b325a568226",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector5_2_3",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL25/SceneServer/layers/0",
+            "itemId": "cd752622f058434090df196c675acf8b",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector5_2_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL26/SceneServer/layers/0",
+            "itemId": "b019386e3df942b0a366135863169d52",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector5_2_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL27/SceneServer/layers/0",
+            "itemId": "5ebf0d28ceaf42bba5b77da2d5fe2069",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector5_1_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL28/SceneServer/layers/0",
+            "itemId": "249c1d2495fa416b8d7ceecd96689a0e",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector4_4_1_FT",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL30/SceneServer/layers/0",
+            "itemId": "a4e06424d2604b749c275bbc5d7f0243",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector4_4_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL29/SceneServer/layers/0",
+            "itemId": "690703cd08d04e7888984b541620d537",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector4_3_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL31/SceneServer/layers/0",
+            "itemId": "34d77e05608942faba14d9f8c939138e",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector4_2_3",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL32/SceneServer/layers/0",
+            "itemId": "fad385e0976d456b8321323ec056dd37",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector4_2_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL33/SceneServer/layers/0",
+            "itemId": "1d1cae91f4604286be39dd377b288e25",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector4_2_1_FT1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL34/SceneServer/layers/0",
+            "itemId": "6b24a0942c964812978b228797da9bb4",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector4_2_1_FT",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL35/SceneServer/layers/0",
+            "itemId": "451691f0f8e64918b421bd81e65ef458",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector4_1_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL36/SceneServer/layers/0",
+            "itemId": "fb770a09756e47d3bb97ce78368e2a92",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector4_1_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL37/SceneServer/layers/0",
+            "itemId": "a7071236d49a4d79ad3ab213b04cde54",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector3_2_5",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL38/SceneServer/layers/0",
+            "itemId": "5d148cf52c614d6f8c71bb0ae0ede2f9",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector3_2_4",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL39/SceneServer/layers/0",
+            "itemId": "fc29abae136b4fa5b53f61ee9d68e54d",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector3_2_3",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL40/SceneServer/layers/0",
+            "itemId": "ba0d296ecf6d4dceb9f85880a37a9c1a",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector3_2_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL41/SceneServer/layers/0",
+            "itemId": "5424aebe6fd74dca9bae70ad769d9ec2",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector3_1_3",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL42/SceneServer/layers/0",
+            "itemId": "0347962941a84b86b1787671d1cdab8c",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector3_1_2_FT",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL44/SceneServer/layers/0",
+            "itemId": "594d95ac28694d7f956d57161e78037e",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector3_1_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL43/SceneServer/layers/0",
+            "itemId": "0c4605c75e7a46f9874cb50982d0bc1c",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector3_1_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL45/SceneServer/layers/0",
+            "itemId": "865ee57447d145c1830049c1f35ea80a",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector1_1_3",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL46/SceneServer/layers/0",
+            "itemId": "3552a993d71841cfb2f6e434f626e8a8",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector1_1_2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL47/SceneServer/layers/0",
+            "itemId": "de90cb24ab0d49dd81f62c720dc45ded",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector1_1_1_FT",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL49/SceneServer/layers/0",
+            "itemId": "e58ee9bea7624bba89a4967124d75bcf",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector1_1_1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/i3s_5_WSL48/SceneServer/layers/0",
+            "itemId": "480c03192dbf43e9b484627f96d7e9a8",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector4_5_20cm",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector4_5_20cm/SceneServer/layers/0",
+            "itemId": "a2cfde3a4d3f422b8f5f0ca6bc713f10",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector2_3_20cm",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector2_3_20cm/SceneServer/layers/0",
+            "itemId": "2a3b2886f3f649e3992546098f6bb50c",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector1_9_FT_20cm",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector1_9_20cm_FT1/SceneServer/layers/0",
+            "itemId": "22e1e2561e754459a11e5b55573f5641",
+            "layerType": "IntegratedMeshLayer"
+          }
+        ]
+      },
+      {
+        "title": "2021 г. Фотореалистичная 3D модель",
+        "meshCount": 69,
+        "meshLayers": [
+          {
+            "title": "Sector181",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector181_i3s/SceneServer/layers/0",
+            "itemId": "1f3481f7fd614b16bee07c9972b80953",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector179",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector179_i3s/SceneServer/layers/0",
+            "itemId": "f46fd8b59da44491b854a7d77372bbfb",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector173",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector173_i3s/SceneServer/layers/0",
+            "itemId": "bb89c49779fe46ecada1e14b8bd94d48",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector172",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector172_i3s/SceneServer/layers/0",
+            "itemId": "b26ba03d2b7b46baae6d1cb302208360",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector171",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector171_i3s/SceneServer/layers/0",
+            "itemId": "3e3cba5752f14e169926d0fb216c182c",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector170",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector170_i3s/SceneServer/layers/0",
+            "itemId": "4cda459a4a804f719cea818d16fbd2a1",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector169",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector169_i3s/SceneServer/layers/0",
+            "itemId": "3503833a45d04de780ac56a39e2d47c5",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector168",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector168_i3s/SceneServer/layers/0",
+            "itemId": "b4a53ec937764c2987c0ff3c1fa42da0",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector167",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector167_i3s/SceneServer/layers/0",
+            "itemId": "90514e7acbed466f9d6f307345dcda8c",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector166",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector166_i3s/SceneServer/layers/0",
+            "itemId": "7ee608719e324874b94f911d0a9fb566",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector165",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector165_i3s/SceneServer/layers/0",
+            "itemId": "82813d30a8134819bad0e61907547e25",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector164",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector164_i3s/SceneServer/layers/0",
+            "itemId": "915d03d380374d198285d7f0dce7dd72",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector163",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector163_i3s/SceneServer/layers/0",
+            "itemId": "94576f13b2504d5dab2a86ad24b91a02",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector162",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector162_i3s/SceneServer/layers/0",
+            "itemId": "01da56641a2d41b1baff2edd358da243",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector161",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector161_i3s/SceneServer/layers/0",
+            "itemId": "84c3b858fda145bbb288e3e0fea6ef2a",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector160",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector160_i3s/SceneServer/layers/0",
+            "itemId": "aa2564fe0cad4d1686afd1f21bd63b02",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector159",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector159_i3s/SceneServer/layers/0",
+            "itemId": "5ac02e683979455eac277f92f8c63c47",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector156",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector156_i3s/SceneServer/layers/0",
+            "itemId": "659f449892214eb7895f661f8804adaa",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector155",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector155_i3s/SceneServer/layers/0",
+            "itemId": "378dfafa8062414b98600382c7cdd29c",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector154",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector154_i3s/SceneServer/layers/0",
+            "itemId": "f97d4feed21a4a22b1ace33940e2eb5a",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector153",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector153_i3s/SceneServer/layers/0",
+            "itemId": "cbff3c7fb3e34038b1f36c763958478d",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector152",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector152_i3s/SceneServer/layers/0",
+            "itemId": "40cbc4f9f0bf45bb877350427fa305fc",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector151",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector151_i3s/SceneServer/layers/0",
+            "itemId": "d75c2c3da66b47599f6a35434f4d8105",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector150",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector150_i3s/SceneServer/layers/0",
+            "itemId": "ad98631d9bb44c218e9903e316354088",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector147",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_147_i3s/SceneServer/layers/0",
+            "itemId": "70b975fcab9a4dd7a8e6261f38d5f656",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector146",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector146_i3s/SceneServer/layers/0",
+            "itemId": "cbc86639fd6849ef94d495723ad41830",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector145",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector145_i3s/SceneServer/layers/0",
+            "itemId": "0dd879dc01c7482ea15f2cb15c11d433",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector144",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector144_i3s/SceneServer/layers/0",
+            "itemId": "6ab45132d0ad4122b8088b8f40468860",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector143",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector143_i3s/SceneServer/layers/0",
+            "itemId": "05a0ac9b1c4a47119567533910f4c603",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector142",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector142_i3s/SceneServer/layers/0",
+            "itemId": "a155570fb4c34f40a58acca4a4c1f24b",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector141",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector141_i3s/SceneServer/layers/0",
+            "itemId": "8d9f9c02ccaa44399a3e12af48cd62f5",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector140",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector140_i3s/SceneServer/layers/0",
+            "itemId": "5713150ea9c74bd6a402b27b33d44c09",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector137",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector137_i3s/SceneServer/layers/0",
+            "itemId": "0a01e59121ed442389cd6d742f8a865e",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector136",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector136_i3s/SceneServer/layers/0",
+            "itemId": "89b25bdc02ce458284fdc8b4234474a7",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector135",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector135__i3s/SceneServer/layers/0",
+            "itemId": "75b63f481f7642f6998e817912691af6",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector134",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector134_i3s/SceneServer/layers/0",
+            "itemId": "d840a1625a9e40d1a4f79d661e3e3953",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector133",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector133_i3s/SceneServer/layers/0",
+            "itemId": "768f410752874505972ecaa250701377",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector132",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector132_i3s/SceneServer/layers/0",
+            "itemId": "91bdf1ac8112416688d64fd800dc286b",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector131",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector131_i3s/SceneServer/layers/0",
+            "itemId": "5993f27814df410c8789d5913a5d99b0",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector130",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector130_i3s/SceneServer/layers/0",
+            "itemId": "7be7673b4d0c442a9d5766157565768c",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector129",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_129_i3s/SceneServer/layers/0",
+            "itemId": "af39a055cf784f0fbc65202d3d208f19",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector128",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector128_i3s/SceneServer/layers/0",
+            "itemId": "c768dbbc99ec4fec945077ce05bd5d98",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector127",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector127_i3s/SceneServer/layers/0",
+            "itemId": "3a72e4ab07864fa989d91a18f9ae7903",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector126",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector126_i3s/SceneServer/layers/0",
+            "itemId": "7962a1889d08425082469547c019e9a7",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector125",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_125_i3s/SceneServer/layers/0",
+            "itemId": "bb3ffe38dc3d47e5b2d752b3bcf88123",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector124",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_124_i3s/SceneServer/layers/0",
+            "itemId": "3a246792401b41f0b1677c42ff2c0e02",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector123",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector123_i3s/SceneServer/layers/0",
+            "itemId": "b1f18c36fd7848ca97519c38643fc775",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector122",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector122_i3s/SceneServer/layers/0",
+            "itemId": "664e2d3a2398412c98271697e1a2d506",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector121",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector121_i3s/SceneServer/layers/0",
+            "itemId": "35eb253f8a59450aa28588820b8937da",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector120",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector120_i3s/SceneServer/layers/0",
+            "itemId": "27f397aa8d014c2894603eb889d9a8f7",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector119",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector119_i3s/SceneServer/layers/0",
+            "itemId": "b13d7e2438d74631b0b688755b86b606",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector118 1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector118_1_i3s/SceneServer/layers/0",
+            "itemId": "247e2279429344ac80ba1fe0a74ea1fc",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector117",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_117_i3s/SceneServer/layers/0",
+            "itemId": "0b2e8661f2834b5482fccd1353a6de19",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector116",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector116_i3s/SceneServer/layers/0",
+            "itemId": "052040749213438b80130e6caaffbb65",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector115",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector115_i3s/SceneServer/layers/0",
+            "itemId": "fae7a9fa459d43fa88c85541dca48d1f",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector114",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector114_i3s/SceneServer/layers/0",
+            "itemId": "1e6570b37bd649279e240dd11fdb1db5",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector113",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector113_i3s/SceneServer/layers/0",
+            "itemId": "b224faa8ab6d432db26f8c9fa164edb9",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector112",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector112_i3s/SceneServer/layers/0",
+            "itemId": "5e624aae829e444bad592c6e01322bd1",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector111",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector111_i3s/SceneServer/layers/0",
+            "itemId": "3daa968066d348a1930525b72aab43f7",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector110",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector110_1811_i3s/SceneServer/layers/0",
+            "itemId": "f3a910529a5a4227b317bea77eb00b60",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector109",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector109_i3s/SceneServer/layers/0",
+            "itemId": "f9010710ae764b8a9f1ab3d104ccca65",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector108",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_108_i3s/SceneServer/layers/0",
+            "itemId": "ca26dce3ab024004b1c2b0a00c813c6d",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector107",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector107_1_i3s/SceneServer/layers/0",
+            "itemId": "d05f6402e6fa41298bc48935622208e9",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector106",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector106_i3s/SceneServer/layers/0",
+            "itemId": "656ef455f363464e8e8b4dcf07f5bfc2",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector105",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector105_i3s/SceneServer/layers/0",
+            "itemId": "711f97927bb544ebbb8f729feb7fa96c",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector104",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector104_i3s/SceneServer/layers/0",
+            "itemId": "2c39d1dbf84c4ab987bd075a3811e94b",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector103",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector103_i3s/SceneServer/layers/0",
+            "itemId": "f0469266a50c4cf79b88e24efb01c8ff",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector102",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector102_i3s/SceneServer/layers/0",
+            "itemId": "88a5da6251874b3ebe60f590eb7d47bd",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector101",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector101_i3s/SceneServer/layers/0",
+            "itemId": "3c3945747aec4db2ac0bf3490f738eb6",
+            "layerType": "IntegratedMeshLayer"
+          }
+        ]
+      },
+      {
+        "title": "2022 г. Фотореалистичная 3D модель",
+        "meshCount": 91,
+        "meshLayers": [
+          {
+            "title": "Sector289",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector289_1_8/SceneServer/layers/0",
+            "itemId": "3eb4db9638344cf3a6957e6212ba12b4",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector288",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector288_1_8/SceneServer/layers/0",
+            "itemId": "9c6e222d4cfe488a9656f91ba77e8c32",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector287",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector287_1_8/SceneServer/layers/0",
+            "itemId": "950bcc86cc0247d29301859e8da6ccb2",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector286",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector286_1_8/SceneServer/layers/0",
+            "itemId": "dfd95e244c8f41d48519081ab4f003c3",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector285",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector285_18/SceneServer/layers/0",
+            "itemId": "b87df2fb390c4805b15bebfdd92bf6cc",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector284",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector284_1_8/SceneServer/layers/0",
+            "itemId": "79ed9de74e25467cb92499125e56b9e8",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector283",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector283_1_8/SceneServer/layers/0",
+            "itemId": "37a710388b8a456a8bc8ffa326b06d92",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector282",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector282_1_8/SceneServer/layers/0",
+            "itemId": "0206c0faf43f469d950ae6f990476861",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector281",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector281_1_8/SceneServer/layers/0",
+            "itemId": "cda24b4aef5543938ec63e151b48b394",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector280",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector280_1_8/SceneServer/layers/0",
+            "itemId": "1685d44fb49f4fceae2dd0750c6c3acc",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector278",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector278_1_8/SceneServer/layers/0",
+            "itemId": "faca34b1c2d84222bde92d258dc610a5",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector277",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector277_1_8/SceneServer/layers/0",
+            "itemId": "b2c60f9d45684a7a8f7d0a90694f8055",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector276",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector276_1_8/SceneServer/layers/0",
+            "itemId": "a327287757c146da8376473d9d0f3fcc",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector275",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector275_1_8/SceneServer/layers/0",
+            "itemId": "678fec8a6ac54912ae7157056e6905f1",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector274",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector274_1_8/SceneServer/layers/0",
+            "itemId": "0d39b0c695e7402fb6ac38697d509054",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector273",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector273_1_8/SceneServer/layers/0",
+            "itemId": "da085ee98635456a9971f915240e2387",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector272",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector272_1_8/SceneServer/layers/0",
+            "itemId": "cf116fd4352843ab9a35f35755b31722",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector271",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector271_1_8/SceneServer/layers/0",
+            "itemId": "2edf0bb808b14e33b565176239519eb4",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector270",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector270_1_8/SceneServer/layers/0",
+            "itemId": "fa40b2b218a34f30873f0326a211cb78",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector269",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector269_1_8/SceneServer/layers/0",
+            "itemId": "ea30e50eb7dc4bfdac71e1437ff32595",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector268",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector268_1_8/SceneServer/layers/0",
+            "itemId": "d21b2957c45a402ab257aec93fcdb1bf",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector267",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector267_1_8/SceneServer/layers/0",
+            "itemId": "841e12972fac4608acff53efcd873b79",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector266",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector266_1_8/SceneServer/layers/0",
+            "itemId": "ee2d2c9055f942ca92d2c82a5e4fd448",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector265",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector265_1__8/SceneServer/layers/0",
+            "itemId": "4ab6feeee56a425484b74e2a7ff24654",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector264",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector265_1_8/SceneServer/layers/0",
+            "itemId": "54496f41feaf4a4cb166d66bdbc42f48",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector263",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector263_1_8/SceneServer/layers/0",
+            "itemId": "15619375f2bf4bd49cf5309fef8a19c8",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector261",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector261_1_8/SceneServer/layers/0",
+            "itemId": "45117d534ce14418a190b4728fe1b627",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector260",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector260_1_8/SceneServer/layers/0",
+            "itemId": "f22fb789cf174b81abeaa339cd6accad",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector259",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector259_1_8/SceneServer/layers/0",
+            "itemId": "4661cab1b1e44f00ac9f37b68aa6619f",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector258",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector258_1_8/SceneServer/layers/0",
+            "itemId": "31fc4fa81502445e9ebba876f3a4f337",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector257",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector257_1_8/SceneServer/layers/0",
+            "itemId": "97af7466f8a34afc8144674614c8f207",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector256",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector256_i3s/SceneServer/layers/0",
+            "itemId": "d65d738fce0045e684593e447ed9d53d",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector255",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector255_1_8/SceneServer/layers/0",
+            "itemId": "3271ff669f664aed8902cf4c2df3e11e",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector254",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector254_1_8/SceneServer/layers/0",
+            "itemId": "78a785d43003485d95e2a00046cb75c0",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector253",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector253_1_8/SceneServer/layers/0",
+            "itemId": "aa15b5cfd2874997886eb9e31b8f8524",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector252",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector252_1_8/SceneServer/layers/0",
+            "itemId": "27473a1bd47944f9ae1a7b9572c1d397",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector251",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector251_1_8/SceneServer/layers/0",
+            "itemId": "3d10078e608047b9846d0790a7ff6bda",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector250",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector250_1_8/SceneServer/layers/0",
+            "itemId": "631b7c23c67443a7baf3551477ee91a4",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector249",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector249_i3s/SceneServer/layers/0",
+            "itemId": "5f5e921e5be345c7accf574625584ef8",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector248",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector248_1_8/SceneServer/layers/0",
+            "itemId": "b83395374a524ce08b183ef9013ad34a",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector247",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector247_1_8/SceneServer/layers/0",
+            "itemId": "8306e0b9f3584cdbaedb28718b16647c",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector246",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector246_1_8/SceneServer/layers/0",
+            "itemId": "b43e2217076049e5aa3fc6e70ac7ed75",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector245",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector245_i3s/SceneServer/layers/0",
+            "itemId": "cf9716f8a5944a12a11c0d84b1f688c9",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector244",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector244_i3s/SceneServer/layers/0",
+            "itemId": "32b782ad81df4b83941903198a347de4",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector243",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector243_i3s/SceneServer/layers/0",
+            "itemId": "b25be9a3aa4443b0954e92d15edc8bf2",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector242",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector242_1_8/SceneServer/layers/0",
+            "itemId": "eabc8683c4ea4c5c9f21a6d076dfe12b",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector241",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector241_1_8/SceneServer/layers/0",
+            "itemId": "2053c78ce28844ccbebb8ca3cc67202f",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector240",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector240_1_8/SceneServer/layers/0",
+            "itemId": "12873d23cee5469eb795c9836e3b4fb3",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector239",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector239_1_8/SceneServer/layers/0",
+            "itemId": "a274c73aaa524b9eb199c20683faf55b",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector238",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector238_1_8/SceneServer/layers/0",
+            "itemId": "d29fbc571955428ea3c9d6ce5a619180",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector237",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector237_1_8/SceneServer/layers/0",
+            "itemId": "be4e06796697420c85445c863c1b96d9",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector236",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector236_1_8/SceneServer/layers/0",
+            "itemId": "86e755249c304b1ca516a7deaa7dec2c",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector235",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector235_1_8/SceneServer/layers/0",
+            "itemId": "f2ecce3d14cc48c7b9a88319e476907d",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector234",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector234_i3s/SceneServer/layers/0",
+            "itemId": "167edf29f43a440eafe72495dacd67d0",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector233",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector233_1_8/SceneServer/layers/0",
+            "itemId": "99b5666ef50c4d5e91df4580309ea1b4",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector232",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector232_1_8/SceneServer/layers/0",
+            "itemId": "aa2c6f3a4ea44a288429a7a2c226eeba",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector231",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector231_1_8/SceneServer/layers/0",
+            "itemId": "0c8efd6bba0545998b8b2dafd82a396f",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector230",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector230_1_8/SceneServer/layers/0",
+            "itemId": "c4e4c6b225eb49849cb67091147e8d27",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector229",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector229_1_8/SceneServer/layers/0",
+            "itemId": "22cb75451819451081794adb4f1fea82",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector228",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector228_i3s/SceneServer/layers/0",
+            "itemId": "1a324ad13fdf434d96fc1d651167a3dc",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector227",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector227_i3s_v18/SceneServer/layers/0",
+            "itemId": "ea2b88d726f148f6a8811f903bffabe1",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector226",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector226_i3s/SceneServer/layers/0",
+            "itemId": "7a4cfb18340e49559d08997aef455ca5",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector225",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector225_i3s/SceneServer/layers/0",
+            "itemId": "1572cada536d483888a1e5b697bf99c4",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector224",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector224_1_8/SceneServer/layers/0",
+            "itemId": "41a379807d7c4714a9dc140e8b16e266",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector223",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector223_i3s/SceneServer/layers/0",
+            "itemId": "7cd778f629574f7fbb42b9239596b955",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector222",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector222_i3ss/SceneServer/layers/0",
+            "itemId": "dbf51c3dd0694a3f85faee08712e2ad3",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector221",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector221_1_8/SceneServer/layers/0",
+            "itemId": "8485a1552a644eb486146ae201c3c42c",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector219",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector219_1_8/SceneServer/layers/0",
+            "itemId": "04db2dd8d51d443c87168d629f95c3c6",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector218",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector218_1_8/SceneServer/layers/0",
+            "itemId": "2a51b357a410410f9f8ac9b9a80d4a08",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector217",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector217_1_8/SceneServer/layers/0",
+            "itemId": "cf5d6681215a4c3785651e08058d7e1b",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector216",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector216_1_8/SceneServer/layers/0",
+            "itemId": "3fba9554a07543edb02b1baf02f16739",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector215",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector215_1_8/SceneServer/layers/0",
+            "itemId": "02849493247e4ad9be2ae39c19165c04",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector214",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector214_1_8/SceneServer/layers/0",
+            "itemId": "05e4e2ac0f5141a5b26a052e55c2b31e",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector213",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector213_i3s/SceneServer/layers/0",
+            "itemId": "51e0676ad9b747eabad7472f87190a54",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector212",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector212_i3s/SceneServer/layers/0",
+            "itemId": "2a41d099056b4ce584c89161d2bcd105",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector211",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector211_1_8/SceneServer/layers/0",
+            "itemId": "cfd89a88b09e4c7a89112a813be79bc7",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector210",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector210_1_8/SceneServer/layers/0",
+            "itemId": "4711f3ffbf3a43d8b42bade395360bad",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector209",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector209_i3s/SceneServer/layers/0",
+            "itemId": "0b152a2fd5674641891b47268b8d0f9e",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector208",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector208_1_8/SceneServer/layers/0",
+            "itemId": "a4cedcd45d7e4944ab2ceb27b83b326c",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector207",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector207_1_8/SceneServer/layers/0",
+            "itemId": "c233d60fbf6b4418a50c9f81f5799ba0",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector206",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector206_1_8/SceneServer/layers/0",
+            "itemId": "ee58452caa304f2bbc12993baf04a39e",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector205",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector205_1_8/SceneServer/layers/0",
+            "itemId": "243d8b1c4577408bbb3e5a508629a0ea",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector204",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector204_1_8/SceneServer/layers/0",
+            "itemId": "e9fca79b3d4e498ab4b67061472f7023",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector203",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector203_1_8/SceneServer/layers/0",
+            "itemId": "695f4e8c9bd84869bf005babdffd3a41",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector202",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector202_i3s/SceneServer/layers/0",
+            "itemId": "67f646345b39408cbc5b01f1639ddd19",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector201",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector201_i3s/SceneServer/layers/0",
+            "itemId": "e37a94cc2ba849e1b4a9c49261773ee8",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector200",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector200_1_8/SceneServer/layers/0",
+            "itemId": "5d18f8d1f38a4397a36371bd0cb9690d",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Airport 3",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Airport_3_i3s/SceneServer/layers/0",
+            "itemId": "0426b8b8965b4a659d2264f9c81ea278",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Airport2",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Airport2_1_8/SceneServer/layers/0",
+            "itemId": "b9f68c373e7649deacd53199c306a1b1",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Airport1",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Airport_1_1_8/SceneServer/layers/0",
+            "itemId": "092b4d8783c84f5b97409e7bb4b27323",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Abu Dhabi Plaza",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Abu_Dhabi_1_8/SceneServer/layers/0",
+            "itemId": "3297751e207442929426011864ffe2b3",
+            "layerType": "IntegratedMeshLayer"
+          }
+        ]
+      },
+      {
+        "title": "2024 г. Фотореалистичная 3D модель",
+        "meshCount": 57,
+        "meshLayers": [
+          {
+            "title": "Sector 422 1 8 - Sector 422 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_422_1_8/SceneServer/layers/0",
+            "itemId": "608c5987f3e044ed9e3133c157756d3a",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector414 2 1 8 - Sector414 2 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector414_2_1_8/SceneServer/layers/0",
+            "itemId": "c180277895544ba089478721f2d4c32b",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 414 1 1 8 - Sector 414 1 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_414_1_1_8/SceneServer/layers/0",
+            "itemId": "b9bf76025a0c4f2fb864feb0c98fafbf",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 411 1 8 - Sector 411 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_411_1_8/SceneServer/layers/0",
+            "itemId": "9aaa25f735784acdb84efe5b4e294bbf",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 409 1 8 - Sector 409 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_409_1_8/SceneServer/layers/0",
+            "itemId": "1cf1dc5f82514c09b3f5aa8ef805a0d1",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector408 2 1 8 - Sector408 2 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector408_2_1_8/SceneServer/layers/0",
+            "itemId": "8010cb0a1fd34b7c9da89155a01ce113",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector408 1 1 8 - Sector408 1 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector408_1_1_8/SceneServer/layers/0",
+            "itemId": "f3aa45f50f8e4dc2a384f00d0373f53c",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 407 1 8 - Sector 407 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_407_1_8/SceneServer/layers/0",
+            "itemId": "50fe2f86ddd2427abd02b0fcaef2ba25",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector406 1 8 - Sector406 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector406_1_8/SceneServer/layers/0",
+            "itemId": "a1f48865dae742b7aa8dddc1ea48d7f4",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector404 2 1 8 - Sector404 2 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector404_2_1_8/SceneServer/layers/0",
+            "itemId": "1e82d4f141d5441bb0ee6be002b6ff46",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 404 1 1 8 - Sector 404 1 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_404_1_1_8/SceneServer/layers/0",
+            "itemId": "78e6457787134e64bf6e8e3112e4a0ef",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 403 1 8 - Sector 403 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_403_1_8/SceneServer/layers/0",
+            "itemId": "cb9d9a8a9c3c4461be3729261be98787",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 400 1 8 - Sector 400 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_400_1_8/SceneServer/layers/0",
+            "itemId": "c4fa47f72545496c9e4238493c732d76",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector jerleu 1 1 8 - Sector jerleu 1 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_jerleu_1_1_8/SceneServer/layers/0",
+            "itemId": "aa5f86c44b89442aac2f485a87d7e646",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 423 1 8 - Sector 423 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_423_1_8/SceneServer/layers/0",
+            "itemId": "d07d14f6e0d34405a93c5b0da25fea5d",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 424 1 8 - Sector 424 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_424_1_8/SceneServer/layers/0",
+            "itemId": "ec2bec6d7dcd4648acf273d96fed7c7b",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 401 1 8 - Sector 401 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_401_1_8/SceneServer/layers/0",
+            "itemId": "9793f484ac3f46129f4d4516f27f041e",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 414 4 1 8 - Sector 414 4 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_414_4_1_8/SceneServer/layers/0",
+            "itemId": "9c74c1b89eb04fb28c8d06cf1e234694",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector Jerleu 1 8 - Sector Jerleu 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_Jerleu_1_8/SceneServer/layers/0",
+            "itemId": "803b88854f004e6bb0b3e8185cd85b55",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 413 1 8 - Sector 413 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_413_1_8/SceneServer/layers/0",
+            "itemId": "5142a070a5f44c0f8e997d99cc8ea6ff",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 425 1 8 - Sector 425 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_425_1_8/SceneServer/layers/0",
+            "itemId": "6de580a200a34a5f83739efdedd15088",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 414 3 1 8 - Sector 414 3 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_414_3_1_8/SceneServer/layers/0",
+            "itemId": "6b756449d345416faf4d61c34379ac75",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 410 1 8 - Sector 410 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_410_1_8/SceneServer/layers/0",
+            "itemId": "fae0dd79e1ba43f482bdc782e55e23eb",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 410 1 1 8 - Sector 410 1 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_410_1_1_8/SceneServer/layers/0",
+            "itemId": "8747b5c19c5d48ff9cbcbd51e4a304d1",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 402 1 8 - Sector 402 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_402_1_8/SceneServer/layers/0",
+            "itemId": "34ead3c7abd24a968046d2639e924054",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 428 1 8 - Sector 428 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_428_1_8/SceneServer/layers/0",
+            "itemId": "d32887e01e8f433e8023c8f336812a34",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 450 1 8 - Sector 450 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_450_1_8/SceneServer/layers/0",
+            "itemId": "74f95f8515914d6fb56a03873dbf66d1",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 444 1 8 - Sector 444 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_444__1_8/SceneServer/layers/0",
+            "itemId": "b2f59de1b72145d4a2179e86b976cf36",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 446 1 8 - Sector 446 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_446_1_8/SceneServer/layers/0",
+            "itemId": "07bd717d60654515b182e1449b6f3e93",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 448 1 8 - Sector 448 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_448_1_8/SceneServer/layers/0",
+            "itemId": "7c3aa24ac90b4af8a101f990b6fb254a",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 445 1 1 8 - Sector 445 1 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_445_1_1_8/SceneServer/layers/0",
+            "itemId": "7f082b3d5e854001acee94b11f9feb9e",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 420 1 8 - Sector 420 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_420_1_8/SceneServer/layers/0",
+            "itemId": "5dc3f8e720bd4073ba6bf321f5d5126d",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 419 1 8 - Sector 419 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_419_1_8/SceneServer/layers/0",
+            "itemId": "1370377572a14e3b84bf1189aeb72872",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 449 1 8 - Sector 449 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_449_1_8/SceneServer/layers/0",
+            "itemId": "f94f3d8e737945399d101569fa745b9c",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 436 1 8 - Sector 436 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_436_1_8/SceneServer/layers/0",
+            "itemId": "2b1b6d7fbc814d60a1394e05241001eb",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector412 1 8 - Sector412 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector412_1_8/SceneServer/layers/0",
+            "itemId": "43eec48f8d4644a6836eae9a11a3a342",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 417 1 8 - Sector 417 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_417_1_8/SceneServer/layers/0",
+            "itemId": "70cb3ca2dccb498e95fa0f4877eafcfb",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 418 1 8 - Sector 418 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_418__1_8/SceneServer/layers/0",
+            "itemId": "f595eb6aa7f145ddb3648c5b2f5492b3",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 426 1 8 - Sector 426 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_426_1_8/SceneServer/layers/0",
+            "itemId": "23eea39fa85c47718d6ca95ea3682758",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 447 1 8 - Sector 447 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_447_1_8/SceneServer/layers/0",
+            "itemId": "9b7e20c31a1b42fabe65810f95514e11",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 442 1 1 8 - Sector 442 1 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_442_1_1_8/SceneServer/layers/0",
+            "itemId": "d9126e2b5e7c42f1a422bd002d31eecf",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 442 2 1 8 - Sector 442 2 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_442_2_1_8/SceneServer/layers/0",
+            "itemId": "cbbfb7e704724ab48106c006e10f6efd",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 427 1 8 - Sector 427 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_427_1_8/SceneServer/layers/0",
+            "itemId": "b934dbd476904ce58b41ab35d8c81495",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 445 1 8 - Sector 445 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_445_1_8/SceneServer/layers/0",
+            "itemId": "ed3a2a67e48f4789abc683ec43b4ae31",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 451 1 8 new - Sector 451 1 8 new",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_451_1_8_new/SceneServer/layers/0",
+            "itemId": "117f0afc57cb45e6a2347e8da8fb930f",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 438 1 8 new - Sector 438 1 8 new",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_438_1_8_new/SceneServer/layers/0",
+            "itemId": "de19ec5e2f6e463e9829fa7d7109d5d1",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 432 1 8 new - Sector 432 1 8 new",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_432_1_8_new/SceneServer/layers/0",
+            "itemId": "aa0e5f767f33410e938cd4d1d197582b",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector441 1 8 - Sector441 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector441_1_8/SceneServer/layers/0",
+            "itemId": "5919267c3ab849bfa362666d0ce874e2",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 435 1 8 - Sector 435 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_435_1_8/SceneServer/layers/0",
+            "itemId": "41586be03db44bf5aa8b51075e999469",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 443 1 8 - Sector 443 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_443_1_8/SceneServer/layers/0",
+            "itemId": "7c4c1bdaf0234075b9d5662307742e5d",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 430 1 8 new - Sector 430 1 8 new",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_430_1_8_new/SceneServer/layers/0",
+            "itemId": "6eef259c222042c19cf0dc8d39c5a074",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 440 1 8 - Sector 440 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_440_1_8/SceneServer/layers/0",
+            "itemId": "eb15baed907f4fb28c6b113c11ec292e",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 434 1 8 - Sector 434 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_434_1_8/SceneServer/layers/0",
+            "itemId": "6bccd54dff8e4ceb9c01334e0b8ca7b8",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 433 1 8 - Sector 433 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_433_1_8/SceneServer/layers/0",
+            "itemId": "62410c93e9ab411e818cfc7ca3fde284",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 437 1 8 - Sector 437 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_437_1_8/SceneServer/layers/0",
+            "itemId": "b663a076067142cfb78bc3ceb2a85691",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 431 1 8 - Sector 431 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_431_1_8/SceneServer/layers/0",
+            "itemId": "f653ebc7d9344fdc9c0660223eedc122",
+            "layerType": "IntegratedMeshLayer"
+          },
+          {
+            "title": "Sector 429 1 8 - Sector 429 1 8",
+            "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector_429_1_8/SceneServer/layers/0",
+            "itemId": "c3cd6e0c67334cd595019916fc98b199",
+            "layerType": "IntegratedMeshLayer"
+          }
+        ]
+      }
+    ]
+  },
+  "serverChecks": [
+    {
+      "url": "https://gis.esaulet.kz/server/rest/services?f=pjson",
+      "httpStatus": 200,
+      "applicationStatus": "error",
+      "message": "Не удалось получить доступ ни к одному из компьютеров сервера. Свяжитесь с системным администратором."
+    },
+    {
+      "url": "http://gis.esaulet.kz/server/rest/services/Hosted?f=pjson",
+      "httpStatus": 200,
+      "applicationStatus": "error",
+      "message": "Не удалось передать запрос HTTP, ArcGIS Server настроен на работу только с запросами HTTPS. Настройте веб-сервер для использования SSL/HTTPS."
+    },
+    {
+      "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector289_1_8/SceneServer/layers/0?f=pjson",
+      "httpStatus": 200,
+      "applicationStatus": "error"
+    },
+    {
+      "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Sector289_1_8/SceneServer/layers/0/nodes/root?f=pjson",
+      "httpStatus": 200,
+      "applicationStatus": "error"
+    },
+    {
+      "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Granicy_obnovleniya_2022/FeatureServer/1?f=pjson",
+      "httpStatus": 200,
+      "applicationStatus": "error"
+    }
+  ],
+  "packages": [
+    {
+      "id": "6cc4e9566c7049cbab74af91b067516d",
+      "title": "Sector1_9_20cm",
+      "fileName": "20cm_1-9_i3s.slpk",
+      "url": "https://gis.esaulet.kz/portal/sharing/rest/content/items/6cc4e9566c7049cbab74af91b067516d/data",
+      "bytes": 4300189724,
+      "headStatus": 200,
+      "rangeGetStatus": 206,
+      "access": "public",
+      "licenseInfo": null,
+      "itemCreatedUTC": "2022-02-14T05:48:45.210000+00:00",
+      "itemModifiedUTC": "2022-02-14T05:48:45.210000+00:00",
+      "captureDate": null,
+      "layerType": "IntegratedMesh",
+      "i3sVersion": "1.5",
+      "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326,
+        "vcsWkid": 5773,
+        "latestVcsWkid": 5773
+      },
+      "extent": [
+        71.4147307027534,
+        51.1724713981745,
+        71.6464041721336,
+        51.2924276322816
+      ],
+      "containsBayterek": false,
+      "containsAlemAiExpo": false,
+      "rawLayerMetadata": {
+        "id": 0,
+        "href": "./layers/0",
+        "layerType": "IntegratedMesh",
+        "version": "73ceae6b-e7f9-441a-9d6a-91e4b72ca900",
+        "name": "3D model",
+        "alias": "3D model",
+        "description": "This layer contains textured meshes created with ContextCapture.\n",
+        "copyrightText": "",
+        "spatialReference": {
+          "wkid": 4326,
+          "latestWkid": 4326,
+          "vcsWkid": 5773,
+          "latestVcsWkid": 5773
+        },
+        "capabilities": [
+          "View",
+          "Query",
+          "Edit",
+          "Extract"
+        ],
+        "store": {
+          "id": "4f239227-8971-46b3-aaf0-8f6e38ac7a0c",
+          "profile": "meshpyramids",
+          "resourcePattern": [
+            "3dNodeIndexDocument",
+            "SharedResource",
+            "FeatureData",
+            "Geometry",
+            "Texture"
+          ],
+          "rootNode": "./nodes/root",
+          "version": "1.5",
+          "extent": [
+            71.4147307027534,
+            51.1724713981745,
+            71.6464041721336,
+            51.2924276322816
+          ],
+          "indexCRS": "http://www.opengis.net/def/crs/EPSG/0/4326",
+          "vertexCRS": "http://www.opengis.net/def/crs/EPSG/0/4326",
+          "nidEncoding": "application/vnd.esri.i3s.json+gzip; version=1.5",
+          "featureEncoding": "application/vnd.esri.i3s.json+gzip; version=1.5",
+          "geometryEncoding": "application/octet-stream; version=1.5",
+          "textureEncoding": [
+            "image/jpeg"
+          ],
+          "lodType": "MeshPyramid",
+          "lodModel": "node-switching",
+          "featureOrdering": [
+            "Layer",
+            "Prominence"
+          ],
+          "indexingScheme": {
+            "name": "esriRTree",
+            "inclusive": true,
+            "dimensionality": 3,
+            "childrenCardinality": [
+              0,
+              9
+            ],
+            "neighborCardinality": [
+              0,
+              9
+            ]
+          },
+          "defaultGeometrySchema": {
+            "geometryType": "triangles",
+            "header": [
+              {
+                "property": "vertexCount",
+                "type": "UInt32"
+              },
+              {
+                "property": "featureCount",
+                "type": "UInt32"
+              }
+            ],
+            "topology": "PerAttributeArray",
+            "ordering": [
+              "position",
+              "normal",
+              "uv0",
+              "color"
+            ],
+            "vertexAttributes": {
+              "position": {
+                "valueType": "Float32",
+                "valuesPerElement": 3
+              },
+              "normal": {
+                "valueType": "Float32",
+                "valuesPerElement": 3
+              },
+              "uv0": {
+                "valueType": "Float32",
+                "valuesPerElement": 2
+              },
+              "color": {
+                "valueType": "UInt8",
+                "valuesPerElement": 4
+              }
+            },
+            "featureAttributeOrder": [
+              "id",
+              "faceRange"
+            ],
+            "featureAttributes": {
+              "id": {
+                "valueType": "UInt64",
+                "valuesPerElement": 1
+              },
+              "faceRange": {
+                "valueType": "UInt32",
+                "valuesPerElement": 2
+              }
+            }
+          }
+        },
+        "fields": [
+          {
+            "name": "ObjectID",
+            "type": "esriFieldTypeOID",
+            "alias": "ObjectID"
+          }
+        ]
+      }
+    },
+    {
+      "id": "87c8f46cbc96452597ec985df588e95c",
+      "title": "Sector6_8_20cm_FT1",
+      "fileName": "20cm_6-8_FT1_i3s.slpk",
+      "url": "https://gis.esaulet.kz/portal/sharing/rest/content/items/87c8f46cbc96452597ec985df588e95c/data",
+      "bytes": 165308332,
+      "headStatus": 200,
+      "rangeGetStatus": 206,
+      "access": "public",
+      "licenseInfo": null,
+      "itemCreatedUTC": "2022-02-14T05:24:16.509000+00:00",
+      "itemModifiedUTC": "2022-02-14T05:24:16.509000+00:00",
+      "captureDate": null,
+      "layerType": "IntegratedMesh",
+      "i3sVersion": "1.5",
+      "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326,
+        "vcsWkid": 5773,
+        "latestVcsWkid": 5773
+      },
+      "extent": [
+        71.3941803363327,
+        51.023393263494,
+        71.4323852145365,
+        51.0456005501987
+      ],
+      "containsBayterek": false,
+      "containsAlemAiExpo": false,
+      "rawLayerMetadata": {
+        "id": 0,
+        "href": "./layers/0",
+        "layerType": "IntegratedMesh",
+        "version": "4863a7a2-897b-49a5-870c-851e98dd7a41",
+        "name": "3D model",
+        "alias": "3D model",
+        "description": "This layer contains textured meshes created with ContextCapture.\n",
+        "copyrightText": "",
+        "spatialReference": {
+          "wkid": 4326,
+          "latestWkid": 4326,
+          "vcsWkid": 5773,
+          "latestVcsWkid": 5773
+        },
+        "capabilities": [
+          "View",
+          "Query",
+          "Edit",
+          "Extract"
+        ],
+        "store": {
+          "id": "36c8c338-7841-4e45-8eb0-d6a8119195ca",
+          "profile": "meshpyramids",
+          "resourcePattern": [
+            "3dNodeIndexDocument",
+            "SharedResource",
+            "FeatureData",
+            "Geometry",
+            "Texture"
+          ],
+          "rootNode": "./nodes/root",
+          "version": "1.5",
+          "extent": [
+            71.3941803363327,
+            51.023393263494,
+            71.4323852145365,
+            51.0456005501987
+          ],
+          "indexCRS": "http://www.opengis.net/def/crs/EPSG/0/4326",
+          "vertexCRS": "http://www.opengis.net/def/crs/EPSG/0/4326",
+          "nidEncoding": "application/vnd.esri.i3s.json+gzip; version=1.5",
+          "featureEncoding": "application/vnd.esri.i3s.json+gzip; version=1.5",
+          "geometryEncoding": "application/octet-stream; version=1.5",
+          "textureEncoding": [
+            "image/jpeg"
+          ],
+          "lodType": "MeshPyramid",
+          "lodModel": "node-switching",
+          "featureOrdering": [
+            "Layer",
+            "Prominence"
+          ],
+          "indexingScheme": {
+            "name": "esriRTree",
+            "inclusive": true,
+            "dimensionality": 3,
+            "childrenCardinality": [
+              0,
+              9
+            ],
+            "neighborCardinality": [
+              0,
+              9
+            ]
+          },
+          "defaultGeometrySchema": {
+            "geometryType": "triangles",
+            "header": [
+              {
+                "property": "vertexCount",
+                "type": "UInt32"
+              },
+              {
+                "property": "featureCount",
+                "type": "UInt32"
+              }
+            ],
+            "topology": "PerAttributeArray",
+            "ordering": [
+              "position",
+              "normal",
+              "uv0",
+              "color"
+            ],
+            "vertexAttributes": {
+              "position": {
+                "valueType": "Float32",
+                "valuesPerElement": 3
+              },
+              "normal": {
+                "valueType": "Float32",
+                "valuesPerElement": 3
+              },
+              "uv0": {
+                "valueType": "Float32",
+                "valuesPerElement": 2
+              },
+              "color": {
+                "valueType": "UInt8",
+                "valuesPerElement": 4
+              }
+            },
+            "featureAttributeOrder": [
+              "id",
+              "faceRange"
+            ],
+            "featureAttributes": {
+              "id": {
+                "valueType": "UInt64",
+                "valuesPerElement": 1
+              },
+              "faceRange": {
+                "valueType": "UInt32",
+                "valuesPerElement": 2
+              }
+            }
+          }
+        },
+        "fields": [
+          {
+            "name": "ObjectID",
+            "type": "esriFieldTypeOID",
+            "alias": "ObjectID"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ab9aef1f42874124a804df89d09a668c",
+      "title": "Sector_jerleu_1_1_8",
+      "fileName": "Sector_jerleu_1_1.8.slpk",
+      "url": "https://gis.esaulet.kz/portal/sharing/rest/content/items/ab9aef1f42874124a804df89d09a668c/data",
+      "bytes": 225320818,
+      "headStatus": 200,
+      "rangeGetStatus": 206,
+      "access": "public",
+      "licenseInfo": null,
+      "itemCreatedUTC": "2024-07-15T04:36:57.808000+00:00",
+      "itemModifiedUTC": "2024-07-15T09:51:37.312000+00:00",
+      "captureDate": null,
+      "layerType": "IntegratedMesh",
+      "i3sVersion": "1.8",
+      "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326,
+        "vcsWkid": 3855,
+        "latestVcsWkid": 3855
+      },
+      "extent": [
+        71.3190238774031,
+        51.26859634266827,
+        71.32334300374623,
+        51.27231882109712
+      ],
+      "containsBayterek": false,
+      "containsAlemAiExpo": false,
+      "rawLayerMetadata": {
+        "id": 0,
+        "version": "ac4c6294-e3fb-49e5-ae7e-d58f384afbdd",
+        "name": "3D model",
+        "layerType": "IntegratedMesh",
+        "fullExtent": {
+          "spatialReference": {
+            "wkid": 4326,
+            "latestWkid": 4326,
+            "vcsWkid": 3855,
+            "latestVcsWkid": 3855
+          },
+          "xmin": 71.3190238774031,
+          "xmax": 71.32334300374623,
+          "ymin": 51.26859634266827,
+          "ymax": 51.27231882109712,
+          "zmin": 336.25846844539046,
+          "zmax": 359.4691054755822
+        },
+        "spatialReference": {
+          "wkid": 4326,
+          "latestWkid": 4326,
+          "vcsWkid": 3855,
+          "latestVcsWkid": 3855
+        },
+        "alias": "3D model",
+        "description": "This layer contains a reality mesh created with Bentley ContextCapture.",
+        "serviceUpdateTimeStamp": {
+          "lastUpdate": 1720793096000
+        },
+        "capabilities": [
+          "View",
+          "Query"
+        ],
+        "store": {
+          "id": "0",
+          "profile": "meshpyramids",
+          "version": "1.8",
+          "resourcePattern": [
+            "3dNodeIndexDocument",
+            "SharedResource",
+            "Geometry",
+            "Attributes"
+          ],
+          "rootNode": "./nodes/root",
+          "extent": [
+            71.3190238774031,
+            51.26859634266827,
+            71.32334300374623,
+            51.27231882109712
+          ],
+          "indexCRS": "http://www.opengis.net/def/crs/EPSG/0/4326",
+          "vertexCRS": "http://www.opengis.net/def/crs/EPSG/0/4326",
+          "normalReferenceFrame": "east-north-up",
+          "textureEncoding": [
+            "image/jpeg"
+          ],
+          "lodType": "MeshPyramid",
+          "lodModel": "node-switching",
+          "defaultGeometrySchema": {
+            "header": [
+              {
+                "property": "vertexCount",
+                "type": "UInt32"
+              },
+              {
+                "property": "featureCount",
+                "type": "UInt32"
+              }
+            ],
+            "topology": "PerAttributeArray",
+            "ordering": [
+              "position",
+              "normal",
+              "uv0",
+              "color"
+            ],
+            "vertexAttributes": {
+              "position": {
+                "valueType": "Float32",
+                "valuesPerElement": 3
+              },
+              "normal": {
+                "valueType": "Float32",
+                "valuesPerElement": 3
+              },
+              "uv0": {
+                "valueType": "Float32",
+                "valuesPerElement": 2
+              },
+              "color": {
+                "valueType": "UInt8",
+                "valuesPerElement": 4
+              }
+            },
+            "featureAttributeOrder": [
+              "id",
+              "faceRange"
+            ],
+            "featureAttributes": {
+              "id": {
+                "valueType": "UInt64",
+                "valuesPerElement": 1
+              },
+              "faceRange": {
+                "valueType": "UInt32",
+                "valuesPerElement": 2
+              }
+            }
+          }
+        },
+        "nodePages": {
+          "nodesPerPage": 64,
+          "lodSelectionMetricType": "maxScreenThresholdSQ"
+        },
+        "materialDefinitions": [
+          {
+            "doubleSided": true,
+            "pbrMetallicRoughness": {
+              "baseColorTexture": {
+                "textureSetDefinitionId": 0
+              },
+              "metallicFactor": 0
+            }
+          }
+        ],
+        "textureSetDefinitions": [
+          {
+            "formats": [
+              {
+                "name": "0",
+                "format": "jpg"
+              },
+              {
+                "name": "0_0_1",
+                "format": "dds"
+              }
+            ]
+          }
+        ],
+        "geometryDefinitions": [
+          {
+            "geometryBuffers": [
+              {
+                "offset": 8,
+                "position": {
+                  "type": "Float32",
+                  "component": 3
+                },
+                "normal": {
+                  "type": "Float32",
+                  "component": 3
+                },
+                "uv0": {
+                  "type": "Float32",
+                  "component": 2
+                },
+                "color": {
+                  "type": "UInt8",
+                  "component": 4
+                },
+                "featureId": {
+                  "type": "UInt64",
+                  "component": 1,
+                  "binding": "per-feature"
+                },
+                "faceRange": {
+                  "type": "UInt32",
+                  "component": 2,
+                  "binding": "per-feature"
+                }
+              },
+              {
+                "compressedAttributes": {
+                  "encoding": "draco",
+                  "attributes": [
+                    "position",
+                    "normal",
+                    "uv0",
+                    "feature-index"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "496a79005cbe4e9d982a5a82cff94d7b",
+      "title": "Sector_Jerleu_1_8",
+      "fileName": "Sector_Jerleu_1.8.slpk",
+      "url": "https://gis.esaulet.kz/portal/sharing/rest/content/items/496a79005cbe4e9d982a5a82cff94d7b/data",
+      "bytes": 1015650999,
+      "headStatus": 200,
+      "rangeGetStatus": 206,
+      "access": "public",
+      "licenseInfo": null,
+      "itemCreatedUTC": "2024-07-15T04:35:07.116000+00:00",
+      "itemModifiedUTC": "2024-07-15T09:51:37.392000+00:00",
+      "captureDate": null,
+      "layerType": "IntegratedMesh",
+      "i3sVersion": "1.8",
+      "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326,
+        "vcsWkid": 3855,
+        "latestVcsWkid": 3855
+      },
+      "extent": [
+        71.32182543540544,
+        51.27526596261935,
+        71.33159044030819,
+        51.281915112410275
+      ],
+      "containsBayterek": false,
+      "containsAlemAiExpo": false,
+      "rawLayerMetadata": {
+        "id": 0,
+        "version": "e02ab5b6-cd87-4525-b52b-b6e3b8435803",
+        "name": "3D model",
+        "layerType": "IntegratedMesh",
+        "fullExtent": {
+          "spatialReference": {
+            "wkid": 4326,
+            "latestWkid": 4326,
+            "vcsWkid": 3855,
+            "latestVcsWkid": 3855
+          },
+          "xmin": 71.32182543540544,
+          "xmax": 71.33159044030819,
+          "ymin": 51.27526596261935,
+          "ymax": 51.281915112410275,
+          "zmin": 313.06711802072823,
+          "zmax": 376.06546645145863
+        },
+        "spatialReference": {
+          "wkid": 4326,
+          "latestWkid": 4326,
+          "vcsWkid": 3855,
+          "latestVcsWkid": 3855
+        },
+        "alias": "3D model",
+        "description": "This layer contains a reality mesh created with Bentley ContextCapture.",
+        "serviceUpdateTimeStamp": {
+          "lastUpdate": 1721017927000
+        },
+        "capabilities": [
+          "View",
+          "Query"
+        ],
+        "store": {
+          "id": "0",
+          "profile": "meshpyramids",
+          "version": "1.8",
+          "resourcePattern": [
+            "3dNodeIndexDocument",
+            "SharedResource",
+            "Geometry",
+            "Attributes"
+          ],
+          "rootNode": "./nodes/root",
+          "extent": [
+            71.32182543540544,
+            51.27526596261935,
+            71.33159044030819,
+            51.281915112410275
+          ],
+          "indexCRS": "http://www.opengis.net/def/crs/EPSG/0/4326",
+          "vertexCRS": "http://www.opengis.net/def/crs/EPSG/0/4326",
+          "normalReferenceFrame": "east-north-up",
+          "textureEncoding": [
+            "image/jpeg"
+          ],
+          "lodType": "MeshPyramid",
+          "lodModel": "node-switching",
+          "defaultGeometrySchema": {
+            "header": [
+              {
+                "property": "vertexCount",
+                "type": "UInt32"
+              },
+              {
+                "property": "featureCount",
+                "type": "UInt32"
+              }
+            ],
+            "topology": "PerAttributeArray",
+            "ordering": [
+              "position",
+              "normal",
+              "uv0",
+              "color"
+            ],
+            "vertexAttributes": {
+              "position": {
+                "valueType": "Float32",
+                "valuesPerElement": 3
+              },
+              "normal": {
+                "valueType": "Float32",
+                "valuesPerElement": 3
+              },
+              "uv0": {
+                "valueType": "Float32",
+                "valuesPerElement": 2
+              },
+              "color": {
+                "valueType": "UInt8",
+                "valuesPerElement": 4
+              }
+            },
+            "featureAttributeOrder": [
+              "id",
+              "faceRange"
+            ],
+            "featureAttributes": {
+              "id": {
+                "valueType": "UInt64",
+                "valuesPerElement": 1
+              },
+              "faceRange": {
+                "valueType": "UInt32",
+                "valuesPerElement": 2
+              }
+            }
+          }
+        },
+        "nodePages": {
+          "nodesPerPage": 64,
+          "lodSelectionMetricType": "maxScreenThresholdSQ"
+        },
+        "materialDefinitions": [
+          {
+            "doubleSided": true,
+            "pbrMetallicRoughness": {
+              "baseColorTexture": {
+                "textureSetDefinitionId": 0
+              },
+              "metallicFactor": 0
+            }
+          }
+        ],
+        "textureSetDefinitions": [
+          {
+            "formats": [
+              {
+                "name": "0",
+                "format": "jpg"
+              },
+              {
+                "name": "0_0_1",
+                "format": "dds"
+              }
+            ]
+          }
+        ],
+        "geometryDefinitions": [
+          {
+            "geometryBuffers": [
+              {
+                "offset": 8,
+                "position": {
+                  "type": "Float32",
+                  "component": 3
+                },
+                "normal": {
+                  "type": "Float32",
+                  "component": 3
+                },
+                "uv0": {
+                  "type": "Float32",
+                  "component": 2
+                },
+                "color": {
+                  "type": "UInt8",
+                  "component": 4
+                },
+                "featureId": {
+                  "type": "UInt64",
+                  "component": 1,
+                  "binding": "per-feature"
+                },
+                "faceRange": {
+                  "type": "UInt32",
+                  "component": 2,
+                  "binding": "per-feature"
+                }
+              },
+              {
+                "compressedAttributes": {
+                  "encoding": "draco",
+                  "attributes": [
+                    "position",
+                    "normal",
+                    "uv0",
+                    "feature-index"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "426defe5ab154d978d3fce97666db526",
+      "title": "Sector1_9_20cm_FT1",
+      "fileName": "20cm_1-9_FT1_i3s.slpk",
+      "url": "https://gis.esaulet.kz/portal/sharing/rest/content/items/426defe5ab154d978d3fce97666db526/data",
+      "bytes": 21291363,
+      "headStatus": 200,
+      "rangeGetStatus": 206,
+      "access": "public",
+      "licenseInfo": null,
+      "itemCreatedUTC": "2022-02-14T06:13:32.949000+00:00",
+      "itemModifiedUTC": "2022-02-14T06:13:32.949000+00:00",
+      "captureDate": null,
+      "layerType": "IntegratedMesh",
+      "i3sVersion": "1.5",
+      "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326,
+        "vcsWkid": 5773,
+        "latestVcsWkid": 5773
+      },
+      "extent": [
+        71.4101596427506,
+        51.2060855758628,
+        71.535577856511,
+        51.2239356355293
+      ],
+      "containsBayterek": false,
+      "containsAlemAiExpo": false,
+      "rawLayerMetadata": {
+        "id": 0,
+        "href": "./layers/0",
+        "layerType": "IntegratedMesh",
+        "version": "5a00ab30-7d6e-4282-b231-7c36ca440884",
+        "name": "3D model",
+        "alias": "3D model",
+        "description": "This layer contains textured meshes created with ContextCapture.\n",
+        "copyrightText": "",
+        "spatialReference": {
+          "wkid": 4326,
+          "latestWkid": 4326,
+          "vcsWkid": 5773,
+          "latestVcsWkid": 5773
+        },
+        "capabilities": [
+          "View",
+          "Query",
+          "Edit",
+          "Extract"
+        ],
+        "store": {
+          "id": "7cfb4bfb-7ff7-4f2f-9be1-28454b2771ba",
+          "profile": "meshpyramids",
+          "resourcePattern": [
+            "3dNodeIndexDocument",
+            "SharedResource",
+            "FeatureData",
+            "Geometry",
+            "Texture"
+          ],
+          "rootNode": "./nodes/root",
+          "version": "1.5",
+          "extent": [
+            71.4101596427506,
+            51.2060855758628,
+            71.535577856511,
+            51.2239356355293
+          ],
+          "indexCRS": "http://www.opengis.net/def/crs/EPSG/0/4326",
+          "vertexCRS": "http://www.opengis.net/def/crs/EPSG/0/4326",
+          "nidEncoding": "application/vnd.esri.i3s.json+gzip; version=1.5",
+          "featureEncoding": "application/vnd.esri.i3s.json+gzip; version=1.5",
+          "geometryEncoding": "application/octet-stream; version=1.5",
+          "textureEncoding": [
+            "image/jpeg"
+          ],
+          "lodType": "MeshPyramid",
+          "lodModel": "node-switching",
+          "featureOrdering": [
+            "Layer",
+            "Prominence"
+          ],
+          "indexingScheme": {
+            "name": "esriRTree",
+            "inclusive": true,
+            "dimensionality": 3,
+            "childrenCardinality": [
+              0,
+              9
+            ],
+            "neighborCardinality": [
+              0,
+              9
+            ]
+          },
+          "defaultGeometrySchema": {
+            "geometryType": "triangles",
+            "header": [
+              {
+                "property": "vertexCount",
+                "type": "UInt32"
+              },
+              {
+                "property": "featureCount",
+                "type": "UInt32"
+              }
+            ],
+            "topology": "PerAttributeArray",
+            "ordering": [
+              "position",
+              "normal",
+              "uv0",
+              "color"
+            ],
+            "vertexAttributes": {
+              "position": {
+                "valueType": "Float32",
+                "valuesPerElement": 3
+              },
+              "normal": {
+                "valueType": "Float32",
+                "valuesPerElement": 3
+              },
+              "uv0": {
+                "valueType": "Float32",
+                "valuesPerElement": 2
+              },
+              "color": {
+                "valueType": "UInt8",
+                "valuesPerElement": 4
+              }
+            },
+            "featureAttributeOrder": [
+              "id",
+              "faceRange"
+            ],
+            "featureAttributes": {
+              "id": {
+                "valueType": "UInt64",
+                "valuesPerElement": 1
+              },
+              "faceRange": {
+                "valueType": "UInt32",
+                "valuesPerElement": 2
+              }
+            }
+          }
+        },
+        "fields": [
+          {
+            "name": "ObjectID",
+            "type": "esriFieldTypeOID",
+            "alias": "ObjectID"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ec2b846a96354be2855999c6b07af34e",
+      "title": "Sector15_1_2_slpk",
+      "fileName": "Sector15_1_2_slpk.slpk",
+      "url": "https://gis.esaulet.kz/portal/sharing/rest/content/items/ec2b846a96354be2855999c6b07af34e/data",
+      "bytes": 5603249472,
+      "headStatus": 200,
+      "rangeGetStatus": 206,
+      "access": "public",
+      "licenseInfo": null,
+      "itemCreatedUTC": "2022-11-09T06:52:17.575000+00:00",
+      "itemModifiedUTC": "2022-11-09T06:52:17.575000+00:00",
+      "captureDate": null,
+      "layerType": "IntegratedMesh",
+      "i3sVersion": "1.5",
+      "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326,
+        "vcsWkid": 5773,
+        "latestVcsWkid": 5773
+      },
+      "extent": [
+        71.3913565096168,
+        51.1830681137078,
+        71.4215292987294,
+        51.194577119519
+      ],
+      "containsBayterek": false,
+      "containsAlemAiExpo": false,
+      "rawLayerMetadata": {
+        "id": 0,
+        "href": "./layers/0",
+        "layerType": "IntegratedMesh",
+        "version": "a7460e7e-cd85-404f-9510-a0064c09f930",
+        "name": "3D model",
+        "alias": "3D model",
+        "description": "This layer contains textured meshes created with ContextCapture.\n",
+        "copyrightText": "",
+        "spatialReference": {
+          "wkid": 4326,
+          "latestWkid": 4326,
+          "vcsWkid": 5773,
+          "latestVcsWkid": 5773
+        },
+        "capabilities": [
+          "View",
+          "Query",
+          "Edit",
+          "Extract"
+        ],
+        "store": {
+          "id": "fa4b1855-8a64-4b8f-ac5e-3134b5734754",
+          "profile": "meshpyramids",
+          "resourcePattern": [
+            "3dNodeIndexDocument",
+            "SharedResource",
+            "FeatureData",
+            "Geometry",
+            "Texture"
+          ],
+          "rootNode": "./nodes/root",
+          "version": "1.5",
+          "extent": [
+            71.3913565096168,
+            51.1830681137078,
+            71.4215292987294,
+            51.194577119519
+          ],
+          "indexCRS": "http://www.opengis.net/def/crs/EPSG/0/4326",
+          "vertexCRS": "http://www.opengis.net/def/crs/EPSG/0/4326",
+          "nidEncoding": "application/vnd.esri.i3s.json+gzip; version=1.5",
+          "featureEncoding": "application/vnd.esri.i3s.json+gzip; version=1.5",
+          "geometryEncoding": "application/octet-stream; version=1.5",
+          "textureEncoding": [
+            "image/jpeg"
+          ],
+          "lodType": "MeshPyramid",
+          "lodModel": "node-switching",
+          "featureOrdering": [
+            "Layer",
+            "Prominence"
+          ],
+          "indexingScheme": {
+            "name": "esriRTree",
+            "inclusive": true,
+            "dimensionality": 3,
+            "childrenCardinality": [
+              0,
+              9
+            ],
+            "neighborCardinality": [
+              0,
+              9
+            ]
+          },
+          "defaultGeometrySchema": {
+            "geometryType": "triangles",
+            "header": [
+              {
+                "property": "vertexCount",
+                "type": "UInt32"
+              },
+              {
+                "property": "featureCount",
+                "type": "UInt32"
+              }
+            ],
+            "topology": "PerAttributeArray",
+            "ordering": [
+              "position",
+              "normal",
+              "uv0",
+              "color"
+            ],
+            "vertexAttributes": {
+              "position": {
+                "valueType": "Float32",
+                "valuesPerElement": 3
+              },
+              "normal": {
+                "valueType": "Float32",
+                "valuesPerElement": 3
+              },
+              "uv0": {
+                "valueType": "Float32",
+                "valuesPerElement": 2
+              },
+              "color": {
+                "valueType": "UInt8",
+                "valuesPerElement": 4
+              }
+            },
+            "featureAttributeOrder": [
+              "id",
+              "faceRange"
+            ],
+            "featureAttributes": {
+              "id": {
+                "valueType": "UInt64",
+                "valuesPerElement": 1
+              },
+              "faceRange": {
+                "valueType": "UInt32",
+                "valuesPerElement": 2
+              }
+            }
+          }
+        },
+        "fields": [
+          {
+            "name": "ObjectID",
+            "type": "esriFieldTypeOID",
+            "alias": "ObjectID"
+          }
+        ]
+      }
+    }
+  ],
+  "sampleLocalProof": {
+    "path": "artifacts/private/research/astana-3d/Sector1_9_20cm_FT1.slpk",
+    "bytes": 21291363,
+    "sha256": "f4f281c792341b6466f072463093b94c91978647987a5d597e4657c97d4ec941",
+    "archiveEntries": 6681,
+    "rendered": false,
+    "publiclyRedistributed": false
+  },
+  "limits": [
+    "No downloaded sample covers Bayterek or alem.ai EXPO.",
+    "Streaming service layer payload and landmark appearance could not be verified due to server backend error.",
+    "Year-group labels and item modification dates are not verified capture dates.",
+    "No explicit open redistribution or commercial web embedding license was found.",
+    "No accuracy figure was independently measured.",
+    "Integrated meshes do not establish CityGML LoD2 or LoD3 semantic building data."
+  ]
+}

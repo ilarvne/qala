@@ -1,0 +1,24 @@
+{
+  "checkedAt": "2026-10-19",
+  "sourcePage": "https://kazaerospace.kz/documents",
+  "sourceURL": "https://api.kazaerospace.kz/storage/documents/Свидетельство%20на%203D%20Нур-Султан_020420.pdf",
+  "httpStatus": 200,
+  "contentType": "application/pdf",
+  "bytes": 892513,
+  "sha256": "be11e8e9cdc20b317f7b80206b69b99abbfe9d85694a08e578420b55da8e79fa",
+  "privateEvidencePath": "artifacts/private/research/astana-3d/astana-kas-3d-gis-copyright.pdf",
+  "registrationNumber": "9118",
+  "registrationDate": "2020-04-02",
+  "objectType": "computer program",
+  "objectTitle": "3D геоинформационная система города Нур-Султан",
+  "creationDate": "2020-04-01",
+  "registeredAuthors": [
+    "КАЗИЕВ БАГЛАН НУРЛАНОВИЧ",
+    "АХМЕТОВ АХМЕТ МУРАТХАНОВИЧ",
+    "АМИРЖАН БАҒДАТ АМИРЖАНҰЛЫ"
+  ],
+  "interpretationLimit": "Software registration evidence; does not establish title to imagery/mesh or permission for public display, extraction, conversion, caching, self-hosting or redistribution.",
+  "method": "Extracted facts with pdftotext -layout; no certificate fulltext in public artifact.",
+  "failedURL": "https://kazaerospace.kz/storage/documents/Свидетельство%20на%203D%20Нур-Султан_020420.pdf",
+  "failedURLStatus": 404
+}

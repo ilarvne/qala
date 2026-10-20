@@ -1,0 +1,18 @@
+{
+  "provider": "Built-in image_gen tool",
+  "intent": "Original generated editorial illustrations, not documentary photographs or geographical evidence",
+  "assets": [
+    {
+      "path": "public/images/astana-editorial.png",
+      "web_version": "public/images/astana-editorial.webp",
+      "prompt": "Use case: illustration-story. Asset type: editorial hero and presentation illustration for Qala, an Astana walking companion. Primary request: a sophisticated architectural illustration of Astana Kazakhstan seen from a calm pedestrian boulevard, featuring recognizable Baiterek tower, the spherical Nur Alem Expo building and elegant modern skyline as an artistic montage rather than a geographical map. Wide landscape 1536x1024 composition, pale warm ivory sky, rich pine-green trees and shadows, restrained chartreuse botanical accents, terracotta human figures walking at human scale. Style: contemporary travel editorial with subtly grainy screen print texture, geometric architecture with soft natural foliage, precise elegant light and shadow, lively but serene autumn afternoon. No text, no letters, no logos, no watermark. Avoid generic clip art and cartoon characters. The image must clearly read as an illustration, not documentary proof of a place. Full bleed, ample sky and strong architectural silhouettes.",
+      "transparent_background": false
+    },
+    {
+      "path": "public/images/astana-night.png",
+      "web_version": "public/images/astana-night.webp",
+      "prompt": "Use case: illustration-story. Asset type: night-exploration scene for Qala city companion, complementary to a warm ivory and pine-green editorial travel design. Create a lush sophisticated night illustration of Astana Kazakhstan's Ishim river promenade, the luminous Baiterek tower small in the background and modern buildings reflected in still water, a few people walking on a public promenade, elegant planted trees. Wide landscape composition 1536x1024. Palette: deep ink pine green and muted teal, warm cream golden windows, restrained vivid chartreuse highlight, textured fine grain screen print, exquisite editorial architectural geometry, atmospheric blue hour with a hint of amber sunset. No text, no logos, no watermark. This is an evocative clearly artistic travel illustration, no specific factual promises about opening hours or safety.",
+      "transparent_background": false
+    }
+  ]
+}

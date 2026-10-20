@@ -1,0 +1,8 @@
+{
+  "asset": "artifacts/presentation-assets/qala-cover-generated.png",
+  "tool": "built-in image_gen",
+  "use": "Russian pitch cover only",
+  "source": "/home/lain/.codex/generated_images/01a1516e-02e2-7752-9891-d97dabaf61b8/exec-5a3be85a-6c39-4f5d-884a-07ca3d59b251.png",
+  "prompt": "Wide16:9 editorial photographic cover. Tactile off-white folded conceptual paper city map on deep charcoal tabletop at right60%, left40% clean negative space for editable title. Fine slate street grid, one cobalt walking route and two endpoints. Natural directional daylight and realistic paper fibers/folds. No lettering, numbers, UI, skyline, invented landmark geometry, people, flags, glow or holograms. Restricted charcoal/slate/warm-white/cobalt palette. Conceptual illustration, not accurate Astana cartography.",
+  "limitation": "Generated editorial image; never used as a POI photograph or geographic evidence."
+}

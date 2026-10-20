@@ -1,0 +1,34 @@
+Source audit notes — paraphrased observations, not reproduced page contents
+Research date: 19 October 2026. See product-research.md for the full decision matrix.
+
+Wanderlog
+https://wanderlog.com/trip-planner-ai
+Reviewed AI trip planning, suggested activities, optimized itineraries and group planning. These are established competitor features. Qala should not claim an AI itinerary or a map by itself is novel.
+
+Google Maps Ask Maps
+https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/
+Reviewed conversational local discovery and personalized recommendations, including practical questions about local amenities. Qala's narrower differentiator is inspectable Astana evidence and explicit missing-data behavior.
+
+Mindtrip
+https://mindtrip.ai/
+Reviewed preference-based travel planning and discovery. Persistent preferences are a competitor capability, so Qala's memory story should focus on explicit consent, coarse location and deletion semantics.
+
+VoiceMap
+https://voicemap.me/walking-tour-app
+Reviewed location-aware audio tours and offline use. Qala should distinguish responsive recommendation planning from prerecorded or authored destination storytelling.
+
+izi.TRAVEL
+https://www.izi.travel/en/app
+Reviewed multilingual audio guides, museum content and location/QR discovery. Audio narration and language switching are established features rather than exclusive differentiators.
+
+National Museum of the Republic of Kazakhstan
+https://www.nmrk.kz/en/
+Reviewed the operator's visitor schedule: Tuesday–Sunday 10:00–18:00, Monday closed. The automated enrichment checks this observation before adding it to the POI record and retains a separate evidence URL and timestamp.
+
+Baiterek operator
+https://a-vm.kz/en/objects/bayterek/
+Reviewed seasonal visitor schedules: June–August 10:00–22:00, otherwise 10:00–21:00. The planner selects a schedule by the planned arrival month and checks the full visit interval.
+
+ICO geolocation guidance
+https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/childrens-information/childrens-code-guidance-and-resources/age-appropriate-design-a-code-of-practice-for-online-services/10-geolocation/
+Reviewed location granularity, transparent use and protective defaults as privacy-design guidance. This UK source is not evidence of compliance with Kazakhstan law. Qala retains only consented coarse location in preferences and keeps exact planning coordinates transient.

@@ -1,0 +1,79 @@
+{
+  "generated_at": "2026-10-20T18:39:34.046Z",
+  "source_pptx_sha256": "c3b32fb324e34ecb49875c7a0f121ad8eaa6d406f9a9be5a83c98a36093dd0da",
+  "source_pdf_sha256": "37f0833b2413ad509e372f44777d7fc51cd7a94c6e52c2224ed4c17a85a5b81a",
+  "slides": [
+    {
+      "slide": 1,
+      "path": "artifacts/presentation-ru-slides/slide-01.png",
+      "sha256": "706869c83218b5c8d0cb2eea2add16b49b273b8f470be9a3e3f08189c87893d1",
+      "render_source": "Artifact Tool final in-memory presentation"
+    },
+    {
+      "slide": 2,
+      "path": "artifacts/presentation-ru-slides/slide-02.png",
+      "sha256": "3403ffc52fad4d3461fbd75ea070ddbf12abab4fb8f963ae8bcadfea634a64e6",
+      "render_source": "Artifact Tool final in-memory presentation"
+    },
+    {
+      "slide": 3,
+      "path": "artifacts/presentation-ru-slides/slide-03.png",
+      "sha256": "06f6c5b2af38c74629fdd36609b7bc1c0002e46afc65441f3c27e4e8279b21f9",
+      "render_source": "Artifact Tool final in-memory presentation"
+    },
+    {
+      "slide": 4,
+      "path": "artifacts/presentation-ru-slides/slide-04.png",
+      "sha256": "dbe378982e23a968bb0b2fc2f71cd7e14d21ec5757529a23ac2c68f6cbb2580b",
+      "render_source": "Artifact Tool final in-memory presentation"
+    },
+    {
+      "slide": 5,
+      "path": "artifacts/presentation-ru-slides/slide-05.png",
+      "sha256": "edd9556864f72e6d6bed220e2c3813743c46e2e88f3ee6714c877c62bd45d356",
+      "render_source": "Artifact Tool final in-memory presentation"
+    },
+    {
+      "slide": 6,
+      "path": "artifacts/presentation-ru-slides/slide-06.png",
+      "sha256": "add6468042eb87f44279182ce6acafa85544e3ffd8813d203a90eeb74c92179f",
+      "render_source": "Artifact Tool final in-memory presentation"
+    },
+    {
+      "slide": 7,
+      "path": "artifacts/presentation-ru-slides/slide-07.png",
+      "sha256": "077bb41dd4631996a8cb0664e208d5da1078eea02326c0e19524d8cf2b38a63f",
+      "render_source": "Artifact Tool final in-memory presentation"
+    },
+    {
+      "slide": 8,
+      "path": "artifacts/presentation-ru-slides/slide-08.png",
+      "sha256": "35c187e2add54a47a25eba134551081327d97d8cd31c535fe28ad41de0842b59",
+      "render_source": "Artifact Tool final in-memory presentation"
+    },
+    {
+      "slide": 9,
+      "path": "artifacts/presentation-ru-slides/slide-09.png",
+      "sha256": "2aae1e1c7ea362f7e00fee1918036968422f45d35bd5e0b0ae75ada95282e5fc",
+      "render_source": "Artifact Tool final in-memory presentation"
+    },
+    {
+      "slide": 10,
+      "path": "artifacts/presentation-ru-slides/slide-10.png",
+      "sha256": "ae99d0ec633a697574996b1b42fc9c6803a5eb1711e93d20dd1def77f9fc075d",
+      "render_source": "Artifact Tool final in-memory presentation"
+    },
+    {
+      "slide": 11,
+      "path": "artifacts/presentation-ru-slides/slide-11.png",
+      "sha256": "4782817069982a0b3fbd5a6938346874228c83a77039aeb81bfda5e3863d44ea",
+      "render_source": "Artifact Tool final in-memory presentation"
+    },
+    {
+      "slide": 12,
+      "path": "artifacts/presentation-ru-slides/slide-12.png",
+      "sha256": "bf6b4066aedc890e429ebfb6ecd2b7ab8a94662c5450c258f1a2938f008684f1",
+      "render_source": "Artifact Tool final in-memory presentation"
+    }
+  ]
+}

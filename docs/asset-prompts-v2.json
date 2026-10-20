@@ -1,0 +1,21 @@
+{
+  "tool_mode": "builtin",
+  "created": "2026-10-19",
+  "ui": {
+    "path": "artifacts/design/qala-v2-concept.png",
+    "prompt": "High-fidelity premium web app UI mockup, landscape 1536x1024. Qala is an AI walking companion in Astana. Precision architectural atlas style: white, charcoal, cool light gray, only cobalt blue accent #3666f6. No green, cream, gradients or marketing hero. Slim white header with 'qala' wordmark, place search, language switch; left 360px elegant Assistant UI chat panel with heading 'A little time. A better plan.', small city photo, sample grounded walking recommendation and pinned composer. Expansive right canvas is a beautiful oblique 3D city street map of Astana's Bayterek area with real-looking building extrusions, blue pedestrian route following streets and numbered pins. Small right map controls 3D/locate/zoom. Two low white venue cards with crisp photographic thumbnails float above map bottom. Compact charcoal itinerary bar with 'Your afternoon walk', '2 stops · 45 min' and cobalt 'Start walking'. Geist typography, precise alignment, quiet whitespace, delicate Phosphor line icons, soft offset shadows, professional finished navigation product. All displayed route data illustrative.",
+    "role": "Illustrative design reference; geography and example UI data are not factual."
+  },
+  "assets": [
+    {
+      "path": "public/images/v2/bayterek.webp",
+      "prompt": "Use case: photorealistic-natural. A beautifully composed architectural editorial image inspired by the Bayterek monument in Astana: its elegant white branching tower and golden glass sphere centered in a clear cool-blue morning sky, refined modern city buildings in far background, tiny people on the plaza for scale. Realistic materials, clean natural daylight, restrained color, crisp optical detail, magazine travel photography aesthetic. Wide 3:2 landscape, composition allows a shallow panoramic crop. One coherent place, not a collage, no added monuments, no text, no logos, no illustration strokes. This is generated representational artwork for an app welcome, not documentary evidence.",
+      "role": "AI artwork inspired by Bayterek, labeled illustration in the app."
+    },
+    {
+      "path": "public/images/v2/coffee.webp",
+      "prompt": "Use case: photorealistic-natural. Quiet elegant contemporary cafe scene, a small white porcelain cup of cappuccino on a dark walnut table beside a large window, cool natural daylight, restrained cobalt-blue book barely visible at edge, rich tactile coffee crema, tasteful minimal composition, realistic lens with soft background. Premium architectural magazine photography, not glossy advertising. Landscape 3:2 crop, cup offset slightly right with gentle empty table on left. No people, no text, no logos, no golden filter, no green plants dominating. Generic representative cafe artwork, not a photograph of a real venue.",
+      "role": "Generic AI cafe artwork, not a photograph of the recommended venue."
+    }
+  ]
+}

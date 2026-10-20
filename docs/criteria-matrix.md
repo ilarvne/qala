@@ -1,0 +1,38 @@
+# Hackathon criteria and evidence
+
+The brief requests a working RAG concept and demo, automated POI collection, scenarios, a 5–7 minute presentation, privacy notes and a YouTube demo link. This matrix maps those requirements to inspectable evidence. It does not predict a jury score.
+
+| Requirement | Current implementation or artifact | How to inspect |
+|---|---|---|
+| Product concept and audience | [Product brief](product.md) and [Russian pitch](pitch-script-ru.md) | Immediate user jobs, interaction, scope and an explicitly unvalidated business hypothesis. |
+| Working interactive demo | React/FastAPI application | Run the README commands and try the five scenario presets. |
+| Automated data collection | `scripts/refresh_dataset.py`, [dataset manifest](../data/dataset-manifest.json), JSON/CSV/GeoJSON | 6,505 published records. Replay retained source evidence or collect, enrich, validate and export with `--live`. |
+| RAG approach | `backend/retrieval.py`, LangGraph and [RAG documentation](research/conversational-rag-upgrade.md) | Geographic and explicit constraints precede BM25/vector fusion, reranking, time-budget checks and grounded explanations. |
+| Location relevance | Geographic retrieval and the full embedded map | [15 production browser checks](../artifacts/map-catalog-verification.json) cover all 6,504 ordinary places, clusters, keyboard search, selection and preservation of the route. The closed historical record stays in the corpus. |
+| Time and explicit constraints | Planner, indoor/accessibility filters, hours and airport transfer clarification | [Five Russian brief cases](../artifacts/brief-scenarios-ru.json) provide 35 constraint checks. [Scenario](../artifacts/verification.json) and [conversation](../artifacts/conversation-rag-evaluation.json) evaluations have separate scopes. |
+| Explanation quality | Recommendation reason, action, duration and source fields | Each planned stop explains its fit, gives an activity suggestion and distinguishes source facts from generated ideas. |
+| Clear UX | Assistant UI thread, OpenUI controls, map, place details and source disclosure | Edit and branch messages, compare stops, open a historical answer on the map, inspect sources and use keyboard/mobile controls. [Current screenshot receipts](../artifacts/presentation-assets/ru-capture-verification.json) preserve exact pixels and build provenance. |
+| Creativity | Mini-routes, group context, GPX, separate voice-language selection and map browsing | The structured planner supports EN/RU/KK. The private ElevenLabs agent has [16 verified language presets](../artifacts/voice-new-account-verification.json). This is configuration evidence, not sixteen tested live conversations. Kazakh shell localization is partial. |
+| Privacy and uncertainty | [Privacy notes](privacy-and-safety.md), opt-in editable memory, consent generations and revocation | Precise coordinates and raw messages are excluded from preference memory. Rounded 0.01° coordinates may be stored after consent. Inspect the [29 React hook checks](../artifacts/planner-hook-race-verification.json) and backend stale-write tests. |
+| 5–7 minute pitch | [Twelve-slide Russian PPTX](../artifacts/presentation-ru.pptx), [PDF](../artifacts/presentation-ru.pdf), [speaker script](pitch-script-ru.md) | Approximately six minutes. [Presentation verification](../artifacts/presentation-ru-verification.json) records all-slide/PDF review, sources and output hashes. |
+| Recorded demo | [Russian Remotion video](../artifacts/video/ru/qala-demo-ru.mp4), [edit manifest](../artifacts/video/ru/remotion-edit-manifest.json) | Actual browser footage and newly generated Russian ElevenLabs v4 narration. Read the [export status](../artifacts/video/ru/final-export-verification.json) before treating a render as final. |
+| YouTube submission | Account-authorized upload and a final URL are still required | The [browser connection check](../artifacts/youtube-connection-check.json) failed before account inspection. Neither a local MP4 nor a repository URL satisfies this requirement. |
+| Research and alternatives | [Research index](research/skills-and-integrations-2026-10-20.md) and [product research](research/product-research.md) | Primary sources, architecture decisions and explicit provider/data limits. |
+
+## Data and integration boundaries
+
+The current [manifest](../data/dataset-manifest.json) records 6,505 POIs. All 6,504 ordinary records appear in the native MapLibre cluster source, independently of the current recommendation list. One closed historical venue remains available by identifier and in exports. This source catalogue is not a census of every physical business in Astana.
+
+The [current media inventory](../artifacts/media-inventory-final.json) verifies 83 licensed photo assignments across 61 places, using 78 distinct assets. The open corpus contains one sourced rating and no textual reviews. Additional 2GIS ratings load only after an explicit user interaction, require an unambiguous identity match and are not imported into the POI database, retrieval index or preference memory. Rating counts and review counts remain separate. Source-coverage details belong in documentation and the source interaction, not decorative interface captions.
+
+The portable planner works without cloud keys using lexical feature hashing and multilingual intent expansion. The local app can use a prewarmed multilingual MiniLM model through FastEmbed/ONNX. Its cached runtime has a separate offline check. Provider-assisted explanations remain constrained to retrieved IDs, approved activity kinds and locally validated facts. The [current full server report](../artifacts/backend-upgrade-verification.json) records the frozen sources, corpus hash and test count. These tests are not a human relevance study.
+
+ElevenLabs configuration, speech generation, browser conversations and telephone calls have separate evidence. The [current private-agent receipt](../artifacts/voice-new-account-verification.json) confirms sixteen language presets, signed sessions and the authenticated planner gateway. The [new narration receipt](../artifacts/video/ru/narration-generation-v4.json) records actual synthesis. The [current browser voice capture](../artifacts/video/ru/voice-current-capture.json) records one bounded session with synthetic microphone input. It connected and produced Russian audio/transcripts, but no full planner tool payload was observed. It does not prove a human microphone test, voice-driven map update or telephone call. Transcription checks test intelligibility, not native-speaker pronunciation quality.
+
+Walking estimates initially use geographic calculations and a detour factor. Navigation becomes available after pedestrian street routing succeeds. The same embedded MapLibre/OpenFreeMap instance preserves stops and route selection across flat 2D and schematic 3D. Footprint extrusions and available heights are not detailed landmark meshes. Venue wheelchair tags do not certify a step-free street route.
+
+Open-Meteo city forecasts and one official operator calendar provide dated context with attribution and failure fallback. Live queues, ticket inventory and street-level accessibility are unavailable. Calendar records do not invent timed venue visits. See [the context research](research/agent-context-2026-10-20.md).
+
+## Dated history
+
+The OSM-only 6,222-record snapshot and the earlier 6,502-record expansion are retained research history. Earlier media inventories and voice/video checks keep their original dates, hashes and scope. Use the current manifest, final export reports and [submission checklist](submission-checklist-ru.md) for submission claims.

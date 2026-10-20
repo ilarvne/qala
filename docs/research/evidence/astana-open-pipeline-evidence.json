@@ -1,0 +1,41 @@
+{
+  "accessed_utc": "2026-10-19T11:58:42.794896+00:00",
+  "osm2world_hosted_tiles": {
+    "url": "https://tiles.osm2world.org/glb/tileset.json",
+    "status": 200,
+    "asset": {
+      "version": "1.1"
+    },
+    "root_bounding_region_radians": [
+      0.09817477028746964,
+      0.7869521270984392,
+      0.29452432517694466,
+      0.9734848446668954,
+      -352.88777337123656,
+      34071.89021711295
+    ],
+    "root_bounding_region_degrees": [
+      5.624999992138366,
+      45.08903556158331,
+      16.87500079657758,
+      55.776573019361635
+    ],
+    "astana_in_bounds": false
+  },
+  "terrain_public_access": [
+    {
+      "url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/12/2860/1368.png",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "image/png",
+      "content_length": "20800"
+    },
+    {
+      "url": "https://copernicus-dem-30m.s3.eu-central-1.amazonaws.com/Copernicus_DSM_COG_10_N51_00_E071_00_DEM/Copernicus_DSM_COG_10_N51_00_E071_00_DEM.tif",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "image/tiff",
+      "content_length": "25505963"
+    }
+  ]
+}

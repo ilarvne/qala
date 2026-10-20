@@ -1,0 +1,572 @@
+{
+  "requestedResultSlots": 101,
+  "actualReturnedUrlSlots": 96,
+  "uniqueUrls": 71,
+  "failedAttemptSlots": 8,
+  "rows": [
+    {
+      "query": "Astana 3D city model geoportal esaulet 3D mesh KazUAV",
+      "requested": 8,
+      "results": [
+        {
+          "url": "https://gis.esaulet.kz/server/rest/services/Hosted/%D0%A1%D0%BB%D0%BE%D0%B8_%D0%B4%D0%BB%D1%8F_3D/FeatureServer",
+          "title": "Hosted/Слои_для_3D (FeatureServer)",
+          "published": "N/A"
+        },
+        {
+          "url": "https://intranews.kz/old/intervyu-s-vedushchim-inzhenerom-gis-o-cifrovyh-dvoynikah",
+          "title": "Интервью с ведущим инженером ГИС о цифровых двойниках | Internews Kazakhstan",
+          "published": "2024-07-26T00:00:00.000Z"
+        },
+        {
+          "url": "https://gis.esaulet.kz/server/rest/services/%D0%93%D0%B5%D0%BD%D0%BF%D0%BB%D0%B0%D0%BD_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D1%8B/MapServer/identify",
+          "title": "Identify (Генплан_Астаны)",
+          "published": "N/A"
+        },
+        {
+          "url": "https://gis.esaulet.kz/server/rest/services",
+          "title": "Folder: /",
+          "published": "N/A"
+        },
+        {
+          "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Astana_gr/FeatureServer",
+          "title": "Hosted/Astana_gr (FeatureServer)",
+          "published": "N/A"
+        },
+        {
+          "url": "https://qazinform.com/news/3d-model-of-astana-s-administrative-part-presented-at-intl-workshop_a2971913",
+          "title": "3D model of Astana’s administrative part presented at intl workshop",
+          "published": "2016-11-21T20:48:00.000Z"
+        },
+        {
+          "url": "https://gis.esaulet.kz/server/rest/services/Sloi_geoportala_otkrytiy_kontur_0702/MapServer/2?f=pjson",
+          "title": "N/A",
+          "published": "N/A"
+        },
+        {
+          "url": "https://www.kt.kz/rus/state/v_praviteljstve_obsuzhdeni_voprosi_primenenija_trehmernoj_geoinformacionnoj_sistemi_1153397548.html",
+          "title": "В правительстве обсуждены вопросы применения трехмерной геоинформационной системы | Kazakhstan Today",
+          "published": "N/A"
+        }
+      ]
+    },
+    {
+      "query": "Астана геопортал трехмерная модель города 3D Астана Innovations 2026",
+      "requested": 8,
+      "results": [
+        {
+          "url": "https://gis.esaulet.kz/portal/apps/experiencebuilder/experience/?id=b9f6d12fcdc644f6944a96d5c42b915f",
+          "title": "Геоинформационный центр города Астана",
+          "published": "N/A"
+        },
+        {
+          "url": "https://intranews.kz/old/intervyu-s-vedushchim-inzhenerom-gis-o-cifrovyh-dvoynikah",
+          "title": "Интервью с ведущим инженером ГИС о цифровых двойниках | Internews Kazakhstan",
+          "published": "2024-07-26T00:00:00.000Z"
+        },
+        {
+          "url": "https://geosat.biz/sozdanie-modelej-gorodov-3d/",
+          "title": "Создание 3D-моделей городов и промышленных объектов Казахстана: от визуализации к инженерному анализу (вторая часть) - Geosat",
+          "published": "2026-06-01T00:03:00.000Z"
+        },
+        {
+          "url": "https://ain.astana.kz/ru",
+          "title": "Astana Innovations – Цифровые технологии и инновации города Астаны",
+          "published": "N/A"
+        },
+        {
+          "url": "https://astana.kz/en/tours",
+          "title": "3D Virtual Tours of Astana | Astana.kz",
+          "published": "N/A"
+        },
+        {
+          "url": "https://astana-spk.kz/ru/novosti/infocenter/n/v-nur-sultane-sozdayut-elektronnuyu-kartu-zemel",
+          "title": "В Нур-Султане создают электронную карту земель",
+          "published": "2020-09-03T00:00:00.000Z"
+        },
+        {
+          "url": "https://ain.astana.kz/en/projects",
+          "title": "Astana Innovations Projects – Digital Solutions of Astana | AIN",
+          "published": "N/A"
+        },
+        {
+          "url": "https://liter.kz/u-kazahstanskoj-stoliczy-poyavitsya-3d-mod/",
+          "title": "У казахстанской столицы появится 3D модель. Что это даст",
+          "published": "2020-03-11T18:38:50.000Z"
+        }
+      ]
+    },
+    {
+      "query": "Казахстан Гарыш Сапары цифровая 3D модель Астана КазУАВ аэрофотосъемка",
+      "requested": 8,
+      "results": [
+        {
+          "url": "https://www.geoscan.ru/ru/blog/3d-model-centra-astany-0",
+          "title": "3D-модель центра Астаны | ГК «Геоскан»",
+          "published": "2016-12-27T15:47:48.000Z"
+        },
+        {
+          "url": "https://qazuav.kz/",
+          "title": "KazUAV — БПЛА DJI, роботы Unitree и аэросъёмка в Казахстане",
+          "published": "N/A"
+        },
+        {
+          "url": "https://www.inform.kz/ru/sozdana-3d-model-centra-astany_a2971835",
+          "title": "Создана 3D-модель центра Астаны",
+          "published": "2016-11-21T17:37:00.000Z"
+        },
+        {
+          "url": "https://www.gharysh.kz/uslugi/fotogrammetriya/",
+          "title": "Фотограмметрия - услуга оказываемая АО \"НК \"Қазақстан Ғарыш Сапары\" в рамках работы КС ДЗЗ РК",
+          "published": "N/A"
+        },
+        {
+          "url": "https://qazinform.com/news/3d-model-of-astana-s-administrative-part-presented-at-intl-workshop_a2971913",
+          "title": "3D model of Astana’s administrative part presented at intl workshop",
+          "published": "2016-11-21T20:48:00.000Z"
+        },
+        {
+          "url": "https://factories.kz/producers/kazuav",
+          "title": "Kazuav | Услуги воздушного мониторинга и аэрофотосъемки с использованием беспилотных летательных аппаратов в Астане",
+          "published": "N/A"
+        },
+        {
+          "url": "https://www.gharysh.kz/",
+          "title": "Басты бет",
+          "published": "N/A"
+        },
+        {
+          "url": "https://astanahub.com/ru/blog/kosmicheskie-snimki-ao-nk-kazakstan-garysh-sapary-obrabotka-neobychnye-proekty-i-polza-gosudarstv",
+          "title": "Космические снимки АО «НК «Қазақстан Ғарыш Сапары",
+          "published": "2021-05-28T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "query": "KazAeroSpace Astana digital twin geoportal 3D model 2025 2026",
+      "requested": 7,
+      "results": [
+        {
+          "url": "https://intranews.kz/old/intervyu-s-vedushchim-inzhenerom-gis-o-cifrovyh-dvoynikah",
+          "title": "Интервью с ведущим инженером ГИС о цифровых двойниках | Internews Kazakhstan",
+          "published": "2024-07-26T00:00:00.000Z"
+        },
+        {
+          "url": "https://investastana.kz/astana-invest/press-center/news/kazaerospace_rezident_tekhnoparka_innovatsionnogo_klastera_nazarbayev_university_i_sez_astana_tekhno/",
+          "title": "KazAeroSpace — резидент Технопарка Инновационного Кластера Nazarbayev University и СЭЗ «Астана-Технополис»",
+          "published": "N/A"
+        },
+        {
+          "url": "https://kazaerospace.kz/en/projects",
+          "title": "KAZAEROSPACE",
+          "published": "N/A"
+        },
+        {
+          "url": "https://astanatimes.com/2025/02/astana-advances-smart-city-initiative-with-ai-powered-surveillance-digital-twin-technology/",
+          "title": "Astana Advances Smart City Initiative with AI-Powered Surveillance, Digital Twin Technology - The Astana Times",
+          "published": "2025-02-20T09:32:26.000Z"
+        },
+        {
+          "url": "https://www.kasmapping.kz/",
+          "title": "KASMapping",
+          "published": "N/A"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/aibol-nsanov-5b2a52a7_digitaltwin-smartcity-futuretech-activity-7075522632825081857-SWNL",
+          "title": "Back in 2018, the Head of the Republic of Kazakhstan initiated the creation of a single geoportal that would provide users with spatial data. So our company has successfully implemented a project …",
+          "published": "2023-06-16T00:00:00.000Z"
+        },
+        {
+          "url": "https://kazaerospace.kz/projects",
+          "title": "KAZAEROSPACE",
+          "published": "N/A"
+        }
+      ]
+    },
+    {
+      "query": "Геоинформационный центр Астана 3D модель геопортал gis.esaulet",
+      "requested": 7,
+      "results": [
+        {
+          "url": "https://gis.esaulet.kz/server/rest/services/Hosted/%D0%A1%D0%BB%D0%BE%D0%B8_%D0%B4%D0%BB%D1%8F_3D/FeatureServer",
+          "title": "Hosted/Слои_для_3D (FeatureServer)",
+          "published": "N/A"
+        },
+        {
+          "url": "https://gis.esaulet.kz/server/rest/services/GenPlanAstana_2020_2024/MapServer?f=jsapi",
+          "title": "ArcGIS API for JavaScript: GenPlanAstana_2020_2024",
+          "published": "N/A"
+        },
+        {
+          "url": "https://intranews.kz/old/intervyu-s-vedushchim-inzhenerom-gis-o-cifrovyh-dvoynikah",
+          "title": "Интервью с ведущим инженером ГИС о цифровых двойниках | Internews Kazakhstan",
+          "published": "2024-07-26T00:00:00.000Z"
+        },
+        {
+          "url": "https://gis.esaulet.kz/portal/sharing/rest/portals/self?f=pjson",
+          "title": "N/A",
+          "published": "N/A"
+        },
+        {
+          "url": "https://gis.esaulet.kz/server/rest/services/%D0%93%D0%B5%D0%BD%D0%BF%D0%BB%D0%B0%D0%BD_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D1%8B/MapServer/identify",
+          "title": "Identify (Генплан_Астаны)",
+          "published": "N/A"
+        },
+        {
+          "url": "https://gis.esaulet.kz/portal/apps/experiencebuilder/experience/?id=b9f6d12fcdc644f6944a96d5c42b915f",
+          "title": "Геоинформационный центр города Нур-Султан",
+          "published": "N/A"
+        },
+        {
+          "url": "https://gis.esaulet.kz/server/rest/services/Hosted",
+          "title": "Folder: Hosted",
+          "published": "N/A"
+        }
+      ]
+    },
+    {
+      "query": "Астана 3D геопортал KazAeroSpace 614 170 700 квадратных",
+      "requested": 7,
+      "results": [
+        {
+          "url": "https://kazaerospace.kz/projects/card/9",
+          "title": "N/A",
+          "published": "N/A"
+        },
+        {
+          "url": "https://intranews.kz/old/intervyu-s-vedushchim-inzhenerom-gis-o-cifrovyh-dvoynikah",
+          "title": "Интервью с ведущим инженером ГИС о цифровых двойниках | Internews Kazakhstan",
+          "published": "2024-07-26T00:00:00.000Z"
+        },
+        {
+          "url": "https://investastana.kz/astana-invest/press-center/news/kazaerospace_rezident_tekhnoparka_innovatsionnogo_klastera_nazarbayev_university_i_sez_astana_tekhno/",
+          "title": "KazAeroSpace — резидент Технопарка Инновационного Кластера Nazarbayev University и СЭЗ «Астана-Технополис»",
+          "published": "N/A"
+        },
+        {
+          "url": "https://kazaerospace.kz/projects",
+          "title": "KAZAEROSPACE",
+          "published": "N/A"
+        },
+        {
+          "url": "https://kazaerospace.kz/",
+          "title": "KazAeroSpace",
+          "published": "2022-04-19T12:03:13.000Z"
+        },
+        {
+          "url": "https://astana-spk.kz/ru/novosti/infocenter/n/v-nur-sultane-sozdayut-elektronnuyu-kartu-zemel",
+          "title": "В Нур-Султане создают электронную карту земель",
+          "published": "2020-09-03T00:00:00.000Z"
+        },
+        {
+          "url": "https://kazaerospace.com/",
+          "title": "KazAeroSpace",
+          "published": "2022-04-19T12:03:13.000Z"
+        }
+      ]
+    },
+    {
+      "query": "Астана геопортал 3D карта 2024 2025 2026 КазАэроСпейс архитектура esaulet.kz",
+      "requested": 8,
+      "results": [
+        {
+          "url": "https://gis.esaulet.kz/portal/apps/experiencebuilder/experience/?id=b9f6d12fcdc644f6944a96d5c42b915f",
+          "title": "Геоинформационный центр города Астана",
+          "published": "N/A"
+        },
+        {
+          "url": "https://gis.esaulet.kz/server/rest/services/Hosted/%D0%A1%D0%BB%D0%BE%D0%B8_%D0%B4%D0%BB%D1%8F_3D/FeatureServer",
+          "title": "Hosted/Слои_для_3D (FeatureServer)",
+          "published": "N/A"
+        },
+        {
+          "url": "https://kazaerospace.kz/projects/card/9",
+          "title": "N/A",
+          "published": "N/A"
+        },
+        {
+          "url": "https://gis.esaulet.kz/server/rest/services/%D0%93%D0%B5%D0%BD%D0%BF%D0%BB%D0%B0%D0%BD_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D1%8B/MapServer",
+          "title": "Генплан_Астаны (MapServer)",
+          "published": "N/A"
+        },
+        {
+          "url": "https://gis.esaulet.kz/server/rest/services/GenPlanAstana_2020_2024/MapServer",
+          "title": "GenPlanAstana_2020_2024 (MapServer)",
+          "published": "N/A"
+        },
+        {
+          "url": "https://intranews.kz/old/intervyu-s-vedushchim-inzhenerom-gis-o-cifrovyh-dvoynikah",
+          "title": "Интервью с ведущим инженером ГИС о цифровых двойниках | Internews Kazakhstan",
+          "published": "2024-07-26T00:00:00.000Z"
+        },
+        {
+          "url": "https://gis.esaulet.kz/server/rest/services/Hosted",
+          "title": "Folder: Hosted",
+          "published": "N/A"
+        },
+        {
+          "url": "https://investastana.kz/astana-invest/press-center/news/kazaerospace_rezident_tekhnoparka_innovatsionnogo_klastera_nazarbayev_university_i_sez_astana_tekhno/",
+          "title": "KazAeroSpace — резидент Технопарка Инновационного Кластера Nazarbayev University и СЭЗ «Астана-Технополис»",
+          "published": "N/A"
+        }
+      ]
+    },
+    {
+      "query": "site:gov.kz Астана геопортал 3D модель города KazAeroSpace",
+      "requested": 8,
+      "results": [
+        {
+          "url": "https://map.gov.kz/services/1401/",
+          "title": "Геопортал НИПД",
+          "published": "N/A"
+        },
+        {
+          "url": "https://www.gov.kz/uploads/2023/7/12/a53115e1f430a2848a7561cdfcd91428_original.8299984.pdf",
+          "title": "Генеральный план города Астана до 2035 года",
+          "published": "N/A"
+        },
+        {
+          "url": "https://www.goszakup.gov.kz/ru/registry/show_supplier/195379",
+          "title": "ТОО \"KazAeroSpace\" :: Портал государственных закупок Республики Казахстан",
+          "published": "N/A"
+        },
+        {
+          "url": "https://map.gov.kz/geoserver/web/?0-1.IBehaviorListener.0-localeSwitcher=",
+          "title": "GeoServer: Welcome",
+          "published": "N/A"
+        },
+        {
+          "url": "https://goszakup.gov.kz/ru/egzcontract/cpublic/akts/4327410/akt/3396609",
+          "title": "Портал государственных закупок Республики Казахстан",
+          "published": "N/A"
+        },
+        {
+          "url": "https://oq.gov.kz/en/qazalemnews/644",
+          "title": "Отандастар қоры / Otandastar Qory / Фонд Отандастар",
+          "published": "2024-03-28T00:00:00.000Z"
+        },
+        {
+          "url": "https://goszakup.gov.kz/ru/egzcontract/cpublic/akts/4327410/akt/3438532",
+          "title": "Портал государственных закупок Республики Казахстан",
+          "published": "N/A"
+        },
+        {
+          "url": "https://www.gov.kz/memleket/entities/astana/documents/details/940185?lang=ru",
+          "title": "План развития  города Астаны на 2026-2030 годы",
+          "published": "N/A"
+        }
+      ]
+    },
+    {
+      "query": "site:ai.kz геоинформационный центр 3D Астана",
+      "requested": 8,
+      "results": [
+        {
+          "url": "https://adal.ai.kz/?channel=889d9e&d=86401163258202&from=pin.php%3Fid%3D1632582-2610%26name%3D%E4%BB%BB%E5%A4%A9%E5%A0%82+New+3DS+LL+%E9%9D%92",
+          "title": "Adal Kyzmet Aktobe",
+          "published": "N/A"
+        },
+        {
+          "url": "https://palata.ai.kz/kk/photogallery",
+          "title": "Фотогалерея | Палата юридических консультантов Актюбинской области",
+          "published": "N/A"
+        },
+        {
+          "url": "https://adal.ai.kz/plan-micro2/",
+          "title": "Планы мик-ов — Adal Kyzmet Aktobe",
+          "published": "N/A"
+        },
+        {
+          "url": "https://mediator.ai.kz/",
+          "title": "Главная",
+          "published": "N/A"
+        },
+        {
+          "url": "https://muz.ai.kz/2025/02/26/%d1%82%d3%a9%d1%82%d0%b5%d0%bd%d1%88%d0%b5-%d0%b6%d0%b0%d2%93%d0%b4%d0%b0%d0%b9-%d0%ba%d0%b5%d0%b7%d1%96%d0%bd%d0%b4%d0%b5-%d0%bd%d0%b5-%d1%96%d1%81%d1%82%d0%b5%d1%83-%d0%ba%d0%b5%d1%80%d0%b5%d0%ba/",
+          "title": "ТӨТЕНШЕ ЖАҒДАЙ КЕЗІНДЕ НЕ ІСТЕУ КЕРЕК — ГККП “Детская музыкальная школа № 1",
+          "published": "N/A"
+        },
+        {
+          "url": "https://ai.kz/our_partners/",
+          "title": "Наши клиенты — Разработка и создание сайтов: медиа-агентство АктобеИНФО",
+          "published": "N/A"
+        },
+        {
+          "url": "https://palata.ai.kz/kk/content/erezheler",
+          "title": "Ережелер | Палата юридических консультантов Актюбинской области",
+          "published": "N/A"
+        },
+        {
+          "url": "https://ai.kz/%d0%b4%d0%b8%d0%bf%d0%bb%d0%be%d0%bc%d1%8b-%d0%b8-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%b0/",
+          "title": "Дипломы и письма — Разработка и создание сайтов: медиа-агентство АктобеИНФО",
+          "published": "N/A"
+        }
+      ]
+    },
+    {
+      "query": "Астана трехмерная модель цифровой двойник 2024 2025 mesh 3D Tiles",
+      "requested": 8,
+      "results": [
+        {
+          "url": "https://intranews.kz/old/intervyu-s-vedushchim-inzhenerom-gis-o-cifrovyh-dvoynikah",
+          "title": "Интервью с ведущим инженером ГИС о цифровых двойниках | Internews Kazakhstan",
+          "published": "2024-07-26T00:00:00.000Z"
+        },
+        {
+          "url": "https://www.smartcitiesworld.net/digital-twins/city-of-astana-to-deploy-190m-ai-powered-smart-city-project",
+          "title": "Smart Cities World - Digital twins - City of Astana to deploy $190m AI-powered smart city project",
+          "published": "2025-02-17T08:57:00.000Z"
+        },
+        {
+          "url": "https://www.vechastana.kz/news/czifrovoj-dvojnik",
+          "title": "Цифровой двойник | Вечерняя Астана",
+          "published": "2025-02-20T05:45:18.000Z"
+        },
+        {
+          "url": "https://astanatimes.com/2025/02/astana-advances-smart-city-initiative-with-ai-powered-surveillance-digital-twin-technology/",
+          "title": "Astana Advances Smart City Initiative with AI-Powered Surveillance, Digital Twin Technology - The Astana Times",
+          "published": "2025-02-20T09:32:26.000Z"
+        },
+        {
+          "url": "https://www.np.kz/news/sreda-obitaniya/x/trehmernye-modeli-dostoprimechatelnostej-almaty-i-astany",
+          "title": "Трехмерные модели достопримечательностей Алматы и Астаны доступны пользователям и путешественникам | Новое Поколение",
+          "published": "2024-06-19T08:30:00.000Z"
+        },
+        {
+          "url": "https://investastana.kz/astana-invest/press-center/news/kazaerospace_rezident_tekhnoparka_innovatsionnogo_klastera_nazarbayev_university_i_sez_astana_tekhno/",
+          "title": "KazAeroSpace — резидент Технопарка Инновационного Кластера Nazarbayev University и СЭЗ «Астана-Технополис»",
+          "published": "N/A"
+        },
+        {
+          "url": "https://sketchfab.com/3d-models/astana-c295d77ceda2427f9e64f74e08ff4a86",
+          "title": "Astana (Астана) - Download Free 3D model by Escapepe (@Digram) [c295d77] - Sketchfab",
+          "published": "2024-07-01T12:34:52.000Z"
+        },
+        {
+          "url": "https://vexceldata.com/stories/vexcel-announces-3d-models-for-metro-areas-around-the-world/",
+          "title": "Vexcel Announces 3D Models for Metro Areas Around the World | Vexcel",
+          "published": "2024-01-09T16:01:15.000Z"
+        }
+      ]
+    },
+    {
+      "query": "site:qazuav.kz 3D картография аэрофотосъемка Астана модели",
+      "requested": 6,
+      "results": [
+        {
+          "url": "https://qazuav.kz/",
+          "title": "KazUAV — БПЛА DJI, роботы Unitree и аэросъёмка в Казахстане",
+          "published": "N/A"
+        }
+      ]
+    },
+    {
+      "query": "site:kazuav.kz Астана 3D модель карта",
+      "requested": 6,
+      "results": [
+        {
+          "url": "https://kazuav.kz/",
+          "title": "Аэрофотосъёмка и геодезия с дронов — KazUAV",
+          "published": "N/A"
+        },
+        {
+          "url": "https://kazuav.kz/services",
+          "title": "Аэрофотосъёмка и мониторинг",
+          "published": "N/A"
+        },
+        {
+          "url": "https://kazuav.kz/kz/services",
+          "title": "Услуги беспилотных систем от KazUAV – Аэрофотосъёмка и мониторинг",
+          "published": "N/A"
+        },
+        {
+          "url": "https://kazuav.kz/ru/about",
+          "title": "О компании KazUAV – Лидеры в области беспилотных технологий",
+          "published": "N/A"
+        },
+        {
+          "url": "https://kazuav.kz/ru/catalof/product/dji-matrice-4-series",
+          "title": "Качественные товары от KazUAV– Надёжность и стиль",
+          "published": "N/A"
+        },
+        {
+          "url": "https://kazuav.kz/ru/services/blog/aerofotosemka",
+          "title": "Ведущие услуги KazUAV – Беспилотные технологии для бизнеса",
+          "published": "N/A"
+        }
+      ]
+    },
+    {
+      "query": "Астана фотореалистичная 3D модель Байтeрек KazAeroSpace лицензия",
+      "requested": 6,
+      "results": [
+        {
+          "url": "https://intranews.kz/old/intervyu-s-vedushchim-inzhenerom-gis-o-cifrovyh-dvoynikah",
+          "title": "Интервью с ведущим инженером ГИС о цифровых двойниках | Internews Kazakhstan",
+          "published": "2024-07-26T00:00:00.000Z"
+        },
+        {
+          "url": "https://investastana.kz/astana-invest/press-center/news/kazaerospace_rezident_tekhnoparka_innovatsionnogo_klastera_nazarbayev_university_i_sez_astana_tekhno/",
+          "title": "KazAeroSpace — резидент Технопарка Инновационного Кластера Nazarbayev University и СЭЗ «Астана-Технополис»",
+          "published": "N/A"
+        },
+        {
+          "url": "https://astana.kz/en/tours",
+          "title": "3D Virtual Tours of Astana | Astana.kz",
+          "published": "N/A"
+        },
+        {
+          "url": "https://sketchfab.com/3d-models/baitereck-astana-a2265f19956f4eac899ce9a5a75fe58b",
+          "title": "Baitereck Astana - Buy Royalty Free 3D model by Adil77 (@AdilAlmaty) [a2265f1] - Sketchfab Store",
+          "published": "2023-06-11T11:23:55.000Z"
+        },
+        {
+          "url": "https://astanahub.com/account/company/4202/",
+          "title": "ТОВАРИЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"KAZAEROSPACE\"",
+          "published": "N/A"
+        },
+        {
+          "url": "https://sketchfab.com/3d-models/1437567dff9d4d4dbf01ea78f03e3f00",
+          "title": "Байтерек Астана - Download Free 3D model by Joker ...",
+          "published": "2023-05-13T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "query": "Астана 3D город геопортал shp slpk ContextCapture скачать",
+      "requested": 6,
+      "results": [
+        {
+          "url": "https://dalasaudasy.kz/",
+          "title": "СПК Астана",
+          "published": "N/A"
+        },
+        {
+          "url": "https://www.gov.kz/uploads/2023/7/12/a53115e1f430a2848a7561cdfcd91428_original.8299984.pdf",
+          "title": "Генеральный план города Астана до 2035 года",
+          "published": "N/A"
+        },
+        {
+          "url": "http://cityscanner.ru/astana",
+          "title": "Виртуальная прогулка по Астане 3D Astana.kz",
+          "published": "N/A"
+        },
+        {
+          "url": "https://info.2gis.kz/astana/products/download",
+          "title": "2ГИС — всегда под рукой",
+          "published": "N/A"
+        },
+        {
+          "url": "https://data.nextgis.com/ru/region/KZ-71/base/",
+          "title": "Астана: базовая карта OpenStreetMap",
+          "published": "N/A"
+        },
+        {
+          "url": "https://map.gov.kz/",
+          "title": "Геопортал НИПД",
+          "published": "N/A"
+        }
+      ]
+    }
+  ]
+}

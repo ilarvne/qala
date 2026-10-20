@@ -1,0 +1,84 @@
+{
+  "checkedUTC": "2026-10-19T12:37:14.608610+00:00",
+  "scope": "Independent focused review of four new follow-up reports and consolidated source matrix; prior workstreams retained as context. No application source changes.",
+  "reports": [
+    {
+      "path": "docs/research/astana-3d-municipal-followup.md",
+      "sha256": "06f96773235641373259a5ea1ef3571197bade3af6bd0067d54f1ee268e41d9f",
+      "brokenLocalLinks": []
+    },
+    {
+      "path": "docs/research/astana-3d-provider-followup.md",
+      "sha256": "6e977714ee84e16f41374467b645bcc33c2f0587b31fddf265fd264041202449",
+      "brokenLocalLinks": []
+    },
+    {
+      "path": "docs/research/astana-3d-acquisition-followup.md",
+      "sha256": "8c224c50d0ce5752294863276e9a5eb804f3dbc73dcdb4088fdb92fd750d4a95",
+      "brokenLocalLinks": []
+    },
+    {
+      "path": "docs/research/astana-3d-engine-followup.md",
+      "sha256": "c9141523b28cba53b4a4ec21b2c58c4c546a164f41ef3f4092eaef0abf678ede",
+      "brokenLocalLinks": []
+    }
+  ],
+  "matrix": {
+    "path": "artifacts/astana-3d-source-matrix.json",
+    "candidateCount": 19,
+    "discoveryCountsIndependentlyRecomputed": true,
+    "qualifiedNewReadySourceCount": 0,
+    "materialCorrectionsRemaining": []
+  },
+  "reviewFindings": [
+    {
+      "id": "yandex-live-gps-free-use",
+      "severity": "material-qualification",
+      "status": "resolved-in-provider-report-and-matrix",
+      "evidence": "Current Kazakhstan terms5.1.3 restrict free real-time monitoring of people/vehicles/objects. Personal navigation applicability needs provider confirmation; free public visibility alone insufficient.",
+      "source": "https://yandex.kz/legal/maps_api/ru/"
+    },
+    {
+      "id": "geoscan-2016-opening-vs-construction",
+      "severity": "wording",
+      "status": "resolved-in-acquisition-report",
+      "evidence": "2016 publication predates EXPO2017; avoid inferring the physical sphere did not yet exist or that precise coverage is known."
+    },
+    {
+      "id": "supplier-current-contact",
+      "severity": "contact-freshness",
+      "status": "resolved-in-acquisition-report",
+      "evidence": "Current contacts page is used instead of older project-footer address.",
+      "source": "https://kazaerospace.kz/contacts"
+    },
+    {
+      "id": "engine-search-query-trace",
+      "severity": "audit-trace",
+      "status": "resolved-in-engine-audit",
+      "evidence": "All five engine query strings now retained."
+    }
+  ],
+  "independentSearchAccounting": {
+    "successfulCalls": 27,
+    "requestedResultSlots": 252,
+    "returnedResultBlocks": 252,
+    "uniqueExactResultURLsAcrossWorkstreams": 216,
+    "note": "Discovery counts, not validated source/solution counts. Review itself made no additional search calls."
+  },
+  "modelPreviewReview": "Inspected saved Bayterek and city thumbnails. Bayterek is schematic with solid supports/faceted orb; city-wide overview does not establish close landmark geometry. API availability/licence conclusions remain appropriately bounded.",
+  "mapRecommendation": "Do not replace the currently useful map based on this research: no new source passes permission, actual central coverage, geometry and interaction gates. Owned-key2GIS remains immediate verified-content candidate; licensed centralI3S remains photorealistic acquisition path.",
+  "consolidatedMarkdownReview": {
+    "path": "docs/research/astana-3d-exhaustive-findings.md",
+    "sha256": "f55a0515d50813f1b2d377a64787b968ae5b0138bf19097297be39cbc30dbbc8",
+    "brokenLocalLinks": [],
+    "materialResearchCorrectionsRemaining": [],
+    "finding": "Counts, data rights, source qualification, current app state and implementation decision consistent with reviewed evidence. Packaging exclusion claim must match final thumbnail cache locations."
+  },
+  "packagingResolution": {
+    "checkedUTC": "2026-10-19T12:37:54.428413+00:00",
+    "allFiveThumbnailsPrivate": true,
+    "fullCertificatePrivate": true,
+    "publicEvidenceRetains": "Source URLs, checksums, registration facts and API observations",
+    "archiveVerification": "Separate package verifier asserts exclusion after rebuild"
+  }
+}

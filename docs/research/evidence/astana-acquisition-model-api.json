@@ -1,0 +1,53 @@
+[
+  {
+    "uid": "b58d109bb0e84e629530d7c3cf2aaf72",
+    "name": "Astana city",
+    "publishedAt": "2026-01-21T09:26:47.608725",
+    "isDownloadable": false,
+    "license": {},
+    "vertexCount": 1408063,
+    "faceCount": 1246911,
+    "viewerUrl": "https://sketchfab.com/3d-models/astana-city-b58d109bb0e84e629530d7c3cf2aaf72",
+    "description": "Astana is the capital city of Kazakhstan. With a population of 1,622,245 within the city limits, it is the second-largest in the country after Almaty, which was the national capital until 1997. The city lies on the banks of the Ishim river in the north of Kazakhstan. It is located within the Akmola Region but administers itself. Initially founded as Aqmoly in 1830, the city was later renamed Akmolinsk, Tselinograd, and Aqmola before adopting the name Astana in 1998, which means \"capital city\" in Kazakh. In 2019, the city briefly adopted the name Nur-Sultan in honor of former president Nursultan Nazarbayev, but it reverted to the name Astana in 2022. \n\nThe model preserves recognizable shapes, proportions and important details while remaining suitable for real-time scenes and general 3D production. It can be used for animation, games, virtual production, architectural visualization, educational projects, digital exhibitions, AR/VR experiences, background scenes and other creative applications.",
+    "status": 200,
+    "metadataURL": "https://api.sketchfab.com/v3/models/b58d109bb0e84e629530d7c3cf2aaf72",
+    "thumbnail": {
+      "uid": "7401aaac8182469aae498ead92524506",
+      "width": 1920,
+      "height": 1080,
+      "size": 514818,
+      "url": "https://media.sketchfab.com/models/b58d109bb0e84e629530d7c3cf2aaf72/thumbnails/23bf9ec28d03403da808fc7af685b485/0eba247930324953b3afc79149f7a17a.jpeg"
+    },
+    "checkedAt": "2026-10-19",
+    "privateThumbnailEvidence": "artifacts/private/research/astana-3d/astana-market-b58d109bb0e84e629530d7c3cf2aaf72.jpeg"
+  },
+  {
+    "uid": "a2265f19956f4eac899ce9a5a75fe58b",
+    "name": "Baitereck Astana",
+    "publishedAt": "2023-06-11T11:23:55.599292",
+    "isDownloadable": false,
+    "license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/783b685da9bf457d81e829fa283f3567",
+      "label": "Standard",
+      "fullName": "Standard",
+      "requirements": "Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works",
+      "url": "https://sketchfab.com/licenses",
+      "slug": "st"
+    },
+    "vertexCount": 16513,
+    "faceCount": 37250,
+    "viewerUrl": "https://sketchfab.com/3d-models/baitereck-astana-a2265f19956f4eac899ce9a5a75fe58b",
+    "description": "Baiterek Astana",
+    "status": 200,
+    "metadataURL": "https://api.sketchfab.com/v3/models/a2265f19956f4eac899ce9a5a75fe58b",
+    "thumbnail": {
+      "uid": "5b9b786d9533475895650aac14919e65",
+      "width": 1920,
+      "height": 1080,
+      "size": 165572,
+      "url": "https://media.sketchfab.com/models/a2265f19956f4eac899ce9a5a75fe58b/thumbnails/419b305358bb46c586bb59d9860aa57a/5574e058311c4f9fa4bb356f0f8de190.jpeg"
+    },
+    "checkedAt": "2026-10-19",
+    "privateThumbnailEvidence": "artifacts/private/research/astana-3d/astana-market-a2265f19956f4eac899ce9a5a75fe58b.jpeg"
+  }
+]

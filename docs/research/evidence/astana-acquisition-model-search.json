@@ -1,0 +1,227 @@
+[
+  {
+    "query": "nur alem",
+    "url": "https://api.sketchfab.com/v3/search?type=models&q=nur+alem&count=24",
+    "status": 200,
+    "next": null,
+    "results": [
+      {
+        "uid": "3389dd1283654dd4accceb6d1c948e9f",
+        "name": "Nur_Alem_Expo_004",
+        "isDownloadable": false,
+        "license": null,
+        "faceCount": 2784380,
+        "vertexCount": 2436325,
+        "viewerUrl": "https://sketchfab.com/3d-models/none-3389dd1283654dd4accceb6d1c948e9f",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "query": "alem ai",
+    "url": "https://api.sketchfab.com/v3/search?type=models&q=alem+ai&count=24",
+    "status": 200,
+    "next": null,
+    "results": [
+      {
+        "uid": "d065fda99b8d480395822a1c669f0f8c",
+        "name": "Cruzeiro da Quinta",
+        "isDownloadable": true,
+        "license": {
+          "uid": "34b725081a6a4184957efaec2cb84ed3",
+          "label": "CC Attribution-NonCommercial-NoDerivs"
+        },
+        "faceCount": 178264,
+        "vertexCount": 90052,
+        "viewerUrl": "https://sketchfab.com/3d-models/none-d065fda99b8d480395822a1c669f0f8c",
+        "description": "Levantamento fotogramétrico de um cruzeiro quinhentista, localizada no lugar da “Quinta” (Arnoso Santa Maria, V. N. Famalicão).\n\nÉ um cruzeiro datado de 1569, de encomenda particular. Possui um admirável trabalho escultórico e significado, o que o elevou, desde 20 de Setembro de 2012, à categoria de Imóvel de Interesse Público. Além da iconografia aí presente, pode ainda observar também diversas epígrafes e símbolos. \n\nSAIBA MAIS: [FAMALICÃO ID](http://famalicaoid.org/inweb/ficha.aspx?ns=215000&id=999)\n________________________\n“Quinta” Wayside Cross\n\nPhotogrammetric survey of wayside cross from the 16th century, located at “Quinta” place (Arnoso Santa Maria, Vila Nova de Famalicão, Portugal).\n\nIt is a historic landmark, dated 1569, built by a private individual. It has a astonishing sculpture work and suprise significance, that took it to be classified as \"Imóvel de Interesse Público\", since 20th September, 2012. \n\nFIND MORE ABOUT: [FAMALICÃO ID](http://famalicaoid.org/inweb/ficha.aspx?ns=215000&id=999)"
+      }
+    ]
+  },
+  {
+    "query": "baiterek",
+    "url": "https://api.sketchfab.com/v3/search?type=models&q=baiterek&count=24",
+    "status": 200,
+    "next": null,
+    "results": [
+      {
+        "uid": "a2265f19956f4eac899ce9a5a75fe58b",
+        "name": "Baitereck Astana",
+        "isDownloadable": false,
+        "license": {
+          "uid": "783b685da9bf457d81e829fa283f3567",
+          "label": "Standard"
+        },
+        "faceCount": 37250,
+        "vertexCount": 16513,
+        "viewerUrl": "https://sketchfab.com/3d-models/none-a2265f19956f4eac899ce9a5a75fe58b",
+        "description": "Baiterek Astana"
+      },
+      {
+        "uid": "7d699606fef740ac986ee6cb159e0239",
+        "name": "Baiterek Tower Brilliance",
+        "isDownloadable": false,
+        "license": null,
+        "faceCount": 1142640,
+        "vertexCount": 569175,
+        "viewerUrl": "https://sketchfab.com/3d-models/none-7d699606fef740ac986ee6cb159e0239",
+        "description": "This model was generated using Meshy(https://www.meshy.ai)'s AI toolkit. It provides tools that effortlessly turn human imagination into stunning 3D models.\r\n\r\nIf you're interested in this model, visit the model page on Meshy to explore more about it: [https://www.meshy.ai/3d-models/Baiterek-Tower-Brilliance-v2-019a7e7a-07e8-7fcf-a005-00c9af2b798a?utm_source=sketchfab](https://www.meshy.ai/3d-models/Baiterek-Tower-Brilliance-v2-019a7e7a-07e8-7fcf-a005-00c9af2b798a?utm_source=sketchfab)"
+      },
+      {
+        "uid": "c295d77ceda2427f9e64f74e08ff4a86",
+        "name": "Astana (Астана)",
+        "isDownloadable": true,
+        "license": {
+          "uid": "322a749bcfa841b29dff1e8a1bb74b0b",
+          "label": "CC Attribution"
+        },
+        "faceCount": 849588,
+        "vertexCount": 973900,
+        "viewerUrl": "https://sketchfab.com/3d-models/none-c295d77ceda2427f9e64f74e08ff4a86",
+        "description": "this is the city of Astana. Main Features:\n\n* Population: about 1,200,000 (2023).\n* Geography: Located on the banks of the Ishim River in the northern part of Kazakhstan.\n* Climate: Continental, with cold winters and hot summers.\n* Economy: The center of financial, commercial and trade activities in Kazakhstan. \n* Culture: A mixture of traditions of the Kazakh people and modern architecture.\n* Architecture: Modern skyscrapers, mosques, museums and monuments.\n* Transport: Well-developed public transport infrastructure, including the metro.\n* Attractions: Baiterek, Palace of Peace and Accord, Hazret Sultan Mosque."
+      },
+      {
+        "uid": "9329005c672842e5a79fc0e24d078435",
+        "name": "Home Home V01",
+        "isDownloadable": true,
+        "license": {
+          "uid": "322a749bcfa841b29dff1e8a1bb74b0b",
+          "label": "CC Attribution"
+        },
+        "faceCount": 635,
+        "vertexCount": 335,
+        "viewerUrl": "https://sketchfab.com/3d-models/none-9329005c672842e5a79fc0e24d078435",
+        "description": "For Baiterek Hackaton"
+      },
+      {
+        "uid": "1437567dff9d4d4dbf01ea78f03e3f00",
+        "name": "Байтерек Астана",
+        "isDownloadable": true,
+        "license": {
+          "uid": "322a749bcfa841b29dff1e8a1bb74b0b",
+          "label": "CC Attribution"
+        },
+        "faceCount": 4954,
+        "vertexCount": 2498,
+        "viewerUrl": "https://sketchfab.com/3d-models/none-1437567dff9d4d4dbf01ea78f03e3f00",
+        "description": "**Байтерек** – уникальный по конструкции, величественный монумент, считающийся визитной карточкой современной **столицы** Казахстана. Полное название этого памятника – Байтерек-Астана. Для казахов он стал символом наступления нового этапа в истории страны, а мировое сообщество воспринимает Байтерек как воплощение независимого государства **Казахстан**."
+      },
+      {
+        "uid": "797f456947a04417be0709e055c2f2ad",
+        "name": "'The Lady with the Dog' Sculpture Scan",
+        "isDownloadable": true,
+        "license": {
+          "uid": "72eb2b1960364637901eacce19283624",
+          "label": "Free Standard"
+        },
+        "faceCount": 600646,
+        "vertexCount": 300317,
+        "viewerUrl": "https://sketchfab.com/3d-models/none-797f456947a04417be0709e055c2f2ad",
+        "description": "Small architectural form “The Lady with the Dog” is inspired by the character from Anton Chekhov’s short story of the same name. Located in the Yesil District of Astana, in the Shubar microdistrict (near the Avicenna residential complex and Baiterek metro station). The sculptor, commissioner, and date of installation are unknown.\n\n  Processed in RealityCapture from 469 images on Medium quality settings"
+      },
+      {
+        "uid": "35a04a9a38d8429e955f42f37319262e",
+        "name": "Bayterek",
+        "isDownloadable": false,
+        "license": null,
+        "faceCount": 83602,
+        "vertexCount": 50438,
+        "viewerUrl": "https://sketchfab.com/3d-models/none-35a04a9a38d8429e955f42f37319262e",
+        "description": "The monulment in Astana, Capital of Kazakhstan"
+      }
+    ]
+  },
+  {
+    "query": "bayterek",
+    "url": "https://api.sketchfab.com/v3/search?type=models&q=bayterek&count=24",
+    "status": 200,
+    "next": null,
+    "results": [
+      {
+        "uid": "35a04a9a38d8429e955f42f37319262e",
+        "name": "Bayterek",
+        "isDownloadable": false,
+        "license": null,
+        "faceCount": 83602,
+        "vertexCount": 50438,
+        "viewerUrl": "https://sketchfab.com/3d-models/none-35a04a9a38d8429e955f42f37319262e",
+        "description": "The monulment in Astana, Capital of Kazakhstan"
+      },
+      {
+        "uid": "a2265f19956f4eac899ce9a5a75fe58b",
+        "name": "Baitereck Astana",
+        "isDownloadable": false,
+        "license": {
+          "uid": "783b685da9bf457d81e829fa283f3567",
+          "label": "Standard"
+        },
+        "faceCount": 37250,
+        "vertexCount": 16513,
+        "viewerUrl": "https://sketchfab.com/3d-models/none-a2265f19956f4eac899ce9a5a75fe58b",
+        "description": "Baiterek Astana"
+      },
+      {
+        "uid": "c295d77ceda2427f9e64f74e08ff4a86",
+        "name": "Astana (Астана)",
+        "isDownloadable": true,
+        "license": {
+          "uid": "322a749bcfa841b29dff1e8a1bb74b0b",
+          "label": "CC Attribution"
+        },
+        "faceCount": 849588,
+        "vertexCount": 973900,
+        "viewerUrl": "https://sketchfab.com/3d-models/none-c295d77ceda2427f9e64f74e08ff4a86",
+        "description": "this is the city of Astana. Main Features:\n\n* Population: about 1,200,000 (2023).\n* Geography: Located on the banks of the Ishim River in the northern part of Kazakhstan.\n* Climate: Continental, with cold winters and hot summers.\n* Economy: The center of financial, commercial and trade activities in Kazakhstan. \n* Culture: A mixture of traditions of the Kazakh people and modern architecture.\n* Architecture: Modern skyscrapers, mosques, museums and monuments.\n* Transport: Well-developed public transport infrastructure, including the metro.\n* Attractions: Baiterek, Palace of Peace and Accord, Hazret Sultan Mosque."
+      },
+      {
+        "uid": "1437567dff9d4d4dbf01ea78f03e3f00",
+        "name": "Байтерек Астана",
+        "isDownloadable": true,
+        "license": {
+          "uid": "322a749bcfa841b29dff1e8a1bb74b0b",
+          "label": "CC Attribution"
+        },
+        "faceCount": 4954,
+        "vertexCount": 2498,
+        "viewerUrl": "https://sketchfab.com/3d-models/none-1437567dff9d4d4dbf01ea78f03e3f00",
+        "description": "**Байтерек** – уникальный по конструкции, величественный монумент, считающийся визитной карточкой современной **столицы** Казахстана. Полное название этого памятника – Байтерек-Астана. Для казахов он стал символом наступления нового этапа в истории страны, а мировое сообщество воспринимает Байтерек как воплощение независимого государства **Казахстан**."
+      },
+      {
+        "uid": "9329005c672842e5a79fc0e24d078435",
+        "name": "Home Home V01",
+        "isDownloadable": true,
+        "license": {
+          "uid": "322a749bcfa841b29dff1e8a1bb74b0b",
+          "label": "CC Attribution"
+        },
+        "faceCount": 635,
+        "vertexCount": 335,
+        "viewerUrl": "https://sketchfab.com/3d-models/none-9329005c672842e5a79fc0e24d078435",
+        "description": "For Baiterek Hackaton"
+      },
+      {
+        "uid": "797f456947a04417be0709e055c2f2ad",
+        "name": "'The Lady with the Dog' Sculpture Scan",
+        "isDownloadable": true,
+        "license": {
+          "uid": "72eb2b1960364637901eacce19283624",
+          "label": "Free Standard"
+        },
+        "faceCount": 600646,
+        "vertexCount": 300317,
+        "viewerUrl": "https://sketchfab.com/3d-models/none-797f456947a04417be0709e055c2f2ad",
+        "description": "Small architectural form “The Lady with the Dog” is inspired by the character from Anton Chekhov’s short story of the same name. Located in the Yesil District of Astana, in the Shubar microdistrict (near the Avicenna residential complex and Baiterek metro station). The sculptor, commissioner, and date of installation are unknown.\n\n  Processed in RealityCapture from 469 images on Medium quality settings"
+      },
+      {
+        "uid": "7d699606fef740ac986ee6cb159e0239",
+        "name": "Baiterek Tower Brilliance",
+        "isDownloadable": false,
+        "license": null,
+        "faceCount": 1142640,
+        "vertexCount": 569175,
+        "viewerUrl": "https://sketchfab.com/3d-models/none-7d699606fef740ac986ee6cb159e0239",
+        "description": "This model was generated using Meshy(https://www.meshy.ai)'s AI toolkit. It provides tools that effortlessly turn human imagination into stunning 3D models.\r\n\r\nIf you're interested in this model, visit the model page on Meshy to explore more about it: [https://www.meshy.ai/3d-models/Baiterek-Tower-Brilliance-v2-019a7e7a-07e8-7fcf-a005-00c9af2b798a?utm_source=sketchfab](https://www.meshy.ai/3d-models/Baiterek-Tower-Brilliance-v2-019a7e7a-07e8-7fcf-a005-00c9af2b798a?utm_source=sketchfab)"
+      }
+    ]
+  }
+]
