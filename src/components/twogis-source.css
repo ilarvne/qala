@@ -1,0 +1,48 @@
+.twogis-source { display: grid; gap: 14px; min-width: 0; }
+.twogis-source > header { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.twogis-source h3 { font-size: 14px; font-weight: 600; letter-spacing: -.02em; }
+.twogis-profile { display: grid; gap: 16px; min-width: 0; animation: twogis-ready 150ms var(--ease-out); }
+.twogis-identity { display: grid; gap: 7px; min-width: 0; }
+.twogis-identity h4 { margin: 0; font-size: 15px; font-weight: 550; line-height: 1.5; }
+.twogis-identity h4 a { display: inline-flex; align-items: baseline; gap: 8px; text-decoration: none; overflow-wrap: anywhere; }
+.twogis-identity h4 a > svg { width: 14px; height: 14px; align-self: center; }
+.twogis-address { display: flex; align-items: flex-start; gap: 6px; color: var(--muted-foreground); font-size: 12px; line-height: 1.6; overflow-wrap: anywhere; }
+.twogis-address > svg { width: 15px; height: 15px; margin-top: 2px; }
+.twogis-metrics { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; margin: 0; font-variant-numeric: tabular-nums; }
+.twogis-metrics > div { display: grid; align-content: start; gap: 4px; min-width: 0; }
+.twogis-metrics dt { color: var(--muted-foreground); font-size: 12px; }
+.twogis-metrics dd { display: flex; align-items: center; gap: 5px; margin: 0; font-size: 18px; font-weight: 550; line-height: 1.6; }
+.twogis-metrics dd > span { color: var(--muted-foreground); font-size: 12px; font-weight: 400; }
+.twogis-metrics dd > svg { width: 15px; height: 15px; }
+.twogis-source details > summary { display: flex; align-items: center; gap: 7px; min-height: 36px; cursor: pointer; list-style: none; font-size: 12px; font-weight: 550; }
+.twogis-source details > summary::-webkit-details-marker { display: none; }
+.twogis-source summary > svg { width: 15px; height: 15px; }
+.twogis-source .twogis-caret { margin-left: auto; transition: transform 150ms var(--ease-out); }
+.twogis-source details[open] .twogis-caret { transform: rotate(180deg); }
+.twogis-week { display: grid; gap: 7px; margin: 9px 0 0; font-size: 12px; font-variant-numeric: tabular-nums; }
+.twogis-week > div { display: grid; grid-template-columns: 40px 1fr; gap: 12px; line-height: 1.7; }
+.twogis-week dt { color: var(--muted-foreground); }
+.twogis-week dd { margin: 0; overflow-wrap: anywhere; }
+.twogis-schedule-comment { margin-top: 7px; font-size: 12px; line-height: 1.7; white-space: pre-line; overflow-wrap: anywhere; }
+.twogis-hours > a { display: inline-flex; align-items: center; gap: 6px; margin-top: 7px; color: var(--primary); font-size: 12px; }
+.twogis-hours > a > svg { width: 14px; height: 14px; }
+.twogis-contacts dl { display: grid; gap: 10px; margin: 8px 0 0; font-size: 12px; }
+.twogis-contacts dl > div { display: grid; grid-template-columns: 80px 1fr; gap: 12px; line-height: 1.7; }
+.twogis-contacts dt { color: var(--muted-foreground); }
+.twogis-contacts dd { min-width: 0; margin: 0; overflow-wrap: anywhere; }
+.twogis-contacts dd a { color: var(--primary); }
+.twogis-contacts small { display: block; margin-top: 2px; color: var(--muted-foreground); font-size: inherit; }
+.twogis-actions { display: flex; flex-wrap: wrap; gap: 8px; }
+.twogis-loading > div { display: grid; gap: 12px; min-height: 100px; }
+.twogis-ambiguous > p { font-size: 13px; line-height: 1.6; }
+.twogis-ambiguous ul { display: grid; gap: 4px; padding: 0; margin: 9px 0 0; list-style: none; }
+.twogis-ambiguous li a { display: flex; align-items: center; justify-content: space-between; gap: 14px; padding: 10px 0; text-decoration: none; }
+.twogis-ambiguous li a > span { display: grid; gap: 3px; min-width: 0; font-size: 12px; line-height: 1.6; }
+.twogis-ambiguous strong { font-weight: 550; }
+.twogis-ambiguous li span > span, .twogis-ambiguous small { color: var(--muted-foreground); font-size: inherit; overflow-wrap: anywhere; }
+.twogis-ambiguous li a > svg { width: 16px; height: 16px; }
+@keyframes twogis-ready { from { opacity: .5; } to { opacity: 1; } }
+@media (hover: hover) and (pointer: fine) { .twogis-identity h4 a:hover, .twogis-ambiguous a:hover strong { color: var(--primary); } }
+@media (max-width: 760px) { .twogis-source > header button, .twogis-actions a { min-height: 44px; } .twogis-source > header button { min-width: 44px; } .twogis-source details > summary { min-height: 44px; } }
+@media (prefers-reduced-motion: reduce) { .twogis-source *, .twogis-profile { animation: none !important; transition: none !important; } }
+html[data-input="keyboard"] .twogis-source *, html[data-input="keyboard"] .twogis-profile { animation: none !important; transition: none !important; }

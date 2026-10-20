@@ -1,0 +1,40 @@
+[
+  {
+    "name": "botanical",
+    "file": "/images/botanical.jpg",
+    "title": "Botanical Garden Nur-Sultan city trees during Sunset.jpg",
+    "author": "DiamondMoore",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Botanical_Garden_Nur-Sultan_city_trees_during_Sunset.jpg",
+    "changes": "Unmodified file; displayed with CSS cover crop"
+  },
+  {
+    "name": "nur-alem",
+    "file": "/images/nur-alem.jpg",
+    "title": "Expo 2017 \"Nur Alem\" Pavilion Space Exhibition.jpg",
+    "author": "颲風",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Expo_2017_%22Nur_Alem%22_Pavilion_Space_Exhibition.jpg",
+    "changes": "Unmodified file; displayed with CSS cover crop"
+  },
+  {
+    "name": "astana-editorial",
+    "file": "/images/astana-editorial.webp",
+    "title": "Illustrative artistic montage of Astana; not a verified photograph",
+    "author": "Qala project · AI generated",
+    "source": "docs/asset-prompts.json",
+    "usage": "Decorative city illustration, labeled as AI generated in the interface",
+    "changes": "WebP optimization of generated PNG original"
+  },
+  {
+    "name": "astana-night",
+    "file": "/images/astana-night.webp",
+    "title": "Illustrative artistic montage of Astana; not a verified photograph",
+    "author": "Qala project · AI generated",
+    "source": "docs/asset-prompts.json",
+    "usage": "Decorative city illustration, labeled as AI generated in the interface",
+    "changes": "WebP optimization of generated PNG original"
+  }
+]
