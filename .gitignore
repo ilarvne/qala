@@ -1,0 +1,37 @@
+node_modules/
+dist/
+.venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.tsbuildinfo
+*.sqlite*
+var/
+.cache/
+.impeccable/
+.presentation-build/
+.scenarios-build/
+artifacts/video/work/
+artifacts/private/
+*.log
+data/raw/*-operator.html
+.DS_Store
+
+.local/
+
+# Local authoring, capture attempts and disposable data staging.
+/tmp/
+/artifacts/**/work/
+/artifacts/**/rejected-preview/
+/artifacts/media-upgrade-staging/
+/artifacts/data-expansion-staging/
+
+# Published as a GitHub Release asset rather than a large Git blob.
+/artifacts/qala-submission.zip
+
+# Retained full operator pages are local evidence, not redistributable assets.
+/data/raw/**/*.html

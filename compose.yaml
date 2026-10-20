@@ -1,0 +1,16 @@
+services:
+  qala:
+    build: .
+    ports:
+      - "127.0.0.1:8000:8000"
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      QALA_MEMORY_PATH: /app/var/preferences.sqlite3
+    volumes:
+      - qala-memory:/app/var
+    restart: unless-stopped
+volumes:
+  qala-memory:
+

@@ -1,0 +1,15 @@
+.git
+node_modules
+.venv
+.env
+.env.*
+artifacts
+__pycache__
+.pytest_cache
+var
+.local
+*.sqlite*
+.impeccable
+.presentation-build
+.scenarios-build
+
