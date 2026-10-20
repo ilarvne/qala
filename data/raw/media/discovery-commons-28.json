@@ -1,0 +1,287 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "83985856": {
+        "pageid": 83985856,
+        "ns": 6,
+        "title": "File:Nur Astana Mosque 02.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4723772,
+            "width": 4000,
+            "height": 6000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Nur_Astana_Mosque_02.jpg/1280px-Nur_Astana_Mosque_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 1500,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Nur_Astana_Mosque_02.jpg/3840px-Nur_Astana_Mosque_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Nur_Astana_Mosque_02.jpg/1280px-Nur_Astana_Mosque_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 1500,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Nur_Astana_Mosque_02.jpg/3840px-Nur_Astana_Mosque_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Nur_Astana_Mosque_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nur_Astana_Mosque_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83985856",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Codas\" title=\"User:Codas\">Davide Mauro</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "150151122": {
+        "pageid": 150151122,
+        "ns": 6,
+        "title": "File:Palace of Peace and Reconciliation (pyramid).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2258968,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Palace_of_Peace_and_Reconciliation_%28pyramid%29.jpg/1280px-Palace_of_Peace_and_Reconciliation_%28pyramid%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 1333,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Palace_of_Peace_and_Reconciliation_%28pyramid%29.jpg/1920px-Palace_of_Peace_and_Reconciliation_%28pyramid%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Palace_of_Peace_and_Reconciliation_%28pyramid%29.jpg/1280px-Palace_of_Peace_and_Reconciliation_%28pyramid%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 1333,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Palace_of_Peace_and_Reconciliation_%28pyramid%29.jpg/1920px-Palace_of_Peace_and_Reconciliation_%28pyramid%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Palace_of_Peace_and_Reconciliation_%28pyramid%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Palace_of_Peace_and_Reconciliation_(pyramid).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150151122",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Nikolamikovic82&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Nikolamikovic82 (page does not exist)\">Nikolamikovic82</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "30938255": {
+        "pageid": 30938255,
+        "ns": 6,
+        "title": "File:Saryarka Velodrome.JPG",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8640891,
+            "width": 5064,
+            "height": 2616,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Saryarka_Velodrome.JPG/1280px-Saryarka_Velodrome.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 517,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Saryarka_Velodrome.JPG/3840px-Saryarka_Velodrome.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Saryarka_Velodrome.JPG/1280px-Saryarka_Velodrome.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 517,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Saryarka_Velodrome.JPG/3840px-Saryarka_Velodrome.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Saryarka_Velodrome.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Saryarka_Velodrome.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=30938255",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ChelseaFunNumberOne\" title=\"User:ChelseaFunNumberOne\">ChelseaFunNumberOne</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "118254218": {
+        "pageid": 118254218,
+        "ns": 6,
+        "title": "File:Talantowers-1.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1910195,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Talantowers-1.jpg/1280px-Talantowers-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 1333,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Talantowers-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Talantowers-1.jpg/1280px-Talantowers-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 1333,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Talantowers-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Talantowers-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Talantowers-1.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=118254218",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Talgautb\" title=\"User:Talgautb\">Talgautb</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "118254219": {
+        "pageid": 118254219,
+        "ns": 6,
+        "title": "File:Talantowers-2.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1791550,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Talantowers-2.jpg/1280px-Talantowers-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 1333,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Talantowers-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Talantowers-2.jpg/1280px-Talantowers-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 1333,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Talantowers-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Talantowers-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Talantowers-2.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=118254219",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Talgautb\" title=\"User:Talgautb\">Talgautb</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    }
+  }
+}

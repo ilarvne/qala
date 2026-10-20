@@ -1,0 +1,27 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "categorymembers": [
+      {
+        "pageid": 151491209,
+        "ns": 6,
+        "title": "File:\"Moskva\" biznes markazi.jpg"
+      },
+      {
+        "pageid": 152037020,
+        "ns": 6,
+        "title": "File:Esil District, Astana (P1190650).jpg"
+      },
+      {
+        "pageid": 118254218,
+        "ns": 6,
+        "title": "File:Talantowers-1.jpg"
+      },
+      {
+        "pageid": 118254219,
+        "ns": 6,
+        "title": "File:Talantowers-2.jpg"
+      }
+    ]
+  }
+}

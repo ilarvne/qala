@@ -1,0 +1,287 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "4392739": {
+        "pageid": 4392739,
+        "ns": 6,
+        "title": "File:Druzhba-train-Omsk-Karaganda-at-Astana-Station-7750.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1145635,
+            "width": 2048,
+            "height": 1536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Druzhba-train-Omsk-Karaganda-at-Astana-Station-7750.jpg/1280px-Druzhba-train-Omsk-Karaganda-at-Astana-Station-7750.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 750,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Druzhba-train-Omsk-Karaganda-at-Astana-Station-7750.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Druzhba-train-Omsk-Karaganda-at-Astana-Station-7750.jpg/1280px-Druzhba-train-Omsk-Karaganda-at-Astana-Station-7750.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 750,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Druzhba-train-Omsk-Karaganda-at-Astana-Station-7750.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Druzhba-train-Omsk-Karaganda-at-Astana-Station-7750.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Druzhba-train-Omsk-Karaganda-at-Astana-Station-7750.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4392739",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Vmenkov\" title=\"User:Vmenkov\">Vmenkov</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "91787937": {
+        "pageid": 91787937,
+        "ns": 6,
+        "title": "File:Gorky Drama Theatre Nur-Sultan.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4463501,
+            "width": 7952,
+            "height": 5304,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Gorky_Drama_Theatre_Nur-Sultan.jpg/1280px-Gorky_Drama_Theatre_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 667,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Gorky_Drama_Theatre_Nur-Sultan.jpg/3840px-Gorky_Drama_Theatre_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Gorky_Drama_Theatre_Nur-Sultan.jpg/1280px-Gorky_Drama_Theatre_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 667,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Gorky_Drama_Theatre_Nur-Sultan.jpg/3840px-Gorky_Drama_Theatre_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Gorky_Drama_Theatre_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gorky_Drama_Theatre_Nur-Sultan.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91787937",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mheidegger&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mheidegger (page does not exist)\">Yakov Fedorov</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "90862349": {
+        "pageid": 90862349,
+        "ns": 6,
+        "title": "File:Karaotkel Cemetery-1.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11463156,
+            "width": 7952,
+            "height": 5304,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Karaotkel_Cemetery-1.jpg/1280px-Karaotkel_Cemetery-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 667,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Karaotkel_Cemetery-1.jpg/3840px-Karaotkel_Cemetery-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Karaotkel_Cemetery-1.jpg/1280px-Karaotkel_Cemetery-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 667,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Karaotkel_Cemetery-1.jpg/3840px-Karaotkel_Cemetery-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Karaotkel_Cemetery-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Karaotkel_Cemetery-1.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=90862349",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mheidegger&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mheidegger (page does not exist)\">Yakov Fedorov</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "90862350": {
+        "pageid": 90862350,
+        "ns": 6,
+        "title": "File:Karaotkel Cemetery-2.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11981395,
+            "width": 7952,
+            "height": 5304,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Karaotkel_Cemetery-2.jpg/1280px-Karaotkel_Cemetery-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 667,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Karaotkel_Cemetery-2.jpg/3840px-Karaotkel_Cemetery-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Karaotkel_Cemetery-2.jpg/1280px-Karaotkel_Cemetery-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 667,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Karaotkel_Cemetery-2.jpg/3840px-Karaotkel_Cemetery-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Karaotkel_Cemetery-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Karaotkel_Cemetery-2.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=90862350",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mheidegger&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mheidegger (page does not exist)\">Yakov Fedorov</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "144270630": {
+        "pageid": 144270630,
+        "ns": 6,
+        "title": "File:Kazakh Eli Monument 01.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8183497,
+            "width": 4707,
+            "height": 3138,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Kazakh_Eli_Monument_01.jpg/1280px-Kazakh_Eli_Monument_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 667,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Kazakh_Eli_Monument_01.jpg/3840px-Kazakh_Eli_Monument_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Kazakh_Eli_Monument_01.jpg/1280px-Kazakh_Eli_Monument_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 667,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Kazakh_Eli_Monument_01.jpg/3840px-Kazakh_Eli_Monument_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Kazakh_Eli_Monument_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kazakh_Eli_Monument_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144270630",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bgag\" title=\"User:Bgag\">Bernard Gagnon</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    }
+  }
+}

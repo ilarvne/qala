@@ -1,0 +1,27 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "categorymembers": [
+      {
+        "pageid": 77600760,
+        "ns": 6,
+        "title": "File:Hotelo Rixos President Astana.jpg"
+      },
+      {
+        "pageid": 41201070,
+        "ns": 6,
+        "title": "File:RIXOS ASTANA,KAZAKHSTAN - panoramio.jpg"
+      },
+      {
+        "pageid": 44885165,
+        "ns": 6,
+        "title": "File:Secretary Kerry Shakes Hands With Kazakhstan Prime Minister Massimov in Astana (22697743995).jpg"
+      },
+      {
+        "pageid": 114102880,
+        "ns": 6,
+        "title": "File:Карим Масимов (22697743995).jpg"
+      }
+    ]
+  }
+}

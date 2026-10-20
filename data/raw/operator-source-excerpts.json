@@ -1,0 +1,29 @@
+{
+  "purpose": "Minimal non-contiguous exact source excerpts for reproducible operator fact checks when full copyrighted HTML is excluded from the archive. No invented HTML or inferred source quotations.",
+  "sources": [
+    {
+      "poi_id": "osm-node-4894937300",
+      "url": "https://www.nmrk.kz/en/",
+      "observed_at": "2026-10-19T16:36:13.600877+00:00",
+      "source_snapshot_sha256": "a223cc306282be4f8010cef6038fc5baca91cbd2c4e95f8a3e72acaf4d0b19b1",
+      "excerpts": [
+        "Monday is a day off",
+        "10:00 - 18:00 Tue-Sun"
+      ],
+      "word_count": 9,
+      "excerpts_sha256": "aaa11f11f5b4f504400a9ebb13abf28e03d17fe900d95200a26f4871fb636f88"
+    },
+    {
+      "poi_id": "osm-way-230401645",
+      "url": "https://a-vm.kz/en/objects/bayterek/",
+      "observed_at": "2026-10-19T16:36:14.565728+00:00",
+      "source_snapshot_sha256": "ed81e446993eeae4a4c4716f1364aa908ad587d053e1d6406f73d1801f50dc5c",
+      "excerpts": [
+        "June 1 – August 31: 10:00 AM to 10:00 PM",
+        "September 1 – May 31: 10:00 AM to 9:00 PM"
+      ],
+      "word_count": 20,
+      "excerpts_sha256": "df4a2b7ab8b73da9702cb87f4d22aa297a012153adcb4159f60774d59a41f2c5"
+    }
+  ]
+}

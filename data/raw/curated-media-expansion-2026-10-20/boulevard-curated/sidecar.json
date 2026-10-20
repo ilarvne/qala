@@ -1,0 +1,45 @@
+{
+  "assignments": [
+    {
+      "identity": {
+        "local_name": "Water Green Boulevard",
+        "local_source_url": "https://www.wikidata.org/wiki/Q713955",
+        "method": "editorially_reviewed_named_venue",
+        "review_note": "The file explicitly describes Nurjol Boulevard seen from Baiterek in Astana, and belongs to the exact Q713955 Commons category. It depicts the boulevard landscape rather than borrowing a neighbouring venue photograph.",
+        "reviewed_at": "2026-10-20T17:26:57.510728+00:00",
+        "source_description": "Nurjol Boulevard seen from the Baiterek Tower, Astana, Kazahkstan"
+      },
+      "photo": {
+        "asset_sha256": "2ad24d6ffc0a23d46648412c74ef192d56238551482218177fc471b8c4e384f7",
+        "attribution": "Bernard Gagnon · CC0",
+        "author": "Bernard Gagnon",
+        "height": 3507,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "observed_at": "2026-10-20T17:29:40.532864+00:00",
+        "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Nurjol_Boulevard%2C_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "provider": "Wikimedia Commons",
+        "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Nurjol_Boulevard%2C_Astana.jpg/1280px-Nurjol_Boulevard%2C_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "restrictions": null,
+        "source_url": "https://commons.wikimedia.org/wiki/File:Nurjol_Boulevard,_Astana.jpg",
+        "thumbnail_url": "/photos/6f525e250f52dfb2beca.jpg",
+        "title": "Nurjol Boulevard, Astana.jpg",
+        "url": "/photos/6f525e250f52dfb2beca.jpg",
+        "width": 2080
+      },
+      "poi_id": "wikidata-Q713955",
+      "preferred_cover": true,
+      "source_description_sha256": "2fbf4284e45731dbb5159f60a66a9f346ece88fb22b18875e4d0375a420297f1",
+      "source_metadata": {
+        "observed_at": "2026-10-20T17:29:40.532864+00:00",
+        "response_sha256": "235c882f3b51088b7581ebab8872b9bbdf165fec840bcc1a40dd0656b648f2ac",
+        "snapshot": "commons-f5528bfc9918a1b0.json"
+      },
+      "target_fingerprint": "ff096b4574a64a971eab7a14da8413524b9ea415ce7dd55ae8769f5ac7ada9aa"
+    }
+  ],
+  "held": [],
+  "kind": "curated_commons_assignments",
+  "policy": "Explicit editorial named-venue crosswalk; original source acquisition dates; per-file reusable rights; no proximity-only, generated, brand or unrelated-city images; staged only",
+  "schema_version": 1
+}

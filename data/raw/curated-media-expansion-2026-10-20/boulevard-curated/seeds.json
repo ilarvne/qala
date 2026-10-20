@@ -1,0 +1,20 @@
+[
+  {
+    "poi_id": "wikidata-Q713955",
+    "target_fingerprint": "ff096b4574a64a971eab7a14da8413524b9ea415ce7dd55ae8769f5ac7ada9aa",
+    "files": [
+      {
+        "title": "File:Nurjol Boulevard, Astana.jpg",
+        "identity": {
+          "method": "editorially_reviewed_named_venue",
+          "local_source_url": "https://www.wikidata.org/wiki/Q713955",
+          "local_name": "Water Green Boulevard",
+          "source_description": "Nurjol Boulevard seen from the Baiterek Tower, Astana, Kazahkstan",
+          "review_note": "The file explicitly describes Nurjol Boulevard seen from Baiterek in Astana, and belongs to the exact Q713955 Commons category. It depicts the boulevard landscape rather than borrowing a neighbouring venue photograph.",
+          "reviewed_at": "2026-10-20T17:26:57.510728+00:00"
+        },
+        "preferred_cover": true
+      }
+    ]
+  }
+]

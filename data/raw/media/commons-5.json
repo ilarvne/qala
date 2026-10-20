@@ -1,0 +1,287 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "83706099": {
+        "pageid": 83706099,
+        "ns": 6,
+        "title": "File:Atameken miniature park 01.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6503010,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Atameken_miniature_park_01.jpg/1280px-Atameken_miniature_park_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 750,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Atameken_miniature_park_01.jpg/3840px-Atameken_miniature_park_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Atameken_miniature_park_01.jpg/1280px-Atameken_miniature_park_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 750,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Atameken_miniature_park_01.jpg/3840px-Atameken_miniature_park_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Atameken_miniature_park_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atameken_miniature_park_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83706099",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Codas\" title=\"User:Codas\">Davide Mauro</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "83706097": {
+        "pageid": 83706097,
+        "ns": 6,
+        "title": "File:Atameken miniature park 02.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6152920,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Atameken_miniature_park_02.jpg/1280px-Atameken_miniature_park_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 750,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Atameken_miniature_park_02.jpg/3840px-Atameken_miniature_park_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Atameken_miniature_park_02.jpg/1280px-Atameken_miniature_park_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 750,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Atameken_miniature_park_02.jpg/3840px-Atameken_miniature_park_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Atameken_miniature_park_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atameken_miniature_park_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83706097",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Codas\" title=\"User:Codas\">Davide Mauro</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "79553439": {
+        "pageid": 79553439,
+        "ns": 6,
+        "title": "File:Bakhash in Zhetysu park.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3244440,
+            "width": 3264,
+            "height": 1836,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Bakhash_in_Zhetysu_park.jpg/1280px-Bakhash_in_Zhetysu_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 563,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/97/Bakhash_in_Zhetysu_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Bakhash_in_Zhetysu_park.jpg/1280px-Bakhash_in_Zhetysu_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 563,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/97/Bakhash_in_Zhetysu_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Bakhash_in_Zhetysu_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bakhash_in_Zhetysu_park.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=79553439",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ayratayrat&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ayratayrat (page does not exist)\">Ayratayrat</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "79553481": {
+        "pageid": 79553481,
+        "ns": 6,
+        "title": "File:Bakhash in Zhetysu park 2.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2536263,
+            "width": 3264,
+            "height": 1836,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bakhash_in_Zhetysu_park_2.jpg/1280px-Bakhash_in_Zhetysu_park_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 563,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bakhash_in_Zhetysu_park_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bakhash_in_Zhetysu_park_2.jpg/1280px-Bakhash_in_Zhetysu_park_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 563,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bakhash_in_Zhetysu_park_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bakhash_in_Zhetysu_park_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bakhash_in_Zhetysu_park_2.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=79553481",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ayratayrat&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ayratayrat (page does not exist)\">Ayratayrat</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "79553562": {
+        "pageid": 79553562,
+        "ns": 6,
+        "title": "File:Bakhash in Zhetysu park 3.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2555408,
+            "width": 3264,
+            "height": 1836,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Bakhash_in_Zhetysu_park_3.jpg/1280px-Bakhash_in_Zhetysu_park_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 563,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bakhash_in_Zhetysu_park_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Bakhash_in_Zhetysu_park_3.jpg/1280px-Bakhash_in_Zhetysu_park_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 563,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bakhash_in_Zhetysu_park_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bakhash_in_Zhetysu_park_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bakhash_in_Zhetysu_park_3.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=79553562",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ayratayrat&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ayratayrat (page does not exist)\">Ayratayrat</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "categorymembers": [
+      {
+        "pageid": 69172769,
+        "ns": 6,
+        "title": "File:Astana DSC04235 (7709902002).jpg"
+      },
+      {
+        "pageid": 69172802,
+        "ns": 6,
+        "title": "File:Astana DSC04245 (7709924248).jpg"
+      },
+      {
+        "pageid": 111475612,
+        "ns": 6,
+        "title": "File:Astana-2021-10 - 41.jpg"
+      },
+      {
+        "pageid": 83985856,
+        "ns": 6,
+        "title": "File:Nur Astana Mosque 02.jpg"
+      },
+      {
+        "pageid": 77407179,
+        "ns": 6,
+        "title": "File:Nur-Sultan - 190217 DSC 3720.jpg"
+      },
+      {
+        "pageid": 154053247,
+        "ns": 6,
+        "title": "File:Trip to Astana (2015-10-24) 01.jpg"
+      }
+    ]
+  }
+}

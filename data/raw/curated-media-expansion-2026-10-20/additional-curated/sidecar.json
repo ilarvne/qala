@@ -1,0 +1,119 @@
+{
+  "assignments": [
+    {
+      "identity": {
+        "local_name": "Bayterek",
+        "local_source_url": "https://www.openstreetmap.org/way/230401645",
+        "method": "editorially_reviewed_named_venue",
+        "review_note": "The exact Bayterek Commons category links Q804210 to OSM way230401645. A portrait photograph is proposed as a clearer cover; rights warnings must pass before publication.",
+        "reviewed_at": "2026-10-20T17:26:57.510728+00:00",
+        "source_description": "An image of the Baiterek monument."
+      },
+      "photo": {
+        "asset_sha256": "8d46f9e1b8c07aa6b65f701163ff161f3798aea0fe8df641d6feddaa63fed125",
+        "attribution": "Quarot · CC0",
+        "author": "Quarot",
+        "height": 6000,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "observed_at": "2026-10-20T17:26:58.480806+00:00",
+        "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Baiterek_August.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "provider": "Wikimedia Commons",
+        "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Baiterek_August.jpg/1280px-Baiterek_August.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "restrictions": null,
+        "source_url": "https://commons.wikimedia.org/wiki/File:Baiterek_August.jpg",
+        "thumbnail_url": "/photos/1967f6595e74e4fb8a64.jpg",
+        "title": "Baiterek August.jpg",
+        "url": "/photos/1967f6595e74e4fb8a64.jpg",
+        "width": 4000
+      },
+      "poi_id": "osm-way-230401645",
+      "preferred_cover": true,
+      "source_description_sha256": "e7508ccb9c78b92a3ce6d8b1484cba7e84db0e4ab15d331989dff356c4d7a16e",
+      "source_metadata": {
+        "observed_at": "2026-10-20T17:26:58.480806+00:00",
+        "response_sha256": "b65b47ad613fc6744f8484dc76064e398b94ad486575bef160476df68d62acba",
+        "snapshot": "commons-6e599d6bb8a03499.json"
+      },
+      "target_fingerprint": "aba34cf77cbad743db5485a06c95957e8bf0bc964a1491a0c3d7e68d045a7cdd"
+    },
+    {
+      "identity": {
+        "local_name": "Mega Silk Way",
+        "local_source_url": "https://www.openstreetmap.org/way/499328514",
+        "method": "editorially_reviewed_named_venue",
+        "review_note": "The file explicitly names SilkWay shopping centre in Astana; the venue is the same EXPO Mega SilkWay mall footprint, not a restaurant or a Mega branch elsewhere.",
+        "reviewed_at": "2026-10-20T17:26:57.510728+00:00",
+        "source_description": "La aĉetcentro SilkWay. Astano, Kazaĥio."
+      },
+      "photo": {
+        "asset_sha256": "8dccc70fe15c944030c4f00f23bf7c5296b8a4e52cda0d5d6cf761a1b07d5fb7",
+        "attribution": "RG72 · CC BY-SA 4.0",
+        "author": "RG72",
+        "height": 2454,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "observed_at": "2026-10-20T17:26:58.480806+00:00",
+        "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/A%C4%89etcentro_SilkWay_%28Astano%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "provider": "Wikimedia Commons",
+        "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/A%C4%89etcentro_SilkWay_%28Astano%29_01.jpg/1280px-A%C4%89etcentro_SilkWay_%28Astano%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "restrictions": null,
+        "source_url": "https://commons.wikimedia.org/wiki/File:A%C4%89etcentro_SilkWay_(Astano)_01.jpg",
+        "thumbnail_url": "/photos/a55dbba190726133035d.jpg",
+        "title": "Aĉetcentro SilkWay (Astano) 01.jpg",
+        "url": "/photos/a55dbba190726133035d.jpg",
+        "width": 4362
+      },
+      "poi_id": "osm-way-499328514",
+      "preferred_cover": true,
+      "source_description_sha256": "c439ca850be60d3e61c2cc05b9852a58ad20917b208aa687ae8fdf04458e05c8",
+      "source_metadata": {
+        "observed_at": "2026-10-20T17:26:58.480806+00:00",
+        "response_sha256": "b65b47ad613fc6744f8484dc76064e398b94ad486575bef160476df68d62acba",
+        "snapshot": "commons-6e599d6bb8a03499.json"
+      },
+      "target_fingerprint": "4e739d1331c9bfd3898f9dc007453ba83ae4ad316aa6567523172b38d7a2f8f1"
+    },
+    {
+      "identity": {
+        "local_name": "Kazakhstan Sports Palace",
+        "local_source_url": "https://www.wikidata.org/wiki/Q1186465",
+        "method": "editorially_reviewed_named_venue",
+        "review_note": "This is the exact P18 file linked by the original retained Wikidata Q1186465 source; the source P625 point is in Astana and source P373 category names the same sports palace.",
+        "reviewed_at": "2026-10-20T17:26:57.510728+00:00",
+        "source_description": "Kazakhstan Sports Palace."
+      },
+      "photo": {
+        "asset_sha256": "2300a35b325530e6b5d820ba069f940794b09e3e8b89f033914b6a57af14fe54",
+        "attribution": "ChelseaFunNumberOne · CC BY-SA 3.0",
+        "author": "ChelseaFunNumberOne",
+        "height": 1992,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "observed_at": "2026-10-20T17:26:58.480806+00:00",
+        "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Kazakhstan_Sports_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "provider": "Wikimedia Commons",
+        "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Kazakhstan_Sports_Palace.jpg/1280px-Kazakhstan_Sports_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "restrictions": null,
+        "source_url": "https://commons.wikimedia.org/wiki/File:Kazakhstan_Sports_Palace.jpg",
+        "thumbnail_url": "/photos/e201ad079fe2d9c34eb3.jpg",
+        "title": "Kazakhstan Sports Palace.jpg",
+        "url": "/photos/e201ad079fe2d9c34eb3.jpg",
+        "width": 5004
+      },
+      "poi_id": "wikidata-Q1186465",
+      "preferred_cover": false,
+      "source_description_sha256": "3a61934577f5240fe20543e824e32c0a94c96ec783fd5b8325ac2d9ae343169c",
+      "source_metadata": {
+        "observed_at": "2026-10-20T17:26:58.480806+00:00",
+        "response_sha256": "b65b47ad613fc6744f8484dc76064e398b94ad486575bef160476df68d62acba",
+        "snapshot": "commons-6e599d6bb8a03499.json"
+      },
+      "target_fingerprint": "e286d682ee7d9ad3be295dcef461f5199509853781caf5a6a1d1dedf1f135c8e"
+    }
+  ],
+  "held": [],
+  "kind": "curated_commons_assignments",
+  "policy": "Explicit editorial named-venue crosswalk; original source acquisition dates; per-file reusable rights; no proximity-only, generated, brand or unrelated-city images; staged only",
+  "schema_version": 1
+}

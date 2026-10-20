@@ -1,0 +1,32 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "categorymembers": [
+      {
+        "pageid": 121120125,
+        "ns": 6,
+        "title": "File:20000 tenge averse 2021.jpg"
+      },
+      {
+        "pageid": 45354835,
+        "ns": 6,
+        "title": "File:KZ20000KZT2015averse.png"
+      },
+      {
+        "pageid": 196443141,
+        "ns": 6,
+        "title": "File:Mangilik El avenue in Astana (July 2026) - 1.jpg"
+      },
+      {
+        "pageid": 196443156,
+        "ns": 6,
+        "title": "File:Mangilik El avenue in Astana (July 2026) - 5.jpg"
+      },
+      {
+        "pageid": 33654893,
+        "ns": 6,
+        "title": "File:Stamps of Kazakhstan, 2012-32.jpg"
+      }
+    ]
+  }
+}

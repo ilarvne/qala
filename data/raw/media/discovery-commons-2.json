@@ -1,0 +1,287 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "69172329": {
+        "pageid": 69172329,
+        "ns": 6,
+        "title": "File:Astana DSC04116 (7709631558).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3190337,
+            "width": 4912,
+            "height": 3264,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Astana_DSC04116_%287709631558%29.jpg/1280px-Astana_DSC04116_%287709631558%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 664,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Astana_DSC04116_%287709631558%29.jpg/3840px-Astana_DSC04116_%287709631558%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Astana_DSC04116_%287709631558%29.jpg/1280px-Astana_DSC04116_%287709631558%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 664,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Astana_DSC04116_%287709631558%29.jpg/3840px-Astana_DSC04116_%287709631558%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Astana_DSC04116_%287709631558%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Astana_DSC04116_(7709631558).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=69172329",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://www.flickr.com/people/87785618@N00\" class=\"external text\">jtstewart</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "69173339": {
+        "pageid": 69173339,
+        "ns": 6,
+        "title": "File:Astana DSC04401 (7711512634).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2972399,
+            "width": 3264,
+            "height": 4912,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Astana_DSC04401_%287711512634%29.jpg/1280px-Astana_DSC04401_%287711512634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 1505,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Astana_DSC04401_%287711512634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Astana_DSC04401_%287711512634%29.jpg/1280px-Astana_DSC04401_%287711512634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 1505,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Astana_DSC04401_%287711512634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Astana_DSC04401_%287711512634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Astana_DSC04401_(7711512634).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=69173339",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/87785618@N00\">jtstewart</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "78873740": {
+        "pageid": 78873740,
+        "ns": 6,
+        "title": "File:Astana Katedra 1.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5300606,
+            "width": 4160,
+            "height": 3120,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Astana_Katedra_1.jpg/1280px-Astana_Katedra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 750,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Astana_Katedra_1.jpg/3840px-Astana_Katedra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Astana_Katedra_1.jpg/1280px-Astana_Katedra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 750,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Astana_Katedra_1.jpg/3840px-Astana_Katedra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Astana_Katedra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Astana_Katedra_1.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=78873740",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Polk\" title=\"User:Polk\">Polk</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "53584890": {
+        "pageid": 53584890,
+        "ns": 6,
+        "title": "File:Astana Railway Station.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4866090,
+            "width": 4160,
+            "height": 3120,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Astana_Railway_Station.jpg/1280px-Astana_Railway_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 750,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Astana_Railway_Station.jpg/3840px-Astana_Railway_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Astana_Railway_Station.jpg/1280px-Astana_Railway_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 750,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Astana_Railway_Station.jpg/3840px-Astana_Railway_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Astana_Railway_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Astana_Railway_Station.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=53584890",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fuwuyuan\" title=\"User:Fuwuyuan\">Fuwuyuan</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "86903668": {
+        "pageid": 86903668,
+        "ns": 6,
+        "title": "File:Astana Triathlon Park View.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6877107,
+            "width": 4160,
+            "height": 3120,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Astana_Triathlon_Park_View.jpg/1280px-Astana_Triathlon_Park_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 750,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Astana_Triathlon_Park_View.jpg/3840px-Astana_Triathlon_Park_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Astana_Triathlon_Park_View.jpg/1280px-Astana_Triathlon_Park_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 750,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Astana_Triathlon_Park_View.jpg/3840px-Astana_Triathlon_Park_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Astana_Triathlon_Park_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Astana_Triathlon_Park_View.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=86903668",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Gfrc360&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Gfrc360 (page does not exist)\">Gfrc360</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    }
+  }
+}

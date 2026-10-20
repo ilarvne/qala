@@ -1,0 +1,200 @@
+{
+  "schema_version": 1,
+  "observed_at": "2026-10-20T15:07:09.414374+00:00",
+  "new_pois": [
+    {
+      "id": "wikidata-Q1186465",
+      "name": "Kazakhstan Sports Palace",
+      "names": {
+        "ru": "Казахстан",
+        "en": "Kazakhstan Sports Palace",
+        "kk": "Қазақстан спорт сарайы"
+      },
+      "name_derived": false,
+      "lat": 51.15581,
+      "lon": 71.46526,
+      "category": "culture",
+      "poi_type": "architectural_structure",
+      "description": "Kazakhstan Sports Palace",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "architectural_structure",
+        "culture",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [],
+      "image": null,
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": "http://dskazakhstan.kz/",
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": "http://dskazakhstan.kz/",
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q1186465",
+      "wikipedia": null,
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1186465",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q1186465",
+        "p31": [
+          "Q811979"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q1186465"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Kazakhstan Sports Palace",
+        "Казахстан",
+        "Қазақстан спорт сарайы"
+      ],
+      "source_p625": {
+        "latitude": 51.15581,
+        "longitude": 71.46526,
+        "altitude": null,
+        "precision": 1e-05,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q713955",
+      "name": "Water Green Boulevard",
+      "names": {
+        "en": "Water Green Boulevard",
+        "ru": "Водно-зелёный бульвар",
+        "kk": "Нұржол желек жолы"
+      },
+      "name_derived": false,
+      "lat": 51.12720833,
+      "lon": 71.43694722,
+      "category": "park",
+      "poi_type": "boulevard",
+      "description": "Water Green Boulevard",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "boulevard",
+        "nature",
+        "park",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [],
+      "image": null,
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q713955",
+      "wikipedia": null,
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q713955",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q713955",
+        "p31": [
+          "Q79007",
+          "Q54114"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q713955"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Nurzhol Boulevard",
+        "Water Green Boulevard",
+        "Бульвар «Нұржол»",
+        "Водно-Зеленый бульвар",
+        "Водно-зелёный бульвар",
+        "Нұржол желек жолы"
+      ],
+      "source_p625": {
+        "latitude": 51.12720833,
+        "longitude": 71.43694722,
+        "altitude": null,
+        "precision": 2.77777777778e-06,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    }
+  ],
+  "origin": "Retained original Wikidata acquisition; new editorial selection does not establish new acquisition freshness."
+}

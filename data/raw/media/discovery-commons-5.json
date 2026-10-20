@@ -1,0 +1,209 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      {
+        "from": "File:Astana_Katedra_1.jpg",
+        "to": "File:Astana Katedra 1.jpg"
+      },
+      {
+        "from": "File:Astana_Opera_House.jpg",
+        "to": "File:Astana Opera House.jpg"
+      },
+      {
+        "from": "File:Astana_Palace_of_Independence.jpg",
+        "to": "File:Astana Palace of Independence.jpg"
+      },
+      {
+        "from": "File:Astana_Railway_Station_2014.jpg",
+        "to": "File:Astana Railway Station 2014.jpg"
+      },
+      {
+        "from": "File:Astana_Triathlon_Park_View.jpg",
+        "to": "File:Astana Triathlon Park View.jpg"
+      }
+    ],
+    "pages": {
+      "-1": {
+        "ns": 6,
+        "title": "File:Astana Opera House.jpg",
+        "missing": "",
+        "imagerepository": ""
+      },
+      "-2": {
+        "ns": 6,
+        "title": "File:Astana Railway Station 2014.jpg",
+        "missing": "",
+        "imagerepository": ""
+      },
+      "78873740": {
+        "pageid": 78873740,
+        "ns": 6,
+        "title": "File:Astana Katedra 1.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5300606,
+            "width": 4160,
+            "height": 3120,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Astana_Katedra_1.jpg/1280px-Astana_Katedra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 750,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Astana_Katedra_1.jpg/3840px-Astana_Katedra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Astana_Katedra_1.jpg/1280px-Astana_Katedra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 750,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Astana_Katedra_1.jpg/3840px-Astana_Katedra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Astana_Katedra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Astana_Katedra_1.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=78873740",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Polk\" title=\"User:Polk\">Polk</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "199810501": {
+        "pageid": 199810501,
+        "ns": 6,
+        "title": "File:Astana Palace of Independence.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1993919,
+            "width": 3936,
+            "height": 2624,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Astana_Palace_of_Independence.jpg/1280px-Astana_Palace_of_Independence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 667,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Astana_Palace_of_Independence.jpg/3840px-Astana_Palace_of_Independence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Astana_Palace_of_Independence.jpg/1280px-Astana_Palace_of_Independence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 667,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Astana_Palace_of_Independence.jpg/3840px-Astana_Palace_of_Independence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Astana_Palace_of_Independence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Astana_Palace_of_Independence.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=199810501",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jontycrane&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jontycrane (page does not exist)\">Jontycrane</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "86903668": {
+        "pageid": 86903668,
+        "ns": 6,
+        "title": "File:Astana Triathlon Park View.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6877107,
+            "width": 4160,
+            "height": 3120,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Astana_Triathlon_Park_View.jpg/1280px-Astana_Triathlon_Park_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 750,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Astana_Triathlon_Park_View.jpg/3840px-Astana_Triathlon_Park_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Astana_Triathlon_Park_View.jpg/1280px-Astana_Triathlon_Park_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 750,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Astana_Triathlon_Park_View.jpg/3840px-Astana_Triathlon_Park_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Astana_Triathlon_Park_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Astana_Triathlon_Park_View.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=86903668",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Gfrc360&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Gfrc360 (page does not exist)\">Gfrc360</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    }
+  }
+}

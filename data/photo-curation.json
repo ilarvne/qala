@@ -1,0 +1,45 @@
+{
+  "reviewed_at": "2026-10-20",
+  "method": "Visual inspection of the collected licensed Commons photographs. These are source-file selections, never generated images or reconstructed architecture.",
+  "preferred_files_by_poi": {
+    "osm-node-4894937300": [
+      "File:National Museum of the Republic of Kazakhstan 01.jpg",
+      "File:National Museum of the Republic of Kazakhstan 04.jpg"
+    ],
+    "osm-way-240391776": [
+      "File:Military museum and Tashenov monument.jpg"
+    ],
+    "osm-way-230401645": [
+      "File:Baiterek August.jpg"
+    ],
+    "osm-way-499328514": [
+      "File:Aĉetcentro SilkWay (Astano) 01.jpg"
+    ],
+    "wikidata-Q713955": [
+      "File:Nurjol Boulevard, Astana.jpg"
+    ]
+  },
+  "evidence": {
+    "osm-node-4894937300": "https://commons.wikimedia.org/wiki/Category:National_Museum_of_the_Republic_of_Kazakhstan"
+  },
+  "excluded_files": {
+    "File:A Wikimedian with the staff of the National Museum.jpg": "Group portrait does not show the visitor space.",
+    "File:Laura Kabinbekova at National Museum of the Republic of Kazakhstan.jpg": "A person in an exhibit is not a useful place cover.",
+    "File:Astana International Airport 03.jpg": "Distant dark runway view does not identify the terminal.",
+    "File:Nursultan Nazarbayev International Airport 02.jpg": "An airport route diagram is not a place photograph.",
+    "File:Barys Arena 2014-03-15.JPG": "Historical construction-site view is not the present visitor space.",
+    "File:Abu Dhabi Plaza 10.2015.jpg": "Historical construction-site view is not the present visitor space.",
+    "File:Central Astana on a Sunny, Snowy Day in February 2013 (8481953080).jpg": "Very wide skyline does not identify the concert venue.",
+    "File:Mangilik El avenue in Astana (July 2026) - 1.jpg": "The avenue view does not show the named arch clearly.",
+    "File:Mangilik El avenue in Astana (July 2026) - 5.jpg": "The avenue view does not show the named arch clearly.",
+    "File:Nursultan Nazarbayev International Airport Destination Map.png": "A route diagram is not a place photograph.",
+    "File:Nursultan Nazarbayev International Airport Destination Map - 1.png": "A route diagram is not a place photograph.",
+    "File:Central Downtown Astana pamorama.jpg": "Very wide skyline does not identify the concert venue.",
+    "File:AbuDhabiPlaza.jpg": "Architectural rendering, not a photograph of the built visitor space.",
+    "File:Stamps of Kazakhstan, 2012-32.jpg": "Postage stamp depicting an arch, not a photograph of the place.",
+    "File:ISS023-E-42356 - View of Kazakhstan (cropped).jpg": "Satellite crop does not identify this lake as a visitor space.",
+    "File:Dmitry Medvedev in Kazakhstan 22 May 2008-3.jpg": "Press group dominates the image and does not identify the memorial.",
+    "File:Astana DSC04401 (7711512634).jpg": "Identity conflict: image predates the cited 2013 consecration of the Greek Catholic venue; visually resembles a different cathedral. Withheld pending source correction.",
+    "File:Казахстан ЦКЗ 2011 02.jpg": "Performance-stage shot is not a useful venue cover; prefer the source-exact exterior."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "observed_at": "2026-10-20T15:07:09.414374+00:00",
+  "pois": {
+    "osm-way-240592107": {
+      "wikidata": "Q1899549"
+    }
+  },
+  "target_coordinates": {
+    "osm-way-240592107": {
+      "lat": 51.1494949,
+      "lon": 71.4813797
+    }
+  },
+  "identity_audit": [
+    {
+      "poi_id": "osm-way-240592107",
+      "qid": "Q1899549",
+      "accepted": true,
+      "method": "exact reverse OSM identity claim and coordinates",
+      "distance_m": 13.9
+    }
+  ]
+}

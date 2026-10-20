@@ -1,0 +1,32 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "categorymembers": [
+      {
+        "pageid": 15572631,
+        "ns": 6,
+        "title": "File:Astana from South.jpg"
+      },
+      {
+        "pageid": 112767559,
+        "ns": 6,
+        "title": "File:ISS024-E-15446 - View of Kazakhstan (cropped).jpg"
+      },
+      {
+        "pageid": 111447329,
+        "ns": 6,
+        "title": "File:ISS024-E-15446 - View of Kazakhstan.jpg"
+      },
+      {
+        "pageid": 125197837,
+        "ns": 6,
+        "title": "File:Астана, Большой Талдыколь сверху.jpg"
+      },
+      {
+        "pageid": 125108640,
+        "ns": 6,
+        "title": "File:Астана, Большой Талдыколь, сферопанорама.jpg"
+      }
+    ]
+  }
+}

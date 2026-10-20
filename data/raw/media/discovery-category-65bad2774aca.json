@@ -1,0 +1,22 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "categorymembers": [
+      {
+        "pageid": 45033835,
+        "ns": 6,
+        "title": "File:Abu Dhabi Plaza 10.2015.jpg"
+      },
+      {
+        "pageid": 77406929,
+        "ns": 6,
+        "title": "File:Astana - 190217 DSC 3582.jpg"
+      },
+      {
+        "pageid": 196559889,
+        "ns": 6,
+        "title": "File:Astana light metro (2026-07-18) - 9.jpg"
+      }
+    ]
+  }
+}

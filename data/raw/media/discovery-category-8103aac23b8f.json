@@ -1,0 +1,47 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "categorymembers": [
+      {
+        "pageid": 144270630,
+        "ns": 6,
+        "title": "File:Kazakh Eli Monument 01.jpg"
+      },
+      {
+        "pageid": 144270629,
+        "ns": 6,
+        "title": "File:Kazakh Eli Monument 02.jpg"
+      },
+      {
+        "pageid": 16821996,
+        "ns": 6,
+        "title": "File:Kazakh Eli monument from Ishim river.jpg"
+      },
+      {
+        "pageid": 16821873,
+        "ns": 6,
+        "title": "File:Kazakh Eli monument1.jpg"
+      },
+      {
+        "pageid": 17144352,
+        "ns": 6,
+        "title": "File:Kazakh Eli.jpg"
+      },
+      {
+        "pageid": 75327280,
+        "ns": 6,
+        "title": "File:Казак Ели 2017 1.jpg"
+      },
+      {
+        "pageid": 75327286,
+        "ns": 6,
+        "title": "File:Казак Ели 2017 2.jpg"
+      },
+      {
+        "pageid": 75327282,
+        "ns": 6,
+        "title": "File:Казак Ели 2017 3.jpg"
+      }
+    ]
+  }
+}

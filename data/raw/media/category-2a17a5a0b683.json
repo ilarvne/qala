@@ -1,0 +1,27 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "categorymembers": [
+      {
+        "pageid": 75430722,
+        "ns": 6,
+        "title": "File:Astana Nurly Jol 2018.jpg"
+      },
+      {
+        "pageid": 178841925,
+        "ns": 6,
+        "title": "File:Астана, вокзал Нурлы Жол, сферопанорама (cropped).jpg"
+      },
+      {
+        "pageid": 137596032,
+        "ns": 6,
+        "title": "File:Астана, вокзал Нурлы Жол, сферопанорама.jpg"
+      },
+      {
+        "pageid": 63561143,
+        "ns": 6,
+        "title": "File:Вокзал \"Нұрлы Жол\".jpg"
+      }
+    ]
+  }
+}

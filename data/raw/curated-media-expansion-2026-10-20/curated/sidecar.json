@@ -1,0 +1,637 @@
+{
+  "assignments": [
+    {
+      "identity": {
+        "local_name": "Сәкен Сейфуллин музейі",
+        "local_source_url": "https://www.openstreetmap.org/way/240376692",
+        "method": "editorially_reviewed_named_venue",
+        "review_note": "The file description exactly names the museum recorded in the Russian OSM name, not the separate Seifullin statue. Source venue address is Mukhtar Auezov 20.",
+        "reviewed_at": "2026-10-20T17:23:50.187015+00:00",
+        "source_description": "Музей Сакена Сейфуллина"
+      },
+      "photo": {
+        "asset_sha256": "a62025b9726e388e0d9bff403b3538d235dea2317227e0d5865caea59b218440",
+        "attribution": "Yakov Fedorov · CC BY-SA 4.0",
+        "author": "Yakov Fedorov",
+        "height": 5304,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Seifullin_Museum_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "provider": "Wikimedia Commons",
+        "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Seifullin_Museum_Nur-Sultan.jpg/1280px-Seifullin_Museum_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "restrictions": null,
+        "source_url": "https://commons.wikimedia.org/wiki/File:Seifullin_Museum_Nur-Sultan.jpg",
+        "thumbnail_url": "/photos/045369798c2a1e3a0c34.jpg",
+        "title": "Seifullin Museum Nur-Sultan.jpg",
+        "url": "/photos/045369798c2a1e3a0c34.jpg",
+        "width": 7952
+      },
+      "poi_id": "osm-way-240376692",
+      "preferred_cover": false,
+      "source_description_sha256": "64ce87841eacd4dbbee12b37974dcabb1c06afe96c93e58f9a8c2cca4af4c5ca",
+      "source_metadata": {
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "response_sha256": "84be5f08ca947f82907d168b1702c51dbf3d9e5fa306e832313585e6e4b2cce5",
+        "snapshot": "commons-1f35fb52d51851aa.json"
+      },
+      "target_fingerprint": "4b62d38e8ec87e8f26ddfbd2f71faebe2e96909f7c865646781bd4e2d641ccbc"
+    },
+    {
+      "identity": {
+        "local_name": "Сәкен Сейфуллин музейі",
+        "local_source_url": "https://www.openstreetmap.org/way/240376692",
+        "method": "editorially_reviewed_named_venue",
+        "review_note": "The file description exactly names the museum recorded in the Russian OSM name, not the separate Seifullin statue. Source venue address is Mukhtar Auezov 20.",
+        "reviewed_at": "2026-10-20T17:23:50.187015+00:00",
+        "source_description": "Музей Сакена Сейфуллина"
+      },
+      "photo": {
+        "asset_sha256": "fcb9f1c167604c9b3e86c571aaad9a38d147120c46568a5366a3eaf693b14d70",
+        "attribution": "Yakov Fedorov · CC BY-SA 4.0",
+        "author": "Yakov Fedorov",
+        "height": 3516,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Seifullin_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "provider": "Wikimedia Commons",
+        "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Seifullin_Museum.jpg/1280px-Seifullin_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "restrictions": null,
+        "source_url": "https://commons.wikimedia.org/wiki/File:Seifullin_Museum.jpg",
+        "thumbnail_url": "/photos/f85da5e07b0a18f16546.jpg",
+        "title": "Seifullin Museum.jpg",
+        "url": "/photos/f85da5e07b0a18f16546.jpg",
+        "width": 5458
+      },
+      "poi_id": "osm-way-240376692",
+      "preferred_cover": false,
+      "source_description_sha256": "64ce87841eacd4dbbee12b37974dcabb1c06afe96c93e58f9a8c2cca4af4c5ca",
+      "source_metadata": {
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "response_sha256": "84be5f08ca947f82907d168b1702c51dbf3d9e5fa306e832313585e6e4b2cce5",
+        "snapshot": "commons-1f35fb52d51851aa.json"
+      },
+      "target_fingerprint": "4b62d38e8ec87e8f26ddfbd2f71faebe2e96909f7c865646781bd4e2d641ccbc"
+    },
+    {
+      "identity": {
+        "local_name": "Русский Академический театр драмы им М.Горького",
+        "local_source_url": "https://www.openstreetmap.org/node/455447680",
+        "method": "editorially_reviewed_named_venue",
+        "review_note": "The Commons category names the Gorky theatre in Astana and points to Q16433519 at51.165219,71.416311, within10m of this theatre. The older merchant-house aliases are not a different venue.",
+        "reviewed_at": "2026-10-20T17:23:50.187015+00:00",
+        "source_description": "Театр драмы им. Горького"
+      },
+      "photo": {
+        "asset_sha256": "740cef11cc33b47d0021f51af0814c2122d52815df6ddddf4225e91f468fcfa0",
+        "attribution": "Yakov Fedorov · CC BY-SA 4.0",
+        "author": "Yakov Fedorov",
+        "height": 5304,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Gorky_Drama_Theatre_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "provider": "Wikimedia Commons",
+        "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Gorky_Drama_Theatre_Nur-Sultan.jpg/1280px-Gorky_Drama_Theatre_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "restrictions": null,
+        "source_url": "https://commons.wikimedia.org/wiki/File:Gorky_Drama_Theatre_Nur-Sultan.jpg",
+        "thumbnail_url": "/photos/403d1b0c329b357a48ea.jpg",
+        "title": "Gorky Drama Theatre Nur-Sultan.jpg",
+        "url": "/photos/403d1b0c329b357a48ea.jpg",
+        "width": 7952
+      },
+      "poi_id": "osm-node-455447680",
+      "preferred_cover": false,
+      "source_description_sha256": "230b20f0e44f3326996ef053f3bb89298af2d23aac52a8f7b49b0bc5dade1294",
+      "source_metadata": {
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "response_sha256": "84be5f08ca947f82907d168b1702c51dbf3d9e5fa306e832313585e6e4b2cce5",
+        "snapshot": "commons-1f35fb52d51851aa.json"
+      },
+      "target_fingerprint": "1ddb465f0b1afb3a8349f96668bb5b9223d28bdbb87ef4fad47699db1349ec0b"
+    },
+    {
+      "identity": {
+        "local_name": "Nursultan mosque",
+        "local_source_url": "https://www.openstreetmap.org/relation/18901938",
+        "method": "editorially_reviewed_named_venue",
+        "review_note": "Commons Astana Grand Mosque Q113675887 is at51.0725,71.4095, within100m of this grand mosque. File camera coordinates are on the same mosque, and the source explicitly names Astana; this is not Hazrat Sultan or Nur Astana mosque.",
+        "reviewed_at": "2026-10-20T17:23:50.187015+00:00",
+        "source_description": "Astana Grand Mosque - Main prayer hall."
+      },
+      "photo": {
+        "asset_sha256": "009493cf5bde156daf5dab8a784ddab41e21d7714d5a7aec8272379f94f51ad0",
+        "attribution": "Lucha · CC BY-SA 4.0",
+        "author": "Lucha",
+        "height": 3024,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Astana_Grand_Mosque_-_main_prayer_hall_decorations.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "provider": "Wikimedia Commons",
+        "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Astana_Grand_Mosque_-_main_prayer_hall_decorations.jpg/1280px-Astana_Grand_Mosque_-_main_prayer_hall_decorations.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "restrictions": null,
+        "source_url": "https://commons.wikimedia.org/wiki/File:Astana_Grand_Mosque_-_main_prayer_hall_decorations.jpg",
+        "thumbnail_url": "/photos/57836bea9f17d948a447.jpg",
+        "title": "Astana Grand Mosque - main prayer hall decorations.jpg",
+        "url": "/photos/57836bea9f17d948a447.jpg",
+        "width": 4032
+      },
+      "poi_id": "osm-relation-18901938",
+      "preferred_cover": false,
+      "source_description_sha256": "715ef966a7ac28509d60e32f6c876f0ff7c17e167a918c775e99e70a5dead508",
+      "source_metadata": {
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "response_sha256": "84be5f08ca947f82907d168b1702c51dbf3d9e5fa306e832313585e6e4b2cce5",
+        "snapshot": "commons-1f35fb52d51851aa.json"
+      },
+      "target_fingerprint": "be5cbd547449c2be334a025f065579e685bbfe2db6d790d1133dd7d5e032a747"
+    },
+    {
+      "identity": {
+        "local_name": "Nursultan mosque",
+        "local_source_url": "https://www.openstreetmap.org/relation/18901938",
+        "method": "editorially_reviewed_named_venue",
+        "review_note": "Commons Astana Grand Mosque Q113675887 is at51.0725,71.4095, within100m of this grand mosque. File camera coordinates are on the same mosque, and the source explicitly names Astana; this is not Hazrat Sultan or Nur Astana mosque.",
+        "reviewed_at": "2026-10-20T17:23:50.187015+00:00",
+        "source_description": "Astana Grand Mosque"
+      },
+      "photo": {
+        "asset_sha256": "5725411de580c3c52b7570987df26139db98fb412e76f4cb7f9af7c91d803521",
+        "attribution": "Lucha · CC BY-SA 4.0",
+        "author": "Lucha",
+        "height": 4032,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Astana_Grand_Mosque_-_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "provider": "Wikimedia Commons",
+        "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Astana_Grand_Mosque_-_interior.jpg/1280px-Astana_Grand_Mosque_-_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "restrictions": null,
+        "source_url": "https://commons.wikimedia.org/wiki/File:Astana_Grand_Mosque_-_interior.jpg",
+        "thumbnail_url": "/photos/b9814ceb35f0da4f25ff.jpg",
+        "title": "Astana Grand Mosque - interior.jpg",
+        "url": "/photos/b9814ceb35f0da4f25ff.jpg",
+        "width": 3024
+      },
+      "poi_id": "osm-relation-18901938",
+      "preferred_cover": false,
+      "source_description_sha256": "96556ede7dccb7abf65213dc06265c951ec5f3955cb6bb185a81e562df25ce01",
+      "source_metadata": {
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "response_sha256": "84be5f08ca947f82907d168b1702c51dbf3d9e5fa306e832313585e6e4b2cce5",
+        "snapshot": "commons-1f35fb52d51851aa.json"
+      },
+      "target_fingerprint": "be5cbd547449c2be334a025f065579e685bbfe2db6d790d1133dd7d5e032a747"
+    },
+    {
+      "identity": {
+        "local_name": "Свято-Успенский кафедральный собор",
+        "local_source_url": "https://www.openstreetmap.org/way/240592107",
+        "method": "editorially_reviewed_named_venue",
+        "review_note": "Commons category Orthodox cathedral in Astana links Wikidata Q1899549 with exact OSM way240592107 and matching coordinates; no cross-assignment to the Greek Catholic church.",
+        "reviewed_at": "2026-10-20T17:23:50.187015+00:00",
+        "source_description": "Кафедральный Успенский собор, август 2017"
+      },
+      "photo": {
+        "asset_sha256": "a73bc8690cacb90485b5192758104d362cc602da1919eefa28ff17423d7ec90f",
+        "attribution": "Мазур Владимир · CC BY-SA 4.0",
+        "author": "Мазур Владимир",
+        "height": 3096,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_2017_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "provider": "Wikimedia Commons",
+        "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_2017_1.jpg/1280px-%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_2017_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "restrictions": null,
+        "source_url": "https://commons.wikimedia.org/wiki/File:%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_2017_1.jpg",
+        "thumbnail_url": "/photos/bc7a5a5c80f4ee4ac664.jpg",
+        "title": "Успенский собор 2017 1.jpg",
+        "url": "/photos/bc7a5a5c80f4ee4ac664.jpg",
+        "width": 4128
+      },
+      "poi_id": "osm-way-240592107",
+      "preferred_cover": false,
+      "source_description_sha256": "05c9dfb3db458a700595c7bf58e9de7f93833feaae966467a1f6dc935f722051",
+      "source_metadata": {
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "response_sha256": "84be5f08ca947f82907d168b1702c51dbf3d9e5fa306e832313585e6e4b2cce5",
+        "snapshot": "commons-1f35fb52d51851aa.json"
+      },
+      "target_fingerprint": "e1e6ebcf7fdaa074ac2770c614c5fc1262fa9658a1d35863e4e26d686f932ac0"
+    },
+    {
+      "identity": {
+        "local_name": "Roman Catholic Church of Our Mother of Perpetual Help",
+        "local_source_url": "https://www.openstreetmap.org/node/4902165007",
+        "method": "editorially_reviewed_named_venue",
+        "review_note": "Existing OSM source explicitly names Our Mother of Perpetual Help. Commons same-named cathedral category Q16538413 has coordinates within5m, and file camera51.153744,71.451340 is adjacent to the same cathedral.",
+        "reviewed_at": "2026-10-20T17:23:50.187015+00:00",
+        "source_description": "Astana Katedra 1"
+      },
+      "photo": {
+        "asset_sha256": "92df316d1bb3e62fb6299ec465df2a11d81c918cc96aec858421bf9f63699123",
+        "attribution": "Polk · CC BY-SA 4.0",
+        "author": "Polk",
+        "height": 3120,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Astana_Katedra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "provider": "Wikimedia Commons",
+        "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Astana_Katedra_1.jpg/1280px-Astana_Katedra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "restrictions": null,
+        "source_url": "https://commons.wikimedia.org/wiki/File:Astana_Katedra_1.jpg",
+        "thumbnail_url": "/photos/8fbb04d15bdb397b73b1.jpg",
+        "title": "Astana Katedra 1.jpg",
+        "url": "/photos/8fbb04d15bdb397b73b1.jpg",
+        "width": 4160
+      },
+      "poi_id": "osm-node-4902165007",
+      "preferred_cover": false,
+      "source_description_sha256": "a855e64b9913b447d79639cb7cc0b3b152acb382bde55ac2dad882faf7fd502f",
+      "source_metadata": {
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "response_sha256": "84be5f08ca947f82907d168b1702c51dbf3d9e5fa306e832313585e6e4b2cce5",
+        "snapshot": "commons-1f35fb52d51851aa.json"
+      },
+      "target_fingerprint": "cef0667b8010571823c69ae4632f9c00f8b53758de8cb9ca6c7752673ff1c051"
+    },
+    {
+      "identity": {
+        "local_name": "Мемлекеттік әскери-тарихи музей",
+        "local_source_url": "https://www.openstreetmap.org/way/240391776",
+        "method": "editorially_reviewed_named_venue",
+        "review_note": "The source explicitly names the military museum in Astana. This assignment is to the museum building at Respublika2; the separate open-air exhibition and other nearby museum record receive no borrowed images.",
+        "reviewed_at": "2026-10-20T17:23:50.187015+00:00",
+        "source_description": "Kazakhstan Military History Museum"
+      },
+      "photo": {
+        "asset_sha256": "bbee9e77946d0d071cd3b8b40d1df830dda7b33e20894e45b190d620a6028c07",
+        "attribution": "Davide Mauro · CC BY-SA 4.0",
+        "author": "Davide Mauro",
+        "height": 4000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Kazakhstan_Military_History_Museum_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "provider": "Wikimedia Commons",
+        "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Kazakhstan_Military_History_Museum_01.jpg/1280px-Kazakhstan_Military_History_Museum_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "restrictions": null,
+        "source_url": "https://commons.wikimedia.org/wiki/File:Kazakhstan_Military_History_Museum_01.jpg",
+        "thumbnail_url": "/photos/689c35a504aef838a087.jpg",
+        "title": "Kazakhstan Military History Museum 01.jpg",
+        "url": "/photos/689c35a504aef838a087.jpg",
+        "width": 6000
+      },
+      "poi_id": "osm-way-240391776",
+      "preferred_cover": false,
+      "source_description_sha256": "8a54437801a4daa847669a81146c54f099044a9bbe90d866753d730c9c40221c",
+      "source_metadata": {
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "response_sha256": "84be5f08ca947f82907d168b1702c51dbf3d9e5fa306e832313585e6e4b2cce5",
+        "snapshot": "commons-1f35fb52d51851aa.json"
+      },
+      "target_fingerprint": "74aa473a21d172e36e5ce6590ce09f5e0806de86eca03a0bae91e6f7d4935921"
+    },
+    {
+      "identity": {
+        "local_name": "Мемлекеттік әскери-тарихи музей",
+        "local_source_url": "https://www.openstreetmap.org/way/240391776",
+        "method": "editorially_reviewed_named_venue",
+        "review_note": "The source explicitly names the military museum in Astana. This assignment is to the museum building at Respublika2; the separate open-air exhibition and other nearby museum record receive no borrowed images.",
+        "reviewed_at": "2026-10-20T17:23:50.187015+00:00",
+        "source_description": "Military museum and Tashenov monument in Nur-Sultan"
+      },
+      "photo": {
+        "asset_sha256": "6e7f73fb93de231ce416729e7173cfb09d22b2548ee1d70d8688098ecdfae165",
+        "attribution": "Ерден Карсыбеков · CC BY-SA 4.0",
+        "author": "Ерден Карсыбеков",
+        "height": 3120,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Military_museum_and_Tashenov_monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "provider": "Wikimedia Commons",
+        "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Military_museum_and_Tashenov_monument.jpg/1280px-Military_museum_and_Tashenov_monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "restrictions": null,
+        "source_url": "https://commons.wikimedia.org/wiki/File:Military_museum_and_Tashenov_monument.jpg",
+        "thumbnail_url": "/photos/1f26c191966d3728e8ba.jpg",
+        "title": "Military museum and Tashenov monument.jpg",
+        "url": "/photos/1f26c191966d3728e8ba.jpg",
+        "width": 4160
+      },
+      "poi_id": "osm-way-240391776",
+      "preferred_cover": true,
+      "source_description_sha256": "780c70ec95c369ee5a3a16f9a62adeda7930cd72c8439f33fa75e5cb1ace78db",
+      "source_metadata": {
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "response_sha256": "84be5f08ca947f82907d168b1702c51dbf3d9e5fa306e832313585e6e4b2cce5",
+        "snapshot": "commons-1f35fb52d51851aa.json"
+      },
+      "target_fingerprint": "74aa473a21d172e36e5ce6590ce09f5e0806de86eca03a0bae91e6f7d4935921"
+    },
+    {
+      "identity": {
+        "local_name": "Кенесары хан",
+        "local_source_url": "https://www.openstreetmap.org/node/1278114185",
+        "method": "editorially_reviewed_named_venue",
+        "review_note": "The file title explicitly places the Kenesary monument in Astana; the OSM record is the Kenesary Khan equestrian monument on the river embankment, not a portrait or another city monument.",
+        "reviewed_at": "2026-10-20T17:23:50.187015+00:00",
+        "source_description": "Kenesary monument"
+      },
+      "photo": {
+        "asset_sha256": "fc5b4cd56c65ae495e4a949efd9e0663b75a24e2150e3e13e6f8280543c2666a",
+        "attribution": "Nikolamikovic82 · CC0",
+        "author": "Nikolamikovic82",
+        "height": 4032,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Kenesary_monument%2C_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "provider": "Wikimedia Commons",
+        "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Kenesary_monument%2C_Astana.jpg/1280px-Kenesary_monument%2C_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "restrictions": null,
+        "source_url": "https://commons.wikimedia.org/wiki/File:Kenesary_monument,_Astana.jpg",
+        "thumbnail_url": "/photos/61a77e57aa8db31abb39.jpg",
+        "title": "Kenesary monument, Astana.jpg",
+        "url": "/photos/61a77e57aa8db31abb39.jpg",
+        "width": 3024
+      },
+      "poi_id": "osm-node-1278114185",
+      "preferred_cover": false,
+      "source_description_sha256": "dcebb3087ce0e0575da0d8b59da15854cd0cd261f9e08a044599c7b023ac6556",
+      "source_metadata": {
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "response_sha256": "84be5f08ca947f82907d168b1702c51dbf3d9e5fa306e832313585e6e4b2cce5",
+        "snapshot": "commons-1f35fb52d51851aa.json"
+      },
+      "target_fingerprint": "7ca26a33441f9856e37ff5e2fbef2b422c22afab3785447e10a663d62effabd1"
+    },
+    {
+      "identity": {
+        "local_name": "Городище Бозок",
+        "local_source_url": "https://www.openstreetmap.org/node/11968737470",
+        "method": "editorially_reviewed_named_venue",
+        "review_note": "The description exactly matches the OSM archaeological site name Городище Бозок. It is not the separately mapped Bozoq Museum building roughly8km east, and not the nearby Kystau winter settlement.",
+        "reviewed_at": "2026-10-20T17:23:50.187015+00:00",
+        "source_description": "Городище Бозок"
+      },
+      "photo": {
+        "asset_sha256": "e17499039f861fc75a39bdcec65cad1b0885433be81ed4aa92b374fa4540358d",
+        "attribution": "Yakov Fedorov · CC BY-SA 4.0",
+        "author": "Yakov Fedorov",
+        "height": 5304,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bozok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "provider": "Wikimedia Commons",
+        "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Bozok.jpg/1280px-Bozok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "restrictions": null,
+        "source_url": "https://commons.wikimedia.org/wiki/File:Bozok.jpg",
+        "thumbnail_url": "/photos/badcfa236120c4570c81.jpg",
+        "title": "Bozok.jpg",
+        "url": "/photos/badcfa236120c4570c81.jpg",
+        "width": 7952
+      },
+      "poi_id": "osm-node-11968737470",
+      "preferred_cover": false,
+      "source_description_sha256": "08417e01ed10d6ebff0e5eff423cc78762ba797b3d5e3d9e9d225aa733d8d25a",
+      "source_metadata": {
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "response_sha256": "84be5f08ca947f82907d168b1702c51dbf3d9e5fa306e832313585e6e4b2cce5",
+        "snapshot": "commons-1f35fb52d51851aa.json"
+      },
+      "target_fingerprint": "6cb96e82fec8416ba03a5a45c6bc0ecaf7652135cfc47879756834fa50edec10"
+    },
+    {
+      "identity": {
+        "local_name": "Конгресс-центр",
+        "local_source_url": "https://www.openstreetmap.org/node/4985150252",
+        "method": "editorially_reviewed_named_venue",
+        "review_note": "The exact named Astana EXPO Congress Centre is selected; do not transfer the photo to the old Astana Concert Hall or a generic conference room.",
+        "reviewed_at": "2026-10-20T17:23:50.187015+00:00",
+        "source_description": "Конгресс-Центр Астана"
+      },
+      "photo": {
+        "asset_sha256": "9815ee5be2704d8ae2efb648a5883fa0d59042af8ccd4c2f94bff71fc92e272c",
+        "attribution": "Шалкер Гам · CC BY-SA 4.0",
+        "author": "Шалкер Гам",
+        "height": 4032,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81-%D0%A6%D0%B5%D0%BD%D1%82%D1%80_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "provider": "Wikimedia Commons",
+        "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81-%D0%A6%D0%B5%D0%BD%D1%82%D1%80_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0.jpg/1280px-%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81-%D0%A6%D0%B5%D0%BD%D1%82%D1%80_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "restrictions": null,
+        "source_url": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81-%D0%A6%D0%B5%D0%BD%D1%82%D1%80_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0.jpg",
+        "thumbnail_url": "/photos/ff22ac321d7150582e0c.jpg",
+        "title": "Конгресс-Центр Астана.jpg",
+        "url": "/photos/ff22ac321d7150582e0c.jpg",
+        "width": 3024
+      },
+      "poi_id": "osm-node-4985150252",
+      "preferred_cover": false,
+      "source_description_sha256": "1f92d786657272ffe3a6bf81fd33b3017393bb479eeb792ca484ba4268b5a178",
+      "source_metadata": {
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "response_sha256": "84be5f08ca947f82907d168b1702c51dbf3d9e5fa306e832313585e6e4b2cce5",
+        "snapshot": "commons-1f35fb52d51851aa.json"
+      },
+      "target_fingerprint": "2a2dbe4e03bc08499608912bb9b19c60b1f4eb910e60588366a2efbfc313ed78"
+    },
+    {
+      "identity": {
+        "local_name": "Sairan Arena",
+        "local_source_url": "https://www.openstreetmap.org/relation/12446162",
+        "method": "editorially_reviewed_named_venue",
+        "review_note": "The file description identifies Kazakhstan national futsal training at Sairan Arena in Astana, matching this arena rather than the separately mapped Sairan accommodation.",
+        "reviewed_at": "2026-10-20T17:23:50.187015+00:00",
+        "source_description": "на Сайран Арене в городе Астана"
+      },
+      "photo": {
+        "asset_sha256": "fbc3e5806ae10033fea4846f89c6d6a49e457ec4fa4b94735b72cb2466390885",
+        "attribution": "Ashina · CC BY-SA 4.0",
+        "author": "Ashina",
+        "height": 4000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Sairan_Arena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "provider": "Wikimedia Commons",
+        "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Sairan_Arena.jpg/1280px-Sairan_Arena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "restrictions": null,
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sairan_Arena.jpg",
+        "thumbnail_url": "/photos/8d3e53bd951877007e47.jpg",
+        "title": "Sairan Arena.jpg",
+        "url": "/photos/8d3e53bd951877007e47.jpg",
+        "width": 6000
+      },
+      "poi_id": "osm-relation-12446162",
+      "preferred_cover": false,
+      "source_description_sha256": "ecbd91bac69bb30762ac7281140cb2b41467896b7eee4bdb559cec8fd1f0a957",
+      "source_metadata": {
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "response_sha256": "84be5f08ca947f82907d168b1702c51dbf3d9e5fa306e832313585e6e4b2cce5",
+        "snapshot": "commons-1f35fb52d51851aa.json"
+      },
+      "target_fingerprint": "ac4d36d770aa11767d003d59f40877d75762dd8b66841bd506d87fe84ef6cdc0"
+    },
+    {
+      "identity": {
+        "local_name": "Mega Silk Way",
+        "local_source_url": "https://www.openstreetmap.org/way/499328514",
+        "method": "editorially_reviewed_named_venue",
+        "review_note": "The source identifies the EXPO Mega Silk Way mall and adjacent Hilton in the same exterior frame. Assignment is to the actual named mall footprint, not another Mega branch or the nearby cafe.",
+        "reviewed_at": "2026-10-20T17:23:50.187015+00:00",
+        "source_description": "Вид на ТРЦ MEGA Silk-way и отель Hilton из Экспо-парка."
+      },
+      "photo": {
+        "asset_sha256": "924953b30bcfd48356b0f6be943084c8fa17ab1bdada1c33ad412c22e1cfaf6e",
+        "attribution": "Шалкер Гам · CC BY-SA 4.0",
+        "author": "Шалкер Гам",
+        "height": 3024,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/%D0%A2%D0%A0%D0%A6_MEGA_Silk-way_%D0%B8_%D0%BE%D1%82%D0%B5%D0%BB%D1%8C_Hilton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "provider": "Wikimedia Commons",
+        "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/%D0%A2%D0%A0%D0%A6_MEGA_Silk-way_%D0%B8_%D0%BE%D1%82%D0%B5%D0%BB%D1%8C_Hilton.jpg/1280px-%D0%A2%D0%A0%D0%A6_MEGA_Silk-way_%D0%B8_%D0%BE%D1%82%D0%B5%D0%BB%D1%8C_Hilton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "restrictions": null,
+        "source_url": "https://commons.wikimedia.org/wiki/File:%D0%A2%D0%A0%D0%A6_MEGA_Silk-way_%D0%B8_%D0%BE%D1%82%D0%B5%D0%BB%D1%8C_Hilton.jpg",
+        "thumbnail_url": "/photos/9743f2cac963aec5a205.jpg",
+        "title": "ТРЦ MEGA Silk-way и отель Hilton.jpg",
+        "url": "/photos/9743f2cac963aec5a205.jpg",
+        "width": 4032
+      },
+      "poi_id": "osm-way-499328514",
+      "preferred_cover": false,
+      "source_description_sha256": "51b5185c59af1d9966ab1906505337e48d6c5f74a8d5791b3c509a945c9de2ff",
+      "source_metadata": {
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "response_sha256": "84be5f08ca947f82907d168b1702c51dbf3d9e5fa306e832313585e6e4b2cce5",
+        "snapshot": "commons-1f35fb52d51851aa.json"
+      },
+      "target_fingerprint": "4e739d1331c9bfd3898f9dc007453ba83ae4ad316aa6567523172b38d7a2f8f1"
+    },
+    {
+      "identity": {
+        "local_name": "Hilton Astana",
+        "local_source_url": "https://www.openstreetmap.org/node/5880883095",
+        "method": "editorially_reviewed_named_venue",
+        "review_note": "The source identifies the EXPO Hilton Astana and adjacent Mega Silk Way in the same exterior frame. This exact Hilton property is at51.0906596,71.4106232; no other Hilton branch inherits it.",
+        "reviewed_at": "2026-10-20T17:23:50.187015+00:00",
+        "source_description": "Вид на ТРЦ MEGA Silk-way и отель Hilton из Экспо-парка."
+      },
+      "photo": {
+        "asset_sha256": "924953b30bcfd48356b0f6be943084c8fa17ab1bdada1c33ad412c22e1cfaf6e",
+        "attribution": "Шалкер Гам · CC BY-SA 4.0",
+        "author": "Шалкер Гам",
+        "height": 3024,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/%D0%A2%D0%A0%D0%A6_MEGA_Silk-way_%D0%B8_%D0%BE%D1%82%D0%B5%D0%BB%D1%8C_Hilton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "provider": "Wikimedia Commons",
+        "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/%D0%A2%D0%A0%D0%A6_MEGA_Silk-way_%D0%B8_%D0%BE%D1%82%D0%B5%D0%BB%D1%8C_Hilton.jpg/1280px-%D0%A2%D0%A0%D0%A6_MEGA_Silk-way_%D0%B8_%D0%BE%D1%82%D0%B5%D0%BB%D1%8C_Hilton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "restrictions": null,
+        "source_url": "https://commons.wikimedia.org/wiki/File:%D0%A2%D0%A0%D0%A6_MEGA_Silk-way_%D0%B8_%D0%BE%D1%82%D0%B5%D0%BB%D1%8C_Hilton.jpg",
+        "thumbnail_url": "/photos/9743f2cac963aec5a205.jpg",
+        "title": "ТРЦ MEGA Silk-way и отель Hilton.jpg",
+        "url": "/photos/9743f2cac963aec5a205.jpg",
+        "width": 4032
+      },
+      "poi_id": "osm-node-5880883095",
+      "preferred_cover": false,
+      "source_description_sha256": "51b5185c59af1d9966ab1906505337e48d6c5f74a8d5791b3c509a945c9de2ff",
+      "source_metadata": {
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "response_sha256": "84be5f08ca947f82907d168b1702c51dbf3d9e5fa306e832313585e6e4b2cce5",
+        "snapshot": "commons-1f35fb52d51851aa.json"
+      },
+      "target_fingerprint": "dc704054333a8a9eb8c2b1181cd94d88a6bf9fd985db63f82511331b605f36fd"
+    },
+    {
+      "identity": {
+        "local_name": "Цирк",
+        "local_source_url": "https://www.openstreetmap.org/way/1134744434",
+        "method": "editorially_reviewed_named_venue",
+        "review_note": "These files explicitly depict the Circus fountain, matching the fountain physical type. They must never be transferred to the nearby Astana Circus building; the previous derived Q21843144 on this fountain is a separate quarantined identity defect.",
+        "reviewed_at": "2026-10-20T17:23:50.187015+00:00",
+        "source_description": "Circus fountain"
+      },
+      "photo": {
+        "asset_sha256": "8bc6b46efa5837e5f7fd32116d26fac1c7f980e2bcad3e7ad8f25983cb6ffa1b",
+        "attribution": "Davide Mauro · CC BY-SA 4.0",
+        "author": "Davide Mauro",
+        "height": 2975,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Circus_fountain_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "provider": "Wikimedia Commons",
+        "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Circus_fountain_01.jpg/1280px-Circus_fountain_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "restrictions": null,
+        "source_url": "https://commons.wikimedia.org/wiki/File:Circus_fountain_01.jpg",
+        "thumbnail_url": "/photos/6c1c1f887c84fbb468cc.jpg",
+        "title": "Circus fountain 01.jpg",
+        "url": "/photos/6c1c1f887c84fbb468cc.jpg",
+        "width": 4914
+      },
+      "poi_id": "osm-way-1134744434",
+      "preferred_cover": false,
+      "source_description_sha256": "6283976c35c1d0b87fc81d43ddd084e48d40407ee0c24b45d49a9a6e782b57f4",
+      "source_metadata": {
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "response_sha256": "84be5f08ca947f82907d168b1702c51dbf3d9e5fa306e832313585e6e4b2cce5",
+        "snapshot": "commons-1f35fb52d51851aa.json"
+      },
+      "target_fingerprint": "cdfa021bf38da839bcb59f03d59a1caed62e7af99c63086497beb73ea6441ada"
+    },
+    {
+      "identity": {
+        "local_name": "Цирк",
+        "local_source_url": "https://www.openstreetmap.org/way/1134744434",
+        "method": "editorially_reviewed_named_venue",
+        "review_note": "These files explicitly depict the Circus fountain, matching the fountain physical type. They must never be transferred to the nearby Astana Circus building; the previous derived Q21843144 on this fountain is a separate quarantined identity defect.",
+        "reviewed_at": "2026-10-20T17:23:50.187015+00:00",
+        "source_description": "Circus fountain"
+      },
+      "photo": {
+        "asset_sha256": "19dd739ffd9836c612f1448c769be644970873a05c0c04760211b532c33ae223",
+        "attribution": "Davide Mauro · CC BY-SA 4.0",
+        "author": "Davide Mauro",
+        "height": 4000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Circus_fountain_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "provider": "Wikimedia Commons",
+        "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Circus_fountain_02.jpg/1280px-Circus_fountain_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "restrictions": null,
+        "source_url": "https://commons.wikimedia.org/wiki/File:Circus_fountain_02.jpg",
+        "thumbnail_url": "/photos/2c91175fb588ea7cfeba.jpg",
+        "title": "Circus fountain 02.jpg",
+        "url": "/photos/2c91175fb588ea7cfeba.jpg",
+        "width": 6000
+      },
+      "poi_id": "osm-way-1134744434",
+      "preferred_cover": false,
+      "source_description_sha256": "6283976c35c1d0b87fc81d43ddd084e48d40407ee0c24b45d49a9a6e782b57f4",
+      "source_metadata": {
+        "observed_at": "2026-10-20T17:23:51.547543+00:00",
+        "response_sha256": "84be5f08ca947f82907d168b1702c51dbf3d9e5fa306e832313585e6e4b2cce5",
+        "snapshot": "commons-1f35fb52d51851aa.json"
+      },
+      "target_fingerprint": "cdfa021bf38da839bcb59f03d59a1caed62e7af99c63086497beb73ea6441ada"
+    }
+  ],
+  "held": [],
+  "kind": "curated_commons_assignments",
+  "policy": "Explicit editorial named-venue crosswalk; original source acquisition dates; per-file reusable rights; no proximity-only, generated, brand or unrelated-city images; staged only",
+  "schema_version": 1
+}

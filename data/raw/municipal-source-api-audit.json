@@ -1,0 +1,142 @@
+[
+  {
+    "url": "https://data.egov.kz/api/v4/madeniet_uiymdary/v17",
+    "status": 403,
+    "response": {
+      "error": "API key is required",
+      "status": "403"
+    }
+  },
+  {
+    "url": "https://data.egov.kz/datasets/getmeta?index=madeniet_uiymdary&version=v17",
+    "status": 200,
+    "response": {
+      "apiUri": "madeniet_uiymdary",
+      "nameRu": "№729 Перечень государственных учреждений культуры в разрезе регионов",
+      "nameEn": "№729 Мемлекеттік мәдениет мекемелерінің тізбесі, өңірлер бөлінісінде",
+      "nameKk": "№729 Мемлекеттік мәдениет мекемелерінің тізбесі, өңірлер бөлінісінде",
+      "descriptionRu": "В данном наборе содержится информация о домах культуры города Астаны (наименование, адрес местонахождения, контактные телефоны, официальный сайт, ФИо руководителя)",
+      "descriptionEn": "Бұл жинакта мәдениет үйлер туралы  ақпарат орналасқан (атауы, орналасқан мекен-жайы, байланыс телефоны, ресми сайты, басшы аты-жөні)\n",
+      "descriptionKk": "Бұл жинакта мәдениет үйлер туралы  ақпарат орналасқан (атауы, орналасқан мекен-жайы, байланыс телефоны, ресми сайты, басшы аты-жөні)\n",
+      "modifiedDate": "2026-07-03T10:14:03.648Z",
+      "actual": true,
+      "byList": true,
+      "keywords": [
+        ""
+      ],
+      "owner": {
+        "fullnameRu": "Управление культуры, архива и документации города Астаны",
+        "fullnameEn": "Астана қаласының мәдениет, мұрағаттар және құжаттама басқармасы",
+        "fullnameKk": "Астана қаласының мәдениет, мұрағаттар және құжаттама басқармасы"
+      },
+      "fields": {
+        "kontact_telkaz": {
+          "type": "String",
+          "pk": false,
+          "labelRu": "Контактный телефон",
+          "labelEn": "",
+          "labelKk": "Байланыс телефон нөмірі",
+          "orderNumber": 11
+        },
+        "otchetnyi_period_na_rus": {
+          "type": "String",
+          "pk": false,
+          "labelRu": "Отчетный период",
+          "labelEn": "",
+          "labelKk": "Есептік кезең",
+          "orderNumber": 2
+        },
+        "yuridichedkiiadress_na_rus": {
+          "type": "String",
+          "pk": false,
+          "labelRu": "Юридический адрес",
+          "labelEn": "",
+          "labelKk": "Заңды мекенжайы",
+          "orderNumber": 4
+        },
+        "naimenovanieregionakaz": {
+          "type": "String",
+          "pk": false,
+          "labelRu": "Наименование населенного пункта",
+          "labelEn": "",
+          "labelKk": "Елді мекеннің атауы",
+          "orderNumber": 7
+        },
+        "otchetnyi_period_na_kaz": {
+          "type": "String",
+          "pk": false,
+          "labelRu": "Отчетный период",
+          "labelEn": "",
+          "labelKk": "Есептік кезең",
+          "orderNumber": 3
+        },
+        "naimenovanieregionarus": {
+          "type": "String",
+          "pk": false,
+          "labelRu": "Наименование населенного пункта",
+          "labelEn": "",
+          "labelKk": "Елді мекеннің атауы",
+          "orderNumber": 6
+        },
+        "naimenovanieorganizatsiirus": {
+          "type": "String",
+          "pk": false,
+          "labelRu": "Наименование учреждения",
+          "labelEn": "",
+          "labelKk": "Мекеменің атауы",
+          "orderNumber": 8
+        },
+        "id": {
+          "type": "String",
+          "pk": true,
+          "labelRu": "№",
+          "labelEn": "№",
+          "labelKk": "№",
+          "orderNumber": 1
+        },
+        "kontact_telrus": {
+          "type": "String",
+          "pk": false,
+          "labelRu": "Контактный телефон",
+          "labelEn": "",
+          "labelKk": "Байланыс телефон нөмірі",
+          "orderNumber": 10
+        },
+        "naimenovanieorganizatsiikaz": {
+          "type": "String",
+          "pk": false,
+          "labelRu": "Наименование учреждения",
+          "labelEn": "",
+          "labelKk": "Мекеменің атауы",
+          "orderNumber": 9
+        },
+        "yuridichedkiiadress_na_kaz": {
+          "type": "String",
+          "pk": false,
+          "labelRu": "Юридический адрес",
+          "labelEn": "",
+          "labelKk": "Заңды мекенжайы",
+          "orderNumber": 5
+        }
+      }
+    }
+  },
+  {
+    "url": "https://data.egov.kz/datasets/getdata?index=madeniet_uiymdary&version=v17",
+    "status": 404,
+    "response": "<!DOCTYPE html>\n\n<!--[if IE 8]> <html lang=\"kk\" class=\"ie8 no-js\"> <![endif]-->\n<!--[if IE 9]> <html lang=\"kk\" class=\"ie9 no-js\"> <![endif]-->\n<!--[if !IE]><!-->\n<html lang=\"kk\">\n<!--<![endif]-->\n<!-- BEGIN HEAD -->\n<head>\n    <meta charset=\"utf-8\"/>\n    <title>404</title>\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta content=\"width=device-width, initial-scale=1.0\" name=\"viewport\"/>\n    <meta http-equiv=\"Content-type\" content=\"text/html; charset=utf-8\">\n    <meta content=\"\" name=\"description\"/>\n    <meta content=\"\" name=\"author\"/>\n    <meta name=\"robots\" content=\"noindex, nofollow\">\n    <!-- BEGIN GLOBAL MANDATORY STYLES -->\n    <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all\" rel=\"stylesheet\" type=\"text/css\">\n    <link href=\"/public/assets/global/plugins/font-awesome/css/font-awesome.min.css\" rel=\"stylesheet\" type=\"text/css\">\n    <link href=\"/public/assets/global/plugins/simple-line-icons/simple-line-icons.min.css\" rel=\"stylesheet\" type=\"text/css\">\n    <link href=\"/public/assets/global/plugins/bootstrap/css/bootstrap.min.css\" rel=\"stylesheet\" type=\"text/css\">\n    <link href=\"/public/assets/global/plugins/uniform/css/uniform.default.css\" rel=\"stylesheet\" type=\"text/css\">\n    <link href=\"/public/assets/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css\" rel=\"stylesheet\" type=\"text/css\"/>\n    <!-- END GLOBAL MANDATORY STYLES -->\n    <!-- BEGIN PAGE LEVEL STYLES -->\n    <link href=\"/public/assets/admin/pages/css/error.css\" rel=\"stylesheet\" type=\"text/css\"/>\n    <!-- END PAGE LEVEL STYLES -->\n    <!-- BEGIN THEME STYLES -->\n    <link href=\"/public/assets/global/css/components.css\" rel=\"stylesheet\" type=\"text/css\"/>\n    <link href=\"/public/assets/global/css/plugins.css\" rel=\"stylesheet\" type=\"text/css\"/"
+  },
+  {
+    "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Obekty_kultury2309/FeatureServer/7?f=pjson",
+    "status": 200,
+    "response": "{\n \"currentVersion\": 10.81,\n \"cimVersion\": \"2.6.0\",\n \"id\": 7,\n \"name\": \"Объекты культуры\",\n \"type\": \"Feature Layer\",\n \"parentLayer\": null,\n \"defaultVisibility\": true,\n \"minScale\": 83701,\n \"maxScale\": 0,\n \"canScaleSymbols\": false,\n \"geometryType\": \"esriGeometryPoint\",\n \"description\": \"\",\n \"copyrightText\": \"\",\n \"editFieldsInfo\": null,\n \"syncCanReturnChanges\": true,\n \"relationships\": [],\n \"isDataVersioned\": false,\n \"isDataArchived\": false,\n \"isDataBranchVersioned\": false,\n \"isDataReplicaTracked\": false,\n \"isCoGoEnabled\": false,\n \"supportsRollbackOnFailureParameter\": true,\n \"supportsStatistics\": true,\n \"supportsAdvancedQueries\": true,\n \"supportsValidateSQL\": true,\n \"supportsCoordinatesQuantization\": true,\n \"supportsCalculate\": true,\n \"supportsASyncCalculate\": true,\n \"advancedQueryCapabilities\": {\n  \"supportsReturningQueryExtent\": true,\n  \"supportsStatistics\": true,\n  \"supportsDistinct\": true,\n  \"supportsPagination\": true,\n  \"supportsOrderBy\": true,\n  \"supportsQueryWithDistance\": true,\n  \"supportsLod\": true,\n  \"supportsPaginationOnAggregatedQueries\": true,\n  \"supportsQueryWithResultType\": true,\n  \"supportsCountDistinct\": true,\n  \"supportsReturningGeometryCentroid\": false,\n  \"supportsHavingClause\": true,\n  \"supportsQueryWithLodSR\": true,\n  \"supportsTopFeaturesQuery\": true,\n  \"supportsOrderByOnlyOnLayerFields\": false,\n  \"supportsPercentileStatistics\": true,\n  \"supportsQueryAttachments\": true,\n  \"supportsQueryAttachmentsWithReturnUrl\": true,\n  \"supportsQueryWithDatumTransformation\": true\n },\n \"extent\": {\n  \"xmin\": -5772.659513248131,\n  \"ymin\": -9012.74893692322,\n  \"xmax\": 7008.093254188076,\n  \"ymax\": 3186.8644228987396,\n  \"spatialReference\": {\n   \"wkt\": \"PROJCS[\\\"Astana\\\",GEOGCS[\\\"GCS_WGS_1984\\\",DATUM[\\\"D_WGS_1984\\\",SPHEROID[\\\"WGS_1984\\\",6378137.0,298.257223563]],PRIMEM[\\\"Green"
+  },
+  {
+    "url": "https://gis.esaulet.kz/server/rest/services/Hosted/Obekty_kultury2309/FeatureServer/7/query?where=1%3D1&returnCountOnly=true&f=json",
+    "status": 200,
+    "response": {
+      "count": 41
+    },
+    "decision": "Not merged: source metadata has no reusable license or copyright/terms grant; public query access alone is not a redistribution license."
+  }
+]

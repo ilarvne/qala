@@ -1,0 +1,196 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      {
+        "from": "File:Botanical_triangles.jpg",
+        "to": "File:Botanical triangles.jpg"
+      },
+      {
+        "from": "File:Central_Downtown_Astana_2.jpg",
+        "to": "File:Central Downtown Astana 2.jpg"
+      },
+      {
+        "from": "File:City_Uprava_Building_Nur-Sultan.jpg",
+        "to": "File:City Uprava Building Nur-Sultan.jpg"
+      }
+    ],
+    "pages": {
+      "-1": {
+        "ns": 6,
+        "title": "File:Central Downtown Astana 2.jpg",
+        "missing": "",
+        "imagerepository": ""
+      },
+      "120428059": {
+        "pageid": 120428059,
+        "ns": 6,
+        "title": "File:Botanical triangles.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4539835,
+            "width": 4608,
+            "height": 3456,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Botanical_triangles.jpg/1280px-Botanical_triangles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 750,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Botanical_triangles.jpg/3840px-Botanical_triangles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Botanical_triangles.jpg/1280px-Botanical_triangles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 750,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Botanical_triangles.jpg/3840px-Botanical_triangles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Botanical_triangles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Botanical_triangles.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=120428059",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Yersyn_Yes&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Yersyn Yes (page does not exist)\">Yersyn Yes</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "91787927": {
+        "pageid": 91787927,
+        "ns": 6,
+        "title": "File:City Uprava Building Nur-Sultan.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8000958,
+            "width": 7952,
+            "height": 5304,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/City_Uprava_Building_Nur-Sultan.jpg/1280px-City_Uprava_Building_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 667,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/City_Uprava_Building_Nur-Sultan.jpg/3840px-City_Uprava_Building_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/City_Uprava_Building_Nur-Sultan.jpg/1280px-City_Uprava_Building_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 667,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/City_Uprava_Building_Nur-Sultan.jpg/3840px-City_Uprava_Building_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/City_Uprava_Building_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:City_Uprava_Building_Nur-Sultan.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91787927",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mheidegger&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mheidegger (page does not exist)\">Yakov Fedorov</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "5464537": {
+        "pageid": 5464537,
+        "ns": 6,
+        "title": "File:Dmitry Medvedev in Kazakhstan 22 May 2008-3.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 46663,
+            "width": 334,
+            "height": 220,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Dmitry_Medvedev_in_Kazakhstan_22_May_2008-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1000,
+            "thumbheight": 659,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Dmitry_Medvedev_in_Kazakhstan_22_May_2008-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 659
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Dmitry_Medvedev_in_Kazakhstan_22_May_2008-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dmitry_Medvedev_in_Kazakhstan_22_May_2008-3.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5464537",
+            "extmetadata": {
+              "Artist": {
+                "value": "Presidential Press and Information Office",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.kremlin.ru\">Kremlin.ru</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    }
+  }
+}

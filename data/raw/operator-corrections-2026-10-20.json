@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "corrections": [
+    {
+      "id": "nur-alem-museum-closed-2024-12",
+      "target": {
+        "id": "overture-f156787e-136d-4047-9f5e-8ae04ed039bb",
+        "name": "Nur Alem Museum of Future Energy",
+        "lat": 51.08931145,
+        "lon": 71.41590518,
+        "source_name": "Overture Maps",
+        "gers_id": "f156787e-136d-4047-9f5e-8ae04ed039bb"
+      },
+      "facts": {
+        "operating_status": "closed",
+        "recommendable": false,
+        "closed_since": "2024-12"
+      },
+      "sources": [
+        {
+          "url": "https://qazexpocongress.kz/en/nur-alem/",
+          "observed_at": "2026-10-20T16:31:10.389851+00:00",
+          "body_sha256": "956e36cd1d302040795fe7145b1bdf848161acf213fdced7191519e40ea28f12",
+          "excerpts": [
+            "As of December 2024, the Future Energy Museum has completed its work and stopped receiving visitors."
+          ],
+          "excerpts_sha256": "15fc13c6725f6ea59d37a8b65d7cd5ac99e421807cd04912f11b358d239dbc58"
+        },
+        {
+          "url": "https://alem.ai/en/",
+          "observed_at": "2026-10-20T16:31:14.698883+00:00",
+          "body_sha256": "88585b56c8d0671b2a6e22cc6970529560d6a4ffbf59a4e907a0d9793ad0916e",
+          "excerpts": [
+            "The Museum of Singularity is open: 10:00-18:30 Tue–Sun, Mon — Maintenance day"
+          ],
+          "excerpts_sha256": "0a49cda85eb49ea3e417353e0a1acbf3721c4a2af81d5aa27af0723f05854f8a"
+        }
+      ]
+    }
+  ]
+}

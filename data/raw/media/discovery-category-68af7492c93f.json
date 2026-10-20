@@ -1,0 +1,27 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "categorymembers": [
+      {
+        "pageid": 90862349,
+        "ns": 6,
+        "title": "File:Karaotkel Cemetery-1.jpg"
+      },
+      {
+        "pageid": 90862350,
+        "ns": 6,
+        "title": "File:Karaotkel Cemetery-2.jpg"
+      },
+      {
+        "pageid": 90862361,
+        "ns": 6,
+        "title": "File:Karaotkel Cemetery-3.jpg"
+      },
+      {
+        "pageid": 118405119,
+        "ns": 6,
+        "title": "File:Karaotkel-TselinogradAKMkz.png"
+      }
+    ]
+  }
+}

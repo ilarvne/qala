@@ -1,0 +1,268 @@
+[
+  {
+    "poi_id": "osm-way-240376692",
+    "target_fingerprint": "4b62d38e8ec87e8f26ddfbd2f71faebe2e96909f7c865646781bd4e2d641ccbc",
+    "files": [
+      {
+        "title": "File:Seifullin Museum Nur-Sultan.jpg",
+        "identity": {
+          "method": "editorially_reviewed_named_venue",
+          "local_source_url": "https://www.openstreetmap.org/way/240376692",
+          "local_name": "Сәкен Сейфуллин музейі",
+          "source_description": "Музей Сакена Сейфуллина",
+          "review_note": "The file description exactly names the museum recorded in the Russian OSM name, not the separate Seifullin statue. Source venue address is Mukhtar Auezov 20.",
+          "reviewed_at": "2026-10-20T17:23:50.187015+00:00"
+        }
+      },
+      {
+        "title": "File:Seifullin Museum.jpg",
+        "identity": {
+          "method": "editorially_reviewed_named_venue",
+          "local_source_url": "https://www.openstreetmap.org/way/240376692",
+          "local_name": "Сәкен Сейфуллин музейі",
+          "source_description": "Музей Сакена Сейфуллина",
+          "review_note": "The file description exactly names the museum recorded in the Russian OSM name, not the separate Seifullin statue. Source venue address is Mukhtar Auezov 20.",
+          "reviewed_at": "2026-10-20T17:23:50.187015+00:00"
+        }
+      }
+    ]
+  },
+  {
+    "poi_id": "osm-node-455447680",
+    "target_fingerprint": "1ddb465f0b1afb3a8349f96668bb5b9223d28bdbb87ef4fad47699db1349ec0b",
+    "files": [
+      {
+        "title": "File:Gorky Drama Theatre Nur-Sultan.jpg",
+        "identity": {
+          "method": "editorially_reviewed_named_venue",
+          "local_source_url": "https://www.openstreetmap.org/node/455447680",
+          "local_name": "Русский Академический театр драмы им М.Горького",
+          "source_description": "Театр драмы им. Горького",
+          "review_note": "The Commons category names the Gorky theatre in Astana and points to Q16433519 at51.165219,71.416311, within10m of this theatre. The older merchant-house aliases are not a different venue.",
+          "reviewed_at": "2026-10-20T17:23:50.187015+00:00"
+        }
+      }
+    ]
+  },
+  {
+    "poi_id": "osm-relation-18901938",
+    "target_fingerprint": "be5cbd547449c2be334a025f065579e685bbfe2db6d790d1133dd7d5e032a747",
+    "files": [
+      {
+        "title": "File:Astana Grand Mosque - main prayer hall decorations.jpg",
+        "identity": {
+          "method": "editorially_reviewed_named_venue",
+          "local_source_url": "https://www.openstreetmap.org/relation/18901938",
+          "local_name": "Nursultan mosque",
+          "source_description": "Astana Grand Mosque - Main prayer hall.",
+          "review_note": "Commons Astana Grand Mosque Q113675887 is at51.0725,71.4095, within100m of this grand mosque. File camera coordinates are on the same mosque, and the source explicitly names Astana; this is not Hazrat Sultan or Nur Astana mosque.",
+          "reviewed_at": "2026-10-20T17:23:50.187015+00:00"
+        }
+      },
+      {
+        "title": "File:Astana Grand Mosque - interior.jpg",
+        "identity": {
+          "method": "editorially_reviewed_named_venue",
+          "local_source_url": "https://www.openstreetmap.org/relation/18901938",
+          "local_name": "Nursultan mosque",
+          "source_description": "Astana Grand Mosque",
+          "review_note": "Commons Astana Grand Mosque Q113675887 is at51.0725,71.4095, within100m of this grand mosque. File camera coordinates are on the same mosque, and the source explicitly names Astana; this is not Hazrat Sultan or Nur Astana mosque.",
+          "reviewed_at": "2026-10-20T17:23:50.187015+00:00"
+        }
+      }
+    ]
+  },
+  {
+    "poi_id": "osm-way-240592107",
+    "target_fingerprint": "e1e6ebcf7fdaa074ac2770c614c5fc1262fa9658a1d35863e4e26d686f932ac0",
+    "files": [
+      {
+        "title": "File:Успенский собор 2017 1.jpg",
+        "identity": {
+          "method": "editorially_reviewed_named_venue",
+          "local_source_url": "https://www.openstreetmap.org/way/240592107",
+          "local_name": "Свято-Успенский кафедральный собор",
+          "source_description": "Кафедральный Успенский собор, август 2017",
+          "review_note": "Commons category Orthodox cathedral in Astana links Wikidata Q1899549 with exact OSM way240592107 and matching coordinates; no cross-assignment to the Greek Catholic church.",
+          "reviewed_at": "2026-10-20T17:23:50.187015+00:00"
+        }
+      }
+    ]
+  },
+  {
+    "poi_id": "osm-node-4902165007",
+    "target_fingerprint": "cef0667b8010571823c69ae4632f9c00f8b53758de8cb9ca6c7752673ff1c051",
+    "files": [
+      {
+        "title": "File:Astana Katedra 1.jpg",
+        "identity": {
+          "method": "editorially_reviewed_named_venue",
+          "local_source_url": "https://www.openstreetmap.org/node/4902165007",
+          "local_name": "Roman Catholic Church of Our Mother of Perpetual Help",
+          "source_description": "Astana Katedra 1",
+          "review_note": "Existing OSM source explicitly names Our Mother of Perpetual Help. Commons same-named cathedral category Q16538413 has coordinates within5m, and file camera51.153744,71.451340 is adjacent to the same cathedral.",
+          "reviewed_at": "2026-10-20T17:23:50.187015+00:00"
+        }
+      }
+    ]
+  },
+  {
+    "poi_id": "osm-way-240391776",
+    "target_fingerprint": "74aa473a21d172e36e5ce6590ce09f5e0806de86eca03a0bae91e6f7d4935921",
+    "files": [
+      {
+        "title": "File:Kazakhstan Military History Museum 01.jpg",
+        "identity": {
+          "method": "editorially_reviewed_named_venue",
+          "local_source_url": "https://www.openstreetmap.org/way/240391776",
+          "local_name": "Мемлекеттік әскери-тарихи музей",
+          "source_description": "Kazakhstan Military History Museum",
+          "review_note": "The source explicitly names the military museum in Astana. This assignment is to the museum building at Respublika2; the separate open-air exhibition and other nearby museum record receive no borrowed images.",
+          "reviewed_at": "2026-10-20T17:23:50.187015+00:00"
+        }
+      },
+      {
+        "title": "File:Military museum and Tashenov monument.jpg",
+        "identity": {
+          "method": "editorially_reviewed_named_venue",
+          "local_source_url": "https://www.openstreetmap.org/way/240391776",
+          "local_name": "Мемлекеттік әскери-тарихи музей",
+          "source_description": "Military museum and Tashenov monument in Nur-Sultan",
+          "review_note": "The source explicitly names the military museum in Astana. This assignment is to the museum building at Respublika2; the separate open-air exhibition and other nearby museum record receive no borrowed images.",
+          "reviewed_at": "2026-10-20T17:23:50.187015+00:00"
+        },
+        "preferred_cover": true
+      }
+    ]
+  },
+  {
+    "poi_id": "osm-node-1278114185",
+    "target_fingerprint": "7ca26a33441f9856e37ff5e2fbef2b422c22afab3785447e10a663d62effabd1",
+    "files": [
+      {
+        "title": "File:Kenesary monument, Astana.jpg",
+        "identity": {
+          "method": "editorially_reviewed_named_venue",
+          "local_source_url": "https://www.openstreetmap.org/node/1278114185",
+          "local_name": "Кенесары хан",
+          "source_description": "Kenesary monument",
+          "review_note": "The file title explicitly places the Kenesary monument in Astana; the OSM record is the Kenesary Khan equestrian monument on the river embankment, not a portrait or another city monument.",
+          "reviewed_at": "2026-10-20T17:23:50.187015+00:00"
+        }
+      }
+    ]
+  },
+  {
+    "poi_id": "osm-node-11968737470",
+    "target_fingerprint": "6cb96e82fec8416ba03a5a45c6bc0ecaf7652135cfc47879756834fa50edec10",
+    "files": [
+      {
+        "title": "File:Bozok.jpg",
+        "identity": {
+          "method": "editorially_reviewed_named_venue",
+          "local_source_url": "https://www.openstreetmap.org/node/11968737470",
+          "local_name": "Городище Бозок",
+          "source_description": "Городище Бозок",
+          "review_note": "The description exactly matches the OSM archaeological site name Городище Бозок. It is not the separately mapped Bozoq Museum building roughly8km east, and not the nearby Kystau winter settlement.",
+          "reviewed_at": "2026-10-20T17:23:50.187015+00:00"
+        }
+      }
+    ]
+  },
+  {
+    "poi_id": "osm-node-4985150252",
+    "target_fingerprint": "2a2dbe4e03bc08499608912bb9b19c60b1f4eb910e60588366a2efbfc313ed78",
+    "files": [
+      {
+        "title": "File:Конгресс-Центр Астана.jpg",
+        "identity": {
+          "method": "editorially_reviewed_named_venue",
+          "local_source_url": "https://www.openstreetmap.org/node/4985150252",
+          "local_name": "Конгресс-центр",
+          "source_description": "Конгресс-Центр Астана",
+          "review_note": "The exact named Astana EXPO Congress Centre is selected; do not transfer the photo to the old Astana Concert Hall or a generic conference room.",
+          "reviewed_at": "2026-10-20T17:23:50.187015+00:00"
+        }
+      }
+    ]
+  },
+  {
+    "poi_id": "osm-relation-12446162",
+    "target_fingerprint": "ac4d36d770aa11767d003d59f40877d75762dd8b66841bd506d87fe84ef6cdc0",
+    "files": [
+      {
+        "title": "File:Sairan Arena.jpg",
+        "identity": {
+          "method": "editorially_reviewed_named_venue",
+          "local_source_url": "https://www.openstreetmap.org/relation/12446162",
+          "local_name": "Sairan Arena",
+          "source_description": "на Сайран Арене в городе Астана",
+          "review_note": "The file description identifies Kazakhstan national futsal training at Sairan Arena in Astana, matching this arena rather than the separately mapped Sairan accommodation.",
+          "reviewed_at": "2026-10-20T17:23:50.187015+00:00"
+        }
+      }
+    ]
+  },
+  {
+    "poi_id": "osm-way-499328514",
+    "target_fingerprint": "4e739d1331c9bfd3898f9dc007453ba83ae4ad316aa6567523172b38d7a2f8f1",
+    "files": [
+      {
+        "title": "File:ТРЦ MEGA Silk-way и отель Hilton.jpg",
+        "identity": {
+          "method": "editorially_reviewed_named_venue",
+          "local_source_url": "https://www.openstreetmap.org/way/499328514",
+          "local_name": "Mega Silk Way",
+          "source_description": "Вид на ТРЦ MEGA Silk-way и отель Hilton из Экспо-парка.",
+          "review_note": "The source identifies the EXPO Mega Silk Way mall and adjacent Hilton in the same exterior frame. Assignment is to the actual named mall footprint, not another Mega branch or the nearby cafe.",
+          "reviewed_at": "2026-10-20T17:23:50.187015+00:00"
+        }
+      }
+    ]
+  },
+  {
+    "poi_id": "osm-node-5880883095",
+    "target_fingerprint": "dc704054333a8a9eb8c2b1181cd94d88a6bf9fd985db63f82511331b605f36fd",
+    "files": [
+      {
+        "title": "File:ТРЦ MEGA Silk-way и отель Hilton.jpg",
+        "identity": {
+          "method": "editorially_reviewed_named_venue",
+          "local_source_url": "https://www.openstreetmap.org/node/5880883095",
+          "local_name": "Hilton Astana",
+          "source_description": "Вид на ТРЦ MEGA Silk-way и отель Hilton из Экспо-парка.",
+          "review_note": "The source identifies the EXPO Hilton Astana and adjacent Mega Silk Way in the same exterior frame. This exact Hilton property is at51.0906596,71.4106232; no other Hilton branch inherits it.",
+          "reviewed_at": "2026-10-20T17:23:50.187015+00:00"
+        }
+      }
+    ]
+  },
+  {
+    "poi_id": "osm-way-1134744434",
+    "target_fingerprint": "cdfa021bf38da839bcb59f03d59a1caed62e7af99c63086497beb73ea6441ada",
+    "files": [
+      {
+        "title": "File:Circus fountain 01.jpg",
+        "identity": {
+          "method": "editorially_reviewed_named_venue",
+          "local_source_url": "https://www.openstreetmap.org/way/1134744434",
+          "local_name": "Цирк",
+          "source_description": "Circus fountain",
+          "review_note": "These files explicitly depict the Circus fountain, matching the fountain physical type. They must never be transferred to the nearby Astana Circus building; the previous derived Q21843144 on this fountain is a separate quarantined identity defect.",
+          "reviewed_at": "2026-10-20T17:23:50.187015+00:00"
+        }
+      },
+      {
+        "title": "File:Circus fountain 02.jpg",
+        "identity": {
+          "method": "editorially_reviewed_named_venue",
+          "local_source_url": "https://www.openstreetmap.org/way/1134744434",
+          "local_name": "Цирк",
+          "source_description": "Circus fountain",
+          "review_note": "These files explicitly depict the Circus fountain, matching the fountain physical type. They must never be transferred to the nearby Astana Circus building; the previous derived Q21843144 on this fountain is a separate quarantined identity defect.",
+          "reviewed_at": "2026-10-20T17:23:50.187015+00:00"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "poi_id": "osm-way-1134744434",
+  "before": {
+    "wikidata": "Q21843144",
+    "aliases": [
+      "Astana Circus",
+      "Астана Цирк",
+      "Астанинский цирк",
+      "Цирк Столичный",
+      "цирк Астана"
+    ],
+    "additional_sources": [
+      {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q21843144",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q21843144",
+        "p31": [
+          "Q16889960"
+        ]
+      }
+    ]
+  },
+  "after": {
+    "wikidata": null,
+    "aliases": [],
+    "additional_sources": []
+  },
+  "reason": "Q21843144 is a circus building; current source physical type is fountain. Original OSM tags contain no Wikidata statement. New type-aware replay rejects the old derived match."
+}

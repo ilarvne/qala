@@ -1,0 +1,195 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      {
+        "from": "File:Астана,_центральная_мечеть_с_угла.jpg",
+        "to": "File:Астана, центральная мечеть с угла.jpg"
+      },
+      {
+        "from": "File:Жерұйық_саябағы.png",
+        "to": "File:Жерұйық саябағы.png"
+      },
+      {
+        "from": "File:Казахстан_ЦКЗ_2011_02.jpg",
+        "to": "File:Казахстан ЦКЗ 2011 02.jpg"
+      }
+    ],
+    "pages": {
+      "-1": {
+        "ns": 6,
+        "title": "File:Астана, центральная мечеть с угла.jpg",
+        "missing": "",
+        "imagerepository": ""
+      },
+      "134520920": {
+        "pageid": 134520920,
+        "ns": 6,
+        "title": "File:Жерұйық саябағы.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3798477,
+            "width": 1863,
+            "height": 908,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/%D0%96%D0%B5%D1%80%D2%B1%D0%B9%D1%8B%D2%9B_%D1%81%D0%B0%D1%8F%D0%B1%D0%B0%D2%93%D1%8B.png/1280px-%D0%96%D0%B5%D1%80%D2%B1%D0%B9%D1%8B%D2%9B_%D1%81%D0%B0%D1%8F%D0%B1%D0%B0%D2%93%D1%8B.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 487,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/99/%D0%96%D0%B5%D1%80%D2%B1%D0%B9%D1%8B%D2%9B_%D1%81%D0%B0%D1%8F%D0%B1%D0%B0%D2%93%D1%8B.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/%D0%96%D0%B5%D1%80%D2%B1%D0%B9%D1%8B%D2%9B_%D1%81%D0%B0%D1%8F%D0%B1%D0%B0%D2%93%D1%8B.png/1280px-%D0%96%D0%B5%D1%80%D2%B1%D0%B9%D1%8B%D2%9B_%D1%81%D0%B0%D1%8F%D0%B1%D0%B0%D2%93%D1%8B.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 487,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/99/%D0%96%D0%B5%D1%80%D2%B1%D0%B9%D1%8B%D2%9B_%D1%81%D0%B0%D1%8F%D0%B1%D0%B0%D2%93%D1%8B.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/%D0%96%D0%B5%D1%80%D2%B1%D0%B9%D1%8B%D2%9B_%D1%81%D0%B0%D1%8F%D0%B1%D0%B0%D2%93%D1%8B.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%D0%96%D0%B5%D1%80%D2%B1%D0%B9%D1%8B%D2%9B_%D1%81%D0%B0%D1%8F%D0%B1%D0%B0%D2%93%D1%8B.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=134520920",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%D0%A8%D0%B0%D0%BB%D0%BA%D0%B5%D1%80_%D0%93%D0%B0%D0%BC&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Шалкер Гам (page does not exist)\">Шалкер Гам</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/png"
+          }
+        ]
+      },
+      "76387565": {
+        "pageid": 76387565,
+        "ns": 6,
+        "title": "File:Казахстан ЦКЗ 2011 02.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1498163,
+            "width": 2560,
+            "height": 1920,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD_%D0%A6%D0%9A%D0%97_2011_02.jpg/1280px-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD_%D0%A6%D0%9A%D0%97_2011_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 750,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/6/63/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD_%D0%A6%D0%9A%D0%97_2011_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD_%D0%A6%D0%9A%D0%97_2011_02.jpg/1280px-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD_%D0%A6%D0%9A%D0%97_2011_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 750,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/63/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD_%D0%A6%D0%9A%D0%97_2011_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD_%D0%A6%D0%9A%D0%97_2011_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD_%D0%A6%D0%9A%D0%97_2011_02.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=76387565",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:%D0%9C%D0%B0%D0%B7%D1%83%D1%80_%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D1%8F\" title=\"User:Мазур Володя\">Мазур Владимир</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "27117226": {
+        "pageid": 27117226,
+        "ns": 6,
+        "title": "File:Кафедральный собор в честь Успения Пресвятой Богородицы.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 743018,
+            "width": 1944,
+            "height": 2592,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D1%87%D0%B5%D1%81%D1%82%D1%8C_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B.jpg/1280px-%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D1%87%D0%B5%D1%81%D1%82%D1%8C_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 1333,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/b/b4/%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D1%87%D0%B5%D1%81%D1%82%D1%8C_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D1%87%D0%B5%D1%81%D1%82%D1%8C_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B.jpg/1280px-%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D1%87%D0%B5%D1%81%D1%82%D1%8C_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 1333,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/b4/%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D1%87%D0%B5%D1%81%D1%82%D1%8C_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D1%87%D0%B5%D1%81%D1%82%D1%8C_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D1%87%D0%B5%D1%81%D1%82%D1%8C_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27117226",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kaiyr\" title=\"User:Kaiyr\">Kaiyr</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    }
+  }
+}

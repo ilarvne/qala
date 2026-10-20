@@ -1,0 +1,181 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      {
+        "from": "File:Kubrin_Hospital_Nur-Sultan.jpg",
+        "to": "File:Kubrin Hospital Nur-Sultan.jpg"
+      },
+      {
+        "from": "File:Kubrin_House_Nur-Sultan.jpg",
+        "to": "File:Kubrin House Nur-Sultan.jpg"
+      }
+    ],
+    "pages": {
+      "91787944": {
+        "pageid": 91787944,
+        "ns": 6,
+        "title": "File:Kubrin Hospital Nur-Sultan.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 19005440,
+            "width": 7952,
+            "height": 5304,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Kubrin_Hospital_Nur-Sultan.jpg/1280px-Kubrin_Hospital_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 667,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Kubrin_Hospital_Nur-Sultan.jpg/3840px-Kubrin_Hospital_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Kubrin_Hospital_Nur-Sultan.jpg/1280px-Kubrin_Hospital_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 667,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Kubrin_Hospital_Nur-Sultan.jpg/3840px-Kubrin_Hospital_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Kubrin_Hospital_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kubrin_Hospital_Nur-Sultan.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91787944",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mheidegger&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mheidegger (page does not exist)\">Yakov Fedorov</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "91787942": {
+        "pageid": 91787942,
+        "ns": 6,
+        "title": "File:Kubrin House Nur-Sultan.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7871202,
+            "width": 7952,
+            "height": 5304,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Kubrin_House_Nur-Sultan.jpg/1280px-Kubrin_House_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 667,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Kubrin_House_Nur-Sultan.jpg/3840px-Kubrin_House_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Kubrin_House_Nur-Sultan.jpg/1280px-Kubrin_House_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 667,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Kubrin_House_Nur-Sultan.jpg/3840px-Kubrin_House_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Kubrin_House_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kubrin_House_Nur-Sultan.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91787942",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mheidegger&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mheidegger (page does not exist)\">Yakov Fedorov</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "193614814": {
+        "pageid": 193614814,
+        "ns": 6,
+        "title": "File:Library of the Republic of Kazakhstan.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 259803,
+            "width": 960,
+            "height": 722,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Library_of_the_Republic_of_Kazakhstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1000,
+            "thumbheight": 752,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Library_of_the_Republic_of_Kazakhstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 752
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Library_of_the_Republic_of_Kazakhstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Library_of_the_Republic_of_Kazakhstan.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=193614814",
+            "extmetadata": {
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    }
+  }
+}

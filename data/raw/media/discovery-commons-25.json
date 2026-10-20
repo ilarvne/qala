@@ -1,0 +1,287 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "42334514": {
+        "pageid": 42334514,
+        "ns": 6,
+        "title": "File:Barys Arena.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3901976,
+            "width": 5248,
+            "height": 3936,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Barys_Arena.jpg/1280px-Barys_Arena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 750,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Barys_Arena.jpg/3840px-Barys_Arena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Barys_Arena.jpg/1280px-Barys_Arena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 750,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Barys_Arena.jpg/3840px-Barys_Arena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Barys_Arena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Barys_Arena.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=42334514",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ChelseaFunNumberOne\" title=\"User:ChelseaFunNumberOne\">ChelseaFunNumberOne</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "120294424": {
+        "pageid": 120294424,
+        "ns": 6,
+        "title": "File:Botanical Garden Nur-Sultan city Big Cauldron during Sunset.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1376468,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Botanical_Garden_Nur-Sultan_city_Big_Cauldron_during_Sunset.jpg/1280px-Botanical_Garden_Nur-Sultan_city_Big_Cauldron_during_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 750,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Botanical_Garden_Nur-Sultan_city_Big_Cauldron_during_Sunset.jpg/3840px-Botanical_Garden_Nur-Sultan_city_Big_Cauldron_during_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Botanical_Garden_Nur-Sultan_city_Big_Cauldron_during_Sunset.jpg/1280px-Botanical_Garden_Nur-Sultan_city_Big_Cauldron_during_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 750,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Botanical_Garden_Nur-Sultan_city_Big_Cauldron_during_Sunset.jpg/3840px-Botanical_Garden_Nur-Sultan_city_Big_Cauldron_during_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Botanical_Garden_Nur-Sultan_city_Big_Cauldron_during_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Botanical_Garden_Nur-Sultan_city_Big_Cauldron_during_Sunset.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=120294424",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:DiamondMoore&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:DiamondMoore (page does not exist)\">DiamondMoore</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "120294422": {
+        "pageid": 120294422,
+        "ns": 6,
+        "title": "File:Botanical Garden Nur-Sultan city flowers during Sunset.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1590810,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Botanical_Garden_Nur-Sultan_city_flowers_during_Sunset.jpg/1280px-Botanical_Garden_Nur-Sultan_city_flowers_during_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 750,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Botanical_Garden_Nur-Sultan_city_flowers_during_Sunset.jpg/3840px-Botanical_Garden_Nur-Sultan_city_flowers_during_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Botanical_Garden_Nur-Sultan_city_flowers_during_Sunset.jpg/1280px-Botanical_Garden_Nur-Sultan_city_flowers_during_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 750,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Botanical_Garden_Nur-Sultan_city_flowers_during_Sunset.jpg/3840px-Botanical_Garden_Nur-Sultan_city_flowers_during_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Botanical_Garden_Nur-Sultan_city_flowers_during_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Botanical_Garden_Nur-Sultan_city_flowers_during_Sunset.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=120294422",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:DiamondMoore&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:DiamondMoore (page does not exist)\">DiamondMoore</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "17713822": {
+        "pageid": 17713822,
+        "ns": 6,
+        "title": "File:Congress Hall Astana.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2600932,
+            "width": 4320,
+            "height": 3240,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Congress_Hall_Astana.jpg/1280px-Congress_Hall_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 750,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Congress_Hall_Astana.jpg/3840px-Congress_Hall_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Congress_Hall_Astana.jpg/1280px-Congress_Hall_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 750,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Congress_Hall_Astana.jpg/3840px-Congress_Hall_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Congress_Hall_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Congress_Hall_Astana.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17713822",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mheidegger&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mheidegger (page does not exist)\">Yakov Fedorov</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "69168463": {
+        "pageid": 69168463,
+        "ns": 6,
+        "title": "File:Downtown Astana With The National Concert Hall (6246435844).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3757397,
+            "width": 4288,
+            "height": 2075,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Downtown_Astana_With_The_National_Concert_Hall_%286246435844%29.jpg/1280px-Downtown_Astana_With_The_National_Concert_Hall_%286246435844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 484,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Downtown_Astana_With_The_National_Concert_Hall_%286246435844%29.jpg/3840px-Downtown_Astana_With_The_National_Concert_Hall_%286246435844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Downtown_Astana_With_The_National_Concert_Hall_%286246435844%29.jpg/1280px-Downtown_Astana_With_The_National_Concert_Hall_%286246435844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 484,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Downtown_Astana_With_The_National_Concert_Hall_%286246435844%29.jpg/3840px-Downtown_Astana_With_The_National_Concert_Hall_%286246435844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Downtown_Astana_With_The_National_Concert_Hall_%286246435844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Downtown_Astana_With_The_National_Concert_Hall_(6246435844).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=69168463",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/71279764@N00\">Ken and Nyetta</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    }
+  }
+}

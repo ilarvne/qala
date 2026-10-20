@@ -1,0 +1,1078 @@
+{
+  "metadata": {
+    "city": "Astana",
+    "scope": "Astana administrative boundary; OSM inventory plus filtered licensed Overture visitor destinations",
+    "boundary_relation": 3087155,
+    "boundary_url": "https://www.openstreetmap.org/relation/3087155",
+    "bbox": [
+      50.8576076,
+      71.2179735,
+      51.3511101,
+      71.7851913
+    ],
+    "collected_at": "2026-10-19T16:23:04.966624+00:00",
+    "osm_base_timestamp": "2026-10-19T16:22:02Z",
+    "endpoint": "https://overpass-api.de/api/interpreter",
+    "count": 6505,
+    "raw_element_count": 10559,
+    "discarded": {
+      "out_of_scope": 1035,
+      "unnamed_non_public": 3292,
+      "invalid_coordinates": 0,
+      "duplicate": 10,
+      "inactive": 0
+    },
+    "coverage": {
+      "total": 6505,
+      "named": 4300,
+      "by_category": {
+        "accommodation": 129,
+        "cafe": 377,
+        "culture": 267,
+        "dining": 423,
+        "museum": 11,
+        "nightlife": 161,
+        "park": 264,
+        "playground": 336,
+        "shopping": 2010,
+        "sport": 827,
+        "transport": 35,
+        "utility": 1664,
+        "viewpoint": 1
+      },
+      "with_hours": 1893,
+      "with_description_from_source": 94,
+      "wheelchair_yes": 167,
+      "wheelchair_limited": 26,
+      "wheelchair_no": 103,
+      "wheelchair_unknown": 6209,
+      "with_website": 1491,
+      "with_phone": 1747,
+      "with_address": 872,
+      "with_photos": 61,
+      "photo_count": 83,
+      "with_wikidata": 110,
+      "with_wikipedia": 80,
+      "rating_available": 1,
+      "with_reviews": 1,
+      "power_supply_known": 0
+    },
+    "license": "ODbL 1.0",
+    "attribution": "© OpenStreetMap contributors; Overture Maps Foundation and source contributors",
+    "license_url": "https://www.openstreetmap.org/copyright",
+    "query": "[out:json][timeout:180];\narea(3603087155)->.city;\n(\n nwr[\"amenity\"](area.city);\n nwr[\"shop\"](area.city);\n nwr[\"tourism\"](area.city);\n nwr[\"leisure\"](area.city);\n nwr[\"historic\"](area.city);\n nwr[\"natural\"~\"^(beach|wood|water)$\"](area.city);\n nwr[\"railway\"=\"station\"](area.city);\n nwr[\"aeroway\"=\"aerodrome\"](area.city);\n);\nout meta center;",
+    "raw_sha256": "b78a81ff7a4040d4cb88e76dd8c85d89a371cca5f23510f9c16d09d58abac861",
+    "notes": "Citywide mapped OSM inventory with filtered licensed Overture visitor destinations, not a census of all physical establishments. Per-source identities, release dates and license notices are retained. Provider existence confidence is not a rating, current-hours check or coordinate-accuracy guarantee. Ambiguous identities and collapsed coordinates are excluded. Unknown hours, ratings, reviews, photos and accessibility stay unknown. No Google, Yandex or 2GIS content is scraped.",
+    "operator_enrichment": {
+      "count": 2,
+      "failures": []
+    },
+    "media_enrichment": {
+      "collected_at": "2026-10-20T15:07:09.677125+00:00",
+      "provider": "Wikimedia Commons / Wikidata exact entity links",
+      "entity_count": 155,
+      "candidate_file_count": 156,
+      "pois_with_photos": 61,
+      "photo_count": 83,
+      "errors": [],
+      "curation_file": "data/photo-curation.json",
+      "curation": "Source-exact files visually checked; stale construction, people, diagrams and misleading category images excluded.",
+      "policy": "Exact linked source identity or accepted multilingual-label/coordinate reconciliation; physical source candidates conservatively deduplicated and filtered; reusable license and plaintext author retained; no nearby or generated venue images",
+      "scope": "Discovery staging cohort; publisher recomputes global coverage after deduplication and merge"
+    },
+    "reviews_enrichment": {
+      "provider": "Mangrove / Open Reviews",
+      "collected_at": "2026-10-20T15:07:31.997367+00:00",
+      "api_url": "https://api.mangrove.reviews/geo",
+      "source_review_count": 1,
+      "matched_review_count": 1,
+      "text_review_count": 0,
+      "pois_with_rating": 1,
+      "matched": [
+        {
+          "poi_id": "osm-node-14201388401",
+          "signature": "qyAYa_QnjlwaDn7bsIajD54qzOOtvthTnFET4PK8245fJ5ao00g5kPS0q8gpExkAgaI4mbidKFWIkMwOnrU9EA",
+          "text_available": false
+        }
+      ],
+      "rejected": [],
+      "terms_url": "https://mangrove.reviews/terms",
+      "standard_url": "https://mangrove.reviews/standard",
+      "matching": "Exact metadata.osm_id plus location consistency; ES256 signature verified locally; no guessed venue matches"
+    },
+    "additional_collections": [
+      {
+        "provider": "Overture Maps",
+        "release": "2026-09-23.1",
+        "collected_at": "2026-10-20T15:04:08.047178+00:00",
+        "raw_path": "data/raw/overture-astana-places.json",
+        "raw_sha256": "cf1ed68c5bfb0db48773d83aec6a7083294bc3c9d46af6bc06f33660d2073dd8",
+        "decisions": {
+          "excluded": 8412,
+          "added": 258,
+          "matched": 103,
+          "quarantined": 29
+        },
+        "licenses": {
+          "CDLA-Permissive-2.0": "https://cdla.dev/permissive-2-0/",
+          "Apache-2.0": "https://www.apache.org/licenses/LICENSE-2.0",
+          "CC0-1.0": "https://creativecommons.org/publicdomain/zero/1.0/"
+        },
+        "attribution_url": "https://docs.overturemaps.org/attribution/",
+        "notes": "Existence confidence is not a rating, quality measure or current opening status. No source photographs or reviews are implied."
+      }
+    ],
+    "media_discovery": {
+      "discovered_entities": 155,
+      "reconciled_existing_pois": 28,
+      "patched_existing_pois": 11,
+      "physical_candidate_pois": 42,
+      "physical_candidates_with_photos": 29,
+      "reusable_photo_assignments": 73,
+      "source_matching": "Exact source Wikidata identity or exact multilingual label/alias plus P625 distance <=200m; physical P31 whitelist for separate candidate POIs",
+      "upstream_errors": [
+        {
+          "snapshot": "wikipedia-kk-0.json",
+          "error": {
+            "code": "cirrussearch-too-busy-error",
+            "info": "Search is currently too busy. Please try again later.",
+            "*": "See https://kk.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes."
+          }
+        },
+        {
+          "snapshot": "wikipedia-ru-2.json",
+          "error": {
+            "code": "cirrussearch-too-busy-error",
+            "info": "Search is currently too busy. Please try again later.",
+            "*": "See https://ru.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes."
+          }
+        }
+      ],
+      "visual_review": {
+        "reviewed_at": "2026-10-20",
+        "method": "Every downloaded thumbnail contact sheet visually inspected; source-exact render, stamp, satellite crop, press portrait, performance-only view and conflicting church image withheld. Normalized Commons titles cannot bypass exclusions.",
+        "curation": "data/photo-curation.json"
+      },
+      "staged_existing_photo_assignments": 9,
+      "staged_new_photo_assignments": 37,
+      "pre_visual_review_photo_assignments": 80
+    },
+    "wikidata_collection": {
+      "provider": "Wikidata / Wikipedia geographic discovery",
+      "observed_at": "2026-10-20T15:07:09.414374+00:00",
+      "license": "CC0-1.0",
+      "source_path": "data/raw/media-upgrade-evidence.json",
+      "decisions": {
+        "quarantined": 17,
+        "matched": 3,
+        "added": 22
+      },
+      "policy": "Physical P31 whitelist; exact administrative polygon; new P625 coordinate precision at most 0.001 degrees; immutable QID or exact multilingual alias plus distance; ambiguous similar names quarantined; no public-entry, current-hours, review or accessibility inference"
+    },
+    "operator_sources": {
+      "collected_at": "2026-10-20T15:07:13.875112+00:00",
+      "audit_path": "data/raw/operator-source-audit-2026-10-20.json",
+      "policy": "Public operator-page metadata and attributed source links; no unlicensed operator photograph is redistributed"
+    },
+    "operator_corrections": {
+      "schema_version": 1,
+      "applied": [
+        {
+          "id": "nur-alem-museum-closed-2024-12",
+          "target_id": "overture-f156787e-136d-4047-9f5e-8ae04ed039bb",
+          "operating_status": "closed",
+          "recommendable": false,
+          "closed_since": "2024-12",
+          "sources": [
+            {
+              "url": "https://qazexpocongress.kz/en/nur-alem/",
+              "observed_at": "2026-10-20T16:31:10.389851+00:00",
+              "body_sha256": "956e36cd1d302040795fe7145b1bdf848161acf213fdced7191519e40ea28f12",
+              "excerpts": [
+                "As of December 2024, the Future Energy Museum has completed its work and stopped receiving visitors."
+              ],
+              "excerpts_sha256": "15fc13c6725f6ea59d37a8b65d7cd5ac99e421807cd04912f11b358d239dbc58"
+            },
+            {
+              "url": "https://alem.ai/en/",
+              "observed_at": "2026-10-20T16:31:14.698883+00:00",
+              "body_sha256": "88585b56c8d0671b2a6e22cc6970529560d6a4ffbf59a4e907a0d9793ad0916e",
+              "excerpts": [
+                "The Museum of Singularity is open: 10:00-18:30 Tue–Sun, Mon — Maintenance day"
+              ],
+              "excerpts_sha256": "0a49cda85eb49ea3e417353e0a1acbf3721c4a2af81d5aa27af0723f05854f8a"
+            }
+          ]
+        }
+      ],
+      "evidence_validation": "Bounded excerpt hashes are verified offline; response hashes identify acquisition evidence and require private raw bodies for full rehashing."
+    },
+    "named_operator_collection": {
+      "venue_ids": [
+        "osm-way-454857501"
+      ],
+      "source_path": "data/raw/named-operator-venues.json",
+      "osm_observed_at": "2026-10-20T17:18:39.959656+00:00",
+      "operator_observed_at": "2026-10-20T17:18:25.446343+00:00",
+      "policy": "Exact separately acquired OSM centre represented for exterior viewing only; official museum-component hours/status stay separate from main aliases/actionable hours and whole-office access; source coordinates agree within 200m; original historical venues preserved"
+    },
+    "curated_media_expansion": {
+      "source_path": "data/raw/curated-media-expansion-2026-10-20",
+      "photo_assignments": 21,
+      "photo_venues": 16,
+      "unique_photo_sources": 20,
+      "original_acquisition_times": [
+        "2026-10-20T17:23:51.547543+00:00",
+        "2026-10-20T17:26:58.480806+00:00",
+        "2026-10-20T17:29:40.532864+00:00"
+      ],
+      "additional_wikidata_ids": [
+        "Q1186465",
+        "Q713955"
+      ],
+      "identity_method": "Explicit editorial description review bound to exact local source identity; reverse Wikidata OSM IDs for the cathedral; physical-type contradictions rejected; no proximity-only assignment",
+      "operator_scope": "Alem.ai exterior landmark; museum component hours are separate and do not imply office-centre opening or interior access"
+    }
+  },
+  "completeness_claim": "All matching mapped features in the retained full-city Overpass snapshot plus documented licensed source additions after geography, category, confidence and identity filters; not a census of all physical establishments or a complete review/photo database.",
+  "validation": {
+    "unique_ids": true,
+    "every_poi_has_source_provenance": true,
+    "every_osm_poi_has_osm_provenance": true,
+    "every_available_rating_has_source": true,
+    "every_photo_has_license_and_credit": true,
+    "every_review_signature_verified": true,
+    "every_cached_photo_exists": true,
+    "metadata_count_matches": true
+  },
+  "publication": "Validated and rendered before replacement; JSON/CSV/GeoJSON/manifest and supplied attribution sidecars roll back together on handled publication failures. Raw collection snapshots/media caches remain separate audit artifacts. This is not crash-atomic multi-file storage.",
+  "files": [
+    {
+      "path": "data/pois.json",
+      "bytes": 15359497,
+      "sha256": "60c287bccbb1b80f3bfe7acffc44c2f3e2b8b2e5b1952a8143d84d976fdc5967"
+    },
+    {
+      "path": "data/pois.csv",
+      "bytes": 1813460,
+      "sha256": "3293125c940304ce8eb6f2cf4ea1af16729942c1382dc30653a3f3c31c5ba1a8"
+    },
+    {
+      "path": "data/pois.geojson",
+      "bytes": 2323578,
+      "sha256": "def142e1c14e6c007bb24dbf00c9d85db9b1afb13aadf2b56a8ca12c8dd63230"
+    },
+    {
+      "path": "data/photo-attributions.json",
+      "bytes": 102796,
+      "sha256": "3ec0a77a3f6be3860930fcb15bdb3c53578eb4f3685884cf22d9466fac2b5c96"
+    },
+    {
+      "path": "data/review-attributions.json",
+      "bytes": 1970,
+      "sha256": "772932b59e6287ac4f7847535127f913888a822adf66cb9a9c825baf1827aa92"
+    },
+    {
+      "path": "data/photo-curation.json",
+      "bytes": 3148,
+      "sha256": "ede7d75542418bf5304eb0ccc880661f118345284893c91869ef73ab97a5808b"
+    },
+    {
+      "path": "data/raw/astana-boundary-geometry.json",
+      "bytes": 60901,
+      "sha256": "23a0fb689a15fee168d94bee8feedb4470596e5feba4ca12b0180237e64ac576"
+    },
+    {
+      "path": "data/raw/astana-boundary.json",
+      "bytes": 8103,
+      "sha256": "4fca10ec58426a547b4340ead74b9a9923ee83af40d9ce84b7adfe6d6d7bd13a"
+    },
+    {
+      "path": "data/raw/astana-overpass-citywide.json",
+      "bytes": 5818881,
+      "sha256": "83432fc5feb6b9e9b053769344da3537ef7462fad607b392f6ac6cd0f3fcd86f"
+    },
+    {
+      "path": "data/raw/astana-overpass.json",
+      "bytes": 293033,
+      "sha256": "ad61e92c182b3bc860051f7e53f3b33bcb07cae340adc1c22e86f6733cb74287"
+    },
+    {
+      "path": "data/raw/curated-media-expansion-2026-10-20/additional-curated/seeds.json",
+      "bytes": 2352,
+      "sha256": "cf1922afa225e01ba3a424696b5b1ebc4526a14ba5543de8692e17547b377489"
+    },
+    {
+      "path": "data/raw/curated-media-expansion-2026-10-20/additional-curated/sidecar.json",
+      "bytes": 6907,
+      "sha256": "02c0f7781fe5dba3b6ab1942afbe2566f62e31d58d0282f8156a356d476bc95e"
+    },
+    {
+      "path": "data/raw/curated-media-expansion-2026-10-20/additional-curated/source-captures/commons-6e599d6bb8a03499.json",
+      "bytes": 17057,
+      "sha256": "7061b520e65fa4c5157d6699a9eed8772c43c775a7fb3853f05eeafc6d1226d9"
+    },
+    {
+      "path": "data/raw/curated-media-expansion-2026-10-20/additional-identity-evidence.json",
+      "bytes": 488,
+      "sha256": "2f0a9bdb5079840ff36f2a799c6c9a904e0f57198920a9478e8a3a8361578fbd"
+    },
+    {
+      "path": "data/raw/curated-media-expansion-2026-10-20/additional-wikidata-candidates.json",
+      "bytes": 5859,
+      "sha256": "cd3d98d5b4bdea7aad3d9d40496a0d93cc74f7e5e27f3327d4927a7db6efab9b"
+    },
+    {
+      "path": "data/raw/curated-media-expansion-2026-10-20/boulevard-curated/seeds.json",
+      "bytes": 878,
+      "sha256": "457e2488e2090c78caa2acf5e81539481cd0ebbc5c623af250f4cbf1e1cc1346"
+    },
+    {
+      "path": "data/raw/curated-media-expansion-2026-10-20/boulevard-curated/sidecar.json",
+      "bytes": 2583,
+      "sha256": "59ffcd79db4edcc8ab873e2ab457134ae5c62500ba21528cd640f001997cfcc4"
+    },
+    {
+      "path": "data/raw/curated-media-expansion-2026-10-20/boulevard-curated/source-captures/commons-f5528bfc9918a1b0.json",
+      "bytes": 4584,
+      "sha256": "ca2a6a19aef0bfbddff652b82cc43fecb40b9c3bc73611efd17a76490d323206"
+    },
+    {
+      "path": "data/raw/curated-media-expansion-2026-10-20/curated/seeds.json",
+      "bytes": 13431,
+      "sha256": "8af48d1277ccebe6d2d09d52e651833231bdd9f7e48204ee7041ce2f79283701"
+    },
+    {
+      "path": "data/raw/curated-media-expansion-2026-10-20/curated/sidecar.json",
+      "bytes": 40041,
+      "sha256": "87108c2015a517c8ffdc62e01749380c96f3c658ac4097bddfa5c5f611dab513"
+    },
+    {
+      "path": "data/raw/curated-media-expansion-2026-10-20/curated/source-captures/commons-1f35fb52d51851aa.json",
+      "bytes": 64354,
+      "sha256": "9c8d1006262ee648f457fa0ff84e2bf5e1c5e64715c59afb33ba49a823fb47c0"
+    },
+    {
+      "path": "data/raw/curated-media-expansion-2026-10-20/derived-identity-correction.json",
+      "bytes": 931,
+      "sha256": "fa148788e2494d442ed26e66cf83e69ea1fc2e9728e350802b5ca30028332e2b"
+    },
+    {
+      "path": "data/raw/curated-media-expansion-2026-10-20/named-operator-venues.json",
+      "bytes": 17564,
+      "sha256": "49b54a60b0d5315962e70ce590b9db438710d3ae90544fc33a571ddad9b7837e"
+    },
+    {
+      "path": "data/raw/mangrove-astana-bbox.json",
+      "bytes": 1816,
+      "sha256": "b0ca8eb600375ef84b42f80f2e0aee8cdcfd1602d80aeef75b6397bd49d09daf"
+    },
+    {
+      "path": "data/raw/mangrove-astana.json",
+      "bytes": 1602,
+      "sha256": "40abbc5eaafbdb94da759601bff4addaae21da5257862582670238c01ad52ed3"
+    },
+    {
+      "path": "data/raw/mangrove-openapi.json",
+      "bytes": 48654,
+      "sha256": "72c755dc794b90f5bf7cf0f87893c9f157479d0f357529895530924d655c13b8"
+    },
+    {
+      "path": "data/raw/media/category-01711d466917.json",
+      "bytes": 443,
+      "sha256": "874a76f939d13188e9bd05809c962c8fb4ef4fc2f4f111b4e2b6399a605d1b09"
+    },
+    {
+      "path": "data/raw/media/category-02c06f38487f.json",
+      "bytes": 1425,
+      "sha256": "d7414e0ce072375b6deff240c042530f2b212f332c28f8db477803f425c5cb03"
+    },
+    {
+      "path": "data/raw/media/category-18b3d0aaa974.json",
+      "bytes": 1232,
+      "sha256": "062938a9957a4aad5e3be86ef81b4a5dbd51e4eec497b5d2b95dc7379e141a81"
+    },
+    {
+      "path": "data/raw/media/category-2a17a5a0b683.json",
+      "bytes": 648,
+      "sha256": "994a98bad9b1f1504ee365bad15325468e79844e7e269d5bd08012ba0c5fab04"
+    },
+    {
+      "path": "data/raw/media/category-41cc9659bc45.json",
+      "bytes": 2712,
+      "sha256": "ee8c8a974572c1f918aa9e59cb0c93733457233ab54df7211390b273783db88d"
+    },
+    {
+      "path": "data/raw/media/category-4392e56b927a.json",
+      "bytes": 4978,
+      "sha256": "c754ff7d1788300ce1c0ec1f9b7eb860e43358b934902867fbe46b6c631e4885"
+    },
+    {
+      "path": "data/raw/media/category-4836ebdfc0d2.json",
+      "bytes": 662,
+      "sha256": "4b32bce3f371dda9493585641d8812cb9135810a72b51f2a3c35c0522fc03862"
+    },
+    {
+      "path": "data/raw/media/category-509297ef282e.json",
+      "bytes": 1687,
+      "sha256": "f64df3c681716944cf25c93ceeb7a574b30d33d3b9a8a690f65d0dfb47dd86df"
+    },
+    {
+      "path": "data/raw/media/category-51c90228f298.json",
+      "bytes": 774,
+      "sha256": "671b454f309b8465de87cd653ce962b3df67364f5b30f246f37b4ff9451a5540"
+    },
+    {
+      "path": "data/raw/media/category-547566485a2c.json",
+      "bytes": 1504,
+      "sha256": "ea012945af7f60ec4829dcc687d6b2197006adf198b7c170f259d1104c792b8c"
+    },
+    {
+      "path": "data/raw/media/category-63b819c8dffa.json",
+      "bytes": 1027,
+      "sha256": "d7087c5adbba447dd604300bad72a39d3ef32432015998bee9c32c6833379c98"
+    },
+    {
+      "path": "data/raw/media/category-65bad2774aca.json",
+      "bytes": 429,
+      "sha256": "727280fc9ee2fdadfe2a2ced480c6787adfa1900fecaf8b2d81a2e7839fd5765"
+    },
+    {
+      "path": "data/raw/media/category-76752b863a2b.json",
+      "bytes": 10124,
+      "sha256": "19f2a0171e9679a85127ee94de84801e1f206d97e349145c7f70ce2a47e72347"
+    },
+    {
+      "path": "data/raw/media/category-8490af4e124c.json",
+      "bytes": 562,
+      "sha256": "277bcc17f7012cc350db49c974f99424623e99f5fd0e5371f089de277ff2a323"
+    },
+    {
+      "path": "data/raw/media/category-8e75a76007d1.json",
+      "bytes": 3147,
+      "sha256": "948d317ad120c5f0bac955cdda54cb3e6912fe3ad945994f6a695abe5f48bfe9"
+    },
+    {
+      "path": "data/raw/media/category-9fbdf87b0d34.json",
+      "bytes": 1344,
+      "sha256": "a5f3a8974ba5f97f8834a23bf2f8c214e05fa78b98b94f6ffdcab00f37e85fde"
+    },
+    {
+      "path": "data/raw/media/category-a18d38051327.json",
+      "bytes": 691,
+      "sha256": "c96428d8110d5abf93a7cba3df5209d82f9634bc0c4d471e46852776a1a582a2"
+    },
+    {
+      "path": "data/raw/media/category-a81b239d7737.json",
+      "bytes": 15028,
+      "sha256": "1a1beca32cd472c5437f3ca431f9c33955d2d885d7f357bac9643ad05b7e9e04"
+    },
+    {
+      "path": "data/raw/media/category-a99d58f697f4.json",
+      "bytes": 764,
+      "sha256": "78c724e2f6369d4f897f2fc67ac5681c7ba7e67466d5ad8e7d3556e962040a7c"
+    },
+    {
+      "path": "data/raw/media/category-c258595854e7.json",
+      "bytes": 3368,
+      "sha256": "1d9912c4fa3573ca3fca7b412bfe2ba3b569170f6cdfe6094b344e3eb637b4a4"
+    },
+    {
+      "path": "data/raw/media/category-fef2c4d392d6.json",
+      "bytes": 1454,
+      "sha256": "6a04c346442df210e8a15247a13cf4514ec2833bd3bf6718ab75ec46ee21e4de"
+    },
+    {
+      "path": "data/raw/media/commons-0.json",
+      "bytes": 14795,
+      "sha256": "bc93bee94940a977019f1edd60b13b1fb0e8cc0bb78c938bd9b20a4f226356a5"
+    },
+    {
+      "path": "data/raw/media/commons-1.json",
+      "bytes": 14785,
+      "sha256": "358d85bb6e61b1becf97d10db2a39d68c7edb7478c77877a03510eca9f5854c6"
+    },
+    {
+      "path": "data/raw/media/commons-10.json",
+      "bytes": 4821,
+      "sha256": "d5e4093f5409ade0ca7b5ae7c2fe81221888d8d467b14cd479d304fdad7bb60c"
+    },
+    {
+      "path": "data/raw/media/commons-11.json",
+      "bytes": 4821,
+      "sha256": "d5e4093f5409ade0ca7b5ae7c2fe81221888d8d467b14cd479d304fdad7bb60c"
+    },
+    {
+      "path": "data/raw/media/commons-12.json",
+      "bytes": 13924,
+      "sha256": "18a11dd06a108ee99eb3f12b5b24a5be97c95fda2386c80549516b46fffc4e3c"
+    },
+    {
+      "path": "data/raw/media/commons-13.json",
+      "bytes": 13418,
+      "sha256": "a839fdcb57663673e7c22c5395f9aa8b294a9d4fdbb6ce8265024577be4720dd"
+    },
+    {
+      "path": "data/raw/media/commons-14.json",
+      "bytes": 15050,
+      "sha256": "72f2f176c740ce861c5efb3c5238e57bc8f82e6f55914be465e011f45edd4867"
+    },
+    {
+      "path": "data/raw/media/commons-15.json",
+      "bytes": 15493,
+      "sha256": "165ecf0e9313168bd203357e1cc4ae1530f12098978136505b8ded4250715382"
+    },
+    {
+      "path": "data/raw/media/commons-16.json",
+      "bytes": 15280,
+      "sha256": "24344f2ad2f94b0bcfb2629e369ea61af2b27e32cd7e21f801671c9977503cbf"
+    },
+    {
+      "path": "data/raw/media/commons-17.json",
+      "bytes": 17640,
+      "sha256": "fbbeb8e14749ac525a871efc628da97af8b0af8987ce4f4b6674a42906f8b6e4"
+    },
+    {
+      "path": "data/raw/media/commons-18.json",
+      "bytes": 19216,
+      "sha256": "3799bf01c1043b6f0639a61daa582c709334ec68e87a5fb5e41270274af35447"
+    },
+    {
+      "path": "data/raw/media/commons-2.json",
+      "bytes": 15813,
+      "sha256": "413b140b65c6e12187e19cbbc7be267fec1a7311670ff9a9052508cce05e283a"
+    },
+    {
+      "path": "data/raw/media/commons-3.json",
+      "bytes": 20118,
+      "sha256": "e010995212ed027d80ad23bf66251c018d7d1e678a4c9f0f475970185e492b83"
+    },
+    {
+      "path": "data/raw/media/commons-4.json",
+      "bytes": 14700,
+      "sha256": "ce2c72717897fe393dd129e8026b3bbeca8bfb68e1920f4170953916c2ab1119"
+    },
+    {
+      "path": "data/raw/media/commons-5.json",
+      "bytes": 14210,
+      "sha256": "9b463b1cc6a838f5aa982264b4809b2aedbf1ac2e9fab193da4ba5945bf4eecd"
+    },
+    {
+      "path": "data/raw/media/commons-6.json",
+      "bytes": 14934,
+      "sha256": "aa2eb0150878be8703c81a206dda64e60db65e429a8faf5f76290f39cf299920"
+    },
+    {
+      "path": "data/raw/media/commons-7.json",
+      "bytes": 14986,
+      "sha256": "16a64db4e9a78d2fba8177e77a75e23dfce91bf9ae43f80b3d152f6ebbaca4d0"
+    },
+    {
+      "path": "data/raw/media/commons-8.json",
+      "bytes": 15639,
+      "sha256": "5d0aea85d15d4f5ff402cfbe475422415c7b7bcc24b587035a9fc10f73ed5d07"
+    },
+    {
+      "path": "data/raw/media/commons-9.json",
+      "bytes": 18274,
+      "sha256": "66169219bd649307115be766413aa4f6df23ec8a19acc5d709936b48d338fdc4"
+    },
+    {
+      "path": "data/raw/media/discovery-category-01711d466917.json",
+      "bytes": 443,
+      "sha256": "874a76f939d13188e9bd05809c962c8fb4ef4fc2f4f111b4e2b6399a605d1b09"
+    },
+    {
+      "path": "data/raw/media/discovery-category-02c06f38487f.json",
+      "bytes": 1425,
+      "sha256": "d7414e0ce072375b6deff240c042530f2b212f332c28f8db477803f425c5cb03"
+    },
+    {
+      "path": "data/raw/media/discovery-category-07eb94927b14.json",
+      "bytes": 2772,
+      "sha256": "dca1be5b961d8668e2a7873ab98cd0fcf9ccb37bfc246e052d6251c846a5a99f"
+    },
+    {
+      "path": "data/raw/media/discovery-category-100e20f218ae.json",
+      "bytes": 1382,
+      "sha256": "d81a41ccbf6fda3c82a86439f4ce584bd29c26eceeea3a22eeeb1310bc67acf9"
+    },
+    {
+      "path": "data/raw/media/discovery-category-18b3d0aaa974.json",
+      "bytes": 1232,
+      "sha256": "062938a9957a4aad5e3be86ef81b4a5dbd51e4eec497b5d2b95dc7379e141a81"
+    },
+    {
+      "path": "data/raw/media/discovery-category-20d13af56dfe.json",
+      "bytes": 69,
+      "sha256": "fefb54027d90cb9a3e7f30230ba27b551656c997620494848a0e0516e49b56fb"
+    },
+    {
+      "path": "data/raw/media/discovery-category-254895ebc9e3.json",
+      "bytes": 295,
+      "sha256": "999cf31639c4ab3574093efcd75a2a113c895f7308a345e4d91c2e966ac11d32"
+    },
+    {
+      "path": "data/raw/media/discovery-category-2a17a5a0b683.json",
+      "bytes": 648,
+      "sha256": "994a98bad9b1f1504ee365bad15325468e79844e7e269d5bd08012ba0c5fab04"
+    },
+    {
+      "path": "data/raw/media/discovery-category-41cc9659bc45.json",
+      "bytes": 2712,
+      "sha256": "ee8c8a974572c1f918aa9e59cb0c93733457233ab54df7211390b273783db88d"
+    },
+    {
+      "path": "data/raw/media/discovery-category-4836ebdfc0d2.json",
+      "bytes": 662,
+      "sha256": "4b32bce3f371dda9493585641d8812cb9135810a72b51f2a3c35c0522fc03862"
+    },
+    {
+      "path": "data/raw/media/discovery-category-4f34280ed46b.json",
+      "bytes": 498,
+      "sha256": "e33bf0490be3d11a4d308822b6c2ee2ae60a35d774f461e0d6b80437d78c20fb"
+    },
+    {
+      "path": "data/raw/media/discovery-category-509297ef282e.json",
+      "bytes": 1687,
+      "sha256": "f64df3c681716944cf25c93ceeb7a574b30d33d3b9a8a690f65d0dfb47dd86df"
+    },
+    {
+      "path": "data/raw/media/discovery-category-51c90228f298.json",
+      "bytes": 774,
+      "sha256": "671b454f309b8465de87cd653ce962b3df67364f5b30f246f37b4ff9451a5540"
+    },
+    {
+      "path": "data/raw/media/discovery-category-63b819c8dffa.json",
+      "bytes": 1027,
+      "sha256": "d7087c5adbba447dd604300bad72a39d3ef32432015998bee9c32c6833379c98"
+    },
+    {
+      "path": "data/raw/media/discovery-category-65bad2774aca.json",
+      "bytes": 429,
+      "sha256": "727280fc9ee2fdadfe2a2ced480c6787adfa1900fecaf8b2d81a2e7839fd5765"
+    },
+    {
+      "path": "data/raw/media/discovery-category-68af7492c93f.json",
+      "bytes": 524,
+      "sha256": "1ec0f8ba50764e1511dbdcc6aad4f86d6a53fa86ec1d4a05a82bc16623f53bb8"
+    },
+    {
+      "path": "data/raw/media/discovery-category-6b4f4a397040.json",
+      "bytes": 719,
+      "sha256": "1f5bfffab33ae62cf0591d9452ab5689e51665ce931f5e826e65a1cec0045180"
+    },
+    {
+      "path": "data/raw/media/discovery-category-72278e7c8b9a.json",
+      "bytes": 294,
+      "sha256": "8d262b29dab329883989c5a0722461c7501e98f100e77a36327c6d897feda68e"
+    },
+    {
+      "path": "data/raw/media/discovery-category-759f268e1d1b.json",
+      "bytes": 524,
+      "sha256": "eb1e910cfbfbb82edcfa9bd12296704d92b98f44536926144c47730fc3f9f97d"
+    },
+    {
+      "path": "data/raw/media/discovery-category-75ff381a1af1.json",
+      "bytes": 925,
+      "sha256": "fca75d6df030c5e086b8b239da787b096198bed9755f056c15f7e2f4baef2014"
+    },
+    {
+      "path": "data/raw/media/discovery-category-76752b863a2b.json",
+      "bytes": 10124,
+      "sha256": "19f2a0171e9679a85127ee94de84801e1f206d97e349145c7f70ce2a47e72347"
+    },
+    {
+      "path": "data/raw/media/discovery-category-8103aac23b8f.json",
+      "bytes": 985,
+      "sha256": "5e5dd3153cbc3f2eea3c9648a1e22608ba62e689ec26ee5601778d552a0e041a"
+    },
+    {
+      "path": "data/raw/media/discovery-category-8490af4e124c.json",
+      "bytes": 562,
+      "sha256": "277bcc17f7012cc350db49c974f99424623e99f5fd0e5371f089de277ff2a323"
+    },
+    {
+      "path": "data/raw/media/discovery-category-8e75a76007d1.json",
+      "bytes": 3147,
+      "sha256": "948d317ad120c5f0bac955cdda54cb3e6912fe3ad945994f6a695abe5f48bfe9"
+    },
+    {
+      "path": "data/raw/media/discovery-category-9fbdf87b0d34.json",
+      "bytes": 1344,
+      "sha256": "a5f3a8974ba5f97f8834a23bf2f8c214e05fa78b98b94f6ffdcab00f37e85fde"
+    },
+    {
+      "path": "data/raw/media/discovery-category-a18d38051327.json",
+      "bytes": 691,
+      "sha256": "c96428d8110d5abf93a7cba3df5209d82f9634bc0c4d471e46852776a1a582a2"
+    },
+    {
+      "path": "data/raw/media/discovery-category-a81b239d7737.json",
+      "bytes": 15028,
+      "sha256": "1a1beca32cd472c5437f3ca431f9c33955d2d885d7f357bac9643ad05b7e9e04"
+    },
+    {
+      "path": "data/raw/media/discovery-category-b969260125e5.json",
+      "bytes": 1557,
+      "sha256": "2c50ad21aa98de434c018e0719c1666fa486041d6ad7929613aef98f1576ed00"
+    },
+    {
+      "path": "data/raw/media/discovery-category-c1ff1ad290a8.json",
+      "bytes": 309,
+      "sha256": "1776b394d72459e5f1d7db97899ad6e4e9b8291fa87b00f5acac47a6042c6b64"
+    },
+    {
+      "path": "data/raw/media/discovery-category-c258595854e7.json",
+      "bytes": 3368,
+      "sha256": "1d9912c4fa3573ca3fca7b412bfe2ba3b569170f6cdfe6094b344e3eb637b4a4"
+    },
+    {
+      "path": "data/raw/media/discovery-category-d163393bef48.json",
+      "bytes": 633,
+      "sha256": "9f99490b9fa1075dc94a4dd58ca91eab0d05a993c63946f367a46dd9ff93870f"
+    },
+    {
+      "path": "data/raw/media/discovery-category-d2d85e3299f2.json",
+      "bytes": 508,
+      "sha256": "282a9c01d99e63d82fae3db8d43e36f51d73c3f2a88345d3474e05e8fd0d85b1"
+    },
+    {
+      "path": "data/raw/media/discovery-category-e0a77df7b6e4.json",
+      "bytes": 2420,
+      "sha256": "e30c544fa126b4b234db3a2024a73bd39631605068ed4e2c51f12ae06226eb51"
+    },
+    {
+      "path": "data/raw/media/discovery-category-e52b388f3f33.json",
+      "bytes": 764,
+      "sha256": "e5759581c98a0f0135672a62bdffa3b5e5962ade9c136ccb2983913d68904d40"
+    },
+    {
+      "path": "data/raw/media/discovery-category-f057bea59f01.json",
+      "bytes": 1486,
+      "sha256": "3b2b6413c7c2d1f7877661694b3f009f6de5d0cd4bbb01a90686c55577f15655"
+    },
+    {
+      "path": "data/raw/media/discovery-category-fef2c4d392d6.json",
+      "bytes": 1454,
+      "sha256": "6a04c346442df210e8a15247a13cf4514ec2833bd3bf6718ab75ec46ee21e4de"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-0.json",
+      "bytes": 12029,
+      "sha256": "893fbc4be01c4d82554d361100b4de0bc55d2fddd41833d85131677a331a0691"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-1.json",
+      "bytes": 11798,
+      "sha256": "16b780cea2c7a0549cf52d28b9bb9b762d2a0948ea340661ad6036c09274cebf"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-10.json",
+      "bytes": 8948,
+      "sha256": "1907f1195b9ac4c99ab1c7b9e8f345bc7a902b33416b622bea91929cb0b40d90"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-11.json",
+      "bytes": 6434,
+      "sha256": "5f21bd6efde1edcb527fc167431be672fa86ab7de1fc0bf15bcd704c8da83e67"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-12.json",
+      "bytes": 6457,
+      "sha256": "5fb4a90626510c878968d41f025d3d78889c7e76786f649f0e48a147df24aafa"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-13.json",
+      "bytes": 8420,
+      "sha256": "c5a69cb83c2cac5faf28f67f969320ff1e4fa251178c27ee7ee20567fcb10fa8"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-14.json",
+      "bytes": 8356,
+      "sha256": "8482bdde55617d101398c8da34fccaf965cb69e595bea7bc51ccd5cd533c8b3e"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-15.json",
+      "bytes": 9392,
+      "sha256": "fea660697a3a09c9037c00e575ff5d138829bb081bac7472e3e437f20fce6b44"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-16.json",
+      "bytes": 12557,
+      "sha256": "98f0b48d69a837976edf1ac228b62b58cc4f0db2ca0ce390faf372bb54dc5497"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-17.json",
+      "bytes": 11991,
+      "sha256": "c9c499b1bb41013411e74b40c7278c67b96e7d1d1b538634fda9cd511d010ca9"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-18.json",
+      "bytes": 8561,
+      "sha256": "910beeb47058451d2c363a1883158cc180f03c0562880a61c27ca4086e6ae354"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-19.json",
+      "bytes": 12423,
+      "sha256": "15e5fbccef1e2c8e5b14e262b1ffb6bc0465da2d6152203f4c3cb526bd87106b"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-2.json",
+      "bytes": 14203,
+      "sha256": "55b2e5e742a0af6428d5942d7c757ac369dc9c4cbd71fd51537c1a738195a956"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-20.json",
+      "bytes": 12444,
+      "sha256": "4a9d68062d0d388fc746934ba81cbe2827361ef3ae96dee83b9b4964b0c1a8e4"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-21.json",
+      "bytes": 12766,
+      "sha256": "32cf84c7beb5d793dd451678c6b71149156b7204423443530ce65eeb4d1dab5d"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-22.json",
+      "bytes": 15152,
+      "sha256": "7f43c7414c8bc53a46cac1634178676be844916947f24c00e27d79ea592c1420"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-23.json",
+      "bytes": 14409,
+      "sha256": "94b91f65e61965af636936339806ead5b18fd1b596ec18b6020b44a197814bec"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-24.json",
+      "bytes": 14213,
+      "sha256": "5247b902069e84b8367e88fd154838a7e5cb28a5dc6dfa142d43f811e323aa9a"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-25.json",
+      "bytes": 15373,
+      "sha256": "9ff4d81fd327eac357f2900f6ef62c2cc8425f49be16ee136a74f4f9765d4e73"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-26.json",
+      "bytes": 14496,
+      "sha256": "cfc4131b9aeeaf21883cf46743496d1deb3b9fc77d5bc6a2d091d55db3dccef9"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-27.json",
+      "bytes": 14411,
+      "sha256": "f1da2861283dce7a9267bb35fe2d650af6c4b5105a148862def9f9650588f2ce"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-28.json",
+      "bytes": 14068,
+      "sha256": "fab5fbbbf6625779b0116aeaf4f0f2d1ec6901c22293ed93f60278ae700d3dd4"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-29.json",
+      "bytes": 16209,
+      "sha256": "d9e119cbb5a004860bb261d51a6705e4b440e6c46c41d8ed79decfa92cbcd95c"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-3.json",
+      "bytes": 12033,
+      "sha256": "00d94238bf2b0633021224c54db7dacc309c2440f7ba07a3b0485e1194be6727"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-30.json",
+      "bytes": 4821,
+      "sha256": "d5e4093f5409ade0ca7b5ae7c2fe81221888d8d467b14cd479d304fdad7bb60c"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-4.json",
+      "bytes": 14685,
+      "sha256": "4f7acfaf8440559674b3ff87a8eb165d27cc8e8b568fd74fe5580db8f5abc924"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-5.json",
+      "bytes": 9534,
+      "sha256": "b35636a2009e86458707fa47d878d4b56f90e84812d950ccb19adb76582f6bd5"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-6.json",
+      "bytes": 9235,
+      "sha256": "0741c4521448d9d78ad00d121c63d257239295ad49f8f1c6b5b58a41ade02042"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-7.json",
+      "bytes": 8934,
+      "sha256": "00370da18a14e747e3eccb6acbb6961e49088c47c0646a6e1afae085bbc79b17"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-8.json",
+      "bytes": 11546,
+      "sha256": "40f941092a252381c64940240cdedd3d14b2898f03e37406369cc2e135f2878b"
+    },
+    {
+      "path": "data/raw/media/discovery-commons-9.json",
+      "bytes": 8963,
+      "sha256": "6703256ee2e2c1f61ff4f998d5a7650665cb09062f74fb79a5653a811354f0b7"
+    },
+    {
+      "path": "data/raw/media/discovery-discovered-entities-0.json",
+      "bytes": 292865,
+      "sha256": "d3b276ba0a97d75e7f2c927409220bee387fafc16e36a155d64a1fe291aeaa41"
+    },
+    {
+      "path": "data/raw/media/discovery-discovered-entities-1.json",
+      "bytes": 602291,
+      "sha256": "bbd88557489aa88739d46348e512e110b974c56978d49a58250bd96b7c6ce379"
+    },
+    {
+      "path": "data/raw/media/discovery-discovered-entities-2.json",
+      "bytes": 456003,
+      "sha256": "06f3c444463cf04a7e6b1e96ba5e108e02b34f8182ade1ef6d0426d1f9f3b86b"
+    },
+    {
+      "path": "data/raw/media/discovery-discovered-entities-3.json",
+      "bytes": 290299,
+      "sha256": "079960e7a7981a49656bc672a341a5e2bd74b6cdbd026236ca75b53acd6615c2"
+    },
+    {
+      "path": "data/raw/media/national-museum-covers.json",
+      "bytes": 9567,
+      "sha256": "4effae2721aa3577f75872ff107a7c1e5d63756af122fa42a1e9a41c4d3b6d20"
+    },
+    {
+      "path": "data/raw/media/national-museum-interior-covers.json",
+      "bytes": 19779,
+      "sha256": "fdb118de93e721208f1782c05fa6f1c6c214c84ac87be6bc461e0ab6b3c057a9"
+    },
+    {
+      "path": "data/raw/media/wikidata-0.json",
+      "bytes": 711548,
+      "sha256": "28500ff6aebdba084ab28cb0893f24b23d3c72ef157370f0b71f5ec5944d8f4f"
+    },
+    {
+      "path": "data/raw/media-discovery/commons-geosearch.json",
+      "bytes": 440,
+      "sha256": "9f3f17ddf7c4e50f3dd45c29a3092a472062705a15c5bfd75cdf82e10993f3a2"
+    },
+    {
+      "path": "data/raw/media-discovery/discovered-entities-0.json",
+      "bytes": 292865,
+      "sha256": "d3b276ba0a97d75e7f2c927409220bee387fafc16e36a155d64a1fe291aeaa41"
+    },
+    {
+      "path": "data/raw/media-discovery/discovered-entities-1.json",
+      "bytes": 602291,
+      "sha256": "bbd88557489aa88739d46348e512e110b974c56978d49a58250bd96b7c6ce379"
+    },
+    {
+      "path": "data/raw/media-discovery/discovered-entities-2.json",
+      "bytes": 456003,
+      "sha256": "06f3c444463cf04a7e6b1e96ba5e108e02b34f8182ade1ef6d0426d1f9f3b86b"
+    },
+    {
+      "path": "data/raw/media-discovery/discovered-entities-3.json",
+      "bytes": 290299,
+      "sha256": "079960e7a7981a49656bc672a341a5e2bd74b6cdbd026236ca75b53acd6615c2"
+    },
+    {
+      "path": "data/raw/media-discovery/entity-classes.json",
+      "bytes": 23295,
+      "sha256": "802bb5640cb6f640488affea3ccc2e9b85b455d4772f7890ae3cd6e19c0f1ed8"
+    },
+    {
+      "path": "data/raw/media-discovery/mangrove-astana-2026-10-20.json",
+      "bytes": 1816,
+      "sha256": "b0ca8eb600375ef84b42f80f2e0aee8cdcfd1602d80aeef75b6397bd49d09daf"
+    },
+    {
+      "path": "data/raw/media-discovery/operator-source-audit.json",
+      "bytes": 53655,
+      "sha256": "c76c6c34ff1bf8f532e048439f319fe765710ac68793e94a51e03b1e56d26984"
+    },
+    {
+      "path": "data/raw/media-discovery/reviews-sidecar.json",
+      "bytes": 2710,
+      "sha256": "cb373e72108d367089e5607b5043da7fde466043a4059aa651c43f262e6d39f9"
+    },
+    {
+      "path": "data/raw/media-discovery/wikipedia-en.json",
+      "bytes": 19344,
+      "sha256": "2c794752174558bef3f56100a5535b4e8db97f5369320cddc9d1ce8cad92aca7"
+    },
+    {
+      "path": "data/raw/media-discovery/wikipedia-kk-0.json",
+      "bytes": 435,
+      "sha256": "8add4412eb9cc9b4fb1aae60a58d6bedcdd6b8649c9f401f7c1fc1545ce2caed"
+    },
+    {
+      "path": "data/raw/media-discovery/wikipedia-ru-0.json",
+      "bytes": 30141,
+      "sha256": "b986dafee9f3904e467ee9869ac59c6733095478b1644f77e010b52ebc3804e7"
+    },
+    {
+      "path": "data/raw/media-discovery/wikipedia-ru-1.json",
+      "bytes": 17355,
+      "sha256": "2dffb8a2b721bc640ae94cc2ab5377e43b2df4ce12ac81a0a7b85d23844f61ff"
+    },
+    {
+      "path": "data/raw/media-discovery/wikipedia-ru-2.json",
+      "bytes": 435,
+      "sha256": "b7434bba88d3019474e0a2316b1440f873dd24abccc2eed6d9385e4bb3e76e87"
+    },
+    {
+      "path": "data/raw/media-upgrade-evidence.json",
+      "bytes": 185393,
+      "sha256": "1957b2ceb1654ef73065513fc19d9b0c5fb519eac9f67190c770c2983399a51e"
+    },
+    {
+      "path": "data/raw/municipal-culture-service-metadata.json",
+      "bytes": 2978,
+      "sha256": "36490416e7bad993bb496359c3ceac1335a94b6ddf82ebce0a97f803148ee59d"
+    },
+    {
+      "path": "data/raw/municipal-source-api-audit.json",
+      "bytes": 9786,
+      "sha256": "2362934547dbe6ff86b1efaacc36528ce947db963db1294d2e2903178f396e02"
+    },
+    {
+      "path": "data/raw/operator-corrections-2026-10-20.json",
+      "bytes": 1487,
+      "sha256": "b2bd74b70fdee51e763422b6f335fed1941a8d728be66e33d5621c6900b5a1dc"
+    },
+    {
+      "path": "data/raw/operator-source-audit-2026-10-20.json",
+      "bytes": 53655,
+      "sha256": "c76c6c34ff1bf8f532e048439f319fe765710ac68793e94a51e03b1e56d26984"
+    },
+    {
+      "path": "data/raw/operator-source-excerpts.json",
+      "bytes": 1195,
+      "sha256": "c258fd5cc0ac613bb98eb1f77807efc9e73a07b3d69c6b615dcf70b102d538e4"
+    },
+    {
+      "path": "data/raw/overture-astana-places.json",
+      "bytes": 17406000,
+      "sha256": "7d52b7db90eddcfccfbc9f4862329be9128b5d32b5b6c4f75996e96f8c2b11f8"
+    },
+    {
+      "path": "data/raw/overture-entity-resolution.json",
+      "bytes": 2109758,
+      "sha256": "14f117c147aaf45c300dc3a11c7b322e19b934edaa79d98c706c0ee015e2216b"
+    },
+    {
+      "path": "data/raw/poi-expansion-research-audit.json",
+      "bytes": 3000,
+      "sha256": "405ba5e950f24e4e3302bee4305cc228b84abaa4bc3c960ed16523e491955bc2"
+    },
+    {
+      "path": "data/raw/wikidata-entity-resolution.json",
+      "bytes": 10054,
+      "sha256": "ff89dec4e78e7cf82772d0e0e92a49ee9cf2b5053fd1fb6150c62336a231fc95"
+    }
+  ],
+  "individual_content_licenses": {
+    "osm_database": "ODbL-1.0",
+    "overture_places": "Per-source CDLA-Permissive-2.0, Apache-2.0 or CC0-1.0; source.original_sources and source.licenses retain exact licenses. OSM-derived combined database remains ODbL; original permissive source rights are retained.",
+    "wikidata_descriptions": "CC0-1.0",
+    "commons_photos": "Per-file license and author in data/photo-attributions.json",
+    "mangrove_reviews": "Per-review CC-BY-4.0 or CC-BY-SA-4.0 in data/review-attributions.json"
+  }
+}

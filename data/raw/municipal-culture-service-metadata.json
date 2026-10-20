@@ -1,0 +1,62 @@
+{
+  "hasVersionedData": false,
+  "supportsDisconnectedEditing": false,
+  "supportedQueryFormats": "JSON",
+  "currentVersion": 10.81,
+  "serviceDescription": "",
+  "maxRecordCount": 2000,
+  "capabilities": "Query",
+  "description": "",
+  "copyrightText": "",
+  "spatialReference": {
+    "wkt": "PROJCS[\"Astana\",GEOGCS[\"GCS_WGS_1984\",DATUM[\"D_WGS_1984\",SPHEROID[\"WGS_1984\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Local\"],PARAMETER[\"False_Easting\",0.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Scale_Factor\",1.00006382434499],PARAMETER[\"Azimuth\",-0.451110818],PARAMETER[\"Longitude_Of_Center\",71.42142501666659],PARAMETER[\"Latitude_Of_Center\",51.16971010555549],UNIT[\"Meter\",1.0]]"
+  },
+  "fullExtent": {
+    "xmin": -5772.659513248131,
+    "ymin": -9012.74893692322,
+    "xmax": 7008.093254188076,
+    "ymax": 3186.8644228987396,
+    "spatialReference": {
+      "wkt": "PROJCS[\"Astana\",GEOGCS[\"GCS_WGS_1984\",DATUM[\"D_WGS_1984\",SPHEROID[\"WGS_1984\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Local\"],PARAMETER[\"False_Easting\",0.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Scale_Factor\",1.00006382434499],PARAMETER[\"Azimuth\",-0.451110818],PARAMETER[\"Longitude_Of_Center\",71.42142501666659],PARAMETER[\"Latitude_Of_Center\",51.16971010555549],UNIT[\"Meter\",1.0]]"
+    }
+  },
+  "initialExtent": {
+    "xmin": -4691.963447815353,
+    "ymin": -7253.45206769695,
+    "xmax": 9271.721740679166,
+    "ymax": 3474.90291030301,
+    "spatialReference": {
+      "wkt": "PROJCS[\"Astana\",GEOGCS[\"GCS_WGS_1984\",DATUM[\"D_WGS_1984\",SPHEROID[\"WGS_1984\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Local\"],PARAMETER[\"False_Easting\",0.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Scale_Factor\",1.00006382434499],PARAMETER[\"Azimuth\",-0.451110818],PARAMETER[\"Longitude_Of_Center\",71.42142501666659],PARAMETER[\"Latitude_Of_Center\",51.16971010555549],UNIT[\"Meter\",1.0]]"
+    }
+  },
+  "units": "esriMeters",
+  "allowGeometryUpdates": true,
+  "enableZDefaults": true,
+  "zDefault": 0,
+  "syncEnabled": false,
+  "supportsApplyEditsWithGlobalIds": false,
+  "maxViewsCount": 20,
+  "allowUpdateWithoutMValues": true,
+  "editorTrackingInfo": {
+    "enableEditorTracking": false,
+    "enableOwnershipAccessControl": false,
+    "allowOthersToUpdate": true,
+    "allowOthersToDelete": false,
+    "allowOthersToQuery": true
+  },
+  "supportsReturnDeleteResults": true,
+  "isLocationTrackingService": false,
+  "hasSyncEnabledViews": false,
+  "hasViews": false,
+  "supportsAppend": true,
+  "supportedAppendFormats": "shapefile,featureCollection",
+  "layers": [
+    {
+      "id": 7,
+      "name": "Объекты культуры",
+      "serviceItemId": "a7613a9892ed46ebbe5d8d8077d6c225"
+    }
+  ],
+  "tables": [],
+  "serviceItemId": "a7613a9892ed46ebbe5d8d8077d6c225"
+}

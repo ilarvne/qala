@@ -1,0 +1,32 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "categorymembers": [
+      {
+        "pageid": 62507059,
+        "ns": 6,
+        "title": "File:Barys Arena 2017-09-17.jpg"
+      },
+      {
+        "pageid": 62506968,
+        "ns": 6,
+        "title": "File:Barys Arena Panorama 2017-09-15.jpg"
+      },
+      {
+        "pageid": 42334514,
+        "ns": 6,
+        "title": "File:Barys Arena.jpg"
+      },
+      {
+        "pageid": 175924344,
+        "ns": 6,
+        "title": "File:Rustam Minnikhanov on Expo 2017 32.jpg"
+      },
+      {
+        "pageid": 175924352,
+        "ns": 6,
+        "title": "File:Rustam Minnikhanov on Expo 2017 34.jpg"
+      }
+    ]
+  }
+}

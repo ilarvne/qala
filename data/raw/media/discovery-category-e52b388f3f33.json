@@ -1,0 +1,32 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "categorymembers": [
+      {
+        "pageid": 112773877,
+        "ns": 6,
+        "title": "File:ISS023-E-42356 - View of Kazakhstan (cropped).jpg"
+      },
+      {
+        "pageid": 111418423,
+        "ns": 6,
+        "title": "File:ISS023-E-42356 - View of Kazakhstan.jpg"
+      },
+      {
+        "pageid": 112767559,
+        "ns": 6,
+        "title": "File:ISS024-E-15446 - View of Kazakhstan (cropped).jpg"
+      },
+      {
+        "pageid": 111447329,
+        "ns": 6,
+        "title": "File:ISS024-E-15446 - View of Kazakhstan.jpg"
+      },
+      {
+        "pageid": 125108638,
+        "ns": 6,
+        "title": "File:Астана, Малый Талдыколь, сферопанорама.jpg"
+      }
+    ]
+  }
+}

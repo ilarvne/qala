@@ -1,0 +1,18 @@
+[
+  {"code":"en","name":"English","first_message":"Hello, I'm Qala, an AI city companion for Astana. Which landmark are you starting from, and how many minutes do you have?"},
+  {"code":"ru","name":"Русский","first_message":"Здравствуйте! Я Qala, ИИ-помощник для прогулок по Астане. Возле какого ориентира вы находитесь и сколько у вас времени?"},
+  {"code":"kk","name":"Қазақша","first_message":"Сәлеметсіз бе! Мен Qala, Астанада серуендеуге көмектесетін жасанды интеллект көмекшісімін. Қай нысанның жанындасыз және қанша уақытыңыз бар?"},
+  {"code":"de","name":"Deutsch","first_message":"Hallo, ich bin Qala, ein KI-Assistent für Spaziergänge in Astana. In der Nähe welcher Sehenswürdigkeit sind Sie, und wie viel Zeit haben Sie?"},
+  {"code":"fr","name":"Français","first_message":"Bonjour, je suis Qala, un assistant IA pour vos promenades à Astana. Près de quel point de repère êtes-vous et de combien de temps disposez-vous ?"},
+  {"code":"es","name":"Español","first_message":"Hola, soy Qala, un asistente de inteligencia artificial para pasear por Astaná. ¿Cerca de qué lugar se encuentra y de cuánto tiempo dispone?"},
+  {"code":"zh","name":"中文","first_message":"您好，我是Qala，阿斯塔纳城市漫步的人工智能助手。您现在在哪个地标附近？有多少时间可以游览？"},
+  {"code":"ar","name":"العربية","first_message":"مرحباً، أنا Qala، مساعد ذكاء اصطناعي للتنزه في أستانا. بالقرب من أي معلم أنت الآن، وكم من الوقت لديك؟"},
+  {"code":"tr","name":"Türkçe","first_message":"Merhaba, ben Astana gezileri için yapay zekâ asistanınız Qala. Şu anda hangi simge yapının yakınındasınız ve ne kadar zamanınız var?"},
+  {"code":"hi","name":"हिन्दी","first_message":"नमस्ते, मैं Qala हूँ, अस्ताना में घूमने के लिए आपका एआई सहायक। आप अभी किस प्रसिद्ध जगह के पास हैं और आपके पास कितना समय है?"},
+  {"code":"ja","name":"日本語","first_message":"こんにちは。アスタナの街歩きをお手伝いするAI、Qalaです。今はどの目印の近くにいますか？どのくらい時間がありますか？"},
+  {"code":"ko","name":"한국어","first_message":"안녕하세요. 아스타나 산책을 도와드리는 AI 도우미 Qala입니다. 지금 어느 명소 근처에 계시며, 시간이 얼마나 있으신가요?"},
+  {"code":"uk","name":"Українська","first_message":"Вітаю! Я Qala, ШІ-помічник для прогулянок Астаною. Біля якого орієнтира ви зараз і скільки маєте часу?"},
+  {"code":"it","name":"Italiano","first_message":"Buongiorno, sono Qala, un assistente di intelligenza artificiale per passeggiare ad Astana. Vicino a quale punto di riferimento si trova e quanto tempo ha a disposizione?"},
+  {"code":"ky","name":"Кыргызча","first_message":"Саламатсызбы! Мен Qala, Астанада сейилдөөгө жардам берген жасалма интеллект жардамчысымын. Азыр кайсы белгилүү жайдын жанындасыз жана канча убактыңыз бар?"},
+  {"code":"az","name":"Azərbaycanca","first_message":"Salam! Mən Qala, Astanada gəzinti üçün süni intellekt köməkçinizəm. Hazırda hansı tanınmış yerin yaxınlığındasınız və nə qədər vaxtınız var?"}
+]

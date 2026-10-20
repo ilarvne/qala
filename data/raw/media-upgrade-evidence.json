@@ -1,0 +1,5172 @@
+{
+  "schema_version": 1,
+  "observed_at": "2026-10-20T15:07:09.414374+00:00",
+  "source_dataset_sha256": "df802477596a1b891842020ec06e714bcc4fdc5f485e50d06c77c3bbad605220",
+  "pois": {
+    "osm-way-24805340": {
+      "wikidata": "Q104864810"
+    },
+    "osm-way-762780007": {
+      "photos": [],
+      "image": null
+    },
+    "osm-relation-16002498": {
+      "photos": [
+        {
+          "url": "/photos/0ad908ad5cb89c0e5489.png",
+          "thumbnail_url": "/photos/0ad908ad5cb89c0e5489.png",
+          "source_url": "https://commons.wikimedia.org/wiki/File:%D0%96%D0%B5%D1%80%D2%B1%D0%B9%D1%8B%D2%9B_%D1%81%D0%B0%D1%8F%D0%B1%D0%B0%D2%93%D1%8B.png",
+          "title": "Жерұйық саябағы.png",
+          "author": "Шалкер Гам",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Шалкер Гам · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 1863,
+          "height": 908,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/%D0%96%D0%B5%D1%80%D2%B1%D0%B9%D1%8B%D2%9B_%D1%81%D0%B0%D1%8F%D0%B1%D0%B0%D2%93%D1%8B.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/%D0%96%D0%B5%D1%80%D2%B1%D0%B9%D1%8B%D2%9B_%D1%81%D0%B0%D1%8F%D0%B1%D0%B0%D2%93%D1%8B.png/1280px-%D0%96%D0%B5%D1%80%D2%B1%D0%B9%D1%8B%D2%9B_%D1%81%D0%B0%D1%8F%D0%B1%D0%B0%D2%93%D1%8B.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/0ad908ad5cb89c0e5489.png",
+      "wikidata": "Q120868819"
+    },
+    "osm-way-240376673": {
+      "wikidata": "Q25502203"
+    },
+    "osm-way-240873345": {
+      "photos": [
+        {
+          "url": "/photos/f64bb053cde8fe2d695f.jpg",
+          "thumbnail_url": "/photos/f64bb053cde8fe2d695f.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Astana_Palace_of_Independence.jpg",
+          "title": "Astana Palace of Independence.jpg",
+          "author": "Jontycrane",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Jontycrane · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 3936,
+          "height": 2624,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Astana_Palace_of_Independence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Astana_Palace_of_Independence.jpg/1280px-Astana_Palace_of_Independence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/f64bb053cde8fe2d695f.jpg"
+    },
+    "overture-e2027d7d-34f1-4286-891e-d036d220db4b": {
+      "photos": [
+        {
+          "url": "/photos/43be68de6b80aed02cb2.jpg",
+          "thumbnail_url": "/photos/43be68de6b80aed02cb2.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Astana_Concert_Hall.jpg",
+          "title": "Astana Concert Hall.jpg",
+          "author": "Yakov Fedorov",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Yakov Fedorov · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 7952,
+          "height": 5304,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Astana_Concert_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Astana_Concert_Hall.jpg/1280px-Astana_Concert_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "url": "/photos/471b8a9b8b77a2a0385c.jpg",
+          "thumbnail_url": "/photos/471b8a9b8b77a2a0385c.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Congress_Hall_Astana.jpg",
+          "title": "Congress Hall Astana.jpg",
+          "author": "Yakov Fedorov",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "attribution": "Yakov Fedorov · CC BY-SA 3.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 4320,
+          "height": 3240,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Congress_Hall_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Congress_Hall_Astana.jpg/1280px-Congress_Hall_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/43be68de6b80aed02cb2.jpg",
+      "wikidata": "Q4230441"
+    },
+    "osm-way-37884583": {
+      "photos": [
+        {
+          "url": "/photos/c08c20863ca7931100f2.jpg",
+          "thumbnail_url": "/photos/c08c20863ca7931100f2.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Astana-2021-10_-_3.jpg",
+          "title": "Astana-2021-10 - 3.jpg",
+          "author": "Vyacheslav Bukharov",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Vyacheslav Bukharov · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 3934,
+          "height": 1826,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Astana-2021-10_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Astana-2021-10_-_3.jpg/1280px-Astana-2021-10_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "url": "/photos/c700c4b8aebb5c9e0966.jpg",
+          "thumbnail_url": "/photos/c700c4b8aebb5c9e0966.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:KazMunayGas_03.jpg",
+          "title": "KazMunayGas 03.jpg",
+          "author": "Davide Mauro",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Davide Mauro · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 5786,
+          "height": 3858,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/KazMunayGas_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/KazMunayGas_03.jpg/1280px-KazMunayGas_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/c08c20863ca7931100f2.jpg",
+      "wikidata": "Q42422250"
+    },
+    "osm-way-549307755": {
+      "photos": [],
+      "image": null
+    },
+    "osm-way-230358855": {
+      "photos": [
+        {
+          "url": "/photos/a493045b3bd829c23c45.jpg",
+          "thumbnail_url": "/photos/a493045b3bd829c23c45.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Library_of_the_Republic_of_Kazakhstan.jpg",
+          "title": "Library of the Republic of Kazakhstan.jpg",
+          "author": "Unknown author Unknown author",
+          "license": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "attribution": "Unknown author Unknown author · CC0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 960,
+          "height": 722,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Library_of_the_Republic_of_Kazakhstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Library_of_the_Republic_of_Kazakhstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        }
+      ],
+      "image": "/photos/a493045b3bd829c23c45.jpg",
+      "wikidata": "Q4314789"
+    },
+    "osm-way-1460537088": {
+      "photos": [
+        {
+          "url": "/photos/ab6ea9f5e074ecd3fb51.jpg",
+          "thumbnail_url": "/photos/ab6ea9f5e074ecd3fb51.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Downtown_Astana_With_The_National_Concert_Hall_(6246435844).jpg",
+          "title": "Downtown Astana With The National Concert Hall (6246435844).jpg",
+          "author": "Ken and Nyetta",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "attribution": "Ken and Nyetta · CC BY 2.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 4288,
+          "height": 2075,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Downtown_Astana_With_The_National_Concert_Hall_%286246435844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Downtown_Astana_With_The_National_Concert_Hall_%286246435844%29.jpg/1280px-Downtown_Astana_With_The_National_Concert_Hall_%286246435844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/ab6ea9f5e074ecd3fb51.jpg"
+    },
+    "osm-way-240909218": {
+      "photos": [
+        {
+          "url": "/photos/b288cb051f549ae36887.jpg",
+          "thumbnail_url": "/photos/b288cb051f549ae36887.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:RIXOS_ASTANA,KAZAKHSTAN_-_panoramio.jpg",
+          "title": "RIXOS ASTANA,KAZAKHSTAN - panoramio.jpg",
+          "author": "Kayhan ERTUGRUL",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "attribution": "Kayhan ERTUGRUL",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 2856,
+          "height": 1811,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/RIXOS_ASTANA%2CKAZAKHSTAN_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/RIXOS_ASTANA%2CKAZAKHSTAN_-_panoramio.jpg/1280px-RIXOS_ASTANA%2CKAZAKHSTAN_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/b288cb051f549ae36887.jpg",
+      "wikidata": "Q65048900"
+    }
+  },
+  "new_pois": [
+    {
+      "id": "wikidata-Q104866684",
+      "name": "Presidential Park, Astana",
+      "names": {
+        "en": "Presidential Park, Astana",
+        "ru": "Президентский парк (Нур-Султан)",
+        "kk": "Президенттік саябақ"
+      },
+      "name_derived": false,
+      "lat": 51.116667,
+      "lon": 71.45,
+      "category": "park",
+      "poi_type": "park",
+      "description": "Presidential Park, Astana",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "nature",
+        "park",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/39bccc3d8cef0c48fecb.jpg",
+          "thumbnail_url": "/photos/39bccc3d8cef0c48fecb.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Presidential_Park_01.jpg",
+          "title": "Presidential Park 01.jpg",
+          "author": "Davide Mauro",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Davide Mauro · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 6000,
+          "height": 4000,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Presidential_Park_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Presidential_Park_01.jpg/1280px-Presidential_Park_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/39bccc3d8cef0c48fecb.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q104866684",
+      "wikipedia": "en:Presidential Park",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q104866684",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q104866684",
+        "p31": [
+          "Q22698"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q104866684"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Presidential Park, Astana",
+        "Президентский парк (Нур-Султан)",
+        "Президенттік саябақ"
+      ],
+      "source_p625": {
+        "latitude": 51.116667,
+        "longitude": 71.45,
+        "altitude": null,
+        "precision": 0.014310384642350474,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q104866885",
+      "name": "Astana Triathlon Park",
+      "names": {
+        "en": "Astana Triathlon Park",
+        "ru": "Триатлон парк Астана"
+      },
+      "name_derived": false,
+      "lat": 51.13611111111111,
+      "lon": 71.44972222222222,
+      "category": "park",
+      "poi_type": "urban_park",
+      "description": "Astana Triathlon Park",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "nature",
+        "park",
+        "urban_park",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/db766b2cee5b03b18203.jpg",
+          "thumbnail_url": "/photos/db766b2cee5b03b18203.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Astana_Triathlon_Park_View.jpg",
+          "title": "Astana Triathlon Park View.jpg",
+          "author": "Gfrc360",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Gfrc360 · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 4160,
+          "height": 3120,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Astana_Triathlon_Park_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Astana_Triathlon_Park_View.jpg/1280px-Astana_Triathlon_Park_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/db766b2cee5b03b18203.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q104866885",
+      "wikipedia": "en:Astana Triathlon Park",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q104866885",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q104866885",
+        "p31": [
+          "Q22746"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q104866885"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Astana Triathlon Park",
+        "Триатлон парк Астана"
+      ],
+      "source_p625": {
+        "latitude": 51.13611111111111,
+        "longitude": 71.44972222222222,
+        "altitude": null,
+        "precision": 0.0002777777777777778,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q1073439",
+      "name": "Emerald Towers",
+      "names": {
+        "ru": "Изумрудный квартал",
+        "en": "Emerald Towers",
+        "kk": "Асыл тас"
+      },
+      "name_derived": false,
+      "lat": 51.13071945,
+      "lon": 71.42239445,
+      "category": "culture",
+      "poi_type": "building_complex",
+      "description": "Emerald Towers",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "building_complex",
+        "culture",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/5dc7a69ed590815c6a76.jpg",
+          "thumbnail_url": "/photos/5dc7a69ed590815c6a76.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Astana-2021-10_-_37.jpg",
+          "title": "Astana-2021-10 - 37.jpg",
+          "author": "Vyacheslav Bukharov",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Vyacheslav Bukharov · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 3885,
+          "height": 1660,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Astana-2021-10_-_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Astana-2021-10_-_37.jpg/1280px-Astana-2021-10_-_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/5dc7a69ed590815c6a76.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q1073439",
+      "wikipedia": "en:Emerald Towers",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1073439",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q1073439",
+        "p31": [
+          "Q1497364"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q1073439"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Emerald Towers",
+        "Асыл тас",
+        "Изумрудный квартал"
+      ],
+      "source_p625": {
+        "latitude": 51.13071945,
+        "longitude": 71.42239445,
+        "altitude": null,
+        "precision": 0.0001,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q108533991",
+      "name": "Taldykol Lake",
+      "names": {
+        "ru": "Талдыколь",
+        "en": "Taldykol Lake"
+      },
+      "name_derived": false,
+      "lat": 51.1107,
+      "lon": 71.3804,
+      "category": "park",
+      "poi_type": "lake",
+      "description": "Taldykol Lake",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "lake",
+        "nature",
+        "park",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/f4bdfd28b5ec9731446d.jpg",
+          "thumbnail_url": "/photos/f4bdfd28b5ec9731446d.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0,_%D0%A2%D0%B0%D0%BB%D0%B4%D1%8B%D0%BA%D0%BE%D0%BB%D1%8C_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83.jpg",
+          "title": "Астана, Талдыколь сверху.jpg",
+          "author": "Nikolai Bulykin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Nikolai Bulykin · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 5272,
+          "height": 3948,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0%2C_%D0%A2%D0%B0%D0%BB%D0%B4%D1%8B%D0%BA%D0%BE%D0%BB%D1%8C_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0%2C_%D0%A2%D0%B0%D0%BB%D0%B4%D1%8B%D0%BA%D0%BE%D0%BB%D1%8C_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83.jpg/1280px-%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0%2C_%D0%A2%D0%B0%D0%BB%D0%B4%D1%8B%D0%BA%D0%BE%D0%BB%D1%8C_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/f4bdfd28b5ec9731446d.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q108533991",
+      "wikipedia": "ru:Талдыколь (озеро, Астана)",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q108533991",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q108533991",
+        "p31": [
+          "Q23397"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q108533991"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Taldykol Lake",
+        "Талдыколь"
+      ],
+      "source_p625": {
+        "latitude": 51.1107,
+        "longitude": 71.3804,
+        "altitude": null,
+        "precision": 1e-06,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q109715788",
+      "name": "Malyi Taldykol Lake",
+      "names": {
+        "ru": "Малый Талдыколь",
+        "en": "Malyi Taldykol Lake"
+      },
+      "name_derived": false,
+      "lat": 51.1074,
+      "lon": 71.3928,
+      "category": "park",
+      "poi_type": "lake",
+      "description": "Malyi Taldykol Lake",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "lake",
+        "nature",
+        "park",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [],
+      "image": null,
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q109715788",
+      "wikipedia": "ru:Малый Талдыколь",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q109715788",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q109715788",
+        "p31": [
+          "Q23397"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q109715788"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Malyi Taldykol Lake",
+        "Малый Талдыколь"
+      ],
+      "source_p625": {
+        "latitude": 51.1074,
+        "longitude": 71.3928,
+        "altitude": null,
+        "precision": 1e-06,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q113119435",
+      "name": "Iýsýf shіrkeýі, Astana",
+      "names": {
+        "en": "Iýsýf shіrkeýі, Astana",
+        "ru": "Церковь Святого Иосифа Обручника (Астана)"
+      },
+      "name_derived": false,
+      "lat": 51.15145,
+      "lon": 71.447812,
+      "category": "culture",
+      "poi_type": "temple",
+      "description": "Iýsýf shіrkeýі, Astana",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "culture",
+        "temple",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [],
+      "image": null,
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q113119435",
+      "wikipedia": "ru:Церковь Святого Иосифа Обручника (Астана)",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q113119435",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q113119435",
+        "p31": [
+          "Q44539"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q113119435"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Iýsýf shіrkeýі, Astana",
+        "Церковь Святого Иосифа Обручника (Астана)"
+      ],
+      "source_p625": {
+        "latitude": 51.15145,
+        "longitude": 71.447812,
+        "altitude": null,
+        "precision": 1e-06,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q113675887",
+      "name": "Astana Grand Mosque",
+      "names": {
+        "kk": "Астана қаласының бас мешіті",
+        "en": "Astana Grand Mosque",
+        "ru": "Центральная мечеть города Астаны"
+      },
+      "name_derived": false,
+      "lat": 51.0725,
+      "lon": 71.4095,
+      "category": "culture",
+      "poi_type": "mosque",
+      "description": "Astana Grand Mosque",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "culture",
+        "mosque",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/813e6a648c932193a0ea.jpg",
+          "thumbnail_url": "/photos/813e6a648c932193a0ea.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Astana_Grand_Mosque_-_interior_dome_decoration.jpg",
+          "title": "Astana Grand Mosque - interior dome decoration.jpg",
+          "author": "Lucha",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Lucha · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 3024,
+          "height": 4032,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Astana_Grand_Mosque_-_interior_dome_decoration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Astana_Grand_Mosque_-_interior_dome_decoration.jpg/1280px-Astana_Grand_Mosque_-_interior_dome_decoration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "url": "/photos/b9814ceb35f0da4f25ff.jpg",
+          "thumbnail_url": "/photos/b9814ceb35f0da4f25ff.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Astana_Grand_Mosque_-_interior.jpg",
+          "title": "Astana Grand Mosque - interior.jpg",
+          "author": "Lucha",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Lucha · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 3024,
+          "height": 4032,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Astana_Grand_Mosque_-_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Astana_Grand_Mosque_-_interior.jpg/1280px-Astana_Grand_Mosque_-_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/813e6a648c932193a0ea.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q113675887",
+      "wikipedia": "en:Nursultan Mosque",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q113675887",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q113675887",
+        "p31": [
+          "Q32815"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q113675887"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Astana Grand Mosque",
+        "Астана қаласының бас мешіті",
+        "Центральная мечеть города Астаны"
+      ],
+      "source_p625": {
+        "latitude": 51.0725,
+        "longitude": 71.4095,
+        "altitude": null,
+        "precision": 1e-07,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q117835598",
+      "name": "Ырыскелды кажы",
+      "names": {
+        "ru": "Ырыскелды кажы"
+      },
+      "name_derived": false,
+      "lat": 51.1655,
+      "lon": 71.3782,
+      "category": "culture",
+      "poi_type": "mosque",
+      "description": "Ырыскелды кажы",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "culture",
+        "mosque",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [],
+      "image": null,
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q117835598",
+      "wikipedia": "ru:Ырыскелды кажы",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q117835598",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q117835598",
+        "p31": [
+          "Q32815"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q117835598"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Ырыскелды кажы"
+      ],
+      "source_p625": {
+        "latitude": 51.1655,
+        "longitude": 71.3782,
+        "altitude": null,
+        "precision": 0.0001,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q120868806",
+      "name": "Абиш ата Назарбай",
+      "names": {
+        "ru": "Абиш ата Назарбай"
+      },
+      "name_derived": false,
+      "lat": 51.135029727816,
+      "lon": 71.471089612983,
+      "category": "culture",
+      "poi_type": "mosque",
+      "description": "Абиш ата Назарбай",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "culture",
+        "mosque",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [],
+      "image": null,
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q120868806",
+      "wikipedia": "ru:Абиш ата Назарбай",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q120868806",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q120868806",
+        "p31": [
+          "Q32815"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q120868806"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Абиш ата Назарбай"
+      ],
+      "source_p625": {
+        "latitude": 51.135029727816,
+        "longitude": 71.471089612983,
+        "altitude": null,
+        "precision": 1e-08,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q120868807",
+      "name": "Альжан ана",
+      "names": {
+        "ru": "Альжан ана"
+      },
+      "name_derived": false,
+      "lat": 51.0413,
+      "lon": 71.4397,
+      "category": "culture",
+      "poi_type": "mosque",
+      "description": "Альжан ана",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "culture",
+        "mosque",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [],
+      "image": null,
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q120868807",
+      "wikipedia": "ru:Альжан ана (мечеть)",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q120868807",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q120868807",
+        "p31": [
+          "Q32815"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q120868807"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Альжан ана"
+      ],
+      "source_p625": {
+        "latitude": 51.0413,
+        "longitude": 71.4397,
+        "altitude": null,
+        "precision": 0.0001,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q120868821",
+      "name": "Шейх Кунта кажы",
+      "names": {
+        "ru": "Шейх Кунта кажы"
+      },
+      "name_derived": false,
+      "lat": 51.191523,
+      "lon": 71.369908,
+      "category": "culture",
+      "poi_type": "mosque",
+      "description": "Шейх Кунта кажы",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "culture",
+        "mosque",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [],
+      "image": null,
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q120868821",
+      "wikipedia": "ru:Шейх Кунта кажы (мечеть)",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q120868821",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q120868821",
+        "p31": [
+          "Q32815"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q120868821"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Шейх Кунта кажы"
+      ],
+      "source_p625": {
+        "latitude": 51.191523,
+        "longitude": 71.369908,
+        "altitude": null,
+        "precision": 1e-06,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q12530274",
+      "name": "Kalibek Kuanyshpaev Theatre",
+      "names": {
+        "kk": "Астана қалалық музыкалық драма театры",
+        "ru": "Казахский музыкально-драматический театр имени К. Куанышбаева",
+        "en": "Kalibek Kuanyshpaev Theatre"
+      },
+      "name_derived": false,
+      "lat": 51.12059168578557,
+      "lon": 71.47965734752233,
+      "category": "culture",
+      "poi_type": "theatre",
+      "description": "Kalibek Kuanyshpaev Theatre",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "culture",
+        "theatre",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [],
+      "image": null,
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q12530274",
+      "wikipedia": "ru:Казахский музыкально-драматический театр имени К. Куанышбаева",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q12530274",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q12530274",
+        "p31": [
+          "Q24354"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q12530274"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Kalibek Kuanyshpaev Theatre",
+        "Астана қалалық музыкалық драма театры",
+        "Ақмола Облыстық Қазақ Музыкалық Драма Театры",
+        "Казахский музыкально-драматический театр имени К. Куанышбаева"
+      ],
+      "source_p625": {
+        "latitude": 51.12059168578557,
+        "longitude": 71.47965734752233,
+        "altitude": null,
+        "precision": 1e-08,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q12572863",
+      "name": "Kazakh Eli monument",
+      "names": {
+        "kk": "Қазақ елі (монумент)",
+        "en": "Kazakh Eli monument",
+        "ru": "Казак ели (монумент)"
+      },
+      "name_derived": false,
+      "lat": 51.1220556,
+      "lon": 71.4699218,
+      "category": "culture",
+      "poi_type": "monument",
+      "description": "Kazakh Eli monument",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "culture",
+        "monument",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/08b23504e1d45875f6fc.jpg",
+          "thumbnail_url": "/photos/08b23504e1d45875f6fc.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Kazakh_Eli.jpg",
+          "title": "Kazakh Eli.jpg",
+          "author": "Ken and Nyetta",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "attribution": "Ken and Nyetta · CC BY 2.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 3120,
+          "height": 2316,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Kazakh_Eli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Kazakh_Eli.jpg/1280px-Kazakh_Eli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "url": "/photos/ba6fc444223dfc825922.jpg",
+          "thumbnail_url": "/photos/ba6fc444223dfc825922.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Kazakh_Eli_Monument_01.jpg",
+          "title": "Kazakh Eli Monument 01.jpg",
+          "author": "Bernard Gagnon",
+          "license": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "attribution": "Bernard Gagnon · CC0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 4707,
+          "height": 3138,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Kazakh_Eli_Monument_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Kazakh_Eli_Monument_01.jpg/1280px-Kazakh_Eli_Monument_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/08b23504e1d45875f6fc.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q12572863",
+      "wikipedia": "ru:Казак ели (монумент)",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q12572863",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q12572863",
+        "p31": [
+          "Q4989906"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q12572863"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Kazakh Eli monument",
+        "Казак ели (монумент)",
+        "Қазақ елі (монумент)"
+      ],
+      "source_p625": {
+        "latitude": 51.1220556,
+        "longitude": 71.4699218,
+        "altitude": null,
+        "precision": 1e-07,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q13668712",
+      "name": "Караоткель (кладбище)",
+      "names": {
+        "ru": "Караоткель (кладбище)",
+        "kk": "Қараөткел зираты"
+      },
+      "name_derived": false,
+      "lat": 51.183333333333,
+      "lon": 71.4,
+      "category": "culture",
+      "poi_type": "cemetery",
+      "description": "Караоткель (кладбище)",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "cemetery",
+        "culture",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/0762872b3c30140ee49b.jpg",
+          "thumbnail_url": "/photos/0762872b3c30140ee49b.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Karaotkel_Cemetery-3.jpg",
+          "title": "Karaotkel Cemetery-3.jpg",
+          "author": "Yakov Fedorov",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Yakov Fedorov · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 7952,
+          "height": 5304,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Karaotkel_Cemetery-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Karaotkel_Cemetery-3.jpg/1280px-Karaotkel_Cemetery-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "url": "/photos/d0a75b5032be36782fbe.jpg",
+          "thumbnail_url": "/photos/d0a75b5032be36782fbe.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Karaotkel_Cemetery-1.jpg",
+          "title": "Karaotkel Cemetery-1.jpg",
+          "author": "Yakov Fedorov",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Yakov Fedorov · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 7952,
+          "height": 5304,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Karaotkel_Cemetery-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Karaotkel_Cemetery-1.jpg/1280px-Karaotkel_Cemetery-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/0762872b3c30140ee49b.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q13668712",
+      "wikipedia": "ru:Караоткель (кладбище)",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q13668712",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q13668712",
+        "p31": [
+          "Q39614"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q13668712"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Караоткель (кладбище)",
+        "Қараөткел зираты"
+      ],
+      "source_p625": {
+        "latitude": 51.183333333333,
+        "longitude": 71.4,
+        "altitude": null,
+        "precision": 0.016666666666667,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q1542507",
+      "name": "Grand Alatau",
+      "names": {
+        "en": "Grand Alatau"
+      },
+      "name_derived": false,
+      "lat": 51.161944444444,
+      "lon": 71.419722222222,
+      "category": "culture",
+      "poi_type": "building_complex",
+      "description": "Grand Alatau",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "building_complex",
+        "culture",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/0077d460598c2c2f81c9.jpg",
+          "thumbnail_url": "/photos/0077d460598c2c2f81c9.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Astana,_Kazakhstan_(8239484922).jpg",
+          "title": "Astana, Kazakhstan (8239484922).jpg",
+          "author": "Ninara from Helsinki, Finland",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "attribution": "Ninara from Helsinki, Finland · CC BY 2.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 3240,
+          "height": 2160,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Astana%2C_Kazakhstan_%288239484922%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Astana%2C_Kazakhstan_%288239484922%29.jpg/1280px-Astana%2C_Kazakhstan_%288239484922%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "url": "/photos/185339b06ef4ff4e01e0.jpg",
+          "thumbnail_url": "/photos/185339b06ef4ff4e01e0.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Astana-Ishim-7809.jpg",
+          "title": "Astana-Ishim-7809.jpg",
+          "author": "Vmenkov",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "attribution": "Vmenkov · CC BY-SA 3.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 2048,
+          "height": 1536,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Astana-Ishim-7809.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Astana-Ishim-7809.jpg/1280px-Astana-Ishim-7809.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/0077d460598c2c2f81c9.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q1542507",
+      "wikipedia": "en:Grand Alatau",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1542507",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q1542507",
+        "p31": [
+          "Q1497364"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q1542507"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Grand Alatau"
+      ],
+      "source_p625": {
+        "latitude": 51.161944444444,
+        "longitude": 71.419722222222,
+        "altitude": null,
+        "precision": null,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q16433519",
+      "name": "State Russian Dramatic Theatre Maxim Gorky",
+      "names": {
+        "kk": "Ақмола Облыстық Орыс Драма Театры",
+        "ru": "Русский драматический театр им. М. Горького",
+        "en": "State Russian Dramatic Theatre Maxim Gorky"
+      },
+      "name_derived": false,
+      "lat": 51.165219,
+      "lon": 71.416311,
+      "category": "culture",
+      "poi_type": "theatre",
+      "description": "State Russian Dramatic Theatre Maxim Gorky",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "culture",
+        "theatre",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/7913cd8d24f3421b1f0b.jpg",
+          "thumbnail_url": "/photos/7913cd8d24f3421b1f0b.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Astana_-_190217_DSC_3875.jpg",
+          "title": "Astana - 190217 DSC 3875.jpg",
+          "author": "Ilya Varlamov",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Ilya Varlamov · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 4638,
+          "height": 3092,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Astana_-_190217_DSC_3875.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Astana_-_190217_DSC_3875.jpg/1280px-Astana_-_190217_DSC_3875.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "url": "/photos/403d1b0c329b357a48ea.jpg",
+          "thumbnail_url": "/photos/403d1b0c329b357a48ea.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Gorky_Drama_Theatre_Nur-Sultan.jpg",
+          "title": "Gorky Drama Theatre Nur-Sultan.jpg",
+          "author": "Yakov Fedorov",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Yakov Fedorov · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 7952,
+          "height": 5304,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Gorky_Drama_Theatre_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Gorky_Drama_Theatre_Nur-Sultan.jpg/1280px-Gorky_Drama_Theatre_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/7913cd8d24f3421b1f0b.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q16433519",
+      "wikipedia": "ru:Русский драматический театр имени М. Горького",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q16433519",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q16433519",
+        "p31": [
+          "Q24354"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q16433519"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "State Russian Dramatic Theatre Maxim Gorky",
+        "Ақмола Облыстық Орыс Драма Театры",
+        "Русский драматический театр Горького",
+        "Русский драматический театр им. М. Горького",
+        "Русский драматический театр имени Горького",
+        "Русский драматический театр имени М. Горького"
+      ],
+      "source_p625": {
+        "latitude": 51.165219,
+        "longitude": 71.416311,
+        "altitude": null,
+        "precision": 1e-06,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q16538413",
+      "name": "Our Mother of Perpetual Help Cathedral, Astana",
+      "names": {
+        "en": "Our Mother of Perpetual Help Cathedral, Astana",
+        "ru": "Собор Божией Матери Неустанной Помощи (Астана)"
+      },
+      "name_derived": false,
+      "lat": 51.15367397118743,
+      "lon": 71.45184290490835,
+      "category": "culture",
+      "poi_type": "cathedral",
+      "description": "Our Mother of Perpetual Help Cathedral, Astana",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "cathedral",
+        "culture",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/8fbb04d15bdb397b73b1.jpg",
+          "thumbnail_url": "/photos/8fbb04d15bdb397b73b1.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Astana_Katedra_1.jpg",
+          "title": "Astana Katedra 1.jpg",
+          "author": "Polk",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Polk · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 4160,
+          "height": 3120,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Astana_Katedra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Astana_Katedra_1.jpg/1280px-Astana_Katedra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "url": "/photos/e5b1c8103ec68d56cb5a.jpg",
+          "thumbnail_url": "/photos/e5b1c8103ec68d56cb5a.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Roman_Catholic_Church_in_Nur-Sultan,_Kazakhstan.jpg",
+          "title": "Roman Catholic Church in Nur-Sultan, Kazakhstan.jpg",
+          "author": "Kristianmusic",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Kristianmusic · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 3024,
+          "height": 4032,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Roman_Catholic_Church_in_Nur-Sultan%2C_Kazakhstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Roman_Catholic_Church_in_Nur-Sultan%2C_Kazakhstan.jpg/1280px-Roman_Catholic_Church_in_Nur-Sultan%2C_Kazakhstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/8fbb04d15bdb397b73b1.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q16538413",
+      "wikipedia": "en:Our Mother of Perpetual Help Cathedral, Astana",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q16538413",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q16538413",
+        "p31": [
+          "Q2977"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q16538413"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Our Mother of Perpetual Help Cathedral, Astana",
+        "Our Mother of Perpetual Help Cathedral, Nur-Sultan",
+        "Собор Божией Матери Неустанной Помощи (Астана)"
+      ],
+      "source_p625": {
+        "latitude": 51.15367397118743,
+        "longitude": 71.45184290490835,
+        "altitude": null,
+        "precision": 1e-08,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q1899549",
+      "name": "Assumption Cathedral",
+      "names": {
+        "ru": "Кафедральный собор в честь Успения Пресвятой Богородицы",
+        "en": "Assumption Cathedral",
+        "kk": "Әулие Мария Успен соборы"
+      },
+      "name_derived": false,
+      "lat": 51.149603,
+      "lon": 71.481481,
+      "category": "culture",
+      "poi_type": "cathedral",
+      "description": "Assumption Cathedral",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "cathedral",
+        "culture",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/b13db70ed46c5b213f28.jpg",
+          "thumbnail_url": "/photos/b13db70ed46c5b213f28.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D1%87%D0%B5%D1%81%D1%82%D1%8C_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B.jpg",
+          "title": "Кафедральный собор в честь Успения Пресвятой Богородицы.jpg",
+          "author": "Kaiyr",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "attribution": "Kaiyr · CC BY-SA 3.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 1944,
+          "height": 2592,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D1%87%D0%B5%D1%81%D1%82%D1%8C_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D1%87%D0%B5%D1%81%D1%82%D1%8C_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B.jpg/1280px-%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D1%87%D0%B5%D1%81%D1%82%D1%8C_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "url": "/photos/deb40183d1d371a2ecef.jpg",
+          "thumbnail_url": "/photos/deb40183d1d371a2ecef.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D1%8B_%D1%84%D0%BE%D1%82%D0%BE3.jpg",
+          "title": "Успенский собор Астаны фото3.jpg",
+          "author": "12345Al12345",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "12345Al12345 · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 1280,
+          "height": 719,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D1%8B_%D1%84%D0%BE%D1%82%D0%BE3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D1%8B_%D1%84%D0%BE%D1%82%D0%BE3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        }
+      ],
+      "image": "/photos/b13db70ed46c5b213f28.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": "http://sobor.kz/node/171",
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": "http://sobor.kz/node/171",
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q1899549",
+      "wikipedia": "ru:Успенский собор (Астана)",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1899549",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q1899549",
+        "p31": [
+          "Q56242225"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q1899549"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Assumption Cathedral",
+        "Кафедральный собор в честь Успения Пресвятой Богородицы",
+        "Успен кафедралы соборы",
+        "Успенский собор",
+        "Әулие Мария Успен соборы"
+      ],
+      "source_p625": {
+        "latitude": 51.149603,
+        "longitude": 71.481481,
+        "altitude": null,
+        "precision": 1e-06,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q20036756",
+      "name": "Daulet National Tennis Center",
+      "names": {
+        "en": "Daulet National Tennis Center"
+      },
+      "name_derived": false,
+      "lat": 51.15236471,
+      "lon": 71.4201611,
+      "category": "sport",
+      "poi_type": "sports_centre",
+      "description": "Daulet National Tennis Center",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "culture",
+        "sport",
+        "sports_centre",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [],
+      "image": null,
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": "http://ntc-daulet.kz/index.php/ru/o-nas/obshchaya-informatsiya",
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": "http://ntc-daulet.kz/index.php/ru/o-nas/obshchaya-informatsiya",
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q20036756",
+      "wikipedia": "en:Daulet National Tennis Centre",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q20036756",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q20036756",
+        "p31": [
+          "Q1076486"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q20036756"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Daulet National Tennis Center"
+      ],
+      "source_p625": {
+        "latitude": 51.15236471,
+        "longitude": 71.4201611,
+        "altitude": null,
+        "precision": 0.014321452245448,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q21843144",
+      "name": "Astana Circus",
+      "names": {
+        "ru": "Астанинский цирк",
+        "en": "Astana Circus"
+      },
+      "name_derived": false,
+      "lat": 51.14506,
+      "lon": 71.41901,
+      "category": "culture",
+      "poi_type": "circus",
+      "description": "Astana Circus",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "circus",
+        "culture",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [],
+      "image": null,
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q21843144",
+      "wikipedia": "ru:Астанинский цирк",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q21843144",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q21843144",
+        "p31": [
+          "Q16889960"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q21843144"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Astana Circus",
+        "Астана Цирк",
+        "Астанинский цирк",
+        "Цирк Столичный",
+        "цирк Астана"
+      ],
+      "source_p625": {
+        "latitude": 51.14506,
+        "longitude": 71.41901,
+        "altitude": null,
+        "precision": 1e-05,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q25481641",
+      "name": "Otan Korgaushilar Monument",
+      "names": {
+        "kk": "«Отан қорғаушылар» мемориалы",
+        "en": "Otan Korgaushilar Monument",
+        "ru": "Монумент защитникам Отечества (Нур-Султан)"
+      },
+      "name_derived": false,
+      "lat": 51.15343,
+      "lon": 71.45785,
+      "category": "culture",
+      "poi_type": "monument",
+      "description": "Otan Korgaushilar Monument",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "culture",
+        "monument",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [],
+      "image": null,
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q25481641",
+      "wikipedia": "en:Otan Qorgaushylar Monument",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q25481641",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q25481641",
+        "p31": [
+          "Q4989906"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q25481641"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Otan Korgaushilar Monument",
+        "«Отан қорғаушылар» мемориалы",
+        "Монумент защитникам Отечества (Нур-Султан)"
+      ],
+      "source_p625": {
+        "latitude": 51.15343,
+        "longitude": 71.45785,
+        "altitude": null,
+        "precision": 1e-05,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q25495527",
+      "name": "Talan Towers",
+      "names": {
+        "kk": "Talan Towers",
+        "en": "Talan Towers",
+        "ru": "Talan Towers"
+      },
+      "name_derived": false,
+      "lat": 51.12466,
+      "lon": 71.43232,
+      "category": "culture",
+      "poi_type": "building",
+      "description": "Talan Towers",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "building",
+        "culture",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/39f119a65f8edc11541e.jpg",
+          "thumbnail_url": "/photos/39f119a65f8edc11541e.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Talantowers-1.jpg",
+          "title": "Talantowers-1.jpg",
+          "author": "Talgautb",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Talgautb · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 3024,
+          "height": 4032,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Talantowers-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Talantowers-1.jpg/1280px-Talantowers-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "url": "/photos/494af1b05f08b3973803.jpg",
+          "thumbnail_url": "/photos/494af1b05f08b3973803.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Talantowers-2.jpg",
+          "title": "Talantowers-2.jpg",
+          "author": "Talgautb",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Talgautb · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 3024,
+          "height": 4032,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Talantowers-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Talantowers-2.jpg/1280px-Talantowers-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/39f119a65f8edc11541e.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q25495527",
+      "wikipedia": "en:Talan Towers",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q25495527",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q25495527",
+        "p31": [
+          "Q41176"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q25495527"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Talan Towers"
+      ],
+      "source_p625": {
+        "latitude": 51.12466,
+        "longitude": 71.43232,
+        "altitude": null,
+        "precision": 1e-05,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q25500354",
+      "name": "The Museum of the First President of the Republic of Kazakhstan",
+      "names": {
+        "kk": "Тұңғыш Президент мұражайы",
+        "en": "The Museum of the First President of the Republic of Kazakhstan",
+        "ru": "Музей Первого Президента Республики Казахстан"
+      },
+      "name_derived": false,
+      "lat": 51.1663169,
+      "lon": 71.4187769,
+      "category": "museum",
+      "poi_type": "museum",
+      "description": "The Museum of the First President of the Republic of Kazakhstan",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "culture",
+        "museum",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/ef5615ff655014e84190.jpg",
+          "thumbnail_url": "/photos/ef5615ff655014e84190.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Kazakhstan_P9130181_(39371381774).jpg",
+          "title": "Kazakhstan P9130181 (39371381774).jpg",
+          "author": "t_y_l",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "attribution": "t_y_l · CC BY-SA 2.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 4608,
+          "height": 3456,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Kazakhstan_P9130181_%2839371381774%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Kazakhstan_P9130181_%2839371381774%29.jpg/1280px-Kazakhstan_P9130181_%2839371381774%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/ef5615ff655014e84190.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q25500354",
+      "wikipedia": "en:The Museum of the First President of the Republic of Kazakhstan",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q25500354",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q25500354",
+        "p31": [
+          "Q33506"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q25500354"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "The Museum of the First President of the Republic of Kazakhstan",
+        "Музей Первого Президента Республики Казахстан",
+        "Тұңғыш Президент мұражайы",
+        "Қазақстан Республикасы Тұӊғыш Президентініӊ мұражайы",
+        "Қазақстан Республикасының Бірінші Президенті Нұрсұлтан Назарбаевтың мұражайы",
+        "Қазақстан Республикасының Бірінші Президентінің музейі"
+      ],
+      "source_p625": {
+        "latitude": 51.1663169,
+        "longitude": 71.4187769,
+        "altitude": null,
+        "precision": 1e-07,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q28402868",
+      "name": "Ramstore Bridge",
+      "names": {
+        "en": "Ramstore Bridge",
+        "kk": "Рамстор көпірі"
+      },
+      "name_derived": false,
+      "lat": 51.15185,
+      "lon": 71.428037,
+      "category": "culture",
+      "poi_type": "bridge",
+      "description": "Ramstore Bridge",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "bridge",
+        "culture",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/118b3abb1f5a87fcf874.jpg",
+          "thumbnail_url": "/photos/118b3abb1f5a87fcf874.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Astana,_by_the_River_(4054863149).jpg",
+          "title": "Astana, by the River (4054863149).jpg",
+          "author": "Peretz Partensky from San Francisco, USA",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "attribution": "Peretz Partensky from San Francisco, USA · CC BY-SA 2.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 4416,
+          "height": 3312,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Astana%2C_by_the_River_%284054863149%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Astana%2C_by_the_River_%284054863149%29.jpg/1280px-Astana%2C_by_the_River_%284054863149%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/118b3abb1f5a87fcf874.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q28402868",
+      "wikipedia": "en:Qaraötkel Bridge",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q28402868",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q28402868",
+        "p31": [
+          "Q12280"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q28402868"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Ramstore Bridge",
+        "Рамстор көпірі"
+      ],
+      "source_p625": {
+        "latitude": 51.15185,
+        "longitude": 71.428037,
+        "altitude": null,
+        "precision": 0.014321292505269,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q2986461",
+      "name": "Kazhimukan Munaitpasov Stadium",
+      "names": {
+        "ru": "Стадион им. Хаджимукана Мунайтпасова",
+        "en": "Kazhimukan Munaitpasov Stadium",
+        "kk": "Қажымұқан Мұңайтпасов атындағы стадион"
+      },
+      "name_derived": false,
+      "lat": 51.162739,
+      "lon": 71.413312,
+      "category": "sport",
+      "poi_type": "stadium",
+      "description": "Kazhimukan Munaitpasov Stadium",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "culture",
+        "sport",
+        "stadium",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/0cd0319db9ebbf658c60.jpg",
+          "thumbnail_url": "/photos/0cd0319db9ebbf658c60.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%9C%D1%83%D0%BD%D0%B0%D0%B9%D1%82%D0%BF%D0%B0%D1%81%D0%BE%D0%B2%D0%B0.jpg",
+          "title": "Стадион имени Мунайтпасова.jpg",
+          "author": "Liquorkaru",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Liquorkaru · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 2048,
+          "height": 1152,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/%D0%A1%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%9C%D1%83%D0%BD%D0%B0%D0%B9%D1%82%D0%BF%D0%B0%D1%81%D0%BE%D0%B2%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/%D0%A1%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%9C%D1%83%D0%BD%D0%B0%D0%B9%D1%82%D0%BF%D0%B0%D1%81%D0%BE%D0%B2%D0%B0.jpg/1280px-%D0%A1%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%9C%D1%83%D0%BD%D0%B0%D0%B9%D1%82%D0%BF%D0%B0%D1%81%D0%BE%D0%B2%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/0cd0319db9ebbf658c60.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": "http://www.skdostykastana.kz/",
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": "http://www.skdostykastana.kz/",
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q2986461",
+      "wikipedia": "en:Kazhymukan Munaitpasov Stadium (Astana)",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q2986461",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q2986461",
+        "p31": [
+          "Q483110"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q2986461"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Kazhimukan Munaitpasov Stadium",
+        "Стадион им. Кажымукана Мунайтпасова",
+        "Стадион им. Хаджимукана Мунайтпасова",
+        "Қ.Мұңайтпасов атындағы стадион",
+        "Қажымұқан Мұңайтпасов атындағы стадион"
+      ],
+      "source_p625": {
+        "latitude": 51.162739,
+        "longitude": 71.413312,
+        "altitude": null,
+        "precision": 0.0001,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q4146879",
+      "name": "State Museum of Gold and Precious Metals of the Republic of Kazakhstan",
+      "names": {
+        "ru": "Государственный музей золота и драгоценных металлов",
+        "kk": "Қазақстан Республикасының алтын және бағалы металдар мемлекеттік мұражайы",
+        "en": "State Museum of Gold and Precious Metals of the Republic of Kazakhstan"
+      },
+      "name_derived": false,
+      "lat": 51.157,
+      "lon": 71.4313,
+      "category": "museum",
+      "poi_type": "museum",
+      "description": "State Museum of Gold and Precious Metals of the Republic of Kazakhstan",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "culture",
+        "museum",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [],
+      "image": null,
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": "http://museumgold.kz/",
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": "http://museumgold.kz/",
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q4146879",
+      "wikipedia": "ru:Государственный музей золота и драгоценных металлов",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q4146879",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q4146879",
+        "p31": [
+          "Q33506"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q4146879"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "State Museum of Gold and Precious Metals of the Republic of Kazakhstan",
+        "Государственный Музей золота и драгоценных металлов",
+        "Государственный музей золота и драгоценных металлов",
+        "Музей золота (Астана)",
+        "Қазақстан Республикасының алтын және бағалы металдар мемлекеттік мұражайы"
+      ],
+      "source_p625": {
+        "latitude": 51.157,
+        "longitude": 71.4313,
+        "altitude": null,
+        "precision": 0.0028645782039434,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q48780885",
+      "name": "Independence Square, Astana",
+      "names": {
+        "en": "Independence Square, Astana",
+        "ru": "Площадь Независимости (Нур-Султан)",
+        "kk": "Тәуелсіздік алаңы"
+      },
+      "name_derived": false,
+      "lat": 51.122,
+      "lon": 71.47,
+      "category": "culture",
+      "poi_type": "square",
+      "description": "Independence Square, Astana",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "culture",
+        "square",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/08b23504e1d45875f6fc.jpg",
+          "thumbnail_url": "/photos/08b23504e1d45875f6fc.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Kazakh_Eli.jpg",
+          "title": "Kazakh Eli.jpg",
+          "author": "Ken and Nyetta",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "attribution": "Ken and Nyetta · CC BY 2.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 3120,
+          "height": 2316,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Kazakh_Eli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Kazakh_Eli.jpg/1280px-Kazakh_Eli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/08b23504e1d45875f6fc.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q48780885",
+      "wikipedia": "en:Independence Square, Astana",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q48780885",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q48780885",
+        "p31": [
+          "Q174782"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q48780885"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Independence Square, Astana",
+        "Площадь Независимости (Нур-Султан)",
+        "Тәуелсіздік алаңы"
+      ],
+      "source_p625": {
+        "latitude": 51.122,
+        "longitude": 71.47,
+        "altitude": null,
+        "precision": 0.001,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q85758095",
+      "name": "Dóńgelek Square",
+      "names": {
+        "en": "Dóńgelek Square",
+        "ru": "Круглая площадь (Астана)"
+      },
+      "name_derived": false,
+      "lat": 51.1308,
+      "lon": 71.4145,
+      "category": "culture",
+      "poi_type": "square",
+      "description": "Dóńgelek Square",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "culture",
+        "square",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [],
+      "image": null,
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q85758095",
+      "wikipedia": "en:Döñgelek Square",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q85758095",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q85758095",
+        "p31": [
+          "Q174782"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q85758095"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Dóńgelek Square",
+        "Круглая площадь (Астана)",
+        "Круглая площадь (Нур-Султан)"
+      ],
+      "source_p625": {
+        "latitude": 51.1308,
+        "longitude": 71.4145,
+        "altitude": null,
+        "precision": 0.0001,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q85787940",
+      "name": "National Military-Patriotic Center of the Armed Forces of Kazakhstan",
+      "names": {
+        "en": "National Military-Patriotic Center of the Armed Forces of Kazakhstan"
+      },
+      "name_derived": false,
+      "lat": 51.15591666666666,
+      "lon": 71.43152777777779,
+      "category": "museum",
+      "poi_type": "museum",
+      "description": "National Military-Patriotic Center of the Armed Forces of Kazakhstan",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "culture",
+        "museum",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [],
+      "image": null,
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q85787940",
+      "wikipedia": "en:National Military-Patriotic Center of the Armed Forces of Kazakhstan",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q85787940",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q85787940",
+        "p31": [
+          "Q2772772"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q85787940"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "National Military-Patriotic Center of the Armed Forces of Kazakhstan"
+      ],
+      "source_p625": {
+        "latitude": 51.15591666666666,
+        "longitude": 71.43152777777779,
+        "altitude": null,
+        "precision": 2.777777777777778e-05,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q97163750",
+      "name": "Жилой дом доктора Ф. И. Благовещенского",
+      "names": {
+        "ru": "Жилой дом доктора Ф. И. Благовещенского"
+      },
+      "name_derived": false,
+      "lat": 51.171844,
+      "lon": 71.423481,
+      "category": "culture",
+      "poi_type": "building",
+      "description": "Жилой дом доктора Ф. И. Благовещенского",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "building",
+        "culture",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/a57989d83bbc5ef02593.jpg",
+          "thumbnail_url": "/photos/a57989d83bbc5ef02593.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Blagoveschenskiy_House_Nur-Sultan_1.jpg",
+          "title": "Blagoveschenskiy House Nur-Sultan 1.jpg",
+          "author": "Yakov Fedorov",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Yakov Fedorov · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 7952,
+          "height": 5304,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Blagoveschenskiy_House_Nur-Sultan_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Blagoveschenskiy_House_Nur-Sultan_1.jpg/1280px-Blagoveschenskiy_House_Nur-Sultan_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/a57989d83bbc5ef02593.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q97163750",
+      "wikipedia": "ru:Жилой дом доктора Ф. И. Благовещенского",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q97163750",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q97163750",
+        "p31": [
+          "Q41176"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q97163750"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Жилой дом доктора Ф. И. Благовещенского"
+      ],
+      "source_p625": {
+        "latitude": 51.171844,
+        "longitude": 71.423481,
+        "altitude": null,
+        "precision": 0.0002777777777777778,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q97165482",
+      "name": "Больница купца Степана Кубрина",
+      "names": {
+        "ru": "Больница купца Степана Кубрина"
+      },
+      "name_derived": false,
+      "lat": 51.174245,
+      "lon": 71.425678,
+      "category": "culture",
+      "poi_type": "building",
+      "description": "Больница купца Степана Кубрина",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "building",
+        "culture",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/109016a5434c4d1c8f55.jpg",
+          "thumbnail_url": "/photos/109016a5434c4d1c8f55.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Kubrin_Hospital_Nur-Sultan.jpg",
+          "title": "Kubrin Hospital Nur-Sultan.jpg",
+          "author": "Yakov Fedorov",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Yakov Fedorov · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 7952,
+          "height": 5304,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Kubrin_Hospital_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Kubrin_Hospital_Nur-Sultan.jpg/1280px-Kubrin_Hospital_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/109016a5434c4d1c8f55.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q97165482",
+      "wikipedia": "ru:Больница купца Степана Кубрина",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q97165482",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q97165482",
+        "p31": [
+          "Q41176"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q97165482"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Больница купца Степана Кубрина"
+      ],
+      "source_p625": {
+        "latitude": 51.174245,
+        "longitude": 71.425678,
+        "altitude": null,
+        "precision": 0.0002777777777777778,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q97165767",
+      "name": "Дом купца Василия Кубрина",
+      "names": {
+        "ru": "Дом купца Василия Кубрина"
+      },
+      "name_derived": false,
+      "lat": 51.165388,
+      "lon": 71.424438,
+      "category": "culture",
+      "poi_type": "building",
+      "description": "Дом купца Василия Кубрина",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "building",
+        "culture",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/5924b3446dcb46277f39.jpg",
+          "thumbnail_url": "/photos/5924b3446dcb46277f39.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Kubrin_House_Nur-Sultan.jpg",
+          "title": "Kubrin House Nur-Sultan.jpg",
+          "author": "Yakov Fedorov",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Yakov Fedorov · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 7952,
+          "height": 5304,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Kubrin_House_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Kubrin_House_Nur-Sultan.jpg/1280px-Kubrin_House_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/5924b3446dcb46277f39.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q97165767",
+      "wikipedia": "ru:Дом купца Василия Кубрина",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q97165767",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q97165767",
+        "p31": [
+          "Q41176"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q97165767"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Дом купца Василия Кубрина"
+      ],
+      "source_p625": {
+        "latitude": 51.165388,
+        "longitude": 71.424438,
+        "altitude": null,
+        "precision": 0.0002777777777777778,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q97165888",
+      "name": "Здание бывшей мусульманской школы",
+      "names": {
+        "ru": "Здание бывшей мусульманской школы",
+        "kk": "Бұрынғы Мұсылман мектебі ғимараты"
+      },
+      "name_derived": false,
+      "lat": 51.167815,
+      "lon": 71.42918,
+      "category": "culture",
+      "poi_type": "building",
+      "description": "Здание бывшей мусульманской школы",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "building",
+        "culture",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/b2ca4a31ea69dcc972aa.jpg",
+          "thumbnail_url": "/photos/b2ca4a31ea69dcc972aa.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Muslim_school_astana.jpg",
+          "title": "Muslim school astana.jpg",
+          "author": "Talgautb",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Talgautb · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 2451,
+          "height": 1837,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Muslim_school_astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Muslim_school_astana.jpg/1280px-Muslim_school_astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/b2ca4a31ea69dcc972aa.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q97165888",
+      "wikipedia": "ru:Здание бывшей мусульманской школы (Астана)",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q97165888",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q97165888",
+        "p31": [
+          "Q41176"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q97165888"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Бұрынғы Мұсылман мектебі ғимараты",
+        "Здание бывшей мусульманской школы"
+      ],
+      "source_p625": {
+        "latitude": 51.167815,
+        "longitude": 71.42918,
+        "altitude": null,
+        "precision": 0.0002777777777777778,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q97165900",
+      "name": "Здание городской управы",
+      "names": {
+        "ru": "Здание городской управы"
+      },
+      "name_derived": false,
+      "lat": 51.164822,
+      "lon": 71.416485,
+      "category": "culture",
+      "poi_type": "building",
+      "description": "Здание городской управы",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "building",
+        "culture",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/98c67686358d906f2ca5.jpg",
+          "thumbnail_url": "/photos/98c67686358d906f2ca5.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:City_Uprava_Building_Nur-Sultan.jpg",
+          "title": "City Uprava Building Nur-Sultan.jpg",
+          "author": "Yakov Fedorov",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Yakov Fedorov · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 7952,
+          "height": 5304,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/City_Uprava_Building_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/City_Uprava_Building_Nur-Sultan.jpg/1280px-City_Uprava_Building_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/98c67686358d906f2ca5.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q97165900",
+      "wikipedia": "ru:Здание городской управы (Астана)",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q97165900",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q97165900",
+        "p31": [
+          "Q41176"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q97165900"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Здание городской управы"
+      ],
+      "source_p625": {
+        "latitude": 51.164822,
+        "longitude": 71.416485,
+        "altitude": null,
+        "precision": 0.0002777777777777778,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q97166399",
+      "name": "Ограждение Зелёной мечети",
+      "names": {
+        "ru": "Ограждение Зелёной мечети"
+      },
+      "name_derived": false,
+      "lat": 51.168677,
+      "lon": 71.427361,
+      "category": "culture",
+      "poi_type": "architectural_landmark",
+      "description": "Ограждение Зелёной мечети",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "architectural_landmark",
+        "culture",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/b0f987c23a7e60099b2f.jpg",
+          "thumbnail_url": "/photos/b0f987c23a7e60099b2f.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Green_Mosque_Nur-Sultan.jpg",
+          "title": "Green Mosque Nur-Sultan.jpg",
+          "author": "Yakov Fedorov",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Yakov Fedorov · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 7952,
+          "height": 5304,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Green_Mosque_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Green_Mosque_Nur-Sultan.jpg/1280px-Green_Mosque_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/b0f987c23a7e60099b2f.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q97166399",
+      "wikipedia": "ru:Ограждение Зелёной мечети (Астана)",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q97166399",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q97166399",
+        "p31": [
+          "Q2319498"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q97166399"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Ограждение Зелёной мечети"
+      ],
+      "source_p625": {
+        "latitude": 51.168677,
+        "longitude": 71.427361,
+        "altitude": null,
+        "precision": 0.0002777777777777778,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q97167320",
+      "name": "Школа Косшыгулова",
+      "names": {
+        "ru": "Школа Косшыгулова",
+        "kk": "Қосшығұлов мектебі"
+      },
+      "name_derived": false,
+      "lat": 51.167616,
+      "lon": 71.42226,
+      "category": "culture",
+      "poi_type": "building",
+      "description": "Школа Косшыгулова",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "building",
+        "culture",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/638a7635cc7704c489dd.jpg",
+          "thumbnail_url": "/photos/638a7635cc7704c489dd.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Kosshygulov_School_Nur-Sultan.jpg",
+          "title": "Kosshygulov School Nur-Sultan.jpg",
+          "author": "Yakov Fedorov",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Yakov Fedorov · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 7335,
+          "height": 3709,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Kosshygulov_School_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Kosshygulov_School_Nur-Sultan.jpg/1280px-Kosshygulov_School_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/638a7635cc7704c489dd.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q97167320",
+      "wikipedia": "ru:Школа Косшыгулова",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q97167320",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q97167320",
+        "p31": [
+          "Q41176"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q97167320"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Школа Косшыгулова",
+        "Қосшығұлов мектебі"
+      ],
+      "source_p625": {
+        "latitude": 51.167616,
+        "longitude": 71.42226,
+        "altitude": null,
+        "precision": 0.0002777777777777778,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q97168850",
+      "name": "Торговый дом купца Матвея Кубрина",
+      "names": {
+        "ru": "Торговый дом купца Матвея Кубрина",
+        "kk": "Астана сауда орталығы"
+      },
+      "name_derived": false,
+      "lat": 51.165139,
+      "lon": 71.422889,
+      "category": "culture",
+      "poi_type": "building",
+      "description": "Торговый дом купца Матвея Кубрина",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "building",
+        "culture",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/1da66b8c90e8c235b917.jpg",
+          "thumbnail_url": "/photos/1da66b8c90e8c235b917.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Nur-Sultan_-_190217_DSC_3866.jpg",
+          "title": "Nur-Sultan - 190217 DSC 3866.jpg",
+          "author": "Ilya Varlamov",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Ilya Varlamov · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 4835,
+          "height": 3223,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Nur-Sultan_-_190217_DSC_3866.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Nur-Sultan_-_190217_DSC_3866.jpg/1280px-Nur-Sultan_-_190217_DSC_3866.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/1da66b8c90e8c235b917.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q97168850",
+      "wikipedia": "ru:Торговый дом купца Матвея Кубрина",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q97168850",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q97168850",
+        "p31": [
+          "Q41176"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q97168850"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Астана сауда орталығы",
+        "Торговый дом купца Матвея Кубрина"
+      ],
+      "source_p625": {
+        "latitude": 51.165139,
+        "longitude": 71.422889,
+        "altitude": null,
+        "precision": 0.0002777777777777778,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q97212648",
+      "name": "Дом купца Силина",
+      "names": {
+        "ru": "Дом купца Силина"
+      },
+      "name_derived": false,
+      "lat": 51.165028,
+      "lon": 71.42225,
+      "category": "culture",
+      "poi_type": "building",
+      "description": "Дом купца Силина",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "building",
+        "culture",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/fda51828040f89fc9621.jpg",
+          "thumbnail_url": "/photos/fda51828040f89fc9621.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Silin_House_Nur-Sultan.jpg",
+          "title": "Silin House Nur-Sultan.jpg",
+          "author": "Yakov Fedorov",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Yakov Fedorov · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 7533,
+          "height": 4772,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Silin_House_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Silin_House_Nur-Sultan.jpg/1280px-Silin_House_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/fda51828040f89fc9621.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q97212648",
+      "wikipedia": "ru:Дом купца Силина",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q97212648",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q97212648",
+        "p31": [
+          "Q41176"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q97212648"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Дом купца Силина"
+      ],
+      "source_p625": {
+        "latitude": 51.165028,
+        "longitude": 71.42225,
+        "altitude": null,
+        "precision": 0.0002777777777777778,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q97274773",
+      "name": "Дом П. Г. Моисеева",
+      "names": {
+        "ru": "Дом П. Г. Моисеева"
+      },
+      "name_derived": false,
+      "lat": 51.166667,
+      "lon": 71.423123,
+      "category": "culture",
+      "poi_type": "building",
+      "description": "Дом П. Г. Моисеева",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "building",
+        "culture",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/116ad41ec8d361693a16.jpg",
+          "thumbnail_url": "/photos/116ad41ec8d361693a16.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Moiseev_House_Nur-Sultan.jpg",
+          "title": "Moiseev House Nur-Sultan.jpg",
+          "author": "Yakov Fedorov",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Yakov Fedorov · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 5627,
+          "height": 3040,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Moiseev_House_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Moiseev_House_Nur-Sultan.jpg/1280px-Moiseev_House_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/116ad41ec8d361693a16.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q97274773",
+      "wikipedia": "ru:Дом П. Г. Моисеева",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q97274773",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q97274773",
+        "p31": [
+          "Q41176"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q97274773"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Дом П. Г. Моисеева"
+      ],
+      "source_p625": {
+        "latitude": 51.166667,
+        "longitude": 71.423123,
+        "altitude": null,
+        "precision": 0.0002777777777777778,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q97274797",
+      "name": "Дом купца Д. В. Егорова",
+      "names": {
+        "ru": "Дом купца Д. В. Егорова"
+      },
+      "name_derived": false,
+      "lat": 51.163834,
+      "lon": 71.42486,
+      "category": "culture",
+      "poi_type": "building",
+      "description": "Дом купца Д. В. Егорова",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "building",
+        "culture",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/62ff79883efc456ebf2d.jpg",
+          "thumbnail_url": "/photos/62ff79883efc456ebf2d.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Egorov_House_Nur-Sultan.jpg",
+          "title": "Egorov House Nur-Sultan.jpg",
+          "author": "Yakov Fedorov",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Yakov Fedorov · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 7952,
+          "height": 5304,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Egorov_House_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Egorov_House_Nur-Sultan.jpg/1280px-Egorov_House_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/62ff79883efc456ebf2d.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q97274797",
+      "wikipedia": "ru:Дом купца Д. В. Егорова",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q97274797",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q97274797",
+        "p31": [
+          "Q41176"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q97274797"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Дом купца Д. В. Егорова"
+      ],
+      "source_p625": {
+        "latitude": 51.163834,
+        "longitude": 71.42486,
+        "altitude": null,
+        "precision": 0.0002777777777777778,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q97274875",
+      "name": "Здание метеостанции",
+      "names": {
+        "ru": "Здание метеостанции"
+      },
+      "name_derived": false,
+      "lat": 51.171057,
+      "lon": 71.394567,
+      "category": "culture",
+      "poi_type": "building",
+      "description": "Здание метеостанции",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "building",
+        "culture",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/e30f1797d9ab1fba1520.jpg",
+          "thumbnail_url": "/photos/e30f1797d9ab1fba1520.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Zdanie_meteostancii_astana.jpg",
+          "title": "Zdanie meteostancii astana.jpg",
+          "author": "Talgautb",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Talgautb · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 3515,
+          "height": 2633,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Zdanie_meteostancii_astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Zdanie_meteostancii_astana.jpg/1280px-Zdanie_meteostancii_astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/e30f1797d9ab1fba1520.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q97274875",
+      "wikipedia": "ru:Здание метеостанции (Астана)",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q97274875",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q97274875",
+        "p31": [
+          "Q41176"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q97274875"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Здание метеостанции"
+      ],
+      "source_p625": {
+        "latitude": 51.171057,
+        "longitude": 71.394567,
+        "altitude": null,
+        "precision": 0.0002777777777777778,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    },
+    {
+      "id": "wikidata-Q97496724",
+      "name": "Здание кинотеатра «Октябрь»",
+      "names": {
+        "ru": "Здание кинотеатра «Октябрь»"
+      },
+      "name_derived": false,
+      "lat": 51.167994,
+      "lon": 71.418413,
+      "category": "culture",
+      "poi_type": "cinema",
+      "description": "Здание кинотеатра «Октябрь»",
+      "descriptions": {},
+      "description_derived": true,
+      "description_source": null,
+      "tags": [
+        "cinema",
+        "culture",
+        "walk"
+      ],
+      "hours": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "reviews": [],
+      "review_count": null,
+      "photos": [
+        {
+          "url": "/photos/69f417d61531d5a13675.jpg",
+          "thumbnail_url": "/photos/69f417d61531d5a13675.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Oktyabr_Cinema_Building_Nur-Sultan.jpg",
+          "title": "Oktyabr Cinema Building Nur-Sultan.jpg",
+          "author": "Yakov Fedorov",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "attribution": "Yakov Fedorov · CC BY-SA 4.0",
+          "provider": "Wikimedia Commons",
+          "observed_at": "2026-10-20T15:07:09.677125+00:00",
+          "width": 7952,
+          "height": 5304,
+          "restrictions": null,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Oktyabr_Cinema_Building_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Oktyabr_Cinema_Building_Nur-Sultan.jpg/1280px-Oktyabr_Cinema_Building_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "image": "/photos/69f417d61531d5a13675.jpg",
+      "wheelchair": "unknown",
+      "indoor": null,
+      "indoor_evidence": "unknown",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "amenities": {
+        "internet_access": null,
+        "power_supply": null,
+        "outdoor_seating": null,
+        "toilets": null,
+        "toilets_wheelchair": null,
+        "drinking_water": null,
+        "fee": null,
+        "access": null,
+        "lit": null,
+        "surface": null
+      },
+      "accessibility": {
+        "wheelchair": "unknown",
+        "wheelchair_description": null,
+        "entrance": null,
+        "step_count": null,
+        "tactile_paving": null,
+        "hearing_loop": null
+      },
+      "wikidata": "Q97496724",
+      "wikipedia": "ru:Здание кинотеатра «Октябрь» (Астана)",
+      "source": {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q97496724",
+        "collected_at": "2026-10-20T15:07:09.414374+00:00",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "entity_id": "Q97496724",
+        "p31": [
+          "Q41253"
+        ]
+      },
+      "raw_tags": {
+        "wikidata": "Q97496724"
+      },
+      "duplicate_source_ids": [],
+      "coordinates_note": "Wikidata P625 landmark coordinates; entrance and public access not verified",
+      "recommendable": true,
+      "entity_aliases": [
+        "Здание кинотеатра «Октябрь»"
+      ],
+      "source_p625": {
+        "latitude": 51.167994,
+        "longitude": 71.418413,
+        "altitude": null,
+        "precision": 0.0002777777777777778,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "access_note": "Architectural/landscape identity does not establish public entry or current opening hours"
+    }
+  ],
+  "metadata": {
+    "media_discovery": {
+      "discovered_entities": 155,
+      "reconciled_existing_pois": 28,
+      "patched_existing_pois": 11,
+      "physical_candidate_pois": 42,
+      "physical_candidates_with_photos": 29,
+      "reusable_photo_assignments": 73,
+      "source_matching": "Exact source Wikidata identity or exact multilingual label/alias plus P625 distance <=200m; physical P31 whitelist for separate candidate POIs",
+      "upstream_errors": [
+        {
+          "snapshot": "wikipedia-kk-0.json",
+          "error": {
+            "code": "cirrussearch-too-busy-error",
+            "info": "Search is currently too busy. Please try again later.",
+            "*": "See https://kk.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes."
+          }
+        },
+        {
+          "snapshot": "wikipedia-ru-2.json",
+          "error": {
+            "code": "cirrussearch-too-busy-error",
+            "info": "Search is currently too busy. Please try again later.",
+            "*": "See https://ru.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes."
+          }
+        }
+      ],
+      "visual_review": {
+        "reviewed_at": "2026-10-20",
+        "method": "Every downloaded thumbnail contact sheet visually inspected; source-exact render, stamp, satellite crop, press portrait, performance-only view and conflicting church image withheld. Normalized Commons titles cannot bypass exclusions.",
+        "curation": "data/photo-curation.json"
+      },
+      "staged_existing_photo_assignments": 9,
+      "staged_new_photo_assignments": 37,
+      "pre_visual_review_photo_assignments": 80
+    },
+    "media_enrichment": {
+      "collected_at": "2026-10-20T15:07:09.677125+00:00",
+      "provider": "Wikimedia Commons / Wikidata exact entity links",
+      "entity_count": 155,
+      "candidate_file_count": 156,
+      "pois_with_photos": 52,
+      "photo_count": 73,
+      "errors": [],
+      "curation_file": "data/photo-curation.json",
+      "curation": "Source-exact files visually checked; stale construction, people, diagrams and misleading category images excluded.",
+      "policy": "Per-file reusable license and plaintext author attribution retained; no fuzzy-name or nearby-photo assignment.",
+      "scope": "Discovery staging cohort; publisher recomputes global coverage after deduplication and merge"
+    }
+  },
+  "identity_audit": [
+    {
+      "poi_id": "osm-way-24805340",
+      "qid": "Q104864810",
+      "accepted": true,
+      "method": "exact multilingual name/alias and coordinates",
+      "distance_m": 9.6
+    },
+    {
+      "poi_id": "osm-way-69232075",
+      "qid": "Q104866925",
+      "accepted": true,
+      "method": "explicit Wikidata and coordinates",
+      "distance_m": 20.6
+    },
+    {
+      "poi_id": "osm-way-1196402246",
+      "qid": "Q104866948",
+      "accepted": true,
+      "method": "explicit Wikidata and coordinates",
+      "distance_m": 43.9
+    },
+    {
+      "poi_id": "osm-way-166267459",
+      "qid": "Q1072092",
+      "accepted": true,
+      "method": "explicit Wikidata and coordinates",
+      "distance_m": 14.4
+    },
+    {
+      "poi_id": "osm-way-762780007",
+      "qid": "Q1073433",
+      "accepted": true,
+      "method": "explicit Wikidata and coordinates",
+      "distance_m": 29.9
+    },
+    {
+      "poi_id": "osm-node-4920208099",
+      "qid": "Q108785061",
+      "accepted": false,
+      "reason": "missing or contradictory physical coordinates"
+    },
+    {
+      "poi_id": "osm-relation-16459103",
+      "qid": "Q109715788",
+      "accepted": false,
+      "reason": "missing or contradictory physical coordinates"
+    },
+    {
+      "poi_id": "osm-relation-17848018",
+      "qid": "Q109715788",
+      "accepted": false,
+      "reason": "missing or contradictory physical coordinates"
+    },
+    {
+      "poi_id": "osm-way-499328514",
+      "qid": "Q116177001",
+      "accepted": false,
+      "reason": "missing or contradictory physical coordinates"
+    },
+    {
+      "poi_id": "osm-relation-16002498",
+      "qid": "Q120868819",
+      "accepted": true,
+      "method": "exact multilingual name/alias and coordinates",
+      "distance_m": 0.5
+    },
+    {
+      "poi_id": "osm-way-240376692",
+      "qid": "Q12561825",
+      "accepted": false,
+      "reason": "missing or contradictory physical coordinates"
+    },
+    {
+      "poi_id": "osm-node-2641242232",
+      "qid": "Q1417227",
+      "accepted": false,
+      "reason": "missing or contradictory physical coordinates"
+    },
+    {
+      "poi_id": "osm-node-2645257126",
+      "qid": "Q1417227",
+      "accepted": false,
+      "reason": "missing or contradictory physical coordinates"
+    },
+    {
+      "poi_id": "osm-node-4061613192",
+      "qid": "Q1417227",
+      "accepted": false,
+      "reason": "missing or contradictory physical coordinates"
+    },
+    {
+      "poi_id": "osm-way-499111887",
+      "qid": "Q1417227",
+      "accepted": false,
+      "reason": "missing or contradictory physical coordinates"
+    },
+    {
+      "poi_id": "osm-node-10201835817",
+      "qid": "Q1520",
+      "accepted": false,
+      "reason": "missing or contradictory physical coordinates"
+    },
+    {
+      "poi_id": "osm-way-663143306",
+      "qid": "Q16632800",
+      "accepted": true,
+      "method": "explicit Wikidata and coordinates",
+      "distance_m": 13.9
+    },
+    {
+      "poi_id": "osm-relation-16827715",
+      "qid": "Q1813417",
+      "accepted": true,
+      "method": "explicit Wikidata and coordinates",
+      "distance_m": 16.6
+    },
+    {
+      "poi_id": "osm-node-4894937300",
+      "qid": "Q18405670",
+      "accepted": true,
+      "method": "explicit Wikidata and coordinates",
+      "distance_m": 69.2
+    },
+    {
+      "poi_id": "osm-way-166197368",
+      "qid": "Q2119741",
+      "accepted": true,
+      "method": "explicit Wikidata and coordinates",
+      "distance_m": 13.2
+    },
+    {
+      "poi_id": "osm-node-5130027840",
+      "qid": "Q2119741",
+      "accepted": true,
+      "method": "explicit Wikidata and coordinates",
+      "distance_m": 12.1
+    },
+    {
+      "poi_id": "overture-60318f3a-bd7d-43cf-89f1-d7317eae2a26",
+      "qid": "Q2119741",
+      "accepted": false,
+      "reason": "missing or contradictory physical coordinates"
+    },
+    {
+      "poi_id": "osm-way-917478479",
+      "qid": "Q21371563",
+      "accepted": true,
+      "method": "explicit Wikidata and coordinates",
+      "distance_m": 16.3
+    },
+    {
+      "poi_id": "osm-way-240376673",
+      "qid": "Q25502203",
+      "accepted": true,
+      "method": "exact multilingual name/alias and coordinates",
+      "distance_m": 11.7
+    },
+    {
+      "poi_id": "osm-node-13676555260",
+      "qid": "Q30642068",
+      "accepted": true,
+      "method": "explicit Wikidata and coordinates",
+      "distance_m": 7.1
+    },
+    {
+      "poi_id": "osm-way-23970573",
+      "qid": "Q32205515",
+      "accepted": false,
+      "reason": "missing or contradictory physical coordinates"
+    },
+    {
+      "poi_id": "osm-way-240873345",
+      "qid": "Q4155890",
+      "accepted": true,
+      "method": "explicit Wikidata and coordinates",
+      "distance_m": 15.0
+    },
+    {
+      "poi_id": "overture-e2027d7d-34f1-4286-891e-d036d220db4b",
+      "qid": "Q4230441",
+      "accepted": true,
+      "method": "exact multilingual name/alias and coordinates",
+      "distance_m": 29.5
+    },
+    {
+      "poi_id": "osm-node-4902164954",
+      "qid": "Q42416691",
+      "accepted": true,
+      "method": "explicit Wikidata and coordinates",
+      "distance_m": 4.7
+    },
+    {
+      "poi_id": "osm-way-37884583",
+      "qid": "Q42422250",
+      "accepted": true,
+      "method": "exact multilingual name/alias and coordinates",
+      "distance_m": 23.5
+    },
+    {
+      "poi_id": "osm-way-549307755",
+      "qid": "Q42422896",
+      "accepted": true,
+      "method": "explicit Wikidata and coordinates",
+      "distance_m": 0.2
+    },
+    {
+      "poi_id": "osm-node-13609020681",
+      "qid": "Q42422896",
+      "accepted": false,
+      "reason": "missing or contradictory physical coordinates"
+    },
+    {
+      "poi_id": "osm-way-1547354180",
+      "qid": "Q42422896",
+      "accepted": false,
+      "reason": "missing or contradictory physical coordinates"
+    },
+    {
+      "poi_id": "osm-way-230358855",
+      "qid": "Q4314789",
+      "accepted": true,
+      "method": "exact multilingual name/alias and coordinates",
+      "distance_m": 13.2
+    },
+    {
+      "poi_id": "osm-way-166265821",
+      "qid": "Q4408858",
+      "accepted": true,
+      "method": "explicit Wikidata and coordinates",
+      "distance_m": 10.5
+    },
+    {
+      "poi_id": "osm-way-240860325",
+      "qid": "Q4494668",
+      "accepted": true,
+      "method": "explicit Wikidata and coordinates",
+      "distance_m": 47.4
+    },
+    {
+      "poi_id": "osm-way-1460537088",
+      "qid": "Q573362",
+      "accepted": true,
+      "method": "explicit Wikidata and coordinates",
+      "distance_m": 7.4
+    },
+    {
+      "poi_id": "osm-way-240909218",
+      "qid": "Q65048900",
+      "accepted": true,
+      "method": "exact multilingual name/alias and coordinates",
+      "distance_m": 18.1
+    },
+    {
+      "poi_id": "osm-way-460703779",
+      "qid": "Q671484",
+      "accepted": true,
+      "method": "explicit Wikidata and coordinates",
+      "distance_m": 31.9
+    },
+    {
+      "poi_id": "osm-node-5776631777",
+      "qid": "Q746263",
+      "accepted": false,
+      "reason": "missing or contradictory physical coordinates"
+    },
+    {
+      "poi_id": "osm-node-11951889669",
+      "qid": "Q746263",
+      "accepted": false,
+      "reason": "missing or contradictory physical coordinates"
+    },
+    {
+      "poi_id": "osm-node-13609204293",
+      "qid": "Q746559",
+      "accepted": false,
+      "reason": "missing or contradictory physical coordinates"
+    },
+    {
+      "poi_id": "osm-way-1460088073",
+      "qid": "Q746559",
+      "accepted": true,
+      "method": "explicit Wikidata and coordinates",
+      "distance_m": 13.0
+    },
+    {
+      "poi_id": "osm-way-1484250141",
+      "qid": "Q746559",
+      "accepted": false,
+      "reason": "missing or contradictory physical coordinates"
+    },
+    {
+      "poi_id": "osm-node-13900933375",
+      "qid": "Q746559",
+      "accepted": false,
+      "reason": "missing or contradictory physical coordinates"
+    },
+    {
+      "poi_id": "osm-node-4020137343",
+      "qid": "Q800403",
+      "accepted": true,
+      "method": "explicit Wikidata and coordinates",
+      "distance_m": 67.6
+    },
+    {
+      "poi_id": "osm-node-13612447987",
+      "qid": "Q804210",
+      "accepted": false,
+      "reason": "missing or contradictory physical coordinates"
+    },
+    {
+      "poi_id": "osm-way-230401645",
+      "qid": "Q804210",
+      "accepted": true,
+      "method": "explicit Wikidata and coordinates",
+      "distance_m": 8.6
+    },
+    {
+      "poi_id": "overture-9a54cfda-86a8-4c07-8046-51e8f0aba6b5",
+      "qid": "Q804210",
+      "accepted": false,
+      "reason": "missing or contradictory physical coordinates"
+    }
+  ],
+  "publication": "Staged sidecar only. Publisher must deduplicate physical candidates and copy photos atomically with dataset/exports/attributions.",
+  "target_coordinates": {
+    "osm-way-24805340": {
+      "lat": 51.1940573,
+      "lon": 71.411761
+    },
+    "osm-way-762780007": {
+      "lat": 51.1219718,
+      "lon": 71.4279322
+    },
+    "osm-relation-16002498": {
+      "lat": 51.1455747,
+      "lon": 71.4899608
+    },
+    "osm-way-240376673": {
+      "lat": 51.1744453,
+      "lon": 71.4334961
+    },
+    "osm-way-240873345": {
+      "lat": 51.1206309,
+      "lon": 71.472049
+    },
+    "overture-e2027d7d-34f1-4286-891e-d036d220db4b": {
+      "lat": 51.16350509111758,
+      "lon": 71.42233147358372
+    },
+    "osm-way-37884583": {
+      "lat": 51.1314922,
+      "lon": 71.4092097
+    },
+    "osm-way-549307755": {
+      "lat": 51.1043034,
+      "lon": 71.4300836
+    },
+    "osm-way-230358855": {
+      "lat": 51.1272145,
+      "lon": 71.4271515
+    },
+    "osm-way-1460537088": {
+      "lat": 51.1227533,
+      "lon": 71.4417645
+    },
+    "osm-way-240909218": {
+      "lat": 51.1339404,
+      "lon": 71.4214227
+    }
+  }
+}

@@ -1,0 +1,1512 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Mangrove Server API",
+    "description": "Submit and retrieve reviews,\nas well as aggregate statistics about reviews.\n\n## Documentation & Resources\n\n- 📚 [Open Reviews Standard](https://mangrove.reviews/standard) - Complete specification and protocol details\n- 📖 [Schema Guide](https://mangrove.reviews/schema-guide) - Detailed schema documentation\n- 🔍 [JWT Inspector](https://inspect.mangrove.reviews/) - Interactive tool to construct, inspect, and validate review JWTs\n- 🌐 [Mangrove Reference App](https://mangrove.reviews) - Read and write reviews in the browser\n- 🐘 [Fediverse bridge](https://social.mangrove.reviews) - Follow reviewers and subjects from Mastodon\n- 📦 [Mangrove Client JS Library](https://js.mangrove.reviews/) - JavaScript wrapper for this API",
+    "contact": {
+      "name": "Open Reviews Association",
+      "email": "hello@open-reviews.net"
+    },
+    "license": {
+      "name": "Apache License 2.0",
+      "identifier": "Apache-2.0"
+    },
+    "version": "0.4.1"
+  },
+  "servers": [
+    {
+      "url": "https://api.mangrove.reviews"
+    }
+  ],
+  "paths": {
+    "/": {
+      "get": {
+        "tags": [
+          "Common"
+        ],
+        "operationId": "index",
+        "responses": {
+          "301": {
+            "description": "Redirect to API documentation"
+          }
+        }
+      }
+    },
+    "/batch": {
+      "post": {
+        "tags": [
+          "Review"
+        ],
+        "summary": "Retrieve aggregates for multiple subjects or issuers.",
+        "operationId": "batch",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/BatchQuery"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/BatchReturn"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Provided request has incorrect format.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Server encountered an error when processing the request.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/create_dump": {
+      "post": {
+        "tags": [
+          "Dump"
+        ],
+        "summary": "Triggers a dump of all reviews to S3 in all supported formats",
+        "description": "This endpoint dumps all reviews from the database to S3 in three formats:\n- JSON (with reviews, issuers, and maresi_subjects)\n- CSV\n- N-Triples RDF\n\nReturns a list of results with S3 keys and presigned download URLs valid for 7 days.\n\nRequires `X-API-Key` header with valid API key.",
+        "operationId": "create_dump",
+        "responses": {
+          "200": {
+            "description": "Dumps created successfully",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/DumpResult"
+                  }
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized - Invalid or missing API key"
+          },
+          "500": {
+            "description": "Internal server error",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "api_key": []
+          }
+        ]
+      }
+    },
+    "/dump": {
+      "get": {
+        "tags": [
+          "Dump"
+        ],
+        "summary": "Gets the latest dump and redirects to the download URL",
+        "description": "This endpoint redirects to the presigned download URL for the most recent\ndatabase dump in the requested format. The format is determined by the\n`Accept` header:\n- `application/json` (default): Latest JSON dump\n- `text/csv` or `text/html`: Latest CSV dump\n- `application/n-triples`: Latest N-Triples dump\n\nNote: This endpoint returns a 302 redirect. Use `curl -L` to follow the redirect.",
+        "operationId": "get_latest_dump",
+        "parameters": [
+          {
+            "name": "Accept",
+            "in": "header",
+            "description": "Dump format to retrieve: application/json (default), text/csv, text/html, application/n-triples",
+            "required": false,
+            "schema": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        ],
+        "responses": {
+          "302": {
+            "description": "Redirect to the latest dump download URL"
+          },
+          "404": {
+            "description": "No dump files found for the requested format"
+          },
+          "500": {
+            "description": "Internal server error",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/geo": {
+      "get": {
+        "tags": [
+          "Review"
+        ],
+        "summary": "Request reviews within provided coordinates.",
+        "operationId": "get_reviews_by_coordinates",
+        "parameters": [
+          {
+            "name": "xmin",
+            "in": "query",
+            "description": "Minimum longitude",
+            "required": true,
+            "schema": {
+              "type": "number",
+              "format": "float"
+            }
+          },
+          {
+            "name": "ymin",
+            "in": "query",
+            "description": "Minimum latitude",
+            "required": true,
+            "schema": {
+              "type": "number",
+              "format": "float"
+            }
+          },
+          {
+            "name": "xmax",
+            "in": "query",
+            "description": "Maximum longitude",
+            "required": true,
+            "schema": {
+              "type": "number",
+              "format": "float"
+            }
+          },
+          {
+            "name": "ymax",
+            "in": "query",
+            "description": "Maximum latitude",
+            "required": true,
+            "schema": {
+              "type": "number",
+              "format": "float"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Reviews"
+                }
+              },
+              "application/n-triples": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Provided request has incorrect format.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Server encountered an error when processing the request.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/identity/{id}": {
+      "get": {
+        "tags": [
+          "Identity"
+        ],
+        "summary": "Resolve a DID, or a verified alias, to the identity.",
+        "operationId": "get_identity",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "A did:plc or did:web identifier, or a verified alias without its scheme, such as `alice.bsky.social` or `www.openstreetmap.org/user/alice`.",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "example": "did:plc:z72i7hdynmk6r22z27h6tvur"
+          },
+          {
+            "name": "fresh",
+            "in": "query",
+            "description": "Ask the sources again instead of answering from the cache, when the\nlast resolution is more than a minute old.",
+            "required": false,
+            "schema": {
+              "type": "boolean"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The identity.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/IdentityResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Not a supported DID, or the identity's log is invalid.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "No document for this DID in the registry, the PLC directory, or on the did:web host; or no identity verified this alias.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Server encountered an error when processing the request.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/identity/{id}/log": {
+      "get": {
+        "tags": [
+          "Identity"
+        ],
+        "summary": "Operation log of a did:plc identity kept by this registry.",
+        "operationId": "get_identity_log",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "A did:plc identifier.",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "example": "did:plc:z72i7hdynmk6r22z27h6tvur"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Operations oldest first, including nullified ones.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/IdentityLogEntry"
+                  }
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "The registry holds no operations for this DID.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Server encountered an error when processing the request.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/identity/{id}/operations": {
+      "put": {
+        "tags": [
+          "Identity"
+        ],
+        "summary": "Append signed did:plc operations to the registry.",
+        "operationId": "put_identity_operations",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "The did:plc identifier the operations belong to.",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "description": "Signed did:plc operations, oldest first. The genesis operation must be included or stored already. The body may be at most 8 KB and an identity may have at most 100 operations.",
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "array",
+                "items": {
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "The DID document after the operations.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "The operations do not form a valid log for this DID.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "413": {
+            "description": "The body is over 8 KB.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Server encountered an error when processing the request.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/issuer/{pem}": {
+      "get": {
+        "tags": [
+          "Review"
+        ],
+        "summary": "Request aggregate information about the reviewer.",
+        "operationId": "get_issuer",
+        "parameters": [
+          {
+            "name": "pem",
+            "in": "path",
+            "description": "Request aggregate information about the reviewer.",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "example": "-----BEGIN PUBLIC KEY-----MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDo6mN4kY6YFhpvF0u3hfVWD1RnDElPweX3U3KiUAx0dVeFLPAmeKdQY3J5agY3VspnHo1p/wH9hbZ63qPbCr6g==-----END PUBLIC KEY-----"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Issuer"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Provided request has incorrect format.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Server encountered an error when processing the request.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/review/{signature}": {
+      "get": {
+        "tags": [
+          "Review"
+        ],
+        "summary": "Request review with the specified signature.",
+        "operationId": "get_review_json",
+        "parameters": [
+          {
+            "name": "signature",
+            "in": "path",
+            "description": "Signature of the review being requested.",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "example": "PDSpnKtHioXykdBCMA15y5cLuYrRbSexscvySt_ryjppDWaW1I1AijjWercZE6K-cbS18bCwSmgIPqRIuL-cow"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Review"
+                }
+              },
+              "application/n-triples": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Provided request has incorrect format.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Signature not found",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Server encountered an error when processing the request.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/reviews": {
+      "get": {
+        "tags": [
+          "Review"
+        ],
+        "summary": "Request reviews matching the provided query.",
+        "operationId": "get_reviews_route",
+        "parameters": [
+          {
+            "name": "q",
+            "in": "query",
+            "description": "Search for reviews that have this string in `sub` or `opinion` field.",
+            "required": false,
+            "schema": {
+              "type": "string"
+            },
+            "example": "restaurants in zurich"
+          },
+          {
+            "name": "signature",
+            "in": "query",
+            "description": "Review with this `signature` value.",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "kid",
+            "in": "query",
+            "description": "Reviews by issuer with the following PEM public key.",
+            "required": false,
+            "schema": {
+              "type": "string"
+            },
+            "example": "-----BEGIN PUBLIC KEY-----MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDo6mN4kY6YFhpvF0u3hfVWD1RnDElPweX3U3KiUAx0dVeFLPAmeKdQY3J5agY3VspnHo1p/wH9hbZ63qPbCr6g==-----END PUBLIC KEY-----"
+          },
+          {
+            "name": "did",
+            "in": "query",
+            "description": "Reviews by every key bound to the identity with this DID.",
+            "required": false,
+            "schema": {
+              "type": "string"
+            },
+            "example": "did:plc:z72i7hdynmk6r22z27h6tvur"
+          },
+          {
+            "name": "alias",
+            "in": "query",
+            "description": "Reviews by every key bound to the identity that verified this alias, given without its scheme.",
+            "required": false,
+            "schema": {
+              "type": "string"
+            },
+            "example": "bsky.app"
+          },
+          {
+            "name": "iat",
+            "in": "query",
+            "description": "Reviews issued at this UNIX time.",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          },
+          {
+            "name": "gt_iat",
+            "in": "query",
+            "description": "Reviews with UNIX timestamp greater than this.",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          },
+          {
+            "name": "sub",
+            "in": "query",
+            "description": "Reviews of the given subject URI. For a `geo:` URI, reviews whose location lies within the `u` radius around the given coordinates, extended by each review's own `u` value, and whose `q` name equals the given one without case, punctuation and accents. A review or a query without a name matches on location alone. Subjects joined by an accepted equivalence claim are included.",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "format": "uri"
+            }
+          },
+          {
+            "name": "rating",
+            "in": "query",
+            "description": "Reviews with the given rating.",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "format": "int16",
+              "maximum": 100,
+              "minimum": 0
+            }
+          },
+          {
+            "name": "opinion",
+            "in": "query",
+            "description": "Reviews with the given opinion.",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "description": "Maximum number of reviews to return. Default is based on format. Requests exceeding format-specific recommended limits will be rejected: JSON/N-Triples max 3500, CSV/HTML max 7000.",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "format": "int64",
+              "minimum": 1
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "description": "Number of reviews to skip before returning results. Used for pagination. Must be non-negative.",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "format": "int64",
+              "minimum": 0
+            }
+          },
+          {
+            "name": "opinionated",
+            "in": "query",
+            "description": "Only reviews which either contain or do not contain an opinion.",
+            "required": false,
+            "schema": {
+              "type": "boolean"
+            }
+          },
+          {
+            "name": "examples",
+            "in": "query",
+            "description": "Include reviews left for example subjects `https://example.com` and `geo:0,0?q=*u=*`.",
+            "required": false,
+            "schema": {
+              "type": "boolean"
+            }
+          },
+          {
+            "name": "issuers",
+            "in": "query",
+            "description": "Include aggregate information about review issuers.",
+            "required": false,
+            "schema": {
+              "type": "boolean"
+            }
+          },
+          {
+            "name": "maresi_subjects",
+            "in": "query",
+            "description": "Include aggregate information about reviews of returned reviews.",
+            "required": false,
+            "schema": {
+              "type": "boolean"
+            }
+          },
+          {
+            "name": "latest_edits_only",
+            "in": "query",
+            "description": "For edited reviews, return only the most recent version (true by default)",
+            "required": false,
+            "schema": {
+              "type": "boolean"
+            }
+          },
+          {
+            "name": "action",
+            "in": "query",
+            "description": "Filter by action type (e.g., `equivalence`, `edit`). Use `*` to include all actions. By default, equivalence claims are excluded.",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Reviews"
+                }
+              },
+              "application/n-triples": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "text/csv": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Provided request has incorrect format.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "413": {
+            "description": "Response payload too large. Reduce limit parameter or add more filters.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Server encountered an error when processing the request.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/subject/{sub}": {
+      "get": {
+        "tags": [
+          "Review"
+        ],
+        "summary": "Request aggregate information about the subject.",
+        "operationId": "get_subject",
+        "parameters": [
+          {
+            "name": "sub",
+            "in": "path",
+            "description": "Request aggregate information about the subject.",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "example": "https://nytimes.com"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Subject"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Provided request has incorrect format.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Server encountered an error when processing the request.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/submit/{jwt_review}": {
+      "put": {
+        "tags": [
+          "Review"
+        ],
+        "summary": "Submit a new review or perform actions on existing reviews",
+        "description": "Submit a Mangrove Review as a JWT. The system automatically detects the operation type based on the payload structure.\n\n## Resources\n\n- 📚 [Open Reviews Standard](https://mangrove.reviews/standard) - Complete specification\n- 📖 [Schema Guide](https://mangrove.reviews/schema-guide) - Detailed schema documentation\n- 🔍 [JWT Inspector](https://inspect.mangrove.reviews/) - Tool to construct, inspect, and validate JWTs\n\n## Request Format\n\nStandard JWT format: `header.payload.signature`\n\n**Header** must include:\n- `alg`: \"ES256\" (ECDSA P-256)\n- `typ`: \"JWT\"\n- `kid`: Public key in PEM format\n\n**Payload** can be one of 6 types (see [Payload schema](#/components/schemas/Payload) in the API documentation):\n- **Review**: Review any subject (requires `sub` (non-maresi), `rating`)\n- **Rating**: Rate a review (requires `sub` (maresi), `rating`)\n- **Comment**: Comment on a review (requires `sub` (maresi), `opinion`)\n- **Edit**: Edit your review (requires `sub` (maresi), `action: \"edit\"`, same key)\n- **Delete**: Delete your review (requires `sub` (maresi), `action: \"delete\"`, same key)\n- **ReportAbuse**: Report abuse (requires `sub` (maresi), `action: \"report_abuse\"`)\n- **Equivalence**: Assert equivalence between subjects or keys (requires `sub`, `action: \"equivalence\"`, `opinion` containing target URI or key PEM)\n\n**Signature**: ECDSA P-256 signature using the private key corresponding to the public key in header.\n\n## Key Concepts\n\n- **Maresi URIs** (`urn:maresi:{signature}`): Reference existing reviews for interactions and actions\n- **Subject URIs**: Regular URIs (https://, geo:, isbn:, lei:) for reviewing actual subjects\n- **Timestamps**: All `iat` fields must be Unix timestamp ≥ 2020-01-01 (Mangrove epoch)\n- **Authentication**: Edit and delete operations require the same public key as the original review",
+        "operationId": "submit_review_jwt",
+        "parameters": [
+          {
+            "name": "jwt_review",
+            "in": "path",
+            "description": "JWT string in format `header.payload.signature`. When decoded, the JWT contains: `kid` (public key in header), `payload` ([Payload schema](#/components/schemas/Payload) with review data), and `signature` (ECDSA signature). Use the [JWT Inspector](https://inspect.mangrove.reviews/) to construct and validate JWTs. For test reviews, use `https://example.com`, `geo:0,0?q=Test&u=100`, `urn:isbn:9780000000002`, or `urn:lei:00000000000000000098` in the `sub` field. These test URIs skip external resource validation.",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "JWT"
+            },
+            "example": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ii0tLS0tQkVHSU4gUFVCTElDIEtFWS0tLS0tTUZrd0V3WUhLb1pJemowQ0FRWUlLb1pJemowREFRY0RRZ0FFcDc4Zms1eUNqYmlZYXZ5UjZGQ2xxcTlBRkJUaXpBSG1ZdU9rcTR3cy9aYmdleG41SVQ2bi83NGt2YlZ0UGxNc3A5Z2luTysxMVZ4ZUorbVFJQ1pZamc9PS0tLS0tRU5EIFBVQkxJQyBLRVktLS0tLSIsImp3ayI6IntcImNydlwiOlwiUC0yNTZcIixcImV4dFwiOnRydWUsXCJrZXlfb3BzXCI6W1widmVyaWZ5XCJdLFwia3R5XCI6XCJFQ1wiLFwieFwiOlwicDc4Zms1eUNqYmlZYXZ5UjZGQ2xxcTlBRkJUaXpBSG1ZdU9rcTR3c19aWVwiLFwieVwiOlwiNEhzWi1TRS1wXy0tSkwyMWJUNVRMS2ZZSXB6dnRkVmNYaWZwa0NBbVdJNFwifSJ9.eyJpYXQiOjE1ODA5MTAwMjIsInN1YiI6Imh0dHBzOi8vbWFuZ3JvdmUucmV2aWV3cyIsInJhdGluZyI6NzUsIm9waW5pb24iOiJHcmVhdCB3ZWJzaXRlIGZvciByZXZpZXdzLiIsIm1ldGFkYXRhIjp7Im5pY2tuYW1lIjoiam9objEyMyIsImNsaWVudF9pZCI6Imh0dHA6Ly9sb2NhbGhvc3Q6MzAwMCJ9fQ.7xQtIlHuDdCVioyztj8i3zJ8dk3oCSfKr6VCR5RtBn6sBcqvpfyvs13PlKGJoamKzx8xUgQTQJjRPv5s91-VLQ"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Review is in the database.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "boolean"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Provided request has incorrect format.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Server encountered an error when processing the request.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Action": {
+        "type": "string",
+        "description": "Action to perform on an existing review.",
+        "enum": [
+          "edit",
+          "delete",
+          "report_abuse",
+          "equivalence",
+          "identity"
+        ]
+      },
+      "BatchQuery": {
+        "type": "object",
+        "description": "Query allowing for retrieval of information about multiple subjects or issuers.",
+        "required": [
+          "subs",
+          "pems"
+        ],
+        "properties": {
+          "pems": {
+            "type": [
+              "array",
+              "null"
+            ],
+            "items": {
+              "type": "string"
+            },
+            "description": "List of issuer public keys to get information about.\n\nQuery allowing for retrieval of information about multiple subjects or issuers."
+          },
+          "subs": {
+            "type": [
+              "array",
+              "null"
+            ],
+            "items": {
+              "type": "string",
+              "format": "uri"
+            },
+            "description": "A map from Review identifiers (`urn:maresi:<signature>`) to information about the reviews of that review.\n\nList of subject URIs to get information about."
+          }
+        }
+      },
+      "BatchReturn": {
+        "type": "object",
+        "description": "Return type for a batch query with optional subjects and issuers.",
+        "properties": {
+          "issuers": {
+            "type": [
+              "object",
+              "null"
+            ],
+            "description": "Map of issuer public keys to issuer information.",
+            "additionalProperties": {
+              "$ref": "#/components/schemas/Issuer"
+            },
+            "propertyNames": {
+              "type": "string"
+            }
+          },
+          "subjects": {
+            "type": [
+              "object",
+              "null"
+            ],
+            "description": "Map of subject identifiers to subject information.",
+            "additionalProperties": {
+              "$ref": "#/components/schemas/Subject"
+            },
+            "propertyNames": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "Coordinates": {
+        "type": "object",
+        "description": "Geographic coordinates (WGS84).",
+        "required": [
+          "lat",
+          "lon"
+        ],
+        "properties": {
+          "lat": {
+            "type": "number",
+            "format": "double"
+          },
+          "lon": {
+            "type": "number",
+            "format": "double"
+          }
+        }
+      },
+      "DumpResult": {
+        "type": "object",
+        "description": "Result of a dump operation",
+        "required": [
+          "key",
+          "download_url",
+          "record_count"
+        ],
+        "properties": {
+          "download_url": {
+            "type": "string"
+          },
+          "key": {
+            "type": "string"
+          },
+          "record_count": {
+            "type": "integer",
+            "minimum": 0
+          }
+        }
+      },
+      "Iat": {
+        "type": "integer",
+        "format": "int64",
+        "description": "Unix Time at which the review was signed."
+      },
+      "IdentityLogEntry": {
+        "type": "object",
+        "description": "One stored operation of a DID.",
+        "required": [
+          "cid",
+          "operation",
+          "nullified",
+          "created_at"
+        ],
+        "properties": {
+          "cid": {
+            "type": "string",
+            "description": "CID of the signed operation."
+          },
+          "created_at": {
+            "type": "integer",
+            "format": "int64",
+            "description": "Unix time the registry recorded the operation."
+          },
+          "nullified": {
+            "type": "boolean",
+            "description": "Whether a later recovery operation nullified this one."
+          },
+          "operation": {
+            "type": "object",
+            "description": "The signed did:plc operation."
+          }
+        }
+      },
+      "IdentityResponse": {
+        "type": "object",
+        "description": "A resolved identity.",
+        "required": [
+          "did",
+          "document",
+          "aliases",
+          "source"
+        ],
+        "properties": {
+          "aliases": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "The `alsoKnownAs` entries this server verified: an `at://` handle whose\nDNS record or well-known document names the DID, or an `https://` page\nthat contains the DID."
+          },
+          "did": {
+            "type": "string",
+            "description": "The identifier."
+          },
+          "document": {
+            "type": "object",
+            "description": "The DID document as resolved."
+          },
+          "source": {
+            "type": "string",
+            "description": "Where the document came from: `registry`, `directory` or `web`."
+          }
+        }
+      },
+      "Issuer": {
+        "type": "object",
+        "description": "Information about a review issuer.",
+        "required": [
+          "count"
+        ],
+        "properties": {
+          "count": {
+            "type": "integer",
+            "description": "Number of reviews written by this issuer.",
+            "minimum": 0
+          },
+          "credibility": {
+            "type": "number",
+            "format": "float",
+            "description": "Credibility score for this reviewer based on review quality.",
+            "maximum": 1,
+            "minimum": 0
+          },
+          "did": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Identity the key is bound to, when an identity claim was accepted for it."
+          }
+        }
+      },
+      "Opinion": {
+        "type": "string",
+        "description": "Text of an opinion that the issuer had about the subject.",
+        "maxLength": 1000
+      },
+      "Payload": {
+        "type": "object",
+        "description": "Primary content of the review, this is what gets serialized for signing.",
+        "required": [
+          "iat",
+          "sub"
+        ],
+        "properties": {
+          "action": {
+            "oneOf": [
+              {
+                "type": "null"
+              },
+              {
+                "$ref": "#/components/schemas/Action",
+                "description": "Action to perform on an existing review."
+              }
+            ]
+          },
+          "iat": {
+            "$ref": "#/components/schemas/Iat",
+            "description": "Unix Time at which the review was signed."
+          },
+          "images": {
+            "oneOf": [
+              {
+                "type": "null"
+              },
+              {
+                "$ref": "#/components/schemas/PayloadImages",
+                "description": "Images to be included in the review."
+              }
+            ]
+          },
+          "metadata": {
+            "oneOf": [
+              {
+                "type": "null"
+              },
+              {
+                "$ref": "#/components/schemas/PayloadMetadata",
+                "description": "Any data relating to the issuer or circumstances of leaving review."
+              }
+            ]
+          },
+          "opinion": {
+            "oneOf": [
+              {
+                "type": "null"
+              },
+              {
+                "$ref": "#/components/schemas/Opinion",
+                "description": "Text of an opinion that the issuer had about the subject."
+              }
+            ]
+          },
+          "rating": {
+            "oneOf": [
+              {
+                "type": "null"
+              },
+              {
+                "$ref": "#/components/schemas/Rating",
+                "description": "Rating indicating how likely the issuer is to recommend the subject."
+              }
+            ]
+          },
+          "sub": {
+            "type": "string",
+            "format": "uri",
+            "description": "Subject URI."
+          }
+        }
+      },
+      "PayloadImages": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "src": {
+              "type": "string",
+              "format": "uri"
+            }
+          }
+        },
+        "description": "Images to be included in the review, contain URLs and optional labels."
+      },
+      "PayloadMetadata": {
+        "type": "object",
+        "description": "Any data relating to the issuer or circumstances of leaving review.",
+        "properties": {
+          "age": {
+            "type": "integer",
+            "description": "User's age, must be 200 or less.",
+            "maximum": 200
+          },
+          "birthdate": {
+            "type": "string",
+            "description": "User's birthdate."
+          },
+          "client_id": {
+            "type": "string",
+            "description": "Identity of the client used to leave the review, gets populated if not provided."
+          },
+          "data_source": {
+            "type": "string",
+            "description": "Please provide the source of the review if the review does not originate from the author."
+          },
+          "experience_context": {
+            "type": "string",
+            "description": "Should be one of common contexts in which the reviewer primarily had experience with the subject: `business`, `family`, `couple`, `friends`, `solo`."
+          },
+          "family_name": {
+            "type": "string",
+            "description": "User's family name."
+          },
+          "gender": {
+            "type": "string",
+            "description": "User's gender."
+          },
+          "given_name": {
+            "type": "string",
+            "description": "User's given name."
+          },
+          "is_affiliated": {
+            "type": "boolean",
+            "description": "Please set this flag to `true` when the review is left by owner, employee or other affiliated person."
+          },
+          "is_generated": {
+            "type": "boolean",
+            "description": "Please set this flag to `true` when review was automatically generated by a bot."
+          },
+          "is_personal_experience": {
+            "type": "boolean",
+            "description": "Please set this flag to `true` when the reviewer had direct experience with the subject of the review and is not based on third party account."
+          },
+          "license": {
+            "type": "string",
+            "description": "SPDX license identifier for the review content. Defaults to CC-BY-4.0 when not specified.",
+            "enum": [
+              "CC-BY-4.0",
+              "CC-BY-SA-4.0"
+            ]
+          },
+          "nickname": {
+            "type": "string",
+            "description": "Nickname of the reviewer."
+          },
+          "openid": {
+            "type": "string",
+            "description": "OpenID identifier."
+          },
+          "original_url": {
+            "type": "string",
+            "description": "URL of the original review on the source platform, used for deduplication when importing from external sources."
+          },
+          "osm_id": {
+            "type": "string",
+            "description": "OpenStreetMap identifier of the reviewed place, in the format 'node/ID/VERSION', 'way/ID/VERSION', or 'relation/ID/VERSION' (e.g., 'node/10066902935/13'). If the version is not available, 'node/ID', 'way/ID', or 'relation/ID' is also accepted."
+          },
+          "preferred_username": {
+            "type": "string",
+            "description": "User's preferred username."
+          },
+          "reviewer_index": {
+            "type": "integer",
+            "format": "int64",
+            "description": "Unique index used by the reviewer, usually indicating a ranking in a list. Must be a valid JavaScript safe integer.",
+            "maximum": 9007199254740991
+          }
+        }
+      },
+      "Rating": {
+        "type": "integer",
+        "format": "int16",
+        "description": "Rating indicating how likely the issuer is to recommend the subject.",
+        "maximum": 100,
+        "minimum": 0
+      },
+      "Review": {
+        "type": "object",
+        "description": "Mangrove Review in encoded JWT form and with decoded fields.",
+        "required": [
+          "signature",
+          "jwt",
+          "kid",
+          "payload"
+        ],
+        "properties": {
+          "did": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Identity the signing key is bound to, when an identity claim was accepted for it."
+          },
+          "jwt": {
+            "type": "string",
+            "format": "JWT",
+            "description": "Review in JWT format."
+          },
+          "kid": {
+            "type": "string",
+            "description": "Public key of the reviewer in PEM format. The server stores and\nreturns it on one line, without whitespace between the markers."
+          },
+          "original_sub": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "The root subject resolved by tracing back through the maresi reference chain."
+          },
+          "payload": {
+            "allOf": [
+              {
+                "$ref": "#/components/schemas/Payload"
+              }
+            ],
+            "description": "Primary content of the review."
+          },
+          "signature": {
+            "type": "string",
+            "description": "JWT signature by the review issuer."
+          }
+        }
+      },
+      "Reviews": {
+        "type": "object",
+        "description": "Return type used to provide `Review`s and any associated data.",
+        "required": [
+          "reviews"
+        ],
+        "properties": {
+          "issuers": {
+            "type": [
+              "object",
+              "null"
+            ],
+            "description": "A map from public keys to information about issuers.",
+            "additionalProperties": {
+              "$ref": "#/components/schemas/Issuer"
+            },
+            "propertyNames": {
+              "type": "string"
+            }
+          },
+          "maresi_subjects": {
+            "type": [
+              "object",
+              "null"
+            ],
+            "description": "A map from Review identifiers (`urn:maresi:<signature>`) to information about the reviews of that review.",
+            "additionalProperties": {
+              "$ref": "#/components/schemas/Subject"
+            },
+            "propertyNames": {
+              "type": "string"
+            }
+          },
+          "reviews": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Review"
+            },
+            "description": "A list of reviews satisfying the `Query`."
+          }
+        }
+      },
+      "Subject": {
+        "type": "object",
+        "description": "Information about a subject of reviews.",
+        "required": [
+          "sub",
+          "quality",
+          "count",
+          "opinion_count",
+          "positive_count",
+          "confirmed_count"
+        ],
+        "properties": {
+          "confirmed_count": {
+            "type": "integer",
+            "format": "uint",
+            "description": "Number of reviews with rating above 50 and `is_personal_experience` flag given to this subject.",
+            "minimum": 0
+          },
+          "count": {
+            "type": "integer",
+            "format": "uint",
+            "description": "Number of reviews given to this subject.",
+            "minimum": 0
+          },
+          "opinion_count": {
+            "type": "integer",
+            "format": "uint",
+            "description": "Number of reviews which included an opinion.",
+            "minimum": 0
+          },
+          "positive_count": {
+            "type": "integer",
+            "format": "uint",
+            "description": "Number of reviews with rating above 50 given to this subject.",
+            "minimum": 0
+          },
+          "quality": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "format": "int16",
+            "description": "Aggregate number representing quality of the subject."
+          },
+          "sub": {
+            "type": "string",
+            "format": "uri",
+            "description": "URI uniquely identifying the subject."
+          }
+        }
+      },
+      "UncertainPoint": {
+        "type": "object",
+        "description": "Geographic point with uncertainty radius.",
+        "properties": {
+          "coordinates": {
+            "oneOf": [
+              {
+                "type": "null"
+              },
+              {
+                "$ref": "#/components/schemas/Coordinates"
+              }
+            ]
+          },
+          "uncertainty": {
+            "oneOf": [
+              {
+                "type": "null"
+              },
+              {
+                "$ref": "#/components/schemas/Uncertainty"
+              }
+            ]
+          }
+        }
+      },
+      "Uncertainty": {
+        "type": "integer",
+        "format": "int32",
+        "minimum": 0
+      }
+    },
+    "securitySchemes": {
+      "api_key": {
+        "type": "apiKey",
+        "in": "header",
+        "name": "X-API-Key"
+      }
+    }
+  }
+}

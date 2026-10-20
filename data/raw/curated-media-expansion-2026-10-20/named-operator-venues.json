@@ -1,0 +1,605 @@
+{
+  "candidate": {
+    "accessibility": {
+      "entrance": null,
+      "hearing_loop": null,
+      "step_count": null,
+      "tactile_paving": null,
+      "wheelchair": "unknown",
+      "wheelchair_description": null
+    },
+    "additional_sources": [
+      {
+        "body_sha256": "89e841972606ad4298ead58819631c5457ea0949ead954e824999ee112d0817e",
+        "collected_at": "2026-10-20T17:18:25.446343+00:00",
+        "excerpts": [
+          "The Museum of Singularity is open: 10:00-18:30 Tue–Sun, Mon — Maintenance day",
+          "[ 51.0892, 71.4161 ]"
+        ],
+        "excerpts_sha256": "2db8582e3256d829a36c8f5e0b32a0eb15172a4b34f9f84007fc9e3653552b64",
+        "name": "alem.ai",
+        "observed_at": "2026-10-20T17:18:25.446343+00:00",
+        "url": "https://alem.ai/en/"
+      }
+    ],
+    "address": "Мәңгілік Ел даңғылы В1, Астана",
+    "aliases": [
+      "Alem.ai",
+      "Alem.ai Международный центр искусственного интеллекта",
+      "Alem.ai Халықаралық Жасанды Интеллект Орталығы"
+    ],
+    "amenities": {
+      "access": null,
+      "drinking_water": null,
+      "fee": null,
+      "internet_access": null,
+      "lit": null,
+      "outdoor_seating": null,
+      "power_supply": null,
+      "surface": null,
+      "toilets": null,
+      "toilets_wheelchair": null
+    },
+    "category": "culture",
+    "category_source": {
+      "body_sha256": "89e841972606ad4298ead58819631c5457ea0949ead954e824999ee112d0817e",
+      "collected_at": "2026-10-20T17:18:25.446343+00:00",
+      "excerpts": [
+        "The Museum of Singularity is open: 10:00-18:30 Tue–Sun, Mon — Maintenance day",
+        "[ 51.0892, 71.4161 ]"
+      ],
+      "excerpts_sha256": "2db8582e3256d829a36c8f5e0b32a0eb15172a4b34f9f84007fc9e3653552b64",
+      "name": "alem.ai",
+      "observed_at": "2026-10-20T17:18:25.446343+00:00",
+      "url": "https://alem.ai/en/"
+    },
+    "contact": {
+      "email": null,
+      "phone": null,
+      "website": "https://alem.ai/kk/"
+    },
+    "coordinates_note": "Exact OSM building bounding-box centre; museum entrance not verified",
+    "description": "Alem.ai artificial intelligence centre, recommended here for viewing its exterior. The Museum of Singularity inside has a separate visitor schedule.",
+    "description_derived": false,
+    "description_source": {
+      "body_sha256": "89e841972606ad4298ead58819631c5457ea0949ead954e824999ee112d0817e",
+      "collected_at": "2026-10-20T17:18:25.446343+00:00",
+      "excerpts": [
+        "The Museum of Singularity is open: 10:00-18:30 Tue–Sun, Mon — Maintenance day",
+        "[ 51.0892, 71.4161 ]"
+      ],
+      "excerpts_sha256": "2db8582e3256d829a36c8f5e0b32a0eb15172a4b34f9f84007fc9e3653552b64",
+      "name": "alem.ai",
+      "observed_at": "2026-10-20T17:18:25.446343+00:00",
+      "url": "https://alem.ai/en/"
+    },
+    "duplicate_source_ids": [],
+    "hours": null,
+    "id": "osm-way-454857501",
+    "image": null,
+    "indoor": false,
+    "indoor_evidence": "exterior-only recommendation; building interior access not established",
+    "lat": 51.08925205,
+    "lon": 71.4161925,
+    "name": "Alem.ai",
+    "name_derived": false,
+    "names": {
+      "en": "Alem.ai",
+      "kk": "Alem.ai Халықаралық Жасанды Интеллект Орталығы",
+      "ru": "Alem.ai Международный центр искусственного интеллекта"
+    },
+    "phone": null,
+    "photos": [],
+    "poi_type": "architectural_landmark",
+    "rating": null,
+    "rating_count": null,
+    "rating_source": null,
+    "raw_tags": {
+      "addr:city": "Астана",
+      "addr:housenumber": "В1",
+      "addr:street": "Мәңгілік Ел даңғылы",
+      "building": "office",
+      "museum": "future",
+      "name": "Alem.ai",
+      "name:kk": "Alem.ai Халықаралық Жасанды Интеллект Орталығы",
+      "name:ru": "Alem.ai Международный центр искусственного интеллекта",
+      "office": "yes",
+      "website": "https://alem.ai/kk/"
+    },
+    "recommendable": true,
+    "recommended_action": "view_exterior",
+    "review_count": null,
+    "reviews": [],
+    "source": {
+      "acquisition_url": "https://www.openstreetmap.org/api/0.6/way/454857501/full.json",
+      "body_sha256": "4cdac4a5e4c2ec59980cac9b9935d0d399d395b03a67828cb17bc5ec6158b7fc",
+      "collected_at": "2026-10-20T17:18:39.959656+00:00",
+      "element_id": 454857501,
+      "element_type": "way",
+      "license": "ODbL 1.0",
+      "license_url": "https://www.openstreetmap.org/copyright",
+      "name": "OpenStreetMap",
+      "updated_at": "2026-03-08T06:02:41Z",
+      "url": "https://www.openstreetmap.org/way/454857501",
+      "version": 15
+    },
+    "tags": [
+      "architecture",
+      "culture",
+      "outdoors",
+      "photography",
+      "walk"
+    ],
+    "visitor_components": [
+      {
+        "hours": "Tu-Su 10:00-18:30; Mo off",
+        "name": "Museum of Singularity",
+        "operating_status": "open",
+        "poi_type": "museum",
+        "scope": "Museum of Singularity inside alem.ai; these hours and status do not describe the whole office centre",
+        "source": {
+          "body_sha256": "89e841972606ad4298ead58819631c5457ea0949ead954e824999ee112d0817e",
+          "collected_at": "2026-10-20T17:18:25.446343+00:00",
+          "excerpts": [
+            "The Museum of Singularity is open: 10:00-18:30 Tue–Sun, Mon — Maintenance day",
+            "[ 51.0892, 71.4161 ]"
+          ],
+          "excerpts_sha256": "2db8582e3256d829a36c8f5e0b32a0eb15172a4b34f9f84007fc9e3653552b64",
+          "name": "alem.ai",
+          "observed_at": "2026-10-20T17:18:25.446343+00:00",
+          "url": "https://alem.ai/en/"
+        }
+      }
+    ],
+    "website": "https://alem.ai/kk/",
+    "wheelchair": "unknown",
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "evidence": {
+    "operator": {
+      "body_sha256": "89e841972606ad4298ead58819631c5457ea0949ead954e824999ee112d0817e",
+      "excerpts": [
+        "The Museum of Singularity is open: 10:00-18:30 Tue–Sun, Mon — Maintenance day",
+        "[ 51.0892, 71.4161 ]"
+      ],
+      "excerpts_sha256": "2db8582e3256d829a36c8f5e0b32a0eb15172a4b34f9f84007fc9e3653552b64",
+      "facts": {
+        "hours": "Tu-Su 10:00-18:30; Mo off",
+        "name": "Museum of Singularity",
+        "point": [
+          51.0892,
+          71.4161
+        ]
+      },
+      "final_url": "https://alem.ai/en/",
+      "observed_at": "2026-10-20T17:18:25.446343+00:00",
+      "url": "https://alem.ai/en/"
+    },
+    "osm": {
+      "body_sha256": "4cdac4a5e4c2ec59980cac9b9935d0d399d395b03a67828cb17bc5ec6158b7fc",
+      "observed_at": "2026-10-20T17:18:39.959656+00:00",
+      "parsed_sha256": "5be30ec897380c23f9ac5eb86db8ca65291162b21a1451ae6d4c87de0750ace8",
+      "payload": {
+        "elements": [
+          {
+            "id": 13408473399,
+            "lat": 51.0893524,
+            "lon": 71.4155945,
+            "type": "node"
+          },
+          {
+            "id": 13408473400,
+            "lat": 51.089469,
+            "lon": 71.4156481,
+            "type": "node"
+          },
+          {
+            "id": 13408473401,
+            "lat": 51.0895673,
+            "lon": 71.4157613,
+            "type": "node"
+          },
+          {
+            "id": 13408473402,
+            "lat": 51.0896357,
+            "lon": 71.4159207,
+            "type": "node"
+          },
+          {
+            "id": 13408473403,
+            "lat": 51.0896663,
+            "lon": 71.4161076,
+            "type": "node"
+          },
+          {
+            "id": 13408473404,
+            "lat": 51.0896555,
+            "lon": 71.4162999,
+            "type": "node"
+          },
+          {
+            "id": 13408473405,
+            "lat": 51.0896097,
+            "lon": 71.4164625,
+            "type": "node"
+          },
+          {
+            "id": 13408473406,
+            "lat": 51.0895343,
+            "lon": 71.4165942,
+            "type": "node"
+          },
+          {
+            "id": 13408473411,
+            "lat": 51.0896359,
+            "lon": 71.4163823,
+            "type": "node"
+          },
+          {
+            "id": 13408473412,
+            "lat": 51.0896643,
+            "lon": 71.4162038,
+            "type": "node"
+          },
+          {
+            "id": 13408473413,
+            "lat": 51.0896537,
+            "lon": 71.416012,
+            "type": "node"
+          },
+          {
+            "id": 13408473414,
+            "lat": 51.0896049,
+            "lon": 71.4158356,
+            "type": "node"
+          },
+          {
+            "id": 13408473415,
+            "lat": 51.0895228,
+            "lon": 71.4157004,
+            "type": "node"
+          },
+          {
+            "id": 13408473416,
+            "lat": 51.0894127,
+            "lon": 71.415616,
+            "type": "node"
+          },
+          {
+            "id": 13408473417,
+            "lat": 51.0892919,
+            "lon": 71.4155921,
+            "type": "node"
+          },
+          {
+            "id": 13408473428,
+            "lat": 51.0895747,
+            "lon": 71.4165305,
+            "type": "node"
+          },
+          {
+            "id": 13408473429,
+            "lat": 51.0894882,
+            "lon": 71.4166423,
+            "type": "node"
+          },
+          {
+            "id": 13408473430,
+            "lat": 51.088916,
+            "lon": 71.4165744,
+            "type": "node"
+          },
+          {
+            "id": 13408473431,
+            "lat": 51.0888917,
+            "lon": 71.4165068,
+            "type": "node"
+          },
+          {
+            "id": 13408473432,
+            "lat": 51.0888688,
+            "lon": 71.4164371,
+            "type": "node"
+          },
+          {
+            "id": 13408473433,
+            "lat": 51.088854,
+            "lon": 71.4163534,
+            "type": "node"
+          },
+          {
+            "id": 13408473434,
+            "lat": 51.0888378,
+            "lon": 71.416126,
+            "type": "node"
+          },
+          {
+            "id": 13408473435,
+            "lat": 51.0888425,
+            "lon": 71.4160358,
+            "type": "node"
+          },
+          {
+            "id": 13408473436,
+            "lat": 51.088852,
+            "lon": 71.4159586,
+            "type": "node"
+          },
+          {
+            "id": 13408473437,
+            "lat": 51.0888695,
+            "lon": 71.4158835,
+            "type": "node"
+          },
+          {
+            "id": 13408473438,
+            "lat": 51.0889787,
+            "lon": 71.4156131,
+            "type": "node"
+          },
+          {
+            "id": 13408473439,
+            "lat": 51.0890144,
+            "lon": 71.4155605,
+            "type": "node"
+          },
+          {
+            "id": 13408473440,
+            "lat": 51.0890508,
+            "lon": 71.4155209,
+            "type": "node"
+          },
+          {
+            "id": 13408473441,
+            "lat": 51.0890959,
+            "lon": 71.4154833,
+            "type": "node"
+          },
+          {
+            "id": 13408473442,
+            "lat": 51.0891707,
+            "lon": 71.4154769,
+            "type": "node"
+          },
+          {
+            "id": 13408473443,
+            "lat": 51.0892595,
+            "lon": 71.4156,
+            "type": "node"
+          },
+          {
+            "id": 13408473444,
+            "lat": 51.0894768,
+            "lon": 71.4166511,
+            "type": "node"
+          },
+          {
+            "id": 13408473445,
+            "lat": 51.0894753,
+            "lon": 71.4168308,
+            "type": "node"
+          },
+          {
+            "id": 13408473446,
+            "lat": 51.0893581,
+            "lon": 71.416922,
+            "type": "node"
+          },
+          {
+            "id": 13408473447,
+            "lat": 51.0893048,
+            "lon": 71.4169253,
+            "type": "node"
+          },
+          {
+            "id": 13408473448,
+            "lat": 51.0892556,
+            "lon": 71.4169145,
+            "type": "node"
+          },
+          {
+            "id": 13408473449,
+            "lat": 51.0892105,
+            "lon": 71.4168974,
+            "type": "node"
+          },
+          {
+            "id": 13408473450,
+            "lat": 51.0890676,
+            "lon": 71.4168008,
+            "type": "node"
+          },
+          {
+            "id": 13408473451,
+            "lat": 51.0890252,
+            "lon": 71.4167504,
+            "type": "node"
+          },
+          {
+            "id": 13408473452,
+            "lat": 51.0889834,
+            "lon": 71.4166957,
+            "type": "node"
+          },
+          {
+            "id": 13408473453,
+            "lat": 51.0889477,
+            "lon": 71.4166334,
+            "type": "node"
+          },
+          {
+            "id": 13408473454,
+            "lat": 51.0891579,
+            "lon": 71.4154651,
+            "type": "node"
+          },
+          {
+            "id": 13408473455,
+            "lat": 51.0891438,
+            "lon": 71.4154597,
+            "type": "node"
+          },
+          {
+            "id": 13408473456,
+            "lat": 51.0891276,
+            "lon": 71.4154629,
+            "type": "node"
+          },
+          {
+            "id": 13408473457,
+            "lat": 51.088945,
+            "lon": 71.4156732,
+            "type": "node"
+          },
+          {
+            "id": 13408473458,
+            "lat": 51.088916,
+            "lon": 71.4157344,
+            "type": "node"
+          },
+          {
+            "id": 13408473459,
+            "lat": 51.0888897,
+            "lon": 71.4158095,
+            "type": "node"
+          },
+          {
+            "id": 13408473460,
+            "lat": 51.0888405,
+            "lon": 71.4162054,
+            "type": "node"
+          },
+          {
+            "id": 13408473461,
+            "lat": 51.0888452,
+            "lon": 71.4162837,
+            "type": "node"
+          },
+          {
+            "id": 13408473462,
+            "lat": 51.0891121,
+            "lon": 71.4168394,
+            "type": "node"
+          },
+          {
+            "id": 13408473463,
+            "lat": 51.0891566,
+            "lon": 71.4168716,
+            "type": "node"
+          },
+          {
+            "id": 13408473464,
+            "lat": 51.0894079,
+            "lon": 71.4169135,
+            "type": "node"
+          },
+          {
+            "id": 13408473465,
+            "lat": 51.089445,
+            "lon": 71.4169027,
+            "type": "node"
+          },
+          {
+            "id": 13408473466,
+            "lat": 51.0894565,
+            "lon": 71.4168931,
+            "type": "node"
+          },
+          {
+            "id": 13408473467,
+            "lat": 51.0894672,
+            "lon": 71.4168738,
+            "type": "node"
+          },
+          {
+            "id": 13408473468,
+            "lat": 51.0894733,
+            "lon": 71.4168534,
+            "type": "node"
+          },
+          {
+            "id": 454857501,
+            "nodes": [
+              13408473430,
+              13408473431,
+              13408473432,
+              13408473433,
+              13408473461,
+              13408473460,
+              13408473434,
+              13408473435,
+              13408473436,
+              13408473437,
+              13408473459,
+              13408473458,
+              13408473457,
+              13408473438,
+              13408473439,
+              13408473440,
+              13408473441,
+              13408473456,
+              13408473455,
+              13408473454,
+              13408473442,
+              13408473443,
+              13408473417,
+              13408473399,
+              13408473416,
+              13408473400,
+              13408473415,
+              13408473401,
+              13408473414,
+              13408473402,
+              13408473413,
+              13408473403,
+              13408473412,
+              13408473404,
+              13408473411,
+              13408473405,
+              13408473428,
+              13408473406,
+              13408473429,
+              13408473444,
+              13408473445,
+              13408473468,
+              13408473467,
+              13408473466,
+              13408473465,
+              13408473464,
+              13408473446,
+              13408473447,
+              13408473448,
+              13408473449,
+              13408473463,
+              13408473462,
+              13408473450,
+              13408473451,
+              13408473452,
+              13408473453,
+              13408473430
+            ],
+            "tags": {
+              "addr:city": "Астана",
+              "addr:housenumber": "В1",
+              "addr:street": "Мәңгілік Ел даңғылы",
+              "building": "office",
+              "museum": "future",
+              "name": "Alem.ai",
+              "name:kk": "Alem.ai Халықаралық Жасанды Интеллект Орталығы",
+              "name:ru": "Alem.ai Международный центр искусственного интеллекта",
+              "office": "yes",
+              "website": "https://alem.ai/kk/"
+            },
+            "timestamp": "2026-03-08T06:02:41Z",
+            "type": "way",
+            "version": 15
+          }
+        ]
+      },
+      "source_url": "https://www.openstreetmap.org/api/0.6/way/454857501/full.json"
+    }
+  },
+  "schema_version": 1,
+  "venue_id": "osm-way-454857501"
+}

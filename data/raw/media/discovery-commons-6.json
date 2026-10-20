@@ -1,0 +1,195 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      {
+        "from": "File:Barys_Arena.jpg",
+        "to": "File:Barys Arena.jpg"
+      },
+      {
+        "from": "File:Barys_Arena_08.2015_(cropped).jpg",
+        "to": "File:Barys Arena 08.2015 (cropped).jpg"
+      },
+      {
+        "from": "File:Blagoveschenskiy_House_Nur-Sultan_1.jpg",
+        "to": "File:Blagoveschenskiy House Nur-Sultan 1.jpg"
+      }
+    ],
+    "pages": {
+      "-1": {
+        "ns": 6,
+        "title": "File:Barys Arena 08.2015 (cropped).jpg",
+        "missing": "",
+        "imagerepository": ""
+      },
+      "42334514": {
+        "pageid": 42334514,
+        "ns": 6,
+        "title": "File:Barys Arena.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3901976,
+            "width": 5248,
+            "height": 3936,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Barys_Arena.jpg/1280px-Barys_Arena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 750,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Barys_Arena.jpg/3840px-Barys_Arena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Barys_Arena.jpg/1280px-Barys_Arena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 750,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Barys_Arena.jpg/3840px-Barys_Arena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Barys_Arena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Barys_Arena.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=42334514",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:ChelseaFunNumberOne\" title=\"User:ChelseaFunNumberOne\">ChelseaFunNumberOne</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "169486874": {
+        "pageid": 169486874,
+        "ns": 6,
+        "title": "File:Beit Rachel Synagogue, Astana.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6599154,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Beit_Rachel_Synagogue%2C_Astana.jpg/1280px-Beit_Rachel_Synagogue%2C_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 1333,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Beit_Rachel_Synagogue%2C_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Beit_Rachel_Synagogue%2C_Astana.jpg/1280px-Beit_Rachel_Synagogue%2C_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 1333,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Beit_Rachel_Synagogue%2C_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Beit_Rachel_Synagogue%2C_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Beit_Rachel_Synagogue,_Astana.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=169486874",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%D7%90%D7%9E%D7%A8_%D7%9E%D7%A8&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:אמר מר (page does not exist)\">אמר מר</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "91787928": {
+        "pageid": 91787928,
+        "ns": 6,
+        "title": "File:Blagoveschenskiy House Nur-Sultan 1.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9136765,
+            "width": 7952,
+            "height": 5304,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Blagoveschenskiy_House_Nur-Sultan_1.jpg/1280px-Blagoveschenskiy_House_Nur-Sultan_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 667,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Blagoveschenskiy_House_Nur-Sultan_1.jpg/3840px-Blagoveschenskiy_House_Nur-Sultan_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Blagoveschenskiy_House_Nur-Sultan_1.jpg/1280px-Blagoveschenskiy_House_Nur-Sultan_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 667,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Blagoveschenskiy_House_Nur-Sultan_1.jpg/3840px-Blagoveschenskiy_House_Nur-Sultan_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Blagoveschenskiy_House_Nur-Sultan_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Blagoveschenskiy_House_Nur-Sultan_1.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91787928",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mheidegger&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mheidegger (page does not exist)\">Yakov Fedorov</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    }
+  }
+}

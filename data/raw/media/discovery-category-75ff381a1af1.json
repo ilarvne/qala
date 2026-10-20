@@ -1,0 +1,37 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "categorymembers": [
+      {
+        "pageid": 199410393,
+        "ns": 6,
+        "title": "File:Astana Catholic Cathedral, exterior, September 2026 1.jpg"
+      },
+      {
+        "pageid": 199410392,
+        "ns": 6,
+        "title": "File:Astana Catholic Cathedral, exterior, September 2026 2.jpg"
+      },
+      {
+        "pageid": 199410395,
+        "ns": 6,
+        "title": "File:Astana Catholic Cathedral, exterior, September 2026 4.jpg"
+      },
+      {
+        "pageid": 199410400,
+        "ns": 6,
+        "title": "File:Astana Catholic Cathedral, exterior, September 2026 Statue of Pope John Paul II.jpg"
+      },
+      {
+        "pageid": 78873740,
+        "ns": 6,
+        "title": "File:Astana Katedra 1.jpg"
+      },
+      {
+        "pageid": 111141991,
+        "ns": 6,
+        "title": "File:Roman Catholic Church in Nur-Sultan, Kazakhstan.jpg"
+      }
+    ]
+  }
+}

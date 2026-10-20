@@ -1,0 +1,287 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "29255286": {
+        "pageid": 29255286,
+        "ns": 6,
+        "title": "File:Astana Arena 2013-10-24 21.46.10.JPG",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2415835,
+            "width": 3264,
+            "height": 2448,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Astana_Arena_2013-10-24_21.46.10.JPG/1280px-Astana_Arena_2013-10-24_21.46.10.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 750,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/6/62/Astana_Arena_2013-10-24_21.46.10.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Astana_Arena_2013-10-24_21.46.10.JPG/1280px-Astana_Arena_2013-10-24_21.46.10.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 750,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/62/Astana_Arena_2013-10-24_21.46.10.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Astana_Arena_2013-10-24_21.46.10.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Astana_Arena_2013-10-24_21.46.10.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29255286",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Satkangulov\" title=\"User:Satkangulov\">Satkangulov</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "199410393": {
+        "pageid": 199410393,
+        "ns": 6,
+        "title": "File:Astana Catholic Cathedral, exterior, September 2026 1.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3968825,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_1.jpg/1280px-Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 750,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_1.jpg/3840px-Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_1.jpg/1280px-Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 750,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_1.jpg/3840px-Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Astana_Catholic_Cathedral,_exterior,_September_2026_1.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=199410393",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bdx\" title=\"User:Bdx\">Bdx</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "199410392": {
+        "pageid": 199410392,
+        "ns": 6,
+        "title": "File:Astana Catholic Cathedral, exterior, September 2026 2.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3228739,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_2.jpg/1280px-Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 750,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_2.jpg/3840px-Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_2.jpg/1280px-Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 750,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_2.jpg/3840px-Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Astana_Catholic_Cathedral,_exterior,_September_2026_2.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=199410392",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bdx\" title=\"User:Bdx\">Bdx</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "199410395": {
+        "pageid": 199410395,
+        "ns": 6,
+        "title": "File:Astana Catholic Cathedral, exterior, September 2026 4.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3021338,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_4.jpg/1280px-Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 1333,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/6/66/Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_4.jpg/1280px-Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 1333,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/66/Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Astana_Catholic_Cathedral%2C_exterior%2C_September_2026_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Astana_Catholic_Cathedral,_exterior,_September_2026_4.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=199410395",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bdx\" title=\"User:Bdx\">Bdx</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "145601161": {
+        "pageid": 145601161,
+        "ns": 6,
+        "title": "File:Astana Grand Mosque - interior dome decoration.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4514443,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Astana_Grand_Mosque_-_interior_dome_decoration.jpg/1280px-Astana_Grand_Mosque_-_interior_dome_decoration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 1333,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/49/Astana_Grand_Mosque_-_interior_dome_decoration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Astana_Grand_Mosque_-_interior_dome_decoration.jpg/1280px-Astana_Grand_Mosque_-_interior_dome_decoration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 1333,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/49/Astana_Grand_Mosque_-_interior_dome_decoration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Astana_Grand_Mosque_-_interior_dome_decoration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Astana_Grand_Mosque_-_interior_dome_decoration.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=145601161",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Lucha\" title=\"User:Lucha\">Lucha</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    }
+  }
+}

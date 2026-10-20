@@ -1,0 +1,1324 @@
+{
+  "http_status": 200,
+  "observed_at": "2026-10-20T17:23:51.547543+00:00",
+  "requested_titles": [
+    "File:Astana Grand Mosque - interior.jpg",
+    "File:Astana Grand Mosque - main prayer hall decorations.jpg",
+    "File:Astana Katedra 1.jpg",
+    "File:Bozok.jpg",
+    "File:Circus fountain 01.jpg",
+    "File:Circus fountain 02.jpg",
+    "File:Gorky Drama Theatre Nur-Sultan.jpg",
+    "File:Kazakhstan Military History Museum 01.jpg",
+    "File:Kenesary monument, Astana.jpg",
+    "File:Military museum and Tashenov monument.jpg",
+    "File:Sairan Arena.jpg",
+    "File:Seifullin Museum Nur-Sultan.jpg",
+    "File:Seifullin Museum.jpg",
+    "File:Конгресс-Центр Астана.jpg",
+    "File:ТРЦ MEGA Silk-way и отель Hilton.jpg",
+    "File:Успенский собор 2017 1.jpg"
+  ],
+  "response": {
+    "continue": {
+      "clcontinue": "134848124|Self-published_work",
+      "continue": "||imageinfo|coordinates"
+    },
+    "query": {
+      "pages": {
+        "122360705": {
+          "categories": [
+            {
+              "ns": 14,
+              "title": "Category:CC-BY-SA-4.0"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Photographs of Astana"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Self-published work"
+            }
+          ],
+          "imageinfo": [
+            {
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122360705",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Military_museum_and_Tashenov_monument.jpg",
+              "extmetadata": {
+                "Artist": {
+                  "source": "commons-desc-page",
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:%D0%95%D1%80%D0%B4%D0%B5%D0%BD_%D0%9A%D0%B0%D1%80%D1%81%D1%8B%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2\" title=\"User:Ерден Карсыбеков\">Ерден Карсыбеков</a>"
+                },
+                "AttributionRequired": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "true"
+                },
+                "Categories": {
+                  "hidden": "",
+                  "source": "commons-categories",
+                  "value": "Self-published work|Photographs of Astana"
+                },
+                "ImageDescription": {
+                  "source": "commons-desc-page",
+                  "value": "Military museum and Tashenov monument in Nur-Sultan"
+                },
+                "LicenseShortName": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "CC BY-SA 4.0"
+                },
+                "LicenseUrl": {
+                  "source": "commons-desc-page",
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0"
+                },
+                "Restrictions": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": ""
+                }
+              },
+              "height": 3120,
+              "mime": "image/jpeg",
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Military_museum_and_Tashenov_monument.jpg/3840px-Military_museum_and_Tashenov_monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "size": 3323684,
+              "thumbattribs": {
+                "decoding": "async",
+                "height": 750,
+                "loading": "lazy",
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Military_museum_and_Tashenov_monument.jpg/1280px-Military_museum_and_Tashenov_monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Military_museum_and_Tashenov_monument.jpg/3840px-Military_museum_and_Tashenov_monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x",
+                "width": 1000
+              },
+              "thumbheight": 750,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Military_museum_and_Tashenov_monument.jpg/1280px-Military_museum_and_Tashenov_monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Military_museum_and_Tashenov_monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "width": 4160
+            }
+          ],
+          "imagerepository": "local",
+          "ns": 6,
+          "pageid": 122360705,
+          "title": "File:Military museum and Tashenov monument.jpg"
+        },
+        "128214415": {
+          "categories": [
+            {
+              "ns": 14,
+              "title": "Category:CC-BY-SA-4.0"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Futsal players from Kazakhstan"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Photographs of Astana"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Self-published work"
+            }
+          ],
+          "imageinfo": [
+            {
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128214415",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sairan_Arena.jpg",
+              "extmetadata": {
+                "Artist": {
+                  "source": "commons-desc-page",
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ashina\" title=\"User:Ashina\">Ashina</a>"
+                },
+                "AttributionRequired": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "true"
+                },
+                "Categories": {
+                  "hidden": "",
+                  "source": "commons-categories",
+                  "value": "Futsal players from Kazakhstan|Self-published work|Photographs of Astana"
+                },
+                "ImageDescription": {
+                  "source": "commons-desc-page",
+                  "value": "Тренировка сборной Казахстана по футзалу на Сайран Арене в городе Астана"
+                },
+                "LicenseShortName": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "CC BY-SA 4.0"
+                },
+                "LicenseUrl": {
+                  "source": "commons-desc-page",
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0"
+                },
+                "Restrictions": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": ""
+                }
+              },
+              "height": 4000,
+              "mime": "image/jpeg",
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Sairan_Arena.jpg/3840px-Sairan_Arena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "size": 1141415,
+              "thumbattribs": {
+                "decoding": "async",
+                "height": 667,
+                "loading": "lazy",
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Sairan_Arena.jpg/1280px-Sairan_Arena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Sairan_Arena.jpg/3840px-Sairan_Arena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x",
+                "width": 1000
+              },
+              "thumbheight": 667,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Sairan_Arena.jpg/1280px-Sairan_Arena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Sairan_Arena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "width": 6000
+            }
+          ],
+          "imagerepository": "local",
+          "ns": 6,
+          "pageid": 128214415,
+          "title": "File:Sairan Arena.jpg"
+        },
+        "132005224": {
+          "categories": [
+            {
+              "ns": 14,
+              "title": "Category:CC-BY-SA-4.0"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Cultural heritage monuments in Astana"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Photographs of Astana"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Self-published work"
+            }
+          ],
+          "imageinfo": [
+            {
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=132005224",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bozok.jpg",
+              "extmetadata": {
+                "Artist": {
+                  "source": "commons-desc-page",
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mheidegger&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mheidegger (page does not exist)\">Yakov Fedorov</a>"
+                },
+                "AttributionRequired": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "true"
+                },
+                "Categories": {
+                  "hidden": "",
+                  "source": "commons-categories",
+                  "value": "Self-published work|Photographs of Astana|Cultural heritage monuments in Astana"
+                },
+                "ImageDescription": {
+                  "source": "commons-desc-page",
+                  "value": "Городище Бозок"
+                },
+                "LicenseShortName": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "CC BY-SA 4.0"
+                },
+                "LicenseUrl": {
+                  "source": "commons-desc-page",
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0"
+                },
+                "Restrictions": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": ""
+                }
+              },
+              "height": 5304,
+              "mime": "image/jpeg",
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Bozok.jpg/3840px-Bozok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "size": 35454976,
+              "thumbattribs": {
+                "decoding": "async",
+                "height": 667,
+                "loading": "lazy",
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Bozok.jpg/1280px-Bozok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Bozok.jpg/3840px-Bozok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x",
+                "width": 1000
+              },
+              "thumbheight": 667,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Bozok.jpg/1280px-Bozok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bozok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "width": 7952
+            }
+          ],
+          "imagerepository": "local",
+          "ns": 6,
+          "pageid": 132005224,
+          "title": "File:Bozok.jpg"
+        },
+        "134846118": {
+          "categories": [
+            {
+              "ns": 14,
+              "title": "Category:CC-BY-SA-4.0"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Kazakhstan photographs taken on 2023-03-22"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Night in Astana"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Parks in Astana"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Self-published work"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Shopping malls in Astana"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Snow in Astana"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Snow in Kazakhstan at night"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Snow in Kazakhstan in March"
+            }
+          ],
+          "imageinfo": [
+            {
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=134846118",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:%D0%A2%D0%A0%D0%A6_MEGA_Silk-way_%D0%B8_%D0%BE%D1%82%D0%B5%D0%BB%D1%8C_Hilton.jpg",
+              "extmetadata": {
+                "Artist": {
+                  "source": "commons-desc-page",
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%D0%A8%D0%B0%D0%BB%D0%BA%D0%B5%D1%80_%D0%93%D0%B0%D0%BC&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Шалкер Гам (page does not exist)\">Шалкер Гам</a>"
+                },
+                "AttributionRequired": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "true"
+                },
+                "Categories": {
+                  "hidden": "",
+                  "source": "commons-categories",
+                  "value": "Parks in Astana|Self-published work|Snow in Astana|Kazakhstan photographs taken on 2023-03-22|Snow in Kazakhstan in March|Snow in Kazakhstan at night|Shopping malls in Astana|Night in Astana"
+                },
+                "ImageDescription": {
+                  "source": "commons-desc-page",
+                  "value": "Вид на ТРЦ MEGA Silk-way и отель Hilton из  Экспо-парка."
+                },
+                "LicenseShortName": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "CC BY-SA 4.0"
+                },
+                "LicenseUrl": {
+                  "source": "commons-desc-page",
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0"
+                },
+                "Restrictions": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": ""
+                }
+              },
+              "height": 3024,
+              "mime": "image/jpeg",
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/%D0%A2%D0%A0%D0%A6_MEGA_Silk-way_%D0%B8_%D0%BE%D1%82%D0%B5%D0%BB%D1%8C_Hilton.jpg/3840px-%D0%A2%D0%A0%D0%A6_MEGA_Silk-way_%D0%B8_%D0%BE%D1%82%D0%B5%D0%BB%D1%8C_Hilton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "size": 2487793,
+              "thumbattribs": {
+                "decoding": "async",
+                "height": 750,
+                "loading": "lazy",
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/%D0%A2%D0%A0%D0%A6_MEGA_Silk-way_%D0%B8_%D0%BE%D1%82%D0%B5%D0%BB%D1%8C_Hilton.jpg/1280px-%D0%A2%D0%A0%D0%A6_MEGA_Silk-way_%D0%B8_%D0%BE%D1%82%D0%B5%D0%BB%D1%8C_Hilton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/%D0%A2%D0%A0%D0%A6_MEGA_Silk-way_%D0%B8_%D0%BE%D1%82%D0%B5%D0%BB%D1%8C_Hilton.jpg/3840px-%D0%A2%D0%A0%D0%A6_MEGA_Silk-way_%D0%B8_%D0%BE%D1%82%D0%B5%D0%BB%D1%8C_Hilton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x",
+                "width": 1000
+              },
+              "thumbheight": 750,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/%D0%A2%D0%A0%D0%A6_MEGA_Silk-way_%D0%B8_%D0%BE%D1%82%D0%B5%D0%BB%D1%8C_Hilton.jpg/1280px-%D0%A2%D0%A0%D0%A6_MEGA_Silk-way_%D0%B8_%D0%BE%D1%82%D0%B5%D0%BB%D1%8C_Hilton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/%D0%A2%D0%A0%D0%A6_MEGA_Silk-way_%D0%B8_%D0%BE%D1%82%D0%B5%D0%BB%D1%8C_Hilton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "width": 4032
+            }
+          ],
+          "imagerepository": "local",
+          "ns": 6,
+          "pageid": 134846118,
+          "title": "File:ТРЦ MEGA Silk-way и отель Hilton.jpg"
+        },
+        "134848124": {
+          "categories": [
+            {
+              "ns": 14,
+              "title": "Category:CC-BY-SA-4.0"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Photographs of Astana"
+            }
+          ],
+          "imageinfo": [
+            {
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=134848124",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81-%D0%A6%D0%B5%D0%BD%D1%82%D1%80_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0.jpg",
+              "extmetadata": {
+                "Artist": {
+                  "source": "commons-desc-page",
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%D0%A8%D0%B0%D0%BB%D0%BA%D0%B5%D1%80_%D0%93%D0%B0%D0%BC&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Шалкер Гам (page does not exist)\">Шалкер Гам</a>"
+                },
+                "AttributionRequired": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "true"
+                },
+                "Categories": {
+                  "hidden": "",
+                  "source": "commons-categories",
+                  "value": "Self-published work|Photographs of Astana"
+                },
+                "ImageDescription": {
+                  "source": "commons-desc-page",
+                  "value": "Конгресс-Центр Астана"
+                },
+                "LicenseShortName": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "CC BY-SA 4.0"
+                },
+                "LicenseUrl": {
+                  "source": "commons-desc-page",
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0"
+                },
+                "Restrictions": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": ""
+                }
+              },
+              "height": 4032,
+              "mime": "image/jpeg",
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81-%D0%A6%D0%B5%D0%BD%D1%82%D1%80_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0.jpg/1920px-%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81-%D0%A6%D0%B5%D0%BD%D1%82%D1%80_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "size": 3213025,
+              "thumbattribs": {
+                "decoding": "async",
+                "height": 1333,
+                "loading": "lazy",
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81-%D0%A6%D0%B5%D0%BD%D1%82%D1%80_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0.jpg/1280px-%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81-%D0%A6%D0%B5%D0%BD%D1%82%D1%80_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81-%D0%A6%D0%B5%D0%BD%D1%82%D1%80_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0.jpg/1920px-%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81-%D0%A6%D0%B5%D0%BD%D1%82%D1%80_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x",
+                "width": 1000
+              },
+              "thumbheight": 1333,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81-%D0%A6%D0%B5%D0%BD%D1%82%D1%80_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0.jpg/1280px-%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81-%D0%A6%D0%B5%D0%BD%D1%82%D1%80_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81-%D0%A6%D0%B5%D0%BD%D1%82%D1%80_%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "width": 3024
+            }
+          ],
+          "imagerepository": "local",
+          "ns": 6,
+          "pageid": 134848124,
+          "title": "File:Конгресс-Центр Астана.jpg"
+        },
+        "145601157": {
+          "coordinates": [
+            {
+              "globe": "earth",
+              "lat": 51.072806,
+              "lon": 71.411539,
+              "primary": ""
+            }
+          ],
+          "imageinfo": [
+            {
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=145601157",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Astana_Grand_Mosque_-_interior.jpg",
+              "extmetadata": {
+                "Artist": {
+                  "source": "commons-desc-page",
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Lucha\" title=\"User:Lucha\">Lucha</a>"
+                },
+                "AttributionRequired": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "true"
+                },
+                "Categories": {
+                  "hidden": "",
+                  "source": "commons-categories",
+                  "value": "Astana Grand Mosque|Self-published work|Files with coordinates missing SDC location of creation"
+                },
+                "ImageDescription": {
+                  "source": "commons-desc-page",
+                  "value": "Astana Grand Mosque - interior, hallway"
+                },
+                "LicenseShortName": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "CC BY-SA 4.0"
+                },
+                "LicenseUrl": {
+                  "source": "commons-desc-page",
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0"
+                },
+                "Restrictions": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": ""
+                }
+              },
+              "height": 4032,
+              "mime": "image/jpeg",
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Astana_Grand_Mosque_-_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "size": 3555388,
+              "thumbattribs": {
+                "decoding": "async",
+                "height": 1333,
+                "loading": "lazy",
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Astana_Grand_Mosque_-_interior.jpg/1280px-Astana_Grand_Mosque_-_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Astana_Grand_Mosque_-_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x",
+                "width": 1000
+              },
+              "thumbheight": 1333,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Astana_Grand_Mosque_-_interior.jpg/1280px-Astana_Grand_Mosque_-_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Astana_Grand_Mosque_-_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "width": 3024
+            }
+          ],
+          "imagerepository": "local",
+          "ns": 6,
+          "pageid": 145601157,
+          "title": "File:Astana Grand Mosque - interior.jpg"
+        },
+        "145601162": {
+          "coordinates": [
+            {
+              "globe": "earth",
+              "lat": 51.072344,
+              "lon": 71.409278,
+              "primary": ""
+            }
+          ],
+          "imageinfo": [
+            {
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=145601162",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Astana_Grand_Mosque_-_main_prayer_hall_decorations.jpg",
+              "extmetadata": {
+                "Artist": {
+                  "source": "commons-desc-page",
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Lucha\" title=\"User:Lucha\">Lucha</a>"
+                },
+                "AttributionRequired": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "true"
+                },
+                "Categories": {
+                  "hidden": "",
+                  "source": "commons-categories",
+                  "value": "Names of God in Islam|Astana Grand Mosque|Self-published work|Files with coordinates missing SDC location of creation"
+                },
+                "ImageDescription": {
+                  "source": "commons-desc-page",
+                  "value": "Astana Grand Mosque - Main prayer hall. The decorations on the wall represent the 99 names of Allah."
+                },
+                "LicenseShortName": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "CC BY-SA 4.0"
+                },
+                "LicenseUrl": {
+                  "source": "commons-desc-page",
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0"
+                },
+                "Restrictions": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": ""
+                }
+              },
+              "height": 3024,
+              "mime": "image/jpeg",
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Astana_Grand_Mosque_-_main_prayer_hall_decorations.jpg/3840px-Astana_Grand_Mosque_-_main_prayer_hall_decorations.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "size": 4445992,
+              "thumbattribs": {
+                "decoding": "async",
+                "height": 750,
+                "loading": "lazy",
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Astana_Grand_Mosque_-_main_prayer_hall_decorations.jpg/1280px-Astana_Grand_Mosque_-_main_prayer_hall_decorations.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Astana_Grand_Mosque_-_main_prayer_hall_decorations.jpg/3840px-Astana_Grand_Mosque_-_main_prayer_hall_decorations.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x",
+                "width": 1000
+              },
+              "thumbheight": 750,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Astana_Grand_Mosque_-_main_prayer_hall_decorations.jpg/1280px-Astana_Grand_Mosque_-_main_prayer_hall_decorations.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Astana_Grand_Mosque_-_main_prayer_hall_decorations.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "width": 4032
+            }
+          ],
+          "imagerepository": "local",
+          "ns": 6,
+          "pageid": 145601162,
+          "title": "File:Astana Grand Mosque - main prayer hall decorations.jpg"
+        },
+        "150151599": {
+          "imageinfo": [
+            {
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150151599",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kenesary_monument,_Astana.jpg",
+              "extmetadata": {
+                "Artist": {
+                  "source": "commons-desc-page",
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Nikolamikovic82&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Nikolamikovic82 (page does not exist)\">Nikolamikovic82</a>"
+                },
+                "AttributionRequired": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "false"
+                },
+                "Categories": {
+                  "hidden": "",
+                  "source": "commons-categories",
+                  "value": "CC-Zero|Self-published work|Statues of people in Astana"
+                },
+                "ImageDescription": {
+                  "source": "commons-desc-page",
+                  "value": "Kenesary monument"
+                },
+                "LicenseShortName": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "CC0"
+                },
+                "LicenseUrl": {
+                  "source": "commons-desc-page",
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+                },
+                "Restrictions": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": ""
+                }
+              },
+              "height": 4032,
+              "mime": "image/jpeg",
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Kenesary_monument%2C_Astana.jpg/1920px-Kenesary_monument%2C_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "size": 2437921,
+              "thumbattribs": {
+                "decoding": "async",
+                "height": 1333,
+                "loading": "lazy",
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Kenesary_monument%2C_Astana.jpg/1280px-Kenesary_monument%2C_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Kenesary_monument%2C_Astana.jpg/1920px-Kenesary_monument%2C_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x",
+                "width": 1000
+              },
+              "thumbheight": 1333,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Kenesary_monument%2C_Astana.jpg/1280px-Kenesary_monument%2C_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Kenesary_monument%2C_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "width": 3024
+            }
+          ],
+          "imagerepository": "local",
+          "ns": 6,
+          "pageid": 150151599,
+          "title": "File:Kenesary monument, Astana.jpg"
+        },
+        "75293078": {
+          "categories": [
+            {
+              "ns": 14,
+              "title": "Category:CC-BY-SA-4.0"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Orthodox cathedral in Astana"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Self-published work"
+            }
+          ],
+          "imageinfo": [
+            {
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=75293078",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_2017_1.jpg",
+              "extmetadata": {
+                "Artist": {
+                  "source": "commons-desc-page",
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:%D0%9C%D0%B0%D0%B7%D1%83%D1%80_%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D1%8F\" title=\"User:Мазур Володя\">Мазур Владимир</a>"
+                },
+                "AttributionRequired": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "true"
+                },
+                "Categories": {
+                  "hidden": "",
+                  "source": "commons-categories",
+                  "value": "Orthodox cathedral in Astana|Self-published work"
+                },
+                "ImageDescription": {
+                  "source": "commons-desc-page",
+                  "value": "Кафедральный Успенский собор, август 2017"
+                },
+                "LicenseShortName": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "CC BY-SA 4.0"
+                },
+                "LicenseUrl": {
+                  "source": "commons-desc-page",
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0"
+                },
+                "Restrictions": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": ""
+                }
+              },
+              "height": 3096,
+              "mime": "image/jpeg",
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_2017_1.jpg/3840px-%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_2017_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "size": 4737196,
+              "thumbattribs": {
+                "decoding": "async",
+                "height": 750,
+                "loading": "lazy",
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_2017_1.jpg/1280px-%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_2017_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_2017_1.jpg/3840px-%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_2017_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x",
+                "width": 1000
+              },
+              "thumbheight": 750,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_2017_1.jpg/1280px-%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_2017_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_2017_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "width": 4128
+            }
+          ],
+          "imagerepository": "local",
+          "ns": 6,
+          "pageid": 75293078,
+          "title": "File:Успенский собор 2017 1.jpg"
+        },
+        "78873740": {
+          "categories": [
+            {
+              "ns": 14,
+              "title": "Category:CC-BY-SA-4.0"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Files with coordinates missing SDC location of creation"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Our Mother of Perpetual Help Cathedral, Astana"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Self-published work"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Taken with Vernee Mix 2"
+            }
+          ],
+          "coordinates": [
+            {
+              "globe": "earth",
+              "lat": 51.153744,
+              "lon": 71.45134,
+              "primary": ""
+            }
+          ],
+          "imageinfo": [
+            {
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=78873740",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Astana_Katedra_1.jpg",
+              "extmetadata": {
+                "Artist": {
+                  "source": "commons-desc-page",
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Polk\" title=\"User:Polk\">Polk</a>"
+                },
+                "AttributionRequired": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "true"
+                },
+                "Categories": {
+                  "hidden": "",
+                  "source": "commons-categories",
+                  "value": "Our Mother of Perpetual Help Cathedral, Astana|Self-published work|Files with coordinates missing SDC location of creation|Taken with Vernee Mix 2"
+                },
+                "ImageDescription": {
+                  "source": "commons-desc-page",
+                  "value": "Astana Katedra 1"
+                },
+                "LicenseShortName": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "CC BY-SA 4.0"
+                },
+                "LicenseUrl": {
+                  "source": "commons-desc-page",
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0"
+                },
+                "Restrictions": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": ""
+                }
+              },
+              "height": 3120,
+              "mime": "image/jpeg",
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Astana_Katedra_1.jpg/3840px-Astana_Katedra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "size": 5300606,
+              "thumbattribs": {
+                "decoding": "async",
+                "height": 750,
+                "loading": "lazy",
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Astana_Katedra_1.jpg/1280px-Astana_Katedra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Astana_Katedra_1.jpg/3840px-Astana_Katedra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x",
+                "width": 1000
+              },
+              "thumbheight": 750,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Astana_Katedra_1.jpg/1280px-Astana_Katedra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Astana_Katedra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "width": 4160
+            }
+          ],
+          "imagerepository": "local",
+          "ns": 6,
+          "pageid": 78873740,
+          "title": "File:Astana Katedra 1.jpg"
+        },
+        "83916906": {
+          "categories": [
+            {
+              "ns": 14,
+              "title": "Category:CC-BY-SA-4.0"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Circus fountain (Astana)"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Self-published work"
+            }
+          ],
+          "imageinfo": [
+            {
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83916906",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Circus_fountain_01.jpg",
+              "extmetadata": {
+                "Artist": {
+                  "source": "commons-desc-page",
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Codas\" title=\"User:Codas\">Davide Mauro</a>"
+                },
+                "AttributionRequired": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "true"
+                },
+                "Categories": {
+                  "hidden": "",
+                  "source": "commons-categories",
+                  "value": "Self-published work|Circus fountain (Astana)"
+                },
+                "ImageDescription": {
+                  "source": "commons-desc-page",
+                  "value": "Circus fountain"
+                },
+                "LicenseShortName": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "CC BY-SA 4.0"
+                },
+                "LicenseUrl": {
+                  "source": "commons-desc-page",
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0"
+                },
+                "Restrictions": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": ""
+                }
+              },
+              "height": 2975,
+              "mime": "image/jpeg",
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Circus_fountain_01.jpg/3840px-Circus_fountain_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "size": 2401508,
+              "thumbattribs": {
+                "decoding": "async",
+                "height": 605,
+                "loading": "lazy",
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Circus_fountain_01.jpg/1280px-Circus_fountain_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Circus_fountain_01.jpg/3840px-Circus_fountain_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x",
+                "width": 1000
+              },
+              "thumbheight": 605,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Circus_fountain_01.jpg/1280px-Circus_fountain_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Circus_fountain_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "width": 4914
+            }
+          ],
+          "imagerepository": "local",
+          "ns": 6,
+          "pageid": 83916906,
+          "title": "File:Circus fountain 01.jpg"
+        },
+        "83916908": {
+          "categories": [
+            {
+              "ns": 14,
+              "title": "Category:CC-BY-SA-4.0"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Circus fountain (Astana)"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Self-published work"
+            }
+          ],
+          "imageinfo": [
+            {
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83916908",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Circus_fountain_02.jpg",
+              "extmetadata": {
+                "Artist": {
+                  "source": "commons-desc-page",
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Codas\" title=\"User:Codas\">Davide Mauro</a>"
+                },
+                "AttributionRequired": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "true"
+                },
+                "Categories": {
+                  "hidden": "",
+                  "source": "commons-categories",
+                  "value": "Self-published work|Circus fountain (Astana)"
+                },
+                "ImageDescription": {
+                  "source": "commons-desc-page",
+                  "value": "Circus fountain"
+                },
+                "LicenseShortName": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "CC BY-SA 4.0"
+                },
+                "LicenseUrl": {
+                  "source": "commons-desc-page",
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0"
+                },
+                "Restrictions": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": ""
+                }
+              },
+              "height": 4000,
+              "mime": "image/jpeg",
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Circus_fountain_02.jpg/3840px-Circus_fountain_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "size": 4739608,
+              "thumbattribs": {
+                "decoding": "async",
+                "height": 667,
+                "loading": "lazy",
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Circus_fountain_02.jpg/1280px-Circus_fountain_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Circus_fountain_02.jpg/3840px-Circus_fountain_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x",
+                "width": 1000
+              },
+              "thumbheight": 667,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Circus_fountain_02.jpg/1280px-Circus_fountain_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Circus_fountain_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "width": 6000
+            }
+          ],
+          "imagerepository": "local",
+          "ns": 6,
+          "pageid": 83916908,
+          "title": "File:Circus fountain 02.jpg"
+        },
+        "84212674": {
+          "categories": [
+            {
+              "ns": 14,
+              "title": "Category:CC-BY-SA-4.0"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Kazakhstan Military History Museum"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Self-published work"
+            }
+          ],
+          "imageinfo": [
+            {
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84212674",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kazakhstan_Military_History_Museum_01.jpg",
+              "extmetadata": {
+                "Artist": {
+                  "source": "commons-desc-page",
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Codas\" title=\"User:Codas\">Davide Mauro</a>"
+                },
+                "AttributionRequired": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "true"
+                },
+                "Categories": {
+                  "hidden": "",
+                  "source": "commons-categories",
+                  "value": "Self-published work|Kazakhstan Military History Museum"
+                },
+                "ImageDescription": {
+                  "source": "commons-desc-page",
+                  "value": "Kazakhstan Military History Museum"
+                },
+                "LicenseShortName": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "CC BY-SA 4.0"
+                },
+                "LicenseUrl": {
+                  "source": "commons-desc-page",
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0"
+                },
+                "Restrictions": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": ""
+                }
+              },
+              "height": 4000,
+              "mime": "image/jpeg",
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Kazakhstan_Military_History_Museum_01.jpg/3840px-Kazakhstan_Military_History_Museum_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "size": 8990755,
+              "thumbattribs": {
+                "decoding": "async",
+                "height": 667,
+                "loading": "lazy",
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Kazakhstan_Military_History_Museum_01.jpg/1280px-Kazakhstan_Military_History_Museum_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Kazakhstan_Military_History_Museum_01.jpg/3840px-Kazakhstan_Military_History_Museum_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x",
+                "width": 1000
+              },
+              "thumbheight": 667,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Kazakhstan_Military_History_Museum_01.jpg/1280px-Kazakhstan_Military_History_Museum_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Kazakhstan_Military_History_Museum_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "width": 6000
+            }
+          ],
+          "imagerepository": "local",
+          "ns": 6,
+          "pageid": 84212674,
+          "title": "File:Kazakhstan Military History Museum 01.jpg"
+        },
+        "91787937": {
+          "categories": [
+            {
+              "ns": 14,
+              "title": "Category:CC-BY-SA-4.0"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Gorky Drama Theatre Astana"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Neoclassical architecture in Kazakhstan"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Self-published work"
+            }
+          ],
+          "imageinfo": [
+            {
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91787937",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gorky_Drama_Theatre_Nur-Sultan.jpg",
+              "extmetadata": {
+                "Artist": {
+                  "source": "commons-desc-page",
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mheidegger&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mheidegger (page does not exist)\">Yakov Fedorov</a>"
+                },
+                "AttributionRequired": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "true"
+                },
+                "Categories": {
+                  "hidden": "",
+                  "source": "commons-categories",
+                  "value": "Neoclassical architecture in Kazakhstan|Self-published work|Gorky Drama Theatre Astana"
+                },
+                "ImageDescription": {
+                  "source": "commons-desc-page",
+                  "value": "Театр драмы им. Горького"
+                },
+                "LicenseShortName": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "CC BY-SA 4.0"
+                },
+                "LicenseUrl": {
+                  "source": "commons-desc-page",
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0"
+                },
+                "Restrictions": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": ""
+                }
+              },
+              "height": 5304,
+              "mime": "image/jpeg",
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Gorky_Drama_Theatre_Nur-Sultan.jpg/3840px-Gorky_Drama_Theatre_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "size": 4463501,
+              "thumbattribs": {
+                "decoding": "async",
+                "height": 667,
+                "loading": "lazy",
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Gorky_Drama_Theatre_Nur-Sultan.jpg/1280px-Gorky_Drama_Theatre_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Gorky_Drama_Theatre_Nur-Sultan.jpg/3840px-Gorky_Drama_Theatre_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x",
+                "width": 1000
+              },
+              "thumbheight": 667,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Gorky_Drama_Theatre_Nur-Sultan.jpg/1280px-Gorky_Drama_Theatre_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Gorky_Drama_Theatre_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "width": 7952
+            }
+          ],
+          "imagerepository": "local",
+          "ns": 6,
+          "pageid": 91787937,
+          "title": "File:Gorky Drama Theatre Nur-Sultan.jpg"
+        },
+        "91787946": {
+          "categories": [
+            {
+              "ns": 14,
+              "title": "Category:CC-BY-SA-4.0"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Cultural heritage monuments in Astana"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Museums in Astana"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Self-published work"
+            }
+          ],
+          "imageinfo": [
+            {
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91787946",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Seifullin_Museum_Nur-Sultan.jpg",
+              "extmetadata": {
+                "Artist": {
+                  "source": "commons-desc-page",
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mheidegger&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mheidegger (page does not exist)\">Yakov Fedorov</a>"
+                },
+                "AttributionRequired": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "true"
+                },
+                "Categories": {
+                  "hidden": "",
+                  "source": "commons-categories",
+                  "value": "Self-published work|Museums in Astana|Cultural heritage monuments in Astana"
+                },
+                "ImageDescription": {
+                  "source": "commons-desc-page",
+                  "value": "Музей Сакена Сейфуллина"
+                },
+                "LicenseShortName": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "CC BY-SA 4.0"
+                },
+                "LicenseUrl": {
+                  "source": "commons-desc-page",
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0"
+                },
+                "Restrictions": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": ""
+                }
+              },
+              "height": 5304,
+              "mime": "image/jpeg",
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Seifullin_Museum_Nur-Sultan.jpg/3840px-Seifullin_Museum_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "size": 8712108,
+              "thumbattribs": {
+                "decoding": "async",
+                "height": 667,
+                "loading": "lazy",
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Seifullin_Museum_Nur-Sultan.jpg/1280px-Seifullin_Museum_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Seifullin_Museum_Nur-Sultan.jpg/3840px-Seifullin_Museum_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x",
+                "width": 1000
+              },
+              "thumbheight": 667,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Seifullin_Museum_Nur-Sultan.jpg/1280px-Seifullin_Museum_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Seifullin_Museum_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "width": 7952
+            }
+          ],
+          "imagerepository": "local",
+          "ns": 6,
+          "pageid": 91787946,
+          "title": "File:Seifullin Museum Nur-Sultan.jpg"
+        },
+        "92000571": {
+          "categories": [
+            {
+              "ns": 14,
+              "title": "Category:CC-BY-SA-4.0"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Museums in Astana"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Self-published work"
+            }
+          ],
+          "imageinfo": [
+            {
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92000571",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Seifullin_Museum.jpg",
+              "extmetadata": {
+                "Artist": {
+                  "source": "commons-desc-page",
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mheidegger&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mheidegger (page does not exist)\">Yakov Fedorov</a>"
+                },
+                "AttributionRequired": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "true"
+                },
+                "Categories": {
+                  "hidden": "",
+                  "source": "commons-categories",
+                  "value": "Self-published work|Museums in Astana"
+                },
+                "ImageDescription": {
+                  "source": "commons-desc-page",
+                  "value": "Музей Сакена Сейфуллина"
+                },
+                "LicenseShortName": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "CC BY-SA 4.0"
+                },
+                "LicenseUrl": {
+                  "source": "commons-desc-page",
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0"
+                },
+                "Restrictions": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": ""
+                }
+              },
+              "height": 3516,
+              "mime": "image/jpeg",
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Seifullin_Museum.jpg/3840px-Seifullin_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "size": 1738156,
+              "thumbattribs": {
+                "decoding": "async",
+                "height": 644,
+                "loading": "lazy",
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Seifullin_Museum.jpg/1280px-Seifullin_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Seifullin_Museum.jpg/3840px-Seifullin_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x",
+                "width": 1000
+              },
+              "thumbheight": 644,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Seifullin_Museum.jpg/1280px-Seifullin_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Seifullin_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "width": 5458
+            }
+          ],
+          "imagerepository": "local",
+          "ns": 6,
+          "pageid": 92000571,
+          "title": "File:Seifullin Museum.jpg"
+        }
+      }
+    }
+  },
+  "response_sha256": "84be5f08ca947f82907d168b1702c51dbf3d9e5fa306e832313585e6e4b2cce5",
+  "source_url": "https://commons.wikimedia.org/w/api.php"
+}

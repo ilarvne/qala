@@ -1,0 +1,249 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      {
+        "from": "File:Astana,_Kazakhstan_(8239484922).jpg",
+        "to": "File:Astana, Kazakhstan (8239484922).jpg"
+      },
+      {
+        "from": "File:Astana,_by_the_River_(4054863149).jpg",
+        "to": "File:Astana, by the River (4054863149).jpg"
+      },
+      {
+        "from": "File:Astana-2021-10_-_3.jpg",
+        "to": "File:Astana-2021-10 - 3.jpg"
+      },
+      {
+        "from": "File:Astana-2021-10_-_37.jpg",
+        "to": "File:Astana-2021-10 - 37.jpg"
+      }
+    ],
+    "pages": {
+      "76121285": {
+        "pageid": 76121285,
+        "ns": 6,
+        "title": "File:Astana, Kazakhstan (8239484922).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3832094,
+            "width": 3240,
+            "height": 2160,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Astana%2C_Kazakhstan_%288239484922%29.jpg/1280px-Astana%2C_Kazakhstan_%288239484922%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 667,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Astana%2C_Kazakhstan_%288239484922%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Astana%2C_Kazakhstan_%288239484922%29.jpg/1280px-Astana%2C_Kazakhstan_%288239484922%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 667,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Astana%2C_Kazakhstan_%288239484922%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Astana%2C_Kazakhstan_%288239484922%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Astana,_Kazakhstan_(8239484922).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=76121285",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/37583176@N00\">Ninara</a> from Helsinki, Finland",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "24569427": {
+        "pageid": 24569427,
+        "ns": 6,
+        "title": "File:Astana, by the River (4054863149).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7357959,
+            "width": 4416,
+            "height": 3312,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Astana%2C_by_the_River_%284054863149%29.jpg/1280px-Astana%2C_by_the_River_%284054863149%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 750,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Astana%2C_by_the_River_%284054863149%29.jpg/3840px-Astana%2C_by_the_River_%284054863149%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Astana%2C_by_the_River_%284054863149%29.jpg/1280px-Astana%2C_by_the_River_%284054863149%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 750,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Astana%2C_by_the_River_%284054863149%29.jpg/3840px-Astana%2C_by_the_River_%284054863149%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Astana%2C_by_the_River_%284054863149%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Astana,_by_the_River_(4054863149).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24569427",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/68877611@N00\">Peretz Partensky</a> from San Francisco, USA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "111475617": {
+        "pageid": 111475617,
+        "ns": 6,
+        "title": "File:Astana-2021-10 - 3.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6699387,
+            "width": 3934,
+            "height": 1826,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Astana-2021-10_-_3.jpg/1280px-Astana-2021-10_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 464,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Astana-2021-10_-_3.jpg/3840px-Astana-2021-10_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Astana-2021-10_-_3.jpg/1280px-Astana-2021-10_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 464,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Astana-2021-10_-_3.jpg/3840px-Astana-2021-10_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Astana-2021-10_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Astana-2021-10_-_3.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=111475617",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Vyacheslav_Bukharov\" title=\"User:Vyacheslav Bukharov\">Vyacheslav Bukharov</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "111475607": {
+        "pageid": 111475607,
+        "ns": 6,
+        "title": "File:Astana-2021-10 - 37.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6312260,
+            "width": 3885,
+            "height": 1660,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Astana-2021-10_-_37.jpg/1280px-Astana-2021-10_-_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 427,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Astana-2021-10_-_37.jpg/3840px-Astana-2021-10_-_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Astana-2021-10_-_37.jpg/1280px-Astana-2021-10_-_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 427,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Astana-2021-10_-_37.jpg/3840px-Astana-2021-10_-_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Astana-2021-10_-_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Astana-2021-10_-_37.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=111475607",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Vyacheslav_Bukharov\" title=\"User:Vyacheslav Bukharov\">Vyacheslav Bukharov</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    }
+  }
+}

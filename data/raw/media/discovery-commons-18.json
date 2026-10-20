@@ -1,0 +1,197 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      {
+        "from": "File:Silin_House_Nur-Sultan.jpg",
+        "to": "File:Silin House Nur-Sultan.jpg"
+      },
+      {
+        "from": "File:Stamps_of_Kazakhstan,_2012-32.jpg",
+        "to": "File:Stamps of Kazakhstan, 2012-32.jpg"
+      },
+      {
+        "from": "File:Synagogue_in_Astana.JPG",
+        "to": "File:Synagogue in Astana.JPG"
+      },
+      {
+        "from": "File:Talan_Towers_(The_Ritz-Carlton_Hotel).jpg",
+        "to": "File:Talan Towers (The Ritz-Carlton Hotel).jpg"
+      }
+    ],
+    "pages": {
+      "-1": {
+        "ns": 6,
+        "title": "File:Synagogue in Astana.JPG",
+        "missing": "",
+        "imagerepository": ""
+      },
+      "-2": {
+        "ns": 6,
+        "title": "File:Talan Towers (The Ritz-Carlton Hotel).jpg",
+        "missing": "",
+        "imagerepository": ""
+      },
+      "90600439": {
+        "pageid": 90600439,
+        "ns": 6,
+        "title": "File:Silin House Nur-Sultan.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4749383,
+            "width": 7533,
+            "height": 4772,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Silin_House_Nur-Sultan.jpg/1280px-Silin_House_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 633,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Silin_House_Nur-Sultan.jpg/3840px-Silin_House_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Silin_House_Nur-Sultan.jpg/1280px-Silin_House_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 633,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Silin_House_Nur-Sultan.jpg/3840px-Silin_House_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Silin_House_Nur-Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Silin_House_Nur-Sultan.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=90600439",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mheidegger&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mheidegger (page does not exist)\">Yakov Fedorov</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "33654893": {
+        "pageid": 33654893,
+        "ns": 6,
+        "title": "File:Stamps of Kazakhstan, 2012-32.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 420233,
+            "width": 718,
+            "height": 670,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Stamps_of_Kazakhstan%2C_2012-32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1000,
+            "thumbheight": 933,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/Stamps_of_Kazakhstan%2C_2012-32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 933
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Stamps_of_Kazakhstan%2C_2012-32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Stamps_of_Kazakhstan,_2012-32.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=33654893",
+            "extmetadata": {
+              "Artist": {
+                "value": "Post of Kazakhstan",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "92827479": {
+        "pageid": 92827479,
+        "ns": 6,
+        "title": "File:Zdanie meteostancii astana.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2731962,
+            "width": 3515,
+            "height": 2633,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Zdanie_meteostancii_astana.jpg/1280px-Zdanie_meteostancii_astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 749,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Zdanie_meteostancii_astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Zdanie_meteostancii_astana.jpg/1280px-Zdanie_meteostancii_astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 749,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Zdanie_meteostancii_astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Zdanie_meteostancii_astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zdanie_meteostancii_astana.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92827479",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Talgautb\" title=\"User:Talgautb\">Talgautb</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    }
+  }
+}

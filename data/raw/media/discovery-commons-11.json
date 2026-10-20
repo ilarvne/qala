@@ -1,0 +1,149 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      {
+        "from": "File:KazMunayGas_04.jpg",
+        "to": "File:KazMunayGas 04.jpg"
+      },
+      {
+        "from": "File:Kazakh_Eli.jpg",
+        "to": "File:Kazakh Eli.jpg"
+      },
+      {
+        "from": "File:Kazakhstan_Central_Concert_Hall.jpg",
+        "to": "File:Kazakhstan Central Concert Hall.jpg"
+      },
+      {
+        "from": "File:Kazakhstan_P9130181_(39371381774).jpg",
+        "to": "File:Kazakhstan P9130181 (39371381774).jpg"
+      }
+    ],
+    "pages": {
+      "-1": {
+        "ns": 6,
+        "title": "File:KazMunayGas 04.jpg",
+        "missing": "",
+        "imagerepository": ""
+      },
+      "-2": {
+        "ns": 6,
+        "title": "File:Kazakhstan Central Concert Hall.jpg",
+        "missing": "",
+        "imagerepository": ""
+      },
+      "17144352": {
+        "pageid": 17144352,
+        "ns": 6,
+        "title": "File:Kazakh Eli.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2864668,
+            "width": 3120,
+            "height": 2316,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Kazakh_Eli.jpg/1280px-Kazakh_Eli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 742,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Kazakh_Eli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Kazakh_Eli.jpg/1280px-Kazakh_Eli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 742,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Kazakh_Eli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Kazakh_Eli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kazakh_Eli.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17144352",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/71279764@N00\">Ken and Nyetta</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "67989916": {
+        "pageid": 67989916,
+        "ns": 6,
+        "title": "File:Kazakhstan P9130181 (39371381774).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7967917,
+            "width": 4608,
+            "height": 3456,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Kazakhstan_P9130181_%2839371381774%29.jpg/1280px-Kazakhstan_P9130181_%2839371381774%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 750,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Kazakhstan_P9130181_%2839371381774%29.jpg/3840px-Kazakhstan_P9130181_%2839371381774%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Kazakhstan_P9130181_%2839371381774%29.jpg/1280px-Kazakhstan_P9130181_%2839371381774%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 750,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Kazakhstan_P9130181_%2839371381774%29.jpg/3840px-Kazakhstan_P9130181_%2839371381774%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Kazakhstan_P9130181_%2839371381774%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kazakhstan_P9130181_(39371381774).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=67989916",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46258424@N06\">t_y_l</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    }
+  }
+}

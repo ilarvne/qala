@@ -1,0 +1,27 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "categorymembers": [
+      {
+        "pageid": 69172859,
+        "ns": 6,
+        "title": "File:Astana DSC04263 (7709970126).jpg"
+      },
+      {
+        "pageid": 69172869,
+        "ns": 6,
+        "title": "File:Astana DSC04265 (7710983498).jpg"
+      },
+      {
+        "pageid": 83925819,
+        "ns": 6,
+        "title": "File:Astana Opera 02.jpg"
+      },
+      {
+        "pageid": 150151343,
+        "ns": 6,
+        "title": "File:The State Opera and Ballet Theatre “Astana Opera”.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "categorymembers": [
+      {
+        "pageid": 67990004,
+        "ns": 6,
+        "title": "File:Kazakhstan P9130193 (25210358427).jpg"
+      },
+      {
+        "pageid": 51002228,
+        "ns": 6,
+        "title": "File:Панорама стадиона имени Мунайтпасова.jpg"
+      },
+      {
+        "pageid": 51002227,
+        "ns": 6,
+        "title": "File:Стадион имени Мунайтпасова.jpg"
+      }
+    ]
+  }
+}

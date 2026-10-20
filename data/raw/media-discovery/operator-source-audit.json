@@ -1,0 +1,1664 @@
+{
+  "schema_version": 1,
+  "observed_at": "2026-10-20T15:07:13.875112+00:00",
+  "source_dataset_sha256": "e5aa17c3ba1a4437b0f3ea7bf589360222b8198797c53865a5f130867cfd20f3",
+  "url_candidates": 337,
+  "urls_attempted": 100,
+  "network_requests": 186,
+  "urls_collected": 57,
+  "records": [
+    {
+      "url": "https://www.marriott.com/hotels/fact-sheet/travel/tsemc-astana-marriott-hotel/",
+      "status": "deferred",
+      "reason": "CrawlRejected: Source HTTP 403",
+      "poi_ids": [
+        "osm-way-243041479"
+      ]
+    },
+    {
+      "url": "https://www.marriott.com/en-us/hotels/tsesi-sheraton-astana-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "status": "deferred",
+      "reason": "CrawlRejected: Source HTTP 403",
+      "poi_ids": [
+        "osm-way-486561788"
+      ]
+    },
+    {
+      "url": "https://www.tesla.com/findus/location/supercharger/nursultansupercharger",
+      "status": "deferred",
+      "reason": "CrawlRejected: robots.txt disallows this path or could not be verified",
+      "poi_ids": [
+        "osm-node-11832321437"
+      ]
+    },
+    {
+      "url": "https://www.hilton.com/en/hotels/tsekzhx-hampton-astana-triumphal-arch",
+      "status": "deferred",
+      "reason": "CrawlRejected: robots.txt disallows this path or could not be verified",
+      "poi_ids": [
+        "osm-node-5880883481"
+      ]
+    },
+    {
+      "url": "https://www.hilton.com/en/hotels/tseakgi-hilton-garden-inn-astana/",
+      "status": "deferred",
+      "reason": "CrawlRejected: robots.txt disallows this path or could not be verified",
+      "poi_ids": [
+        "osm-way-258126534"
+      ]
+    },
+    {
+      "url": "https://astanagp3.kz/jas_tolkyn/mtsz_zhas_tolkyn_quot/index.php",
+      "status": "deferred",
+      "reason": "CrawlRejected: DNS resolution failed",
+      "poi_ids": [
+        "osm-way-24805419"
+      ]
+    },
+    {
+      "url": "https://www.hilton.com/en/hotels/tsekahi-hilton-astana/",
+      "status": "deferred",
+      "reason": "CrawlRejected: robots.txt disallows this path or could not be verified",
+      "poi_ids": [
+        "osm-node-5880883095"
+      ]
+    },
+    {
+      "url": "https://a-vm.kz/en/objects/bayterek/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://a-vm.kz/en/objects/bayterek/",
+          "final_url": "https://a-vm.kz/en/objects/bayterek/",
+          "observed_at": "2026-10-20T15:04:28.588817+00:00",
+          "sha256": "5acc79cb34a040ee6b51808b8fde4cfa6db81170222c9049a04e38e977757ce1",
+          "poi_id": "osm-way-230401645",
+          "poi_name": "Bayterek",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://abr.kz/restaurant/luckee-yu",
+      "status": "deferred",
+      "reason": "CrawlRejected: robots.txt disallows this path or could not be verified",
+      "poi_ids": [
+        "osm-node-13397061026"
+      ]
+    },
+    {
+      "url": "https://coffee-original-7.kamiqr.com/menu/at-place/list",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://coffee-original-7.kamiqr.com/menu/at-place/list",
+          "final_url": "https://coffee-original-7.kamiqr.com/menu/at-place/list",
+          "observed_at": "2026-10-20T15:04:29.570345+00:00",
+          "sha256": "a4674509b23a25cd4d826633ffc8ca3e063577f84706bfe4eb70c7ede58ebfcf",
+          "poi_id": "osm-way-1333795504",
+          "poi_name": "Coffee Original",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://www.sportmaster.ru/store/209/949402/",
+      "status": "deferred",
+      "reason": "CrawlRejected: Source HTTP 401",
+      "poi_ids": [
+        "osm-node-3337854395"
+      ]
+    },
+    {
+      "url": "https://aster.kz/dealer/branch/11",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://aster.kz/dealer/branch/11",
+          "final_url": "https://aster.kz/dealer/branch/11",
+          "observed_at": "2026-10-20T15:04:31.555024+00:00",
+          "sha256": "e08949eb8b976946f52657905e7293a3ab2fb87c555ea9a980860fdcaa69cafc",
+          "poi_id": "osm-node-10168668519",
+          "poi_name": "Aster.kz",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://aster.kz/dealer/branch/37",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://aster.kz/dealer/branch/37",
+          "final_url": "https://aster.kz/dealer/branch/37",
+          "observed_at": "2026-10-20T15:04:32.391422+00:00",
+          "sha256": "8c496a81dd6bdb360fa774067a5cbd028cc1cb4f6c2136e85bc34634d97f3d3e",
+          "poi_id": "osm-node-10168668523",
+          "poi_name": "Aster.kz",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://mdregion.asia/company/contacts",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://mdregion.asia/company/contacts",
+          "final_url": "https://mdregion.asia/company/contacts/",
+          "observed_at": "2026-10-20T15:04:41.537493+00:00",
+          "sha256": "912a5b05162baa6fe39c731995fa3c432fa551ce6527ef468a305bbf71e6193d",
+          "poi_id": "osm-node-12880922891",
+          "poi_name": "MdRegion",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://mdregion.asia/upload/bitlate_proshop/177/177a71da0c4834a51585bcec71642ffc_preview.jpg",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://abr.kz/restaurant/coco",
+      "status": "deferred",
+      "reason": "CrawlRejected: robots.txt disallows this path or could not be verified",
+      "poi_ids": [
+        "osm-node-13397061028"
+      ]
+    },
+    {
+      "url": "https://et-et.kamiqr.com/menu/basic/list",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://et-et.kamiqr.com/menu/basic/list",
+          "final_url": "https://et-et.kamiqr.com/menu/basic/list",
+          "observed_at": "2026-10-20T15:04:34.339682+00:00",
+          "sha256": "09f4ac1e98eb23185717bc7d0794a0d75aefc434999158f73fb045630a958f2f",
+          "poi_id": "osm-node-12364973050",
+          "poi_name": "Et-Et",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://instalink.kz/insidedetailing",
+      "status": "deferred",
+      "reason": "CrawlRejected: DNS resolution failed",
+      "poi_ids": [
+        "osm-node-6267827685"
+      ]
+    },
+    {
+      "url": "https://astana.avtomir.ru/new-cars/geely",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://astana.avtomir.ru/new-cars/geely",
+          "final_url": "https://astana.avtomir.ru/new-cars/geely/",
+          "observed_at": "2026-10-20T15:04:39.623813+00:00",
+          "sha256": "acac9d7cdd082dab20aed6e74654a5a1db2bb3cec4010ba3daaa6ae97cbfd07c",
+          "poi_id": "osm-node-13949202820",
+          "poi_name": "Автомир",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://astana.avtomir.ru/local/templates/.default/img/content/logo.png",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "http://www.auruhana1.kz/index.php/ru/",
+      "status": "deferred",
+      "reason": "CrawlRejected: Source HTTP 404",
+      "poi_ids": [
+        "osm-relation-20682807"
+      ]
+    },
+    {
+      "url": "http://www.gdb2astana.kz/index.php/ru/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "http://www.gdb2astana.kz/index.php/ru/",
+          "final_url": "http://gdb2astana.kz/index.php/ru/",
+          "observed_at": "2026-10-20T15:04:42.237105+00:00",
+          "sha256": "ec97c568250832bdb2feeed353dceec3941ad775d23b1383da244cf3931d6037",
+          "poi_id": "osm-way-1513435694",
+          "poi_name": "№2 көпбейінді қалалық балалар ауруханасы",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://taplink.cc/library_enu",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://taplink.cc/library_enu",
+          "final_url": "https://taplink.cc/library_enu",
+          "observed_at": "2026-10-20T15:04:43.140702+00:00",
+          "sha256": "2c99de93b11a3aaf0d650ee41f78427a9cca66d6ec3858f1201eeb065d1abc8b",
+          "poi_id": "osm-node-10570309737",
+          "poi_name": "Читальный зал ЕНУ",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://i.taplink.st/a/f/9/e/4/5bf193.png?2",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://allur.kz/chevrolet/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://allur.kz/chevrolet/",
+          "final_url": "https://allur.kz/",
+          "observed_at": "2026-10-20T15:04:48.000628+00:00",
+          "sha256": "b6269b33861d41c608807c450d1f848e0361347a37f9e096180828433414420e",
+          "poi_id": "osm-node-12293496662",
+          "poi_name": "Allur",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://www.hotelkazzhol.kz/ru/astana",
+      "status": "deferred",
+      "reason": "CrawlRejected: robots.txt disallows this path or could not be verified",
+      "poi_ids": [
+        "osm-node-3755503446"
+      ]
+    },
+    {
+      "url": "https://allur.kz/skoda/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://allur.kz/skoda/",
+          "final_url": "https://allur.kz/",
+          "observed_at": "2026-10-20T15:04:48.832104+00:00",
+          "sha256": "563e47cc5a3bc993095aba048045db8f942d3105e82358b6501b3c2d8920af4b",
+          "poi_id": "osm-node-12293496673",
+          "poi_name": "Allur",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://coffeeboom.kamiqr.com/menu/1",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://coffeeboom.kamiqr.com/menu/1",
+          "final_url": "https://coffeeboom.kamiqr.com/menu/basic",
+          "observed_at": "2026-10-20T15:04:48.530781+00:00",
+          "sha256": "7890c39da37a90f56aa1e09877fdb4d1aee53b5ef40b46a89b5238c406d0e936",
+          "poi_id": "osm-node-10295608316",
+          "poi_name": "Coffee BOOM",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://kishlak.kz/astana",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://kishlak.kz/astana",
+          "final_url": "https://kishlak.kz/astana/",
+          "observed_at": "2026-10-20T15:04:51.663926+00:00",
+          "sha256": "fe0180e2b4bda39f86e4f36b155b54f6523dc98e95fd6884dfce0133864dad70",
+          "poi_id": "osm-node-3404172551",
+          "poi_name": "Кишлак",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://kishlak.kz/wp-content/uploads/2021/02/DSC_9349-930x350-1.jpg",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://italio.kamiqr.com/menu/",
+      "status": "deferred",
+      "reason": "CrawlRejected: robots.txt disallows this path or could not be verified",
+      "poi_ids": [
+        "osm-node-13159240457"
+      ]
+    },
+    {
+      "url": "https://kz.siberianwellness.com/kz-ru",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://kz.siberianwellness.com/kz-ru",
+          "final_url": "https://kz.siberianwellness.com/kz-ru/",
+          "observed_at": "2026-10-20T15:05:05.504940+00:00",
+          "sha256": "b1d6b29b2cc9adc79750225413c9167a6f781a372c28f7aecbec896dd3d8f73a",
+          "poi_id": "osm-node-11345949805",
+          "poi_name": "Siberian Wellness",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://static.siberianhealth.com/public/im3/images/6/6673d4a5-32f0-4689-9a9a-9e5ede142b31.jpg",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://mssg.me/x19ba",
+      "status": "deferred",
+      "reason": "CrawlRejected: robots.txt disallows this path or could not be verified",
+      "poi_ids": [
+        "osm-node-12373882409"
+      ]
+    },
+    {
+      "url": "https://allur.kz/kia/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://allur.kz/kia/",
+          "final_url": "https://allur.kz/",
+          "observed_at": "2026-10-20T15:05:09.866875+00:00",
+          "sha256": "7724281f407bc413f15273e74fa6d79459bcc1911c7d91093622fd626259141d",
+          "poi_id": "osm-node-12293496668",
+          "poi_name": "Allur",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://altynadam.wix.com/home",
+      "status": "deferred",
+      "reason": "CrawlRejected: Source HTTP 404",
+      "poi_ids": [
+        "osm-node-2864129921"
+      ]
+    },
+    {
+      "url": "https://hyundai-astana.kz/ru/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://hyundai-astana.kz/ru/",
+          "final_url": "https://hyundai-astana.kz/ru/",
+          "observed_at": "2026-10-20T15:05:07.053293+00:00",
+          "sha256": "3cc33dfcb5ce32eda7eb6cff96173ef6c955450eeaff856cf506f81f119e2d19",
+          "poi_id": "osm-way-424894616",
+          "poi_name": "Hyundai Premium Astana",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://hyundai-astana.kz",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://www.nmrk.kz/en/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://www.nmrk.kz/en/",
+          "final_url": "https://www.nmrk.kz/en/",
+          "observed_at": "2026-10-20T15:05:08.561385+00:00",
+          "sha256": "4767ce888b1704784e0b9db04cfdccc304f58d0848621853349bdbdd66e625a3",
+          "poi_id": "osm-node-4894937300",
+          "poi_name": "National Museum of the Republic of Kazakhstan",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://arman3d.kz/61",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://arman3d.kz/61",
+          "final_url": "https://arman3d.kz/61",
+          "observed_at": "2026-10-20T15:05:09.229266+00:00",
+          "sha256": "257e3157ff03b30abe3eda203b20839e2a50b59b9759848301a29c64558a4593",
+          "poi_id": "osm-node-2474931663",
+          "poi_name": "Arman 3D",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://chery-astana.tilda.ws/ru",
+      "status": "deferred",
+      "reason": "CrawlRejected: Source HTTP 404",
+      "poi_ids": [
+        "osm-node-12880899594"
+      ]
+    },
+    {
+      "url": "https://comforthotel.kz/en",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://comforthotel.kz/en",
+          "final_url": "https://comforthotel.kz/en",
+          "observed_at": "2026-10-20T15:05:12.396383+00:00",
+          "sha256": "51085df8fe3224e755e566e1e9e35403fa12b419d19a5a30d16df547687ae491",
+          "poi_id": "osm-way-917478480",
+          "poi_name": "Comfort Hotel Astana",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://comforthotel.kz/storage/app/media/logoog.jpg",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://compass.express/ru",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://compass.express/ru",
+          "final_url": "https://compass.express/ru",
+          "observed_at": "2026-10-20T15:05:13.153125+00:00",
+          "sha256": "3ee65ee276a1a9ec3cda653348212f04d4074b05028808bf74874ca119674627",
+          "poi_id": "osm-node-4660332291",
+          "poi_name": "Compas",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "http://107.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "http://107.kz/",
+          "final_url": "https://mebeletika.kz/",
+          "observed_at": "2026-10-20T15:05:43.328423+00:00",
+          "sha256": "c1f4257f43bac3e280bad35fe73eb7bed06e4acbd18502a43bd8e54fa530534d",
+          "poi_id": "osm-node-3351711364",
+          "poi_name": "Жана Керуен",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "http://astanaclinic.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "http://astanaclinic.kz/",
+          "final_url": "https://astanaclinic.kz/index.php/kk/",
+          "observed_at": "2026-10-20T15:05:43.663171+00:00",
+          "sha256": "efcbe02ae8b6ea98b5e59476bfffcb8bd579fed6c2cac9eb30ed9b6f29cc1fbc",
+          "poi_id": "osm-way-424894649",
+          "poi_name": "№2 көпбейінді қалалық аурухана",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "http://mgdb-3.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "http://mgdb-3.kz/",
+          "final_url": "https://mgdb-3.kz/index.php/kk/",
+          "observed_at": "2026-10-20T15:05:44.438598+00:00",
+          "sha256": "5324908c0db3c2ef371d77fff8876c39b4582c82b5425d8045a26bd196b3cbea",
+          "poi_id": "osm-way-424894638",
+          "poi_name": "№ 3 көпбейінді қалалық балалар ауруханасы",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "http://okstudio.club/",
+      "status": "deferred",
+      "reason": "CrawlRejected: DNS resolution failed",
+      "poi_ids": [
+        "osm-node-5197533043"
+      ]
+    },
+    {
+      "url": "http://pc3-astana.kz/",
+      "status": "deferred",
+      "reason": "CrawlRejected: DNS resolution failed",
+      "poi_ids": [
+        "osm-relation-20679172"
+      ]
+    },
+    {
+      "url": "http://ru.astanaairport.kz/",
+      "status": "deferred",
+      "reason": "CrawlRejected: DNS resolution failed",
+      "poi_ids": [
+        "osm-way-507841374"
+      ]
+    },
+    {
+      "url": "http://soluxe-astana.kz/",
+      "status": "deferred",
+      "reason": "CrawlRejected: robots.txt disallows this path or could not be verified",
+      "poi_ids": [
+        "osm-way-230403277"
+      ]
+    },
+    {
+      "url": "http://turfan.kz/",
+      "status": "deferred",
+      "reason": "CrawlRejected: DNS resolution failed",
+      "poi_ids": [
+        "osm-node-2389981591"
+      ]
+    },
+    {
+      "url": "http://womenspa.kz/",
+      "status": "deferred",
+      "reason": "CrawlRejected: DNS resolution failed",
+      "poi_ids": [
+        "osm-node-12398072583"
+      ]
+    },
+    {
+      "url": "http://www.emhana8.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "http://www.emhana8.kz/",
+          "final_url": "http://emhana8.kz/",
+          "observed_at": "2026-10-20T15:05:44.941050+00:00",
+          "sha256": "17e8e3cb34b6aebdf41d34c10ff71bb58a0f779499d185658e73ea02f544721f",
+          "poi_id": "osm-way-1519562358",
+          "poi_name": "№8 қалалық емхана",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "http://www.thestregisastana.com/",
+      "status": "deferred",
+      "reason": "CrawlRejected: robots.txt disallows this path or could not be verified",
+      "poi_ids": [
+        "osm-node-5101392660"
+      ]
+    },
+    {
+      "url": "https://1337.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://1337.kz/",
+          "final_url": "https://1337.kz/",
+          "observed_at": "2026-10-20T15:05:46.760675+00:00",
+          "sha256": "9c3e5dd7c08c2ca838a40cccc1f6bc4be4f3ff4c7434bbfd4a6a7299ded12909",
+          "poi_id": "osm-node-4529345494",
+          "poi_name": "1337 Studio",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://abudhabiplaza.info/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://abudhabiplaza.info/",
+          "final_url": "https://abudhabiplaza.info/",
+          "observed_at": "2026-10-20T15:05:48.165158+00:00",
+          "sha256": "b212c08454910a9494ef9527b37665092883ecd31ef8e29bba58b93614a19475",
+          "poi_id": "osm-way-762780007",
+          "poi_name": "Abu Dhabi Plaza",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://alataucitybank.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://alataucitybank.kz/",
+          "final_url": "https://alataucitybank.kz/",
+          "observed_at": "2026-10-20T15:05:49.415380+00:00",
+          "sha256": "3e87812c26e4faa215aeb9e270d532558b05030cc00bebdac803fc8d4e1c7ab7",
+          "poi_id": "osm-node-6050756085",
+          "poi_name": "Tsesnabank",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://alataucitybank.kz/_next/static/media/logo.cecdb635.png",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://alau.info/",
+      "status": "deferred",
+      "reason": "CrawlRejected: DNS resolution failed",
+      "poi_ids": [
+        "osm-way-166267459"
+      ]
+    },
+    {
+      "url": "https://alit.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://alit.kz/",
+          "final_url": "https://alit.kz/",
+          "observed_at": "2026-10-20T15:05:50.661285+00:00",
+          "sha256": "272bc337543f3b0e23d9f25d292025b2a2f9cf80d9e43a11c364344e62933a0c",
+          "poi_id": "osm-node-11345949823",
+          "poi_name": "Alit",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://altynkredit.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://altynkredit.kz/",
+          "final_url": "https://altynkredit.kz/",
+          "observed_at": "2026-10-20T15:05:51.336235+00:00",
+          "sha256": "b58e3d970691e89e98b79101f6da1a6e3742a433554dbed7ba5934fee76795cf",
+          "poi_id": "osm-node-5637979031",
+          "poi_name": "МФО «Алтын Кредит»",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://thb.tildacdn.pro/tild6237-3537-4633-a333-386139623935/-/resize/504x/2_copy.jpg",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://anvar.kz/",
+      "status": "deferred",
+      "reason": "CrawlRejected: robots.txt disallows this path or could not be verified",
+      "poi_ids": [
+        "osm-way-917251138"
+      ]
+    },
+    {
+      "url": "https://arka.kz/",
+      "status": "deferred",
+      "reason": "CrawlRejected: robots.txt disallows this path or could not be verified",
+      "poi_ids": [
+        "osm-way-230409020"
+      ]
+    },
+    {
+      "url": "https://arsenal.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://arsenal.kz/",
+          "final_url": "https://arsenal.kz/",
+          "observed_at": "2026-10-20T15:05:52.473699+00:00",
+          "sha256": "693df0210083869a276c202896f256a54ebf2eb672a3945c093f23cb3653bf27",
+          "poi_id": "osm-way-239954943",
+          "poi_name": "Arsenal",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://ast.cookn.run/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://ast.cookn.run/",
+          "final_url": "https://cookn.run/ast",
+          "observed_at": "2026-10-20T15:06:26.678821+00:00",
+          "sha256": "06690f12659d180e0e0995f3878891d78a8c7968b2fe405d22bb8b2e927acfbc",
+          "poi_id": "osm-node-11301869137",
+          "poi_name": "Cook&Run",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://cookn.run/assets/template/img/1.webp",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://astana.svolna.kz/",
+      "status": "deferred",
+      "reason": "CrawlRejected: Source HTTP 403",
+      "poi_ids": [
+        "osm-node-11345949808"
+      ]
+    },
+    {
+      "url": "https://astanaarena.kz/",
+      "status": "deferred",
+      "reason": "CrawlRejected: robots.txt disallows this path or could not be verified",
+      "poi_ids": [
+        "osm-way-1460088073"
+      ]
+    },
+    {
+      "url": "https://astanagp3.kz/",
+      "status": "deferred",
+      "reason": "CrawlRejected: DNS resolution failed",
+      "poi_ids": [
+        "osm-node-6514622870"
+      ]
+    },
+    {
+      "url": "https://astanaopera.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://astanaopera.kz/",
+          "final_url": "https://astanaopera.kz/",
+          "observed_at": "2026-10-20T15:06:10.607966+00:00",
+          "sha256": "ab98606c6df6a69ce2e6e4adce6d5c2a1ad1904cc7332891e6654f4371907f74",
+          "poi_id": "osm-way-917478479",
+          "poi_name": "Astana Opera",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://atfbank.kz/",
+      "status": "deferred",
+      "reason": "CrawlRejected: robots.txt disallows this path or could not be verified",
+      "poi_ids": [
+        "osm-node-4581840090"
+      ]
+    },
+    {
+      "url": "https://atlasrestobar.taplink.ws/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://atlasrestobar.taplink.ws/",
+          "final_url": "https://taplink.ru/",
+          "observed_at": "2026-10-20T15:06:33.609134+00:00",
+          "sha256": "3656ea87f2364d6921393e26590f80bec16185614614c08401b29fc8108e4818",
+          "poi_id": "osm-node-11162304905",
+          "poi_name": "Atlas",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://taplink.ru/s/i/taplink-opengraph.jpg",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://avtobezopasnost.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://avtobezopasnost.kz/",
+          "final_url": "https://avtobezopasnost.kz/",
+          "observed_at": "2026-10-20T15:06:28.633048+00:00",
+          "sha256": "714754df5e3fe9925358d6255ff4f81804aa199646764b9fc1b959c64a3b100b",
+          "poi_id": "osm-node-11345949819",
+          "poi_name": "Автобезопасность",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://avtobezopasnost.kz/images/logo.jpg",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://bavaria.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://bavaria.kz/",
+          "final_url": "https://bavaria.kz/",
+          "observed_at": "2026-10-20T15:06:29.376119+00:00",
+          "sha256": "d77cf2ba848fa4de13492f61fbde28e4ae17fdcbafdf705b36467500a743c942",
+          "poi_id": "osm-way-235846745",
+          "poi_name": "Автоцентр-Бавария",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://bestdoctor.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://bestdoctor.kz/",
+          "final_url": "https://bestdoctor.kz/",
+          "observed_at": "2026-10-20T15:06:30.394795+00:00",
+          "sha256": "39d04cf1b363fe732aaa8d9cf6eef359f52528b20f7f008d925b961be05a32f7",
+          "poi_id": "osm-node-7953975545",
+          "poi_name": "bestdoctor.kz medical media center",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://brewery.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://brewery.kz/",
+          "final_url": "https://brewery.kz/",
+          "observed_at": "2026-10-20T15:06:31.512221+00:00",
+          "sha256": "e80ae6239f9e8e6a93767233db673a6155b122e3278797814df4f12d61751cd2",
+          "poi_id": "osm-node-12686474701",
+          "poi_name": "Brewery",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://damdes.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://damdes.kz/",
+          "final_url": "https://damdes.kz/",
+          "observed_at": "2026-10-20T15:06:34.277414+00:00",
+          "sha256": "c5343bef0a4f661b64b7d901854eb91cf912df7a2cd68fc7d75daead2adf1547",
+          "poi_id": "osm-node-5638132697",
+          "poi_name": "Damdes",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://despar.kz/",
+      "status": "deferred",
+      "reason": "CrawlRejected: robots.txt disallows this path or could not be verified",
+      "poi_ids": [
+        "osm-node-11428665122"
+      ]
+    },
+    {
+      "url": "https://dobrotsen.ru/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://dobrotsen.ru/",
+          "final_url": "https://dobrotsen.ru/",
+          "observed_at": "2026-10-20T15:06:38.590951+00:00",
+          "sha256": "f3bb8bc8db4d8e28a9e6519f5acb4cfacc5dc8d6cb9ecfb1fc8fa77f7e12e2bc",
+          "poi_id": "osm-node-11414371923",
+          "poi_name": "Доброцен",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://dobrotsen.ru/logo.png",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://easybounce.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://easybounce.kz/",
+          "final_url": "https://easybounce.kz/",
+          "observed_at": "2026-10-20T15:06:35.889714+00:00",
+          "sha256": "1e949e78cc0faa3026ce2cacaa4c976b191b0092d62cdbfd214b2ba2628090dc",
+          "poi_id": "osm-node-5851850693",
+          "poi_name": "Basketshop Easy Bounce",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://easybounce.kz/image/cache/favicon/logo-2headera-300x300.png",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://effecto-mebel.ru/",
+      "status": "deferred",
+      "reason": "CrawlRejected: robots.txt disallows this path or could not be verified",
+      "poi_ids": [
+        "osm-node-11853858233"
+      ]
+    },
+    {
+      "url": "https://eklips.kz/",
+      "status": "deferred",
+      "reason": "CrawlRejected: robots.txt disallows this path or could not be verified",
+      "poi_ids": [
+        "osm-node-4519246689"
+      ]
+    },
+    {
+      "url": "https://ekt.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://ekt.kz/",
+          "final_url": "https://ekt.kz/",
+          "observed_at": "2026-10-20T15:06:52.449151+00:00",
+          "sha256": "f1f5358cbc96902cab9faf5b7996818dcbbb207ed24fa8975af5015cdd1ce43a",
+          "poi_id": "osm-node-12211017438",
+          "poi_name": "Электрокомплект",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://eltour.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://eltour.kz/",
+          "final_url": "https://eltour.kz/",
+          "observed_at": "2026-10-20T15:06:54.687739+00:00",
+          "sha256": "9130762927471fc8dbed6b8cd6828ec24b6d6235b56ef4994ced930b57e1ee00",
+          "poi_id": "osm-node-4273807250",
+          "poi_name": "ЕлТур",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://thb.tildacdn.pro/tild3139-3234-4538-b535-666332383933/-/resize/504x/nerabota.jpg",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://emhana10.kz/",
+      "status": "deferred",
+      "reason": "CrawlRejected: robots.txt disallows this path or could not be verified",
+      "poi_ids": [
+        "osm-way-1513435665"
+      ]
+    },
+    {
+      "url": "https://est.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://est.kz/",
+          "final_url": "https://est.kz/",
+          "observed_at": "2026-10-20T15:06:55.506526+00:00",
+          "sha256": "3ecf8508d428c5fcd0c02e34dbbd72fb9068987ce84819772991a22e8ecb7655",
+          "poi_id": "osm-node-10168432822",
+          "poi_name": "EST",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://est.kz/local/templates/clover.1/assets/public/img/logo.svg",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://eurasia-cinema7.kz/",
+      "status": "deferred",
+      "reason": "CrawlRejected: Source HTTP 500",
+      "poi_ids": [
+        "osm-node-11568417269"
+      ]
+    },
+    {
+      "url": "https://evrochehol.ru/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://evrochehol.ru/",
+          "final_url": "https://evrochehol.ru/",
+          "observed_at": "2026-10-20T15:06:58.882231+00:00",
+          "sha256": "c971061d45bd82fab736129489daa6e532836ec4b78691276f6d7abe25d30a4b",
+          "poi_id": "osm-node-6491333559",
+          "poi_name": "Еврочехол",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://evrochehol.ru/storage/logotype/jVKZekcKRTEF0G3F1ioziqSIF7db28iZGrnSj4Jv.webp",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://fitworx.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://fitworx.kz/",
+          "final_url": "https://fitworx.kz/",
+          "observed_at": "2026-10-20T15:07:01.382821+00:00",
+          "sha256": "340e19df77cb50e4c8d7c11901c4fa99357565662d207c844960c1b62184ce42",
+          "poi_id": "osm-node-3711483438",
+          "poi_name": "FITWorx Фитнес-Клуб",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://fitworx.kz/wp-content/themes/gymat/assets/element/home4-shape3.svg",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://goldapple.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://goldapple.kz/",
+          "final_url": "https://goldapple.kz/",
+          "observed_at": "2026-10-20T15:07:00.356397+00:00",
+          "sha256": "d3c8977730e9d31e1cd855e2f44c4e52cce6593e8e8019a490ed9a9b998fd775",
+          "poi_id": "osm-node-12041540511",
+          "poi_name": "Gold Apple",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://gulmarket.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://gulmarket.kz/",
+          "final_url": "https://gulmarket.kz/",
+          "observed_at": "2026-10-20T15:07:01.856177+00:00",
+          "sha256": "708ae35759c7860b0b77b39e11476b295926b6b06bdd38b5045fbcf91e31d5b1",
+          "poi_id": "osm-node-4909151318",
+          "poi_name": "FlowerHub",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://hcbarys.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://hcbarys.kz/",
+          "final_url": "https://hcbarys.kz/",
+          "observed_at": "2026-10-20T15:07:02.561607+00:00",
+          "sha256": "238ceaa5029eb710308d12636a0b5502efce103b641088936a71619ae11d0af9",
+          "poi_id": "osm-way-663143306",
+          "poi_name": "Barys Arena",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://hcbarys.kz/local/opengraph-image.png",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://jumbaktas.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://jumbaktas.kz/",
+          "final_url": "https://jumbaktas.kz/",
+          "observed_at": "2026-10-20T15:07:03.839637+00:00",
+          "sha256": "aa77033d3f77cf3445fabf242d0000bfccba8ee7f182bdda9af7dbf4d92645be",
+          "poi_id": "osm-node-3233195397",
+          "poi_name": "Jumbaktas",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://jumbaktas.kz/storage/app/media/fav/web-app-manifest-192x192.png",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://kalalykemhan1.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://kalalykemhan1.kz/",
+          "final_url": "https://kalalykemhan1.kz/",
+          "observed_at": "2026-10-20T15:07:04.691990+00:00",
+          "sha256": "61a21a3bfe40a8a97635b8bd2c8e1c2213492787bc054aedb899cb6a10f2b77d",
+          "poi_id": "osm-node-4897352992",
+          "poi_name": "Городская поликлиника № 1",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://kazyna-gold.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://kazyna-gold.kz/",
+          "final_url": "https://kazyna-gold.kz/",
+          "observed_at": "2026-10-20T15:07:05.203030+00:00",
+          "sha256": "5cbdea936e0e8581a7b3895ca84d4b85a58d17e2867b81757f33a2b9a1563147",
+          "poi_id": "osm-node-6347641667",
+          "poi_name": "Kazyna Gold",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://kenmart.kz/",
+      "status": "deferred",
+      "reason": "CrawlRejected: DNS resolution failed",
+      "poi_ids": [
+        "osm-node-4104109789"
+      ]
+    },
+    {
+      "url": "https://kinghotelastana.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://kinghotelastana.kz/",
+          "final_url": "https://kinghotelastana.kz/",
+          "observed_at": "2026-10-20T15:07:06.583149+00:00",
+          "sha256": "89df455b50b871a4e5646d114a794f5c9cc70a91ba8daa924a7880c5820dab33",
+          "poi_id": "osm-node-4931059135",
+          "poi_name": "King hotel",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://kinghotelastana.kz/wp-content/uploads/2025/03/hotel-icon.png",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://kuhni-modul.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://kuhni-modul.kz/",
+          "final_url": "https://kuhni-modul.kz/",
+          "observed_at": "2026-10-20T15:07:08.344276+00:00",
+          "sha256": "e817528b088d9d8be5f80b4c6d3edbbac4c5200af651a36f30706547b55331c5",
+          "poi_id": "osm-node-11443113041",
+          "poi_name": "Кухни Модуль",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://kuhni-modul.kz/img/46359855_1200_q70.jpg",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://lask.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://lask.kz/",
+          "final_url": "https://lask.kz/",
+          "observed_at": "2026-10-20T15:07:09.125815+00:00",
+          "sha256": "da669b88e8119017094c141c054124e94173c22cd652c475ebb8734e22b29749",
+          "poi_id": "osm-way-1460088071",
+          "poi_name": "Qazaqstan",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://lask.kz/public/images/og/logo-og_kz.png",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://lexus-astana.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://lexus-astana.kz/",
+          "final_url": "https://lexus-astana.kz/",
+          "observed_at": "2026-10-20T15:07:09.695804+00:00",
+          "sha256": "306cc63b23fae2120f0bac31ee946b251a53a60de98ea5ca97bc62dcd94e9be1",
+          "poi_id": "osm-way-235846754",
+          "poi_name": "Лексус Центр",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://liberoayakkabi.com.tr/",
+      "status": "deferred",
+      "reason": "CrawlRejected: Source exceeds decompressed byte cap",
+      "poi_ids": [
+        "osm-node-14175055087"
+      ]
+    },
+    {
+      "url": "https://limpopo.kz/",
+      "status": "deferred",
+      "reason": "CrawlRejected: Source HTTP 403",
+      "poi_ids": [
+        "osm-node-3366741145"
+      ]
+    },
+    {
+      "url": "https://med-emer.kz/",
+      "status": "deferred",
+      "reason": "CrawlRejected: DNS resolution failed",
+      "poi_ids": [
+        "osm-node-4938764788"
+      ]
+    },
+    {
+      "url": "https://mixit.ru/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://mixit.ru/",
+          "final_url": "https://mixit.ru/",
+          "observed_at": "2026-10-20T15:07:13.071666+00:00",
+          "sha256": "4ba9bdb8109465b2b1b504e2e3d9476b3e3b2e24dd37e1a8687d241183d179f4",
+          "poi_id": "osm-node-6464780759",
+          "poi_name": "Mixit",
+          "provider": "POI operator website",
+          "images": [],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    },
+    {
+      "url": "https://mk-lombard.kz/",
+      "status": "deferred",
+      "reason": "CrawlRejected: robots.txt disallows this path or could not be verified",
+      "poi_ids": [
+        "osm-node-5206597622"
+      ]
+    },
+    {
+      "url": "https://newcarpets.kz/",
+      "status": "deferred",
+      "reason": "CrawlRejected: DNS resolution failed",
+      "poi_ids": [
+        "osm-node-6814625985"
+      ]
+    },
+    {
+      "url": "https://nurbi.kz/",
+      "status": "deferred",
+      "reason": "CrawlRejected: DNS resolution failed",
+      "poi_ids": [
+        "osm-node-3698844716"
+      ]
+    },
+    {
+      "url": "https://post.kz/",
+      "status": "collected",
+      "sources": [
+        {
+          "source_url": "https://post.kz/",
+          "final_url": "https://post.kz/",
+          "observed_at": "2026-10-20T15:07:13.873939+00:00",
+          "sha256": "5cd2e7d1ce27ccd44087b952d95ca29889d2e39e2b747e27118f27af50eba5b7",
+          "poi_id": "osm-node-2158757216",
+          "poi_name": "Почта №17",
+          "provider": "POI operator website",
+          "images": [
+            {
+              "url": "https://post.kz/assets/images/promo/logo.png",
+              "discovery": "Open Graph",
+              "reuse_permission": "unknown",
+              "identity_verified": false
+            }
+          ],
+          "ratings": [],
+          "reviews": [],
+          "reusable_photos": [],
+          "identity_verified": false
+        }
+      ]
+    }
+  ],
+  "policy": "Robots-aware, 1 request/second/host minimum, public-IP-pinned DNS, bounded redirects/retries/bytes; unlicensed media only linked, never redistributed; self-published ratings not treated as independent reviews."
+}

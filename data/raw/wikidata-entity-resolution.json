@@ -1,0 +1,343 @@
+{
+  "decisions": {
+    "quarantined": 17,
+    "matched": 3,
+    "added": 22
+  },
+  "records": [
+    {
+      "poi_id": "wikidata-Q104866684",
+      "qid": "Q104866684",
+      "name": "Presidential Park, Astana",
+      "decision": "quarantined",
+      "reason": "coarse-or-unknown-coordinate-precision"
+    },
+    {
+      "poi_id": "wikidata-Q104866885",
+      "qid": "Q104866885",
+      "name": "Astana Triathlon Park",
+      "decision": "matched",
+      "target_id": "osm-way-1363058986",
+      "distance_m": 92.87,
+      "basis": "exact-multilingual-alias-and-distance"
+    },
+    {
+      "poi_id": "wikidata-Q1073439",
+      "qid": "Q1073439",
+      "name": "Emerald Towers",
+      "decision": "added",
+      "coordinate_precision_degrees": 0.0001
+    },
+    {
+      "poi_id": "wikidata-Q108533991",
+      "qid": "Q108533991",
+      "name": "Taldykol Lake",
+      "decision": "quarantined",
+      "reason": "unresolved-similar-nearby-name",
+      "possible_matches": [
+        "osm-relation-16459103"
+      ]
+    },
+    {
+      "poi_id": "wikidata-Q109715788",
+      "qid": "Q109715788",
+      "name": "Malyi Taldykol Lake",
+      "decision": "added",
+      "coordinate_precision_degrees": 1e-06
+    },
+    {
+      "poi_id": "wikidata-Q113119435",
+      "qid": "Q113119435",
+      "name": "Iýsýf shіrkeýі, Astana",
+      "decision": "quarantined",
+      "reason": "nearby-same-physical-type-without-identity-proof",
+      "possible_matches": [
+        "osm-node-4915178198"
+      ]
+    },
+    {
+      "poi_id": "wikidata-Q113675887",
+      "qid": "Q113675887",
+      "name": "Astana Grand Mosque",
+      "decision": "quarantined",
+      "reason": "nearby-same-physical-type-without-identity-proof",
+      "possible_matches": [
+        "osm-relation-18901938"
+      ]
+    },
+    {
+      "poi_id": "wikidata-Q117835598",
+      "qid": "Q117835598",
+      "name": "Ырыскелды кажы",
+      "decision": "quarantined",
+      "reason": "nearby-same-physical-type-without-identity-proof",
+      "possible_matches": [
+        "osm-way-577099472"
+      ]
+    },
+    {
+      "poi_id": "wikidata-Q120868806",
+      "qid": "Q120868806",
+      "name": "Абиш ата Назарбай",
+      "decision": "added",
+      "coordinate_precision_degrees": 1e-08
+    },
+    {
+      "poi_id": "wikidata-Q120868807",
+      "qid": "Q120868807",
+      "name": "Альжан ана",
+      "decision": "added",
+      "coordinate_precision_degrees": 0.0001
+    },
+    {
+      "poi_id": "wikidata-Q120868821",
+      "qid": "Q120868821",
+      "name": "Шейх Кунта кажы",
+      "decision": "added",
+      "coordinate_precision_degrees": 1e-06
+    },
+    {
+      "poi_id": "wikidata-Q12530274",
+      "qid": "Q12530274",
+      "name": "Kalibek Kuanyshpaev Theatre",
+      "decision": "quarantined",
+      "reason": "unresolved-similar-nearby-name",
+      "possible_matches": [
+        "osm-way-917348929"
+      ]
+    },
+    {
+      "poi_id": "wikidata-Q12572863",
+      "qid": "Q12572863",
+      "name": "Kazakh Eli monument",
+      "decision": "matched",
+      "target_id": "osm-node-2681623412",
+      "distance_m": 6.65,
+      "basis": "exact-multilingual-alias-and-distance"
+    },
+    {
+      "poi_id": "wikidata-Q13668712",
+      "qid": "Q13668712",
+      "name": "Караоткель (кладбище)",
+      "decision": "quarantined",
+      "reason": "coarse-or-unknown-coordinate-precision"
+    },
+    {
+      "poi_id": "wikidata-Q1542507",
+      "qid": "Q1542507",
+      "name": "Grand Alatau",
+      "decision": "quarantined",
+      "reason": "coarse-or-unknown-coordinate-precision"
+    },
+    {
+      "poi_id": "wikidata-Q16433519",
+      "qid": "Q16433519",
+      "name": "State Russian Dramatic Theatre Maxim Gorky",
+      "decision": "quarantined",
+      "reason": "unresolved-similar-nearby-name",
+      "possible_matches": [
+        "osm-node-455447680"
+      ]
+    },
+    {
+      "poi_id": "wikidata-Q16538413",
+      "qid": "Q16538413",
+      "name": "Our Mother of Perpetual Help Cathedral, Astana",
+      "decision": "quarantined",
+      "reason": "nearby-same-physical-type-without-identity-proof",
+      "possible_matches": [
+        "osm-node-4902165007"
+      ]
+    },
+    {
+      "poi_id": "wikidata-Q1899549",
+      "qid": "Q1899549",
+      "name": "Assumption Cathedral",
+      "decision": "quarantined",
+      "reason": "unresolved-similar-nearby-name",
+      "possible_matches": [
+        "osm-way-240592107"
+      ]
+    },
+    {
+      "poi_id": "wikidata-Q20036756",
+      "qid": "Q20036756",
+      "name": "Daulet National Tennis Center",
+      "decision": "quarantined",
+      "reason": "coarse-or-unknown-coordinate-precision"
+    },
+    {
+      "poi_id": "wikidata-Q21843144",
+      "qid": "Q21843144",
+      "name": "Astana Circus",
+      "decision": "matched",
+      "target_id": "osm-way-1134744434",
+      "distance_m": 122.96,
+      "basis": "exact-multilingual-alias-and-distance"
+    },
+    {
+      "poi_id": "wikidata-Q25481641",
+      "qid": "Q25481641",
+      "name": "Otan Korgaushilar Monument",
+      "decision": "quarantined",
+      "reason": "unresolved-similar-nearby-name",
+      "possible_matches": [
+        "osm-way-215529755"
+      ]
+    },
+    {
+      "poi_id": "wikidata-Q25495527",
+      "qid": "Q25495527",
+      "name": "Talan Towers",
+      "decision": "added",
+      "coordinate_precision_degrees": 1e-05
+    },
+    {
+      "poi_id": "wikidata-Q25500354",
+      "qid": "Q25500354",
+      "name": "The Museum of the First President of the Republic of Kazakhstan",
+      "decision": "quarantined",
+      "reason": "unresolved-similar-nearby-name",
+      "possible_matches": [
+        "osm-way-51431624"
+      ]
+    },
+    {
+      "poi_id": "wikidata-Q28402868",
+      "qid": "Q28402868",
+      "name": "Ramstore Bridge",
+      "decision": "quarantined",
+      "reason": "coarse-or-unknown-coordinate-precision"
+    },
+    {
+      "poi_id": "wikidata-Q2986461",
+      "qid": "Q2986461",
+      "name": "Kazhimukan Munaitpasov Stadium",
+      "decision": "added",
+      "coordinate_precision_degrees": 0.0001
+    },
+    {
+      "poi_id": "wikidata-Q4146879",
+      "qid": "Q4146879",
+      "name": "State Museum of Gold and Precious Metals of the Republic of Kazakhstan",
+      "decision": "quarantined",
+      "reason": "coarse-or-unknown-coordinate-precision"
+    },
+    {
+      "poi_id": "wikidata-Q48780885",
+      "qid": "Q48780885",
+      "name": "Independence Square, Astana",
+      "decision": "added",
+      "coordinate_precision_degrees": 0.001
+    },
+    {
+      "poi_id": "wikidata-Q85758095",
+      "qid": "Q85758095",
+      "name": "Dóńgelek Square",
+      "decision": "added",
+      "coordinate_precision_degrees": 0.0001
+    },
+    {
+      "poi_id": "wikidata-Q85787940",
+      "qid": "Q85787940",
+      "name": "National Military-Patriotic Center of the Armed Forces of Kazakhstan",
+      "decision": "quarantined",
+      "reason": "nearby-same-physical-type-without-identity-proof",
+      "possible_matches": [
+        "osm-way-1239171353",
+        "osm-way-240391776"
+      ]
+    },
+    {
+      "poi_id": "wikidata-Q97163750",
+      "qid": "Q97163750",
+      "name": "Жилой дом доктора Ф. И. Благовещенского",
+      "decision": "added",
+      "coordinate_precision_degrees": 0.0002777777777777778
+    },
+    {
+      "poi_id": "wikidata-Q97165482",
+      "qid": "Q97165482",
+      "name": "Больница купца Степана Кубрина",
+      "decision": "added",
+      "coordinate_precision_degrees": 0.0002777777777777778
+    },
+    {
+      "poi_id": "wikidata-Q97165767",
+      "qid": "Q97165767",
+      "name": "Дом купца Василия Кубрина",
+      "decision": "added",
+      "coordinate_precision_degrees": 0.0002777777777777778
+    },
+    {
+      "poi_id": "wikidata-Q97165888",
+      "qid": "Q97165888",
+      "name": "Здание бывшей мусульманской школы",
+      "decision": "added",
+      "coordinate_precision_degrees": 0.0002777777777777778
+    },
+    {
+      "poi_id": "wikidata-Q97165900",
+      "qid": "Q97165900",
+      "name": "Здание городской управы",
+      "decision": "added",
+      "coordinate_precision_degrees": 0.0002777777777777778
+    },
+    {
+      "poi_id": "wikidata-Q97166399",
+      "qid": "Q97166399",
+      "name": "Ограждение Зелёной мечети",
+      "decision": "added",
+      "coordinate_precision_degrees": 0.0002777777777777778
+    },
+    {
+      "poi_id": "wikidata-Q97167320",
+      "qid": "Q97167320",
+      "name": "Школа Косшыгулова",
+      "decision": "added",
+      "coordinate_precision_degrees": 0.0002777777777777778
+    },
+    {
+      "poi_id": "wikidata-Q97168850",
+      "qid": "Q97168850",
+      "name": "Торговый дом купца Матвея Кубрина",
+      "decision": "added",
+      "coordinate_precision_degrees": 0.0002777777777777778
+    },
+    {
+      "poi_id": "wikidata-Q97212648",
+      "qid": "Q97212648",
+      "name": "Дом купца Силина",
+      "decision": "added",
+      "coordinate_precision_degrees": 0.0002777777777777778
+    },
+    {
+      "poi_id": "wikidata-Q97274773",
+      "qid": "Q97274773",
+      "name": "Дом П. Г. Моисеева",
+      "decision": "added",
+      "coordinate_precision_degrees": 0.0002777777777777778
+    },
+    {
+      "poi_id": "wikidata-Q97274797",
+      "qid": "Q97274797",
+      "name": "Дом купца Д. В. Егорова",
+      "decision": "added",
+      "coordinate_precision_degrees": 0.0002777777777777778
+    },
+    {
+      "poi_id": "wikidata-Q97274875",
+      "qid": "Q97274875",
+      "name": "Здание метеостанции",
+      "decision": "added",
+      "coordinate_precision_degrees": 0.0002777777777777778
+    },
+    {
+      "poi_id": "wikidata-Q97496724",
+      "qid": "Q97496724",
+      "name": "Здание кинотеатра «Октябрь»",
+      "decision": "added",
+      "coordinate_precision_degrees": 0.0002777777777777778
+    }
+  ]
+}

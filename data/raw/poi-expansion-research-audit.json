@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-20",
+  "method": "Exa discovery followed by primary documentation, direct STAC/API metadata and actual spatial collection",
+  "exa_searches": [
+    {"query": "Overture Maps official documentation places latest release parquet download DuckDB bounding box schema sources licenses GERS", "num_results": 5},
+    {"query": "Астана открытые данные достопримечательности объекты культуры туристические объекты api data egov Smart Astana", "num_results": 5},
+    {"query": "data.egov.kz Астана туристские объекты музеи библиотеки географические координаты набор данных API", "num_results": 5},
+    {"query": "Overture Places confidence score 0.8 duplicate coordinates geocoding data quality recommendations", "num_results": 5}
+  ],
+  "discovery_result_count": 20,
+  "count_interpretation": "Returned discovery candidates, including overlapping URLs and non-primary commentary; not 20 independently verified or endorsed sources",
+  "primary_sources": [
+    "https://stac.overturemaps.org/catalog.json",
+    "https://docs.overturemaps.org/getting-data/cloud-sources/",
+    "https://docs.overturemaps.org/getting-data/duckdb/",
+    "https://docs.overturemaps.org/guides/places/",
+    "https://docs.overturemaps.org/schema/reference/places/place/",
+    "https://docs.overturemaps.org/attribution/",
+    "https://docs.overturemaps.org/release-calendar/",
+    "https://www.openstreetmap.org/relation/3087155",
+    "https://data.egov.kz/datasets/view?index=madeniet_uiymdary",
+    "https://gis.esaulet.kz/server/rest/services/Hosted/Obekty_kultury2309/FeatureServer"
+  ],
+  "live_results": {
+    "overture_release": "2026-09-23.1",
+    "bbox_named_records": 8802,
+    "remote_assets_selected": 1,
+    "remote_assets_in_collection": 16,
+    "new_overture_pois": 258,
+    "matched_overture_records": 103,
+    "quarantined_overture_records": 29,
+    "new_wikidata_pois": 22,
+    "municipal_egov_data_api_status": 403,
+    "municipal_egov_metadata_status": 200,
+    "municipal_arcgis_count_query_status": 200,
+    "municipal_arcgis_count": 41
+  },
+  "municipal_decisions": {
+    "egov": "Official data API requires a key that is not configured. Public schema has names, reporting periods, addresses and contacts, without coordinates. Not claimed as an active source dataset.",
+    "arcgis": "Query endpoint is public, but metadata has no reusable license/redistribution grant. Retained metadata/count proof only, no venue records copied into the distributable corpus."
+  },
+  "proof_paths": [
+    "data/raw/overture-astana-places.json",
+    "data/raw/overture-entity-resolution.json",
+    "data/raw/wikidata-entity-resolution.json",
+    "data/raw/municipal-source-api-audit.json",
+    "data/raw/media-upgrade-evidence.json",
+    "artifacts/poi-expansion-publication-verification.json",
+    "artifacts/poi-expansion-offline-verification.json"
+  ]
+}

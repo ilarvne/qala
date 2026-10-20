@@ -1,0 +1,22 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "categorymembers": [
+      {
+        "pageid": 5464537,
+        "ns": 6,
+        "title": "File:Dmitry Medvedev in Kazakhstan 22 May 2008-3.jpg"
+      },
+      {
+        "pageid": 177274702,
+        "ns": 6,
+        "title": "File:Valentina Matviyenko on wreath-laying ceremony in Astana 01.jpg"
+      },
+      {
+        "pageid": 177274700,
+        "ns": 6,
+        "title": "File:Valentina Matviyenko on wreath-laying ceremony in Astana 02.jpg"
+      }
+    ]
+  }
+}

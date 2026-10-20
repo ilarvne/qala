@@ -1,0 +1,17 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "categorymembers": [
+      {
+        "pageid": 111475607,
+        "ns": 6,
+        "title": "File:Astana-2021-10 - 37.jpg"
+      },
+      {
+        "pageid": 111475610,
+        "ns": 6,
+        "title": "File:Astana-2021-10 - 38.jpg"
+      }
+    ]
+  }
+}

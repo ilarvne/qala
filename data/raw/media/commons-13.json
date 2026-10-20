@@ -1,0 +1,250 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "111447329": {
+        "pageid": 111447329,
+        "ns": 6,
+        "title": "File:ISS024-E-15446 - View of Kazakhstan.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1444563,
+            "width": 2929,
+            "height": 4288,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/ISS024-E-15446_-_View_of_Kazakhstan.jpg/1280px-ISS024-E-15446_-_View_of_Kazakhstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 1464,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/d/d5/ISS024-E-15446_-_View_of_Kazakhstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/ISS024-E-15446_-_View_of_Kazakhstan.jpg/1280px-ISS024-E-15446_-_View_of_Kazakhstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 1464,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/d5/ISS024-E-15446_-_View_of_Kazakhstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/ISS024-E-15446_-_View_of_Kazakhstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS024-E-15446_-_View_of_Kazakhstan.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=111447329",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "79142808": {
+        "pageid": 79142808,
+        "ns": 6,
+        "title": "File:Improvisation of Charyn Canyon in Jetisy park.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2608255,
+            "width": 3264,
+            "height": 1836,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Improvisation_of_Charyn_Canyon_in_Jetisy_park.jpg/1280px-Improvisation_of_Charyn_Canyon_in_Jetisy_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 563,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/99/Improvisation_of_Charyn_Canyon_in_Jetisy_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Improvisation_of_Charyn_Canyon_in_Jetisy_park.jpg/1280px-Improvisation_of_Charyn_Canyon_in_Jetisy_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 563,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/99/Improvisation_of_Charyn_Canyon_in_Jetisy_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Improvisation_of_Charyn_Canyon_in_Jetisy_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Improvisation_of_Charyn_Canyon_in_Jetisy_park.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=79142808",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ayratayrat&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ayratayrat (page does not exist)\">Ayratayrat</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "69168826": {
+        "pageid": 69168826,
+        "ns": 6,
+        "title": "File:Inside Astana's New Opera House (8282915665).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1980146,
+            "width": 3930,
+            "height": 1368,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Inside_Astana%27s_New_Opera_House_%288282915665%29.jpg/1280px-Inside_Astana%27s_New_Opera_House_%288282915665%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 348,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Inside_Astana%27s_New_Opera_House_%288282915665%29.jpg/3840px-Inside_Astana%27s_New_Opera_House_%288282915665%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Inside_Astana%27s_New_Opera_House_%288282915665%29.jpg/1280px-Inside_Astana%27s_New_Opera_House_%288282915665%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 348,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Inside_Astana%27s_New_Opera_House_%288282915665%29.jpg/3840px-Inside_Astana%27s_New_Opera_House_%288282915665%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Inside_Astana%27s_New_Opera_House_%288282915665%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Inside_Astana%27s_New_Opera_House_(8282915665).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=69168826",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/71279764@N00\">Ken and Nyetta</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "45354835": {
+        "pageid": 45354835,
+        "ns": 6,
+        "title": "File:KZ20000KZT2015averse.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1817886,
+            "width": 611,
+            "height": 1200,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/22/KZ20000KZT2015averse.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1000,
+            "thumbheight": 1964,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/KZ20000KZT2015averse.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 1964
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/KZ20000KZT2015averse.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:KZ20000KZT2015averse.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=45354835",
+            "extmetadata": {
+              "Artist": {
+                "value": "Национальный банк Республики Казахстан",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/png"
+          }
+        ]
+      },
+      "67990119": {
+        "pageid": 67990119,
+        "ns": 6,
+        "title": "File:Kazakhstan P9130227 (40051226042).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7052314,
+            "width": 4608,
+            "height": 3456,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Kazakhstan_P9130227_%2840051226042%29.jpg/1280px-Kazakhstan_P9130227_%2840051226042%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 750,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Kazakhstan_P9130227_%2840051226042%29.jpg/3840px-Kazakhstan_P9130227_%2840051226042%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Kazakhstan_P9130227_%2840051226042%29.jpg/1280px-Kazakhstan_P9130227_%2840051226042%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 750,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Kazakhstan_P9130227_%2840051226042%29.jpg/3840px-Kazakhstan_P9130227_%2840051226042%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Kazakhstan_P9130227_%2840051226042%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kazakhstan_P9130227_(40051226042).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=67990119",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46258424@N06\">t_y_l</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    }
+  }
+}

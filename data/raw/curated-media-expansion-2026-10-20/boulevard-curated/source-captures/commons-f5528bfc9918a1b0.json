@@ -1,0 +1,111 @@
+{
+  "http_status": 200,
+  "observed_at": "2026-10-20T17:29:40.532864+00:00",
+  "requested_titles": [
+    "File:Nurjol Boulevard, Astana.jpg"
+  ],
+  "response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "141682843": {
+          "categories": [
+            {
+              "ns": 14,
+              "title": "Category:CC-Zero"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Files with coordinates missing SDC location of creation"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Khan Shatyry Entertainment Center"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Nurjol Boulevard"
+            },
+            {
+              "ns": 14,
+              "title": "Category:Self-published work"
+            }
+          ],
+          "coordinates": [
+            {
+              "globe": "earth",
+              "lat": 51.128333,
+              "lon": 71.430556,
+              "primary": ""
+            }
+          ],
+          "imageinfo": [
+            {
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=141682843",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nurjol_Boulevard,_Astana.jpg",
+              "extmetadata": {
+                "Artist": {
+                  "source": "commons-desc-page",
+                  "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Bgag\" title=\"User:Bgag\">Bernard Gagnon</a>"
+                },
+                "AttributionRequired": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "false"
+                },
+                "Categories": {
+                  "hidden": "",
+                  "source": "commons-categories",
+                  "value": "CC-Zero|Khan Shatyry Entertainment Center|Nurjol Boulevard|Self-published work|Files with coordinates missing SDC location of creation"
+                },
+                "ImageDescription": {
+                  "source": "commons-desc-page",
+                  "value": "Nurjol Boulevard seen from the Baiterek Tower, Astana, Kazahkstan"
+                },
+                "LicenseShortName": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": "CC0"
+                },
+                "LicenseUrl": {
+                  "source": "commons-desc-page",
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+                },
+                "Restrictions": {
+                  "hidden": "",
+                  "source": "commons-desc-page",
+                  "value": ""
+                }
+              },
+              "height": 3507,
+              "mime": "image/jpeg",
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Nurjol_Boulevard%2C_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "size": 4529556,
+              "thumbattribs": {
+                "decoding": "async",
+                "height": 1686,
+                "loading": "lazy",
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Nurjol_Boulevard%2C_Astana.jpg/1280px-Nurjol_Boulevard%2C_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Nurjol_Boulevard%2C_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x",
+                "width": 1000
+              },
+              "thumbheight": 1686,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Nurjol_Boulevard%2C_Astana.jpg/1280px-Nurjol_Boulevard%2C_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Nurjol_Boulevard%2C_Astana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "width": 2080
+            }
+          ],
+          "imagerepository": "local",
+          "ns": 6,
+          "pageid": 141682843,
+          "title": "File:Nurjol Boulevard, Astana.jpg"
+        }
+      }
+    }
+  },
+  "response_sha256": "235c882f3b51088b7581ebab8872b9bbdf165fec840bcc1a40dd0656b648f2ac",
+  "source_url": "https://commons.wikimedia.org/w/api.php"
+}

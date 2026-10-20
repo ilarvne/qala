@@ -1,0 +1,254 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "79142780": {
+        "pageid": 79142780,
+        "ns": 6,
+        "title": "File:Charyn Canyon Jetisy park.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3863377,
+            "width": 3264,
+            "height": 1836,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Charyn_Canyon_Jetisy_park.jpg/1280px-Charyn_Canyon_Jetisy_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 563,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Charyn_Canyon_Jetisy_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Charyn_Canyon_Jetisy_park.jpg/1280px-Charyn_Canyon_Jetisy_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 563,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Charyn_Canyon_Jetisy_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Charyn_Canyon_Jetisy_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Charyn_Canyon_Jetisy_park.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=79142780",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ayratayrat&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ayratayrat (page does not exist)\">Ayratayrat</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "16821849": {
+        "pageid": 16821849,
+        "ns": 6,
+        "title": "File:Construction of new mosque close to Palace of Peace and Reconciliation.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6677298,
+            "width": 4288,
+            "height": 2848,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Construction_of_new_mosque_close_to_Palace_of_Peace_and_Reconciliation.jpg/1280px-Construction_of_new_mosque_close_to_Palace_of_Peace_and_Reconciliation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 664,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Construction_of_new_mosque_close_to_Palace_of_Peace_and_Reconciliation.jpg/3840px-Construction_of_new_mosque_close_to_Palace_of_Peace_and_Reconciliation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Construction_of_new_mosque_close_to_Palace_of_Peace_and_Reconciliation.jpg/1280px-Construction_of_new_mosque_close_to_Palace_of_Peace_and_Reconciliation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 664,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Construction_of_new_mosque_close_to_Palace_of_Peace_and_Reconciliation.jpg/3840px-Construction_of_new_mosque_close_to_Palace_of_Peace_and_Reconciliation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Construction_of_new_mosque_close_to_Palace_of_Peace_and_Reconciliation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Construction_of_new_mosque_close_to_Palace_of_Peace_and_Reconciliation.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=16821849",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jirka_Dl\" title=\"User:Jirka Dl\">Jirka Dl</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "4392739": {
+        "pageid": 4392739,
+        "ns": 6,
+        "title": "File:Druzhba-train-Omsk-Karaganda-at-Astana-Station-7750.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1145635,
+            "width": 2048,
+            "height": 1536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Druzhba-train-Omsk-Karaganda-at-Astana-Station-7750.jpg/1280px-Druzhba-train-Omsk-Karaganda-at-Astana-Station-7750.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 750,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Druzhba-train-Omsk-Karaganda-at-Astana-Station-7750.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Druzhba-train-Omsk-Karaganda-at-Astana-Station-7750.jpg/1280px-Druzhba-train-Omsk-Karaganda-at-Astana-Station-7750.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 750,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Druzhba-train-Omsk-Karaganda-at-Astana-Station-7750.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Druzhba-train-Omsk-Karaganda-at-Astana-Station-7750.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Druzhba-train-Omsk-Karaganda-at-Astana-Station-7750.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4392739",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Vmenkov\" title=\"User:Vmenkov\">Vmenkov</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "163544492": {
+        "pageid": 163544492,
+        "ns": 6,
+        "title": "File:Elderly Kazakh couple in Astana (20240914-1621432600-RP).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 632744,
+            "width": 3200,
+            "height": 2087,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Elderly_Kazakh_couple_in_Astana_%2820240914-1621432600-RP%29.jpg/1280px-Elderly_Kazakh_couple_in_Astana_%2820240914-1621432600-RP%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1000,
+            "thumbheight": 652,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/42/Elderly_Kazakh_couple_in_Astana_%2820240914-1621432600-RP%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Elderly_Kazakh_couple_in_Astana_%2820240914-1621432600-RP%29.jpg/1280px-Elderly_Kazakh_couple_in_Astana_%2820240914-1621432600-RP%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 652,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/42/Elderly_Kazakh_couple_in_Astana_%2820240914-1621432600-RP%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Elderly_Kazakh_couple_in_Astana_%2820240914-1621432600-RP%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Elderly_Kazakh_couple_in_Astana_(20240914-1621432600-RP).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163544492",
+            "extmetadata": {
+              "Artist": {
+                "value": "ICPCNews",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "112767559": {
+        "pageid": 112767559,
+        "ns": 6,
+        "title": "File:ISS024-E-15446 - View of Kazakhstan (cropped).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 174285,
+            "width": 609,
+            "height": 1080,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/ISS024-E-15446_-_View_of_Kazakhstan_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1000,
+            "thumbheight": 1773,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/ISS024-E-15446_-_View_of_Kazakhstan_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1000,
+              "height": 1773
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/ISS024-E-15446_-_View_of_Kazakhstan_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS024-E-15446_-_View_of_Kazakhstan_(cropped).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=112767559",
+            "extmetadata": {
+              "Artist": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    }
+  }
+}

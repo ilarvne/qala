@@ -1,0 +1,55 @@
+[
+  {
+    "poi_id": "osm-way-230401645",
+    "target_fingerprint": "aba34cf77cbad743db5485a06c95957e8bf0bc964a1491a0c3d7e68d045a7cdd",
+    "files": [
+      {
+        "title": "File:Baiterek August.jpg",
+        "identity": {
+          "method": "editorially_reviewed_named_venue",
+          "local_source_url": "https://www.openstreetmap.org/way/230401645",
+          "local_name": "Bayterek",
+          "source_description": "An image of the Baiterek monument.",
+          "review_note": "The exact Bayterek Commons category links Q804210 to OSM way230401645. A portrait photograph is proposed as a clearer cover; rights warnings must pass before publication.",
+          "reviewed_at": "2026-10-20T17:26:57.510728+00:00"
+        },
+        "preferred_cover": true
+      }
+    ]
+  },
+  {
+    "poi_id": "osm-way-499328514",
+    "target_fingerprint": "4e739d1331c9bfd3898f9dc007453ba83ae4ad316aa6567523172b38d7a2f8f1",
+    "files": [
+      {
+        "title": "File:Aĉetcentro SilkWay (Astano) 01.jpg",
+        "identity": {
+          "method": "editorially_reviewed_named_venue",
+          "local_source_url": "https://www.openstreetmap.org/way/499328514",
+          "local_name": "Mega Silk Way",
+          "source_description": "La aĉetcentro SilkWay. Astano, Kazaĥio.",
+          "review_note": "The file explicitly names SilkWay shopping centre in Astana; the venue is the same EXPO Mega SilkWay mall footprint, not a restaurant or a Mega branch elsewhere.",
+          "reviewed_at": "2026-10-20T17:26:57.510728+00:00"
+        },
+        "preferred_cover": true
+      }
+    ]
+  },
+  {
+    "poi_id": "wikidata-Q1186465",
+    "target_fingerprint": "e286d682ee7d9ad3be295dcef461f5199509853781caf5a6a1d1dedf1f135c8e",
+    "files": [
+      {
+        "title": "File:Kazakhstan Sports Palace.jpg",
+        "identity": {
+          "method": "editorially_reviewed_named_venue",
+          "local_source_url": "https://www.wikidata.org/wiki/Q1186465",
+          "local_name": "Kazakhstan Sports Palace",
+          "source_description": "Kazakhstan Sports Palace.",
+          "review_note": "This is the exact P18 file linked by the original retained Wikidata Q1186465 source; the source P625 point is in Astana and source P373 category names the same sports palace.",
+          "reviewed_at": "2026-10-20T17:26:57.510728+00:00"
+        }
+      }
+    ]
+  }
+]

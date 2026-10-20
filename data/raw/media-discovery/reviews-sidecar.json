@@ -1,0 +1,63 @@
+{
+  "source_dataset_sha256": "a9ed6bfd0ff409fc62cd3507d4f568ed3b0047d8f2ae76b812682ba9a23f3a25",
+  "metadata": {
+    "provider": "Mangrove / Open Reviews",
+    "collected_at": "2026-10-20T15:07:31.997367+00:00",
+    "api_url": "https://api.mangrove.reviews/geo",
+    "source_review_count": 1,
+    "matched_review_count": 1,
+    "text_review_count": 0,
+    "pois_with_rating": 1,
+    "matched": [
+      {
+        "poi_id": "osm-node-14201388401",
+        "signature": "qyAYa_QnjlwaDn7bsIajD54qzOOtvthTnFET4PK8245fJ5ao00g5kPS0q8gpExkAgaI4mbidKFWIkMwOnrU9EA",
+        "text_available": false
+      }
+    ],
+    "rejected": [],
+    "terms_url": "https://mangrove.reviews/terms",
+    "standard_url": "https://mangrove.reviews/standard",
+    "matching": "Exact metadata.osm_id plus location consistency; ES256 signature verified locally; no guessed venue matches"
+  },
+  "pois": {
+    "osm-node-14201388401": {
+      "reviews": [
+        {
+          "id": "mangrove-qyAYa_QnjlwaDn7bsIajD54qzOOtvthTnFET4PK8245fJ5ao00g5kPS0q8gpExkAgaI4mbidKFWIkMwOnrU9EA",
+          "author": "Mangrove contributor 1c52243642",
+          "author_name": "Mangrove contributor 1c52243642",
+          "author_fingerprint": "1c52243642fbfbd681e2d071fbe1980b5d770f32a0385cd73c9fd3f6428021b4",
+          "author_url": null,
+          "text": null,
+          "rating": 3.5,
+          "original_rating": 70,
+          "original_scale": 100,
+          "published_at": "2026-10-01T16:20:15+00:00",
+          "provider": "Mangrove / Open Reviews",
+          "source_url": "https://api.mangrove.reviews/review/qyAYa_QnjlwaDn7bsIajD54qzOOtvthTnFET4PK8245fJ5ao00g5kPS0q8gpExkAgaI4mbidKFWIkMwOnrU9EA",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "attribution": "Mangrove contributor 1c52243642 · Mangrove / Open Reviews · CC-BY-4.0",
+          "subject_uri": "geo:51.1479049,71.3879847?q=Overhead&u=30",
+          "signature_verified": true,
+          "observed_at": "2026-10-20T15:07:31.997367+00:00",
+          "is_affiliated": null,
+          "is_personal_experience": null
+        }
+      ],
+      "rating": 3.5,
+      "rating_count": 1,
+      "review_count": 1,
+      "rating_source": {
+        "name": "Mangrove / Open Reviews",
+        "url": "https://api.mangrove.reviews/review/qyAYa_QnjlwaDn7bsIajD54qzOOtvthTnFET4PK8245fJ5ao00g5kPS0q8gpExkAgaI4mbidKFWIkMwOnrU9EA",
+        "collected_at": "2026-10-20T15:07:31.997367+00:00",
+        "original_scale": 100,
+        "normalized_scale": 5,
+        "aggregation": "Arithmetic mean of exact-OSM-matched signed public ratings, divided by 20; not a Google/2GIS rating",
+        "license": "CC-BY-4.0"
+      }
+    }
+  }
+}
