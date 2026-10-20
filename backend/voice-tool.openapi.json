@@ -1,0 +1,297 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Qala · Astana city companion",
+    "description": "Import this authenticated server tool into ElevenLabs; set X-Qala-Tool-Secret server-side. Explicit caller location is required.",
+    "version": "1.0.0"
+  },
+  "paths": {
+    "/api/voice/tools/recommend": {
+      "post": {
+        "summary": "Voice Tool",
+        "description": "Authenticated ElevenLabs server tool. The voice agent must ask location.",
+        "operationId": "voice_tool_api_voice_tools_recommend_post",
+        "parameters": [
+          {
+            "name": "x-qala-tool-secret",
+            "in": "header",
+            "required": true,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "X-Qala-Tool-Secret"
+            }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RecommendRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "HTTPValidationError": {
+        "properties": {
+          "detail": {
+            "items": {
+              "$ref": "#/components/schemas/ValidationError"
+            },
+            "type": "array",
+            "title": "Detail"
+          }
+        },
+        "type": "object",
+        "title": "HTTPValidationError"
+      },
+      "Location": {
+        "properties": {
+          "lat": {
+            "type": "number",
+            "maximum": 90.0,
+            "minimum": -90.0,
+            "title": "Lat"
+          },
+          "lon": {
+            "type": "number",
+            "maximum": 180.0,
+            "minimum": -180.0,
+            "title": "Lon"
+          },
+          "label": {
+            "type": "string",
+            "maxLength": 150,
+            "title": "Label",
+            "default": "Astana"
+          }
+        },
+        "type": "object",
+        "required": [
+          "lat",
+          "lon"
+        ],
+        "title": "Location"
+      },
+      "RecommendRequest": {
+        "properties": {
+          "message": {
+            "type": "string",
+            "maxLength": 3000,
+            "title": "Message",
+            "default": "A walk nearby"
+          },
+          "location": {
+            "$ref": "#/components/schemas/Location"
+          },
+          "duration_minutes": {
+            "type": "integer",
+            "maximum": 480.0,
+            "minimum": 10.0,
+            "title": "Duration Minutes",
+            "default": 60
+          },
+          "interests": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "maxItems": 20,
+            "title": "Interests"
+          },
+          "language": {
+            "type": "string",
+            "enum": [
+              "en",
+              "ru",
+              "kk"
+            ],
+            "title": "Language",
+            "default": "en"
+          },
+          "accessible": {
+            "type": "boolean",
+            "title": "Accessible",
+            "default": false
+          },
+          "indoor": {
+            "type": "boolean",
+            "title": "Indoor",
+            "default": false
+          },
+          "group_size": {
+            "type": "integer",
+            "maximum": 20.0,
+            "minimum": 1.0,
+            "title": "Group Size",
+            "default": 1
+          },
+          "session_id": {
+            "anyOf": [
+              {
+                "type": "string",
+                "maxLength": 128,
+                "minLength": 16,
+                "pattern": "^[A-Za-z0-9_-]+$"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Session Id"
+          },
+          "remember": {
+            "type": "boolean",
+            "title": "Remember",
+            "default": false
+          },
+          "starts_at": {
+            "anyOf": [
+              {
+                "type": "string",
+                "format": "date-time"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Starts At"
+          },
+          "airport_transfer_minutes": {
+            "anyOf": [
+              {
+                "type": "integer",
+                "maximum": 240.0,
+                "minimum": 0.0
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Airport Transfer Minutes"
+          }
+        },
+        "type": "object",
+        "title": "RecommendRequest",
+        "required": [
+          "location",
+          "duration_minutes",
+          "message"
+        ]
+      },
+      "SpeechRequest": {
+        "properties": {
+          "text": {
+            "type": "string",
+            "maxLength": 2500,
+            "minLength": 1,
+            "title": "Text"
+          },
+          "language": {
+            "type": "string",
+            "enum": [
+              "en",
+              "ru",
+              "kk"
+            ],
+            "title": "Language",
+            "default": "en"
+          }
+        },
+        "type": "object",
+        "required": [
+          "text"
+        ],
+        "title": "SpeechRequest"
+      },
+      "ValidationError": {
+        "properties": {
+          "loc": {
+            "items": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                }
+              ]
+            },
+            "type": "array",
+            "title": "Location"
+          },
+          "msg": {
+            "type": "string",
+            "title": "Message"
+          },
+          "type": {
+            "type": "string",
+            "title": "Error Type"
+          },
+          "input": {
+            "title": "Input"
+          },
+          "ctx": {
+            "type": "object",
+            "title": "Context"
+          }
+        },
+        "type": "object",
+        "required": [
+          "loc",
+          "msg",
+          "type"
+        ],
+        "title": "ValidationError"
+      },
+      "VoiceSessionRequest": {
+        "properties": {
+          "language": {
+            "type": "string",
+            "enum": [
+              "en",
+              "ru",
+              "kk"
+            ],
+            "title": "Language",
+            "default": "en"
+          }
+        },
+        "type": "object",
+        "title": "VoiceSessionRequest"
+      }
+    }
+  }
+}
